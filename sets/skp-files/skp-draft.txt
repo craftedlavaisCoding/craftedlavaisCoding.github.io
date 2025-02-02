@@ -1,0 +1,2823 @@
+﻿[CustomCards]
+	[	{
+			"name": "Spritevitiligosix",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Faerie Vampire ",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/240_Spritevitiligosix.png"
+			}
+		},
+		{
+			"name": "Map Out",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Sorcery ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/2_Map Out.png"
+			}
+		},
+		{
+			"name": "See Ahead",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/4_See Ahead.png"
+			}
+		},
+		{
+			"name": "Idol of Essence",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Enchantment Creature — Samurai ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/1_Idol of Essence.png"
+			}
+		},
+		{
+			"name": "Spritevarix",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Faerie Vampire ",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/122_Spritevarix.png"
+			}
+		},
+		{
+			"name": "Willing Fodder",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/125_Willing Fodder.png"
+			}
+		},
+		{
+			"name": "Chitinous Hound",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Dog ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/92_Chitinous Hound.png"
+			}
+		},
+		{
+			"name": "Sludgefly",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Insect ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/118_Sludgefly.png"
+			}
+		},
+		{
+			"name": "Blood Seer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery Creature — Human Warlock ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/89_Blood Seer.png"
+			}
+		},
+		{
+			"name": "Gerx Parasite",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Slug ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/101_Gerx Parasite.png"
+			}
+		},
+		{
+			"name": "Belltower Mystic",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Bird Shaman ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/88_Belltower Mystic.png"
+			}
+		},
+		{
+			"name": "Spritestenosix",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Faerie Vampire ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/121_Spritestenosix.png"
+			}
+		},
+		{
+			"name": "Sky Skriller",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/117_Sky Skriller.png"
+			}
+		},
+		{
+			"name": "Prowling Saakstalker",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant Creature — Demon ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/112_Prowling Saakstalker.png"
+			}
+		},
+		{
+			"name": "Ichorate",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/106_Ichorate.png"
+			}
+		},
+		{
+			"name": "Fae Blade Blessing",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/100_Fae Blade Blessing.png"
+			}
+		},
+		{
+			"name": "Witherweight",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/126_Witherweight.png"
+			}
+		},
+		{
+			"name": "Chain Drain",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/91_Chain Drain.png"
+			}
+		},
+		{
+			"name": "Dark Bargain",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Instant",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/94_Dark Bargain.png"
+			}
+		},
+		{
+			"name": "Soul Salvage",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/119_Soul Salvage.png"
+			}
+		},
+		{
+			"name": "Ashassinate",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/87_Ashassinate.png"
+			}
+		},
+		{
+			"name": "Subtle Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/123_Subtle Strike.png"
+			}
+		},
+		{
+			"name": "Spirima",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery Creature — Spirit ",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/203_Spirima.png"
+			}
+		},
+		{
+			"name": "Glade Protector",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Warrior ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/183_Glade Protector.png"
+			}
+		},
+		{
+			"name": "Lesser Gangeth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elk Beast ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/189_Lesser Gangeth.png"
+			}
+		},
+		{
+			"name": "Muscle Mystic",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Shaman Samurai ",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/196_Muscle Mystic.png"
+			}
+		},
+		{
+			"name": "Verdant Boar",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery Creature — Boar ",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/206_Verdant Boar.png"
+			}
+		},
+		{
+			"name": "Canopy Ambusher",
+			"rarity": "common",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant Creature — Spider ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/173_Canopy Ambusher.png"
+			}
+		},
+		{
+			"name": "Magedaunt Whelk",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Snail Druid ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/193_Magedaunt Whelk.png"
+			}
+		},
+		{
+			"name": "Grank",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Sorcery Creature — Snail ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/184_Grank.png"
+			}
+		},
+		{
+			"name": "Vine Heroc",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental ",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/207_Vine Heroc.png"
+			}
+		},
+		{
+			"name": "Flightsteppe Centaur",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Centaur Warrior ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/181_Flightsteppe Centaur.png"
+			}
+		},
+		{
+			"name": "Macropillar",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Insect Slug ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/191_Macropillar.png"
+			}
+		},
+		{
+			"name": "Mage Duel",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/192_Mage Duel.png"
+			}
+		},
+		{
+			"name": "Druidic Vigor",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/176_Druidic Vigor.png"
+			}
+		},
+		{
+			"name": "Natal Growth",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/198_Natal Growth.png"
+			}
+		},
+		{
+			"name": "Scale the Heights",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/201_Scale the Heights.png"
+			}
+		},
+		{
+			"name": "Disarming Vines",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/175_Disarming Vines.png"
+			}
+		},
+		{
+			"name": "Endless Vegetation",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/179_Endless Vegetation.png"
+			}
+		},
+		{
+			"name": "Heroic Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/187_Heroic Growth.png"
+			}
+		},
+		{
+			"name": "Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/254_Tranquil Cove.png"
+			}
+		},
+		{
+			"name": "Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/246_Dismal Backwater.png"
+			}
+		},
+		{
+			"name": "Bloodfell Cave",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/243_Bloodfell Cave.png"
+			}
+		},
+		{
+			"name": "Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/250_Rugged Highlands.png"
+			}
+		},
+		{
+			"name": "Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/244_Blossoming Sands.png"
+			}
+		},
+		{
+			"name": "Skrigi Honorguard",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Soltari Samurai ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/163_Skrigi Honorguard.png"
+			}
+		},
+		{
+			"name": "Lith Mystic",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/151_Lith Mystic.png"
+			}
+		},
+		{
+			"name": "Ritual Ram",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery Creature — Elemental Goat ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/159_Ritual Ram.png"
+			}
+		},
+		{
+			"name": "Anomulmutt",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Dog Elemental ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/127_Anomulmutt.png"
+			}
+		},
+		{
+			"name": "Flamebow Elemental",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Archer ",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/140_Flamebow Elemental.png"
+			}
+		},
+		{
+			"name": "Fledgeling Drakko",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Drake ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/141_Fledgeling Drakko.png"
+			}
+		},
+		{
+			"name": "Blazing Mystic",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Soltari Shaman ",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/130_Blazing Mystic.png"
+			}
+		},
+		{
+			"name": "Goblin Muscician",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Goblin Shaman ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/142_Goblin Muscician.png"
+			}
+		},
+		{
+			"name": "Ardent Elementalist",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/128_Ardent Elementalist.png"
+			}
+		},
+		{
+			"name": "Idol of Skirmishes",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Enchantment Creature — Human Warrior ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/146_Idol of Skirmishes.png"
+			}
+		},
+		{
+			"name": "Whizzing Fireballt",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/166_Whizzing Fireballt.png"
+			}
+		},
+		{
+			"name": "Overpulse",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/156_Overpulse.png"
+			}
+		},
+		{
+			"name": "Prowling Peck",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/157_Prowling Peck.png"
+			}
+		},
+		{
+			"name": "Wideflame",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/167_Wideflame.png"
+			}
+		},
+		{
+			"name": "Searing Thoughts",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/161_Searing Thoughts.png"
+			}
+		},
+		{
+			"name": "Maddening Fury",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/152_Maddening Fury.png"
+			}
+		},
+		{
+			"name": "Single Point Stab",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/162_Single Point Stab.png"
+			}
+		},
+		{
+			"name": "Drown In Flames",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/137_Drown In Flames.png"
+			}
+		},
+		{
+			"name": "Spritembolusix",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie Vampire ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/76_Spritembolusix.png"
+			}
+		},
+		{
+			"name": "Idol of Benthic Secrets",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment Creature — Snail Nymph ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/59_Idol of Benthic Secrets.png"
+			}
+		},
+		{
+			"name": "Memory Nomad",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Instant Creature — Human ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/61_Memory Nomad.png"
+			}
+		},
+		{
+			"name": "Stinging Lionfish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment Creature — Fish ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/79_Stinging Lionfish.png"
+			}
+		},
+		{
+			"name": "Aether Bird",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant Creature — Bird ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/46_Aether Bird.png"
+			}
+		},
+		{
+			"name": "Etherial Goat",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elemental Goat ",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/56_Etherial Goat.png"
+			}
+		},
+		{
+			"name": "War Mystic",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/84_War Mystic.png"
+			}
+		},
+		{
+			"name": "Mistful Mystic",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Elf Shaman ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/62_Mistful Mystic.png"
+			}
+		},
+		{
+			"name": "Spriteamyloidosix",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Creature — Faerie Dragon Vampire ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/75_Spriteamyloidosix.png"
+			}
+		},
+		{
+			"name": "Divedrake",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Sorcery Creature — Bird Drake ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/52_Divedrake.png"
+			}
+		},
+		{
+			"name": "Bolstering Portal",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Wall ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/47_Bolstering Portal.png"
+			}
+		},
+		{
+			"name": "Disdainful Stroke",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/51_Disdainful Stroke.png"
+			}
+		},
+		{
+			"name": "Counterslice",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/49_Counterslice.png"
+			}
+		},
+		{
+			"name": "Suppresion Force",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/80_Suppresion Force.png"
+			}
+		},
+		{
+			"name": "Flutter Rebuttal",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/57_Flutter Rebuttal.png"
+			}
+		},
+		{
+			"name": "Drawl",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/54_Drawl.png"
+			}
+		},
+		{
+			"name": "Recalibrate",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/68_Recalibrate.png"
+			}
+		},
+		{
+			"name": "Soul Surgery",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/73_Soul Surgery.png"
+			}
+		},
+		{
+			"name": "Mystic's Chill",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/63_Mystic's Chill.png"
+			}
+		},
+		{
+			"name": "Fluffyhead",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery Creature — Elemental Sheep ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/23_Fluffyhead.png"
+			}
+		},
+		{
+			"name": "Unrelenting Soltari",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Soltari Samurai ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/43_Unrelenting Soltari.png"
+			}
+		},
+		{
+			"name": "Veiling Mist",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant Creature — Illusion ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/44_Veiling Mist.png"
+			}
+		},
+		{
+			"name": "Panchar",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/30_Panchar.png"
+			}
+		},
+		{
+			"name": "Batallion Frontliner",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/12_Batallion Frontliner.png"
+			}
+		},
+		{
+			"name": "Gladesprite",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment Creature — Spirit ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/25_Gladesprite.png"
+			}
+		},
+		{
+			"name": "Spritepallorix",
+			"rarity": "common",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant Creature — Spirit ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/38_Spritepallorix.png"
+			}
+		},
+		{
+			"name": "Attack Leader",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant Creature — Soltari Samurai ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/10_Attack Leader.png"
+			}
+		},
+		{
+			"name": "Blademaster",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Soltari Samurai ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/13_Blademaster.png"
+			}
+		},
+		{
+			"name": "Backup Squad",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Instant Creature — Human soldier ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/11_Backup Squad.png"
+			}
+		},
+		{
+			"name": "Ageless Artist",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/6_Ageless Artist.png"
+			}
+		},
+		{
+			"name": "Fabric Weaver",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Instant Creature — Human Cleric ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/21_Fabric Weaver.png"
+			}
+		},
+		{
+			"name": "Piercing Barrage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/31_Piercing Barrage.png"
+			}
+		},
+		{
+			"name": "Faith's Fetters",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/22_Faith's Fetters.png"
+			}
+		},
+		{
+			"name": "Defiant Strike",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/17_Defiant Strike.png"
+			}
+		},
+		{
+			"name": "Etherial Flourish",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/20_Etherial Flourish.png"
+			}
+		},
+		{
+			"name": "Suprashield",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/39_Suprashield.png"
+			}
+		},
+		{
+			"name": "Angelic Purge",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/8_Angelic Purge.png"
+			}
+		},
+		{
+			"name": "Superposition Gateway",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Artifact",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/241_Superposition Gateway.png"
+			}
+		},
+		{
+			"name": "Lavez, Anchor of the Worldsoul",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/238_Lavez, Anchor of the Worldsoul.png"
+			}
+		},
+		{
+			"name": "Rix, Shackle of the Worldsoul",
+			"rarity": "mythic",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/239_Rix, Shackle of the Worldsoul.png"
+			}
+		},
+		{
+			"name": "Lichbind",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/108_Lichbind.png"
+			}
+		},
+		{
+			"name": "Overgrowing Pumkin",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Plant Horror ",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/199_Overgrowing Pumkin.png"
+			}
+		},
+		{
+			"name": "Flurry of Regrowth",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/182_Flurry of Regrowth.png"
+			}
+		},
+		{
+			"name": "Cloudyawner",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Creature — Elemental Whale ",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/214_Cloudyawner.png"
+			}
+		},
+		{
+			"name": "Ruination Mystic",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Minotaur Shaman ",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/228_Ruination Mystic.png"
+			}
+		},
+		{
+			"name": "All Encompassing Wish",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/210_All Encompassing Wish.png"
+			}
+		},
+		{
+			"name": "Stormful Growthmagus",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Dryad Shaman ",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/234_Stormful Growthmagus.png"
+			}
+		},
+		{
+			"name": "Outpouring of Life",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/226_Outpouring of Life.png"
+			}
+		},
+		{
+			"name": "Soul Augury",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Sorcery",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/232_Soul Augury.png"
+			}
+		},
+		{
+			"name": "The Observer of All",
+			"rarity": "mythic",
+			"mana_cost": "{6}",
+			"type": "Legendary Creature — Eye Horror ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/3_The Observer of All.png"
+			}
+		},
+		{
+			"name": "Demonic Prepotence",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/215_Demonic Prepotence.png"
+			}
+		},
+		{
+			"name": "Ravenous Rhizome",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Treefolk Horror ",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/227_Ravenous Rhizome.png"
+			}
+		},
+		{
+			"name": "Singe Elemental",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Sorcery Creature — Elemental ",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/230_Singe Elemental.png"
+			}
+		},
+		{
+			"name": "Chromatic Storm",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/136_Chromatic Storm.png"
+			}
+		},
+		{
+			"name": "Grandmaster of Sparks",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}{R}",
+			"type": "Creature — Goblin Monk ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/143_Grandmaster of Sparks.png"
+			}
+		},
+		{
+			"name": "Culumonibus Tyrant",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Elemental Octopus ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/50_Culumonibus Tyrant.png"
+			}
+		},
+		{
+			"name": "Planar Till",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/32_Planar Till.png"
+			}
+		},
+		{
+			"name": "Hatred",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/103_Hatred.png"
+			}
+		},
+		{
+			"name": "Harvest",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/102_Harvest.png"
+			}
+		},
+		{
+			"name": "Mythos of the Unyielding King",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/109_Mythos of the Unyielding King.png"
+			}
+		},
+		{
+			"name": "Elder Saakstalker",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery Creature — Demon ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/98_Elder Saakstalker.png"
+			}
+		},
+		{
+			"name": "Dominated Slither",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery Creature — Zombie Snake ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/97_Dominated Slither.png"
+			}
+		},
+		{
+			"name": "Spellbattery Ghoul",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Zombie Construct ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/120_Spellbattery Ghoul.png"
+			}
+		},
+		{
+			"name": "Cthonitaur",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Centaur Nightmare ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/93_Cthonitaur.png"
+			}
+		},
+		{
+			"name": "Doldrum Dreamer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/96_Doldrum Dreamer.png"
+			}
+		},
+		{
+			"name": "Elemental Resonance",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/178_Elemental Resonance.png"
+			}
+		},
+		{
+			"name": "Wild Defiance",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/208_Wild Defiance.png"
+			}
+		},
+		{
+			"name": "Mythos of the First Hunger",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/197_Mythos of the First Hunger.png"
+			}
+		},
+		{
+			"name": "Lifegraft",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/190_Lifegraft.png"
+			}
+		},
+		{
+			"name": "Seek the Immense",
+			"rarity": "rare",
+			"mana_cost": "{X}{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/202_Seek the Immense.png"
+			}
+		},
+		{
+			"name": "Elder Gangeth",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Creature — Elk Beast ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/177_Elder Gangeth.png"
+			}
+		},
+		{
+			"name": "Tanglespell Briar",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Plant Beast ",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/204_Tanglespell Briar.png"
+			}
+		},
+		{
+			"name": "Aspect of Vigor",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Instant Creature — Elemental ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/171_Aspect of Vigor.png"
+			}
+		},
+		{
+			"name": "Forgetmenot Glade",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/247_Forgetmenot Glade.png"
+			}
+		},
+		{
+			"name": "Tidelocked Mangrove",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/253_Tidelocked Mangrove.png"
+			}
+		},
+		{
+			"name": "Chalcogen Spring",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/245_Chalcogen Spring.png"
+			}
+		},
+		{
+			"name": "Soul Sanctum",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/251_Soul Sanctum.png"
+			}
+		},
+		{
+			"name": "Whizzing Sinews",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/256_Whizzing Sinews.png"
+			}
+		},
+		{
+			"name": "Spellsoot Obelisks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/252_Spellsoot Obelisks.png"
+			}
+		},
+		{
+			"name": "Prechronal Undergrowth",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/249_Prechronal Undergrowth.png"
+			}
+		},
+		{
+			"name": "Blackburnt Treeline",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/242_Blackburnt Treeline.png"
+			}
+		},
+		{
+			"name": "Platau lumen",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/248_Platau lumen.png"
+			}
+		},
+		{
+			"name": "Triproot Prairie",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/255_Triproot Prairie.png"
+			}
+		},
+		{
+			"name": "Tune of Safeholding",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Instant",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/237_Tune of Safeholding.png"
+			}
+		},
+		{
+			"name": "Hemorrphage, Spritevix Queen",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Faerie Vampire ",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/220_Hemorrphage, Spritevix Queen.png"
+			}
+		},
+		{
+			"name": "Distill Fears",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/216_Distill Fears.png"
+			}
+		},
+		{
+			"name": "Boorish Mystic",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Giant Shaman Warrior ",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/213_Boorish Mystic.png"
+			}
+		},
+		{
+			"name": "Antolie, Anomalous Apostate",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Artifact Creature — Human ",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/211_Antolie, Anomalous Apostate.png"
+			}
+		},
+		{
+			"name": "Gladechamp Mystic",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Centaur Warrior ",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/219_Gladechamp Mystic.png"
+			}
+		},
+		{
+			"name": "Spritethrombosix",
+			"rarity": "rare",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Enchantment Creature — Faerie Vampire ",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/233_Spritethrombosix.png"
+			}
+		},
+		{
+			"name": "Sinister Magister",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}{R}",
+			"type": "Creature — Bird Shaman ",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/231_Sinister Magister.png"
+			}
+		},
+		{
+			"name": "Szyssixz, Hate Incarnate",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Creature — Soltari Zombie ",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/236_Szyssixz, Hate Incarnate.png"
+			}
+		},
+		{
+			"name": "Stroke of Avail",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/235_Stroke of Avail.png"
+			}
+		},
+		{
+			"name": "Scalemail Magmawhelk",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Snail ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/160_Scalemail Magmawhelk.png"
+			}
+		},
+		{
+			"name": "Final Ember Embrace",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/138_Final Ember Embrace.png"
+			}
+		},
+		{
+			"name": "Mythos of the Archdemon",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Instant",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/155_Mythos of the Archdemon.png"
+			}
+		},
+		{
+			"name": "Mindblaze Mystic",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/154_Mindblaze Mystic.png"
+			}
+		},
+		{
+			"name": "Firemind Richualist",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/139_Firemind Richualist.png"
+			}
+		},
+		{
+			"name": "Hyperbolt",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/145_Hyperbolt.png"
+			}
+		},
+		{
+			"name": "Manahangry Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Dragon ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/153_Manahangry Dragon.png"
+			}
+		},
+		{
+			"name": "Blazing Wheel-Kin",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery Creature — Elemental ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/131_Blazing Wheel-Kin.png"
+			}
+		},
+		{
+			"name": "Ominous Soul Tome",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/66_Ominous Soul Tome.png"
+			}
+		},
+		{
+			"name": "Chronoduplicate",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/48_Chronoduplicate.png"
+			}
+		},
+		{
+			"name": "Mythos of the Sage",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Instant",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/64_Mythos of the Sage.png"
+			}
+		},
+		{
+			"name": "Retroarcane Continuity",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/69_Retroarcane Continuity.png"
+			}
+		},
+		{
+			"name": "The Wind Releaser",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Merfolk Shaman ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/86_The Wind Releaser.png"
+			}
+		},
+		{
+			"name": "Narcorelapsy",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/65_Narcorelapsy.png"
+			}
+		},
+		{
+			"name": "Unmoored Ideas",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/83_Unmoored Ideas.png"
+			}
+		},
+		{
+			"name": "Temporal Emergence",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/81_Temporal Emergence.png"
+			}
+		},
+		{
+			"name": "Acolyte of the Anchor",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Cleric ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/5_Acolyte of the Anchor.png"
+			}
+		},
+		{
+			"name": "Anchorley Angel",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment Creature — Angel ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/7_Anchorley Angel.png"
+			}
+		},
+		{
+			"name": "Mythos of the Pale",
+			"rarity": "rare",
+			"mana_cost": "{X}{W}",
+			"type": "Instant",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/29_Mythos of the Pale.png"
+			}
+		},
+		{
+			"name": "Unanchored Sky-Serpent",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Serpent ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/42_Unanchored Sky-Serpent.png"
+			}
+		},
+		{
+			"name": "Ultrashield Angel",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Angel ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/41_Ultrashield Angel.png"
+			}
+		},
+		{
+			"name": "Decrown",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/16_Decrown.png"
+			}
+		},
+		{
+			"name": "Re-weave the World",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/33_Re-weave the World.png"
+			}
+		},
+		{
+			"name": "Drawn From Discussion",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/19_Drawn From Discussion.png"
+			}
+		},
+		{
+			"name": "Recluded Ronin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Insect Samurai ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/113_Recluded Ronin.png"
+			}
+		},
+		{
+			"name": "Twilight Tiger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/124_Twilight Tiger.png"
+			}
+		},
+		{
+			"name": "Saakstalker Egg",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Egg ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/116_Saakstalker Egg.png"
+			}
+		},
+		{
+			"name": "Influenced informant",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Vampire Lizard Rouge ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/107_Influenced informant.png"
+			}
+		},
+		{
+			"name": "Ichor Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Elemental Ooze Horror ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/105_Ichor Elemental.png"
+			}
+		},
+		{
+			"name": "Espien, Shellmage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Snail Wizard ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/99_Espien, Shellmage.png"
+			}
+		},
+		{
+			"name": "Hunting Saakstalker",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Sorcery Creature — Demon ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/104_Hunting Saakstalker.png"
+			}
+		},
+		{
+			"name": "Brainseize",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/90_Brainseize.png"
+			}
+		},
+		{
+			"name": "Resummon",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/114_Resummon.png"
+			}
+		},
+		{
+			"name": "Plumb the Forbidden",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/111_Plumb the Forbidden.png"
+			}
+		},
+		{
+			"name": "Demon's Prowl",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/95_Demon's Prowl.png"
+			}
+		},
+		{
+			"name": "Nirvana Doldrums",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/110_Nirvana Doldrums.png"
+			}
+		},
+		{
+			"name": "Revolving Dread",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/115_Revolving Dread.png"
+			}
+		},
+		{
+			"name": "Mosswhelk",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Snail ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/195_Mosswhelk.png"
+			}
+		},
+		{
+			"name": "Carrabaster Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Sorcery Creature — Dryad Rogue ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/174_Carrabaster Cultivator.png"
+			}
+		},
+		{
+			"name": "Growing Duderino",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Treefolk ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/186_Growing Duderino.png"
+			}
+		},
+		{
+			"name": "Bear Ghost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Bear Spirit ",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/172_Bear Ghost.png"
+			}
+		},
+		{
+			"name": "Aran, Forest Hermit",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Legendary Creature — Troll Druid ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/169_Aran, Forest Hermit.png"
+			}
+		},
+		{
+			"name": "Greater Gangeth",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Elk Beast ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/185_Greater Gangeth.png"
+			}
+		},
+		{
+			"name": "Essence Feeder",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Instant Creature — Elemental Beast ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/180_Essence Feeder.png"
+			}
+		},
+		{
+			"name": "Thornbark Prile",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Treefolk Horror ",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/205_Thornbark Prile.png"
+			}
+		},
+		{
+			"name": "Mawssive Hunger",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/194_Mawssive Hunger.png"
+			}
+		},
+		{
+			"name": "Hunter's Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/188_Hunter's Insight.png"
+			}
+		},
+		{
+			"name": "Aran's Acuity",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/170_Aran's Acuity.png"
+			}
+		},
+		{
+			"name": "Anchor-root Vitality",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/168_Anchor-root Vitality.png"
+			}
+		},
+		{
+			"name": "Revolving Medititation",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/200_Revolving Medititation.png"
+			}
+		},
+		{
+			"name": "Benevolent Herd",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment Creature — Sheep ",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/212_Benevolent Herd.png"
+			}
+		},
+		{
+			"name": "Drench",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/217_Drench.png"
+			}
+		},
+		{
+			"name": "Excrutiating Voice",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/218_Excrutiating Voice.png"
+			}
+		},
+		{
+			"name": "Leyline Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Human Shaman Warrior ",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/224_Leyline Channeler.png"
+			}
+		},
+		{
+			"name": "Idol of Harmony",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Enchantment Creature — ??? ",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/222_Idol of Harmony.png"
+			}
+		},
+		{
+			"name": "Mightsoul Samurai",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Samurai Spirit ",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/225_Mightsoul Samurai.png"
+			}
+		},
+		{
+			"name": "Knorguer, Saccloc",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Dragon Knight ",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/223_Knorguer, Saccloc.png"
+			}
+		},
+		{
+			"name": "Shadowflock",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Creature — Bird Nightmare ",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/229_Shadowflock.png"
+			}
+		},
+		{
+			"name": "Alarming Alteration",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/209_Alarming Alteration.png"
+			}
+		},
+		{
+			"name": "Honourable Bushido",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Soltari Samurai ",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/221_Honourable Bushido.png"
+			}
+		},
+		{
+			"name": "Klashpeak Stinger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant Creature — Elemental Wizard ",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/148_Klashpeak Stinger.png"
+			}
+		},
+		{
+			"name": "Klashpeak Crusader",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/147_Klashpeak Crusader.png"
+			}
+		},
+		{
+			"name": "Blitz Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Elemental Lizard ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/132_Blitz Elemental.png"
+			}
+		},
+		{
+			"name": "Chainfiend",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Spirit ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/135_Chainfiend.png"
+			}
+		},
+		{
+			"name": "Boastful Battlemage",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Elemental Shaman ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/134_Boastful Battlemage.png"
+			}
+		},
+		{
+			"name": "Heroic Spearmagus",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Minotaur Warrior ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/144_Heroic Spearmagus.png"
+			}
+		},
+		{
+			"name": "Kleefoff, Essence Looter",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Minotaur Shaman ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/149_Kleefoff, Essence Looter.png"
+			}
+		},
+		{
+			"name": "Lightning Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/150_Lightning Axe.png"
+			}
+		},
+		{
+			"name": "Traitorus Greed",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/164_Traitorus Greed.png"
+			}
+		},
+		{
+			"name": "Unanchored Richual",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/165_Unanchored Richual.png"
+			}
+		},
+		{
+			"name": "Blitz Infusion",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/133_Blitz Infusion.png"
+			}
+		},
+		{
+			"name": "Blazing Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/129_Blazing Axe.png"
+			}
+		},
+		{
+			"name": "Revolving Panic",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/158_Revolving Panic.png"
+			}
+		},
+		{
+			"name": "Ravencaller",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Bird Shaman ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/67_Ravencaller.png"
+			}
+		},
+		{
+			"name": "Spellatog",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Atog ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/74_Spellatog.png"
+			}
+		},
+		{
+			"name": "Safekeeper of the Chains",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/72_Safekeeper of the Chains.png"
+			}
+		},
+		{
+			"name": "Hereditary Heron",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Bird ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/58_Hereditary Heron.png"
+			}
+		},
+		{
+			"name": "Kefus, the Scribe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Creature — Elemental Soldier ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/60_Kefus, the Scribe.png"
+			}
+		},
+		{
+			"name": "Dragger of Depths",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery Creature — Kraken ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/53_Dragger of Depths.png"
+			}
+		},
+		{
+			"name": "Driftmuller",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery Creature — Elemental ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/55_Driftmuller.png"
+			}
+		},
+		{
+			"name": "Revoke Access",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/70_Revoke Access.png"
+			}
+		},
+		{
+			"name": "Whirlwind Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/85_Whirlwind Denial.png"
+			}
+		},
+		{
+			"name": "Thirst for Acknowledgement",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/82_Thirst for Acknowledgement.png"
+			}
+		},
+		{
+			"name": "Spritevix's Retrieveal",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/78_Spritevix's Retrieveal.png"
+			}
+		},
+		{
+			"name": "Spritevix's Hatching",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/77_Spritevix's Hatching.png"
+			}
+		},
+		{
+			"name": "Revolving Insight",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/71_Revolving Insight.png"
+			}
+		},
+		{
+			"name": "Bolstering Refrain",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/14_Bolstering Refrain.png"
+			}
+		},
+		{
+			"name": "Voidliss Sky-Serpent",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Serpent ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/45_Voidliss Sky-Serpent.png"
+			}
+		},
+		{
+			"name": "Aspiring Bannerette",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant Creature — Human Soldier ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/9_Aspiring Bannerette.png"
+			}
+		},
+		{
+			"name": "Mild Mystic",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/28_Mild Mystic.png"
+			}
+		},
+		{
+			"name": "Skviper Skimmer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant Creature — Spirit ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/37_Skviper Skimmer.png"
+			}
+		},
+		{
+			"name": "Tale Weaver",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Beast Bard ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/40_Tale Weaver.png"
+			}
+		},
+		{
+			"name": "Lathinia, Metalwinged",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact Creature — Angel ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/27_Lathinia, Metalwinged.png"
+			}
+		},
+		{
+			"name": "Idol of Decrees",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment Creature — Elemental ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/26_Idol of Decrees.png"
+			}
+		},
+		{
+			"name": "Clever Lumimancer",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Wizard ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/15_Clever Lumimancer.png"
+			}
+		},
+		{
+			"name": "Defrock",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/18_Defrock.png"
+			}
+		},
+		{
+			"name": "Giant's Axe",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/24_Giant's Axe.png"
+			}
+		},
+		{
+			"name": "Rematerialize",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/34_Rematerialize.png"
+			}
+		},
+		{
+			"name": "Show of Confidence",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/36_Show of Confidence.png"
+			}
+		},
+		{
+			"name": "Revolving Arts",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/skp/sets/skp-files/img/35_Revolving Arts.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Hatred
+		2 Harvest
+		2 Mythos of the Unyielding King
+		2 Elder Saakstalker
+		2 Dominated Slither
+		2 Spellbattery Ghoul
+		2 Cthonitaur
+		2 Doldrum Dreamer
+		2 Elemental Resonance
+		2 Wild Defiance
+		2 Mythos of the First Hunger
+		2 Lifegraft
+		2 Seek the Immense
+		2 Elder Gangeth
+		2 Tanglespell Briar
+		2 Aspect of Vigor
+		2 Tidelocked Mangrove
+		2 Soul Sanctum
+		2 Spellsoot Obelisks
+		2 Blackburnt Treeline
+		2 Tune of Safeholding
+		2 Hemorrphage, Spritevix Queen
+		2 Distill Fears
+		2 Boorish Mystic
+		2 Antolie, Anomalous Apostate
+		2 Gladechamp Mystic
+		2 Spritethrombosix
+		2 Sinister Magister
+		2 Szyssixz, Hate Incarnate
+		2 Stroke of Avail
+		2 Scalemail Magmawhelk
+		2 Final Ember Embrace
+		2 Mythos of the Archdemon
+		2 Mindblaze Mystic
+		2 Firemind Richualist
+		2 Hyperbolt
+		2 Manahangry Dragon
+		2 Blazing Wheel-Kin
+		2 Ominous Soul Tome
+		2 Chronoduplicate
+		2 Mythos of the Sage
+		2 Retroarcane Continuity
+		2 The Wind Releaser
+		2 Narcorelapsy
+		2 Unmoored Ideas
+		2 Temporal Emergence
+		2 Acolyte of the Anchor
+		2 Anchorley Angel
+		2 Mythos of the Pale
+		2 Unanchored Sky-Serpent
+		2 Ultrashield Angel
+		2 Decrown
+		2 Re-weave the World
+		2 Drawn From Discussion
+		1 Superposition Gateway
+		1 Lavez, Anchor of the Worldsoul
+		1 Rix, Shackle of the Worldsoul
+		1 Lichbind
+		1 Overgrowing Pumkin
+		1 Flurry of Regrowth
+		1 Cloudyawner
+		1 Ruination Mystic
+		1 All Encompassing Wish
+		1 Stormful Growthmagus
+		1 Outpouring of Life
+		1 Soul Augury
+		1 The Observer of All
+		1 Demonic Prepotence
+		1 Ravenous Rhizome
+		1 Singe Elemental
+		1 Chromatic Storm
+		1 Grandmaster of Sparks
+		1 Culumonibus Tyrant
+		1 Planar Till
+		[UncommonSlot(3)]
+	9 Forgetmenot Glade
+		9 Chalcogen Spring
+		9 Whizzing Sinews
+		9 Prechronal Undergrowth
+		9 Platau lumen
+		9 Triproot Prairie
+		9 Recluded Ronin
+		9 Twilight Tiger
+		9 Saakstalker Egg
+		9 Influenced informant
+		9 Ichor Elemental
+		9 Espien, Shellmage
+		9 Hunting Saakstalker
+		9 Brainseize
+		9 Resummon
+		9 Plumb the Forbidden
+		9 Demon's Prowl
+		9 Nirvana Doldrums
+		9 Revolving Dread
+		9 Mosswhelk
+		9 Carrabaster Cultivator
+		9 Growing Duderino
+		9 Bear Ghost
+		9 Aran, Forest Hermit
+		9 Greater Gangeth
+		9 Essence Feeder
+		9 Thornbark Prile
+		9 Mawssive Hunger
+		9 Hunter's Insight
+		9 Aran's Acuity
+		9 Anchor-root Vitality
+		9 Revolving Medititation
+		9 Benevolent Herd
+		9 Drench
+		9 Excrutiating Voice
+		9 Leyline Channeler
+		9 Idol of Harmony
+		9 Mightsoul Samurai
+		9 Knorguer, Saccloc
+		9 Shadowflock
+		9 Alarming Alteration
+		9 Honourable Bushido
+		9 Klashpeak Stinger
+		9 Klashpeak Crusader
+		9 Blitz Elemental
+		9 Chainfiend
+		9 Boastful Battlemage
+		9 Heroic Spearmagus
+		9 Kleefoff, Essence Looter
+		9 Lightning Axe
+		9 Traitorus Greed
+		9 Unanchored Richual
+		9 Blitz Infusion
+		9 Blazing Axe
+		9 Revolving Panic
+		9 Ravencaller
+		9 Spellatog
+		9 Safekeeper of the Chains
+		9 Hereditary Heron
+		9 Kefus, the Scribe
+		9 Dragger of Depths
+		9 Driftmuller
+		9 Revoke Access
+		9 Whirlwind Denial
+		9 Thirst for Acknowledgement
+		9 Spritevix's Retrieveal
+		9 Spritevix's Hatching
+		9 Revolving Insight
+		9 Bolstering Refrain
+		9 Voidliss Sky-Serpent
+		9 Aspiring Bannerette
+		9 Mild Mystic
+		9 Skviper Skimmer
+		9 Tale Weaver
+		9 Lathinia, Metalwinged
+		9 Idol of Decrees
+		9 Clever Lumimancer
+		9 Defrock
+		9 Giant's Axe
+		9 Rematerialize
+		9 Show of Confidence
+		9 Revolving Arts
+		[CommonSlot(10)]
+	30 Spritevitiligosix
+		30 Map Out
+		30 See Ahead
+		30 Idol of Essence
+		30 Spritevarix
+		30 Willing Fodder
+		30 Chitinous Hound
+		30 Sludgefly
+		30 Blood Seer
+		30 Gerx Parasite
+		30 Belltower Mystic
+		30 Spritestenosix
+		30 Sky Skriller
+		30 Prowling Saakstalker
+		30 Ichorate
+		30 Fae Blade Blessing
+		30 Witherweight
+		30 Chain Drain
+		30 Dark Bargain
+		30 Soul Salvage
+		30 Ashassinate
+		30 Subtle Strike
+		30 Spirima
+		30 Glade Protector
+		30 Lesser Gangeth
+		30 Muscle Mystic
+		30 Verdant Boar
+		30 Canopy Ambusher
+		30 Magedaunt Whelk
+		30 Grank
+		30 Vine Heroc
+		30 Flightsteppe Centaur
+		30 Macropillar
+		30 Mage Duel
+		30 Druidic Vigor
+		30 Natal Growth
+		30 Scale the Heights
+		30 Disarming Vines
+		30 Endless Vegetation
+		30 Heroic Growth
+		30 Tranquil Cove
+		30 Dismal Backwater
+		30 Bloodfell Cave
+		30 Rugged Highlands
+		30 Blossoming Sands
+		30 Skrigi Honorguard
+		30 Lith Mystic
+		30 Ritual Ram
+		30 Anomulmutt
+		30 Flamebow Elemental
+		30 Fledgeling Drakko
+		30 Blazing Mystic
+		30 Goblin Muscician
+		30 Ardent Elementalist
+		30 Idol of Skirmishes
+		30 Whizzing Fireballt
+		30 Overpulse
+		30 Prowling Peck
+		30 Wideflame
+		30 Searing Thoughts
+		30 Maddening Fury
+		30 Single Point Stab
+		30 Drown In Flames
+		30 Spritembolusix
+		30 Idol of Benthic Secrets
+		30 Memory Nomad
+		30 Stinging Lionfish
+		30 Aether Bird
+		30 Etherial Goat
+		30 War Mystic
+		30 Mistful Mystic
+		30 Spriteamyloidosix
+		30 Divedrake
+		30 Bolstering Portal
+		30 Disdainful Stroke
+		30 Counterslice
+		30 Suppresion Force
+		30 Flutter Rebuttal
+		30 Drawl
+		30 Recalibrate
+		30 Soul Surgery
+		30 Mystic's Chill
+		30 Fluffyhead
+		30 Unrelenting Soltari
+		30 Veiling Mist
+		30 Panchar
+		30 Batallion Frontliner
+		30 Gladesprite
+		30 Spritepallorix
+		30 Attack Leader
+		30 Blademaster
+		30 Backup Squad
+		30 Ageless Artist
+		30 Fabric Weaver
+		30 Piercing Barrage
+		30 Faith's Fetters
+		30 Defiant Strike
+		30 Etherial Flourish
+		30 Suprashield
+		30 Angelic Purge
+		[LandSlot(1)]
+	
