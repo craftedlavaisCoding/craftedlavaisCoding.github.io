@@ -70,16 +70,6 @@
 			}
 		},
 		{
-			"name": "Basic Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains ",
-			"collector_number": "296",
-			"image_uris": {
-				"en": "https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/jdk/sets/JDK-files/img/296_Basic Plains.png"
-			}
-		},
-		{
 			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
@@ -87,6 +77,16 @@
 			"collector_number": "297",
 			"image_uris": {
 				"en": "https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/jdk/sets/JDK-files/img/297_Plains.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://raw.githubusercontent.com/craftedlavaisCoding/mse/main/jdk/sets/JDK-files/img/296_Plains.png"
 			}
 		},
 		{
