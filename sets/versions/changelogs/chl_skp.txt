@@ -1,4 +1,808 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Map out added.
+Minister of Bygones added.
+Spritevix Bargain added.
+Reposess Soul added.
+Demonstrate Dissent added.
+Wurmsoul Mystic added.
+Daunting Lifeflame added.
+Granky Mystic added.
+Neoitc Oldgrowth added.
+Mystic's Retort added.
+Verdant Synthesis added.
+Featherseer Mystic added.
+Chainbreak Ragetaur added.
+Vampiric Fury added.
+Seer of Unchained Sight added.
+Recall Without Knowing added.
+Perforate Spirit added.
+Ageless Observer added.
+Celestial Binding added.
+Brilliant Polish added.
+Banish an Opulent Soul added.
+Ingis, Chains of the worldsoul added.
+Presence of Undeath added.
+Big Mana (art flag) added.
+Biggerly (art flag) added.
+Augur of Soul added.
+Szyssixz, Feaster of Essence added.
+Burning Apostle added.
+Beast added.
+Bird added.
+Servo added.
+Shell added.
+Soldier added.
+Soltari Wizard added.
+Thopter added.
+Gossamer Sins added.
+Archdruid's Insight added.
+Firemane Hyena added.
+Bloodflare added.
+Flip of Allegiance added.
+Storm Shield added.
+Hatching the Spritevix added.
+Collective Ideals added.
+Wise Lichtmancer added.
+Astral Barrage added.
+
+Map Out removed.
+Sky Skriller removed.
+Dark Bargain removed.
+Soul Salvage removed.
+Subtle Strike removed.
+Lesser Gangeth removed.
+Magedaunt Whelk removed.
+Grank removed.
+Macropillar removed.
+Mage Duel removed.
+Scale the Heights removed.
+Fledgeling Drakko removed.
+Ardent Elementalist removed.
+Maddening Fury removed.
+Stinging Lionfish removed.
+Disdainful Stroke removed.
+Recalibrate removed.
+Ageless Artist removed.
+Faith's Fetters removed.
+Defiant Strike removed.
+Angelic Purge removed.
+Hatred removed.
+Elemental Resonance removed.
+Wild Defiance removed.
+Tidelocked Mangrove removed.
+Soul Sanctum removed.
+Spellsoot Obelisks removed.
+Blackburnt Treeline removed.
+Triproot Prairie removed.
+Gladechamp Mystic removed.
+Szyssixz, Hate Incarnate removed.
+Manahangry Dragon removed.
+Plumb the Forbidden removed.
+Hunter's Insight removed.
+Blitz Elemental removed.
+Lightning Axe removed.
+Traitorus Greed removed.
+Whirlwind Denial removed.
+Spritevix's Hatching removed.
+Bolstering Refrain removed.
+Clever Lumimancer removed.
+Show of Confidence removed.
+
+Spritevitiligosix
+
+See Ahead
+rules_text: Scry 1
+If this spell is not a copy, draw a card.
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i] => Scry 1.
+If this spell is not a copy, draw a card.
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i]
+
+Idol of Essence
+
+Spritevarix
+rules_text: Flying
+Whenever you mill or discard this creature, each opponent loses 1 life. => Flying
+Whenever you mill or discard this card, each opponent loses 1 life.
+
+Willing Fodder
+
+Chitinous Hound
+
+Gerx Parasite
+cost: {2}{B} => {1}{B}
+
+Blood Seer
+rules_text: You draw a card and lose 1 life.
+Elicit ‏Creature {UB} [i](You may cast this as a Creature instead of as a Sorcery Creature for {UB}, it resolves without the above effects.)[/i] => Each player mills four cards.
+Elicit ‏Creature {UB} [i](You may cast this as a Creature instead of as a Sorcery Creature for {UB}, it resolves without the above effects.)[/i]
+
+Recluded Ronin
+cost: {1}{B} => {2}{B}
+pt: 2/1 => 2/2
+
+Belltower Mystic
+rules_text: Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, Each opponent loses 1 life and you gain 1 life. => Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, Each opponent loses 1 life and you gain 1 life.
+
+Spritestenosix
+rules_text: As long as a player has discarded a card this turn, this creature has lifelink.
+{WU}{WU}, or pay 4 life: This creature gains flying until end of turn. => As long as a player has discarded a card this turn, this creature has lifelink.
+{WU}{WU}: This creature gets +1/+1 and gains vigilance until end of turn. Activate only as a sorcery.
+
+Prowling Saakstalker
+cost: {3}{B}{B} => {4}{B}{B}
+rules_text: Up to one target creature gets +1/+0 and gains indestructible until end of turn.
+Elicit Instant {1}{B} [i](You may cast this as an Instant instead of as an Instant Creature for {1}{B}, putting it into the graveyard as it resolves.)[/i]
+This creature enters tapped. => Up to one target creature gets +1/+0 and gains indestructible until end of turn.
+Elicit Instant {1}{B} [i](You may cast this as an Instant instead of as an Instant Creature for {1}{B}, putting it into the graveyard as it resolves.)[/i]
+
+Ichorate
+
+Fae Blade Blessing
+
+Witherweight
+
+Chain Drain
+cost: {3}{B}{B} => {2}{B}{B}
+rules_text: Emerge {4}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)[/i]
+Destroy target creature. => Emerge {2}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Destroy target creature.
+
+Ashassinate
+
+Spirima
+
+Glade Protector
+
+Muscle Mystic
+
+Verdant Boar
+
+Canopy Ambusher
+
+Vine Heroc
+
+Flightsteppe Centaur
+rules_text: [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, look at the top two cards of your library. You may reveal a land card from among them and put it into your hand. => [i][i]Magecraft[/i][/i] — Whenever you cast or copy an instant or sorcery spell, reveal the top card of your library. If it's a land card, put it into your hand.
+
+Druidic Vigor
+cost: {3}{G} => {2}{G}
+rules_text: Target creature you control gets +4/+4 and gains hexproof until end of turn.
+This spell costs {2} less to cast if you’ve cast another instant or sorcery spell this turn. => Target creature you control gets +4/+4 and gains hexproof until end of turn.
+This spell costs {2} less to cast if you've cast another spell this turn.
+
+Natal Growth
+
+Disarming Vines
+
+Endless Vegetation
+
+Heroic Growth
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Cave
+
+Rugged Highlands
+
+Blossoming Sands
+
+Skrigi Honorguard
+
+Lith Mystic
+
+Ritual Ram
+rules_text: Add {R}{R}{R}{R}, until end of turn, you don’t lose this mana as steps and phases end.
+Elicit ‏Creature {1}{R} [i](You may cast this as a Creature instead of as a Sorcery Creature for {1}{R}, it resolves without the above effects.)[/i] => Add {R}{R}{R}{R}, until end of turn, you don't lose this mana as steps and phases end.
+Elicit ‏Creature {1}{R} [i](You may cast this as a Creature instead of as a Sorcery Creature for {1}{R}, it resolves without the above effects.)[/i]
+
+Anomulmutt
+rules_text: As long as you control 2 or more anomalies this creature gets +3/+0 and can’t block. [i](cards with multiple card types are anomalies.)[/i] => As long as you control 2 or more anomalies this creature gets +3/+0 and can't block. [i](cards with multiple card types are anomalies.)[/i]
+
+Flamebow Elemental
+
+Blazing Mystic
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, target creature you control gets +2/+0 until end of turn. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, target creature you control gets +2/+0 until end of turn.
+
+Goblin Muscician
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast. Target creature can’t block this turn. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast. Target creature can't block this turn.
+
+Idol of Skirmishes
+rules_text: Whenever this creature attacks, target creature you control gets +1/+0 until end of turn for each anomaly you control. [i](A card with multiple card types is an anomaly)[/i] => Whenever you attack, target creature you control gets +1/+0 until end of turn for each anomaly you control. [i](A card with multiple card types is an anomaly)[/i]
+
+Whizzing Fireballt
+rules_text: This spell costs {2} less to cast if an instant or sorcery card was put into your graveyard this turn.
+This spell deals 3 damage to any target. => This spell costs {2} less to cast if you discarded a card this turn.
+Whizzing Fireballt deals 3 damage to any target.
+
+Overpulse
+
+Prowling Peck
+
+Wideflame
+
+Searing Thoughts
+
+Single Point Stab
+
+Drown In Flames
+rules_text: This spell deals 5 damage to target creature. If you’ve discarded a card this turn, this spell can’t be countered and the damage can’t be prevented.
+{R}, Exile this card from your graveyard: The next spell you cast this turn can’t be countered. => This spell deals 5 damage to target creature. If you've discarded a card this turn, this spell can't be countered and the damage can't be prevented.
+{R}, Exile this card from your graveyard: The next spell you cast this turn can't be countered.
+
+Spritembolusix
+rules_text: Flying
+Whenever this creature dies, scry 1.
+Whenever this creature is sacrificed, draw a card, then discard a card. => Flying
+Whenever this creature dies, scry 1.
+Whenever this creature is sacrificed, draw a card.
+
+Idol of Benthic Secrets
+rules_text: When this creature dies, you may cast an instant or sorcery spell with mana value 3 or less from your hand without paying it’s mana cost. => When this creature dies, you may cast an instant or sorcery spell with mana value 3 or less from your hand without paying it's mana cost.
+
+Memory Nomad
+pt: 2/3 => 3/2
+
+Aether Bird
+rules_text: Tap up to one target permanent.
+Elicit Instant {WU} [i](You may cast this as an Instant instead of as an Instant Creature for {WU}, putting it into the graveyard as it resolves.)[/i]
+Flying => Tap or untap target permanent.
+Elicit Instant {WU} [i](You may cast this as an Instant instead of as an Instant Creature for {WU}, putting it into the graveyard as it resolves.)[/i]
+Flying
+
+Etherial Goat
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, target creature an opponent controls gets -2/-0 until end of turn. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, target creature an opponent controls gets -2/-0 until end of turn.
+
+War Mystic
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, this creature gets +1/+1 until end of turn.
+Whenever this creature becomes blocked, you may draw a card. If you do, discard a card. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, this creature gets +1/+1 until end of turn.
+Whenever this creature becomes blocked, you may draw a card. If you do, discard a card.
+
+Mistful Mystic
+rules_text: Whenever an anomaly enters under your control, target player mills three cards. [i](A card with multiple card types is an anomaly)[/i] => Whenever you cast your first spell during each opponent's turn, draw a card, then discard a card.
+Whenever an anomaly enters under your control, this creature can't be blocked until end of turn. [i](A card with multiple card types is an anomaly)[/i]
+pt: 2/3 => 3/4
+
+Spriteamyloidosix
+rules_text: Flying
+This creature gets +2/+0 and has hexproof as long as you’ve discarded a card this turn. => Flying
+This creature gets +2/+0 and has hexproof as long as you've discarded a card this turn.
+
+Divedrake
+rules_text: Return target nonland permanent an opponent controls to its owner’s hand.
+Elicit Sorcery {1}{U} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {1}{U}, putting it into the graveyard as it resolves.)[/i]
+Flying => Return target nonland permanent an opponent controls to its owner's hand.
+Elicit Sorcery {1}{U} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {1}{U}, putting it into the graveyard as it resolves.)[/i]
+Flying
+
+Bolstering Portal
+rules_text: Defender
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +2/+2 until end of turn.
+{GW}{GW}: This creature can attack this turn as though it didn’t have defender. => Defender
+[i][i]Magecraft[/i][/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +2/+2 until end of turn.
+{GW}{GW}: This creature can attack this turn as though it didn't have defender.
+
+Counterslice
+
+Suppresion Force
+rules_text: Enchant Creature
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, tap enchanted creature. If it’s already tapped, put a stun counter on it. => Enchant Creature
+[i][i]Magecraft[/i][/i] — Whenever you cast or copy an instant or sorcery spell, tap enchanted creature. If it's already tapped, put a stun counter on it.
+
+Flutter Rebuttal
+rules_text: Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard.
+Whenever this spell is put into your graveyard. Create a 1/1 black Bird creature token with flying and decayed. => Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.
+Whenever this spell is put into your graveyard. Create a 1/1 black Bird creature token with flying and decayed.
+
+Drawl
+rules_text: Draw two cards, then discard a card unless you’ve cast another instant or sorcery spell this turn. => Draw two cards, then discard a card unless you've cast another instant or sorcery spell this turn.
+
+Soul Surgery
+rules_text: Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)[/i]
+Scry 3.
+Draw three cards. => Emerge {5}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Scry 3.
+Draw three cards.
+
+Mystic's Chill
+
+Fluffyhead
+type: Sorcery Creature — Elemental Sheep => Sorcery Creature — Illusion Sheep
+rules_text: Create three 1/1 black Bird creature token with flying and decayed.
+Elicit ‏Creature {W} [i](You may cast this as a Creature instead of as a Sorcery Creature for {W}, it resolves without the above effects.)[/i] => Create three 1/1 black Bird creature tokens with flying and decayed.
+Elicit ‏Creature {W} [i](You may cast this as a Creature instead of as a Sorcery Creature for {W}, it resolves without the above effects.)[/i]
+
+Unrelenting Soltari
+rules_text: [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets your choice of lifelink, vigilance, or first strike until end of turn. => [i][i]Magecraft[/i][/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets your choice of lifelink, vigilance, or first strike until end of turn.
+
+Veiling Mist
+rules_text: Return up to one target creature you control to its owner’s hand.
+Elicit Creature {1}{W} [i](You may cast this as a Creature instead of as an Instant Creature for {1}{W}, it resolves without the above effects.)[/i] => Return up to one target creature you control to its owner's hand.
+Elicit Creature {1}{W} [i](You may cast this as a Creature instead of as an Instant Creature for {1}{W}, it resolves without the above effects.)[/i]
+
+Panchar
+
+Batallion Frontliner
+
+Gladesprite
+rules_text: Flying
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn. If it’s not your turn, put a +1/+1 counter on it instead. => Flying
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn. If it's not your turn, put a +1/+1 counter on it instead.
+
+Spritepallorix
+type: Instant Creature — Spirit => Instant Creature — Faerie Vampire
+rules_text: Destroy up to one target enchantment.
+Elicit Creature {2}{W} [i](You may cast this as a Creature instead of as an Instant Creature for {2}{W}, it resolves without the above effects.)[/i]
+Flying => Destroy up to one target enchantment.
+Elicit Instant {1}{W} [i](You may cast this as an Instant instead of as an Instant Creature for {1}{W}, putting it into the graveyard as it resolves.)[/i]
+Flying
+pt: 3/1 => 2/2
+
+Attack Leader
+
+Blademaster
+rules_text: This creature has double strike as long as you’ve cast an instant or sorcery spell this turn. => This creature has double strike as long as you've cast an instant or sorcery spell this turn.
+
+Backup Squad
+
+Fabric Weaver
+cost: {5}{W} => {4}{W}{W}
+rules_text: Prevent all combat damage that would be dealt by creatures with power 4 or greater this turn.
+Elicit Instant {2}{GW} [i](You may cast this as an Instant instead of as an Instant Creature for {2}{GW}, putting it into the graveyard as it resolves.)[/i] => Prevent all combat damage that would be dealt by creatures with power 4 or greater this turn.
+Elicit Instant {1}{GW}{GW} [i](You may cast this as an Instant instead of as an Instant Creature for {1}{GW}{GW}, putting it into the graveyard as it resolves.)[/i]
+
+Piercing Barrage
+
+Etherial Flourish
+
+Suprashield
+rules_text: When you cast this spell, if it’s not your turn, copy it.
+Target creature you control gets +1/+1 and gains protection from the colour of your choice until end of turn. [i](It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that colour until end of turn..)[/i] => When you cast this spell, if it's not your turn, copy it.
+Target creature you control gets +1/+1 and gains protection from the colour of your choice until end of turn. [i](It can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that colour until end of turn..)[/i]
+
+Superposition Gateway
+rules_text: Whenever a nonland anomaly you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn’t a creature spell if the anomaly was a creature. [i](A card with multiple card types is an anomaly)[/i] => Whenever a nonland anomaly you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell if the anomaly was a creature. [i](A card with multiple card types is an anomaly)[/i]
+
+Lavez, Anchor of the Worldsoul
+cost: {5} => {6}
+
+Rix, Shackle of the Worldsoul
+
+Lichbind
+
+Overgrowing Pumkin
+
+Flurry of Regrowth
+rules_text: Choose a card at random from your graveyard. If it’s a land card, put it onto the battlefield tapped. Otherwise, put it into your hand. Exile this spell.
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i] => Choose a card at random from your graveyard. If it's a land card, put it onto the battlefield tapped. Otherwise, put it into your hand. Exile this spell.
+Storm [i](When you cast this spell, copy it for each spell cast before it this turn.)[/i]
+
+Cloudyawner
+rules_text: Flying
+Whenever you cast your first spell on each opponent’s turn, create a token that’s a copy of this creature. => Flying
+This creature enters tapped.
+Whenever you cast your first spell on each opponent's turn, create a token that's a copy of this creature.
+
+Ruination Mystic
+
+All Encompassing Wish
+
+Stormful Growthmagus
+rules_text: [i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on this creature.
+Remove X counters from this creature: Add X mana in any combination of colors. Activate this ability only once each turn. => [i]Heroic[/i] — Whenever you cast a spell that targets this creature, put two +1/+1 counters on it.
+Remove X counters from this creature: Add X mana in any combination of colors. Activate this ability only once each turn.
+
+Outpouring of Life
+
+Soul Augury
+
+The Observer of All
+rules_text: Emerge {3}{B}{WU}
+You may sacrifice any type of permanent to pay for this creature’s emerge cost.
+If an effect, ability, or cost you pay would require you to sacrifice a creature, you may sacrifice any permanent instead.
+Sacrifice a permanent: Scry 1 => Emerge {3}{B}{WU}
+You may sacrifice any type of permanent to pay for this creature's emerge cost.
+If an effect, ability, or cost you pay would require you to sacrifice a creature, you may sacrifice any permanent instead.
+Sacrifice a permanent: Scry 1
+
+Demonic Prepotence
+
+Ravenous Rhizome
+
+Singe Elemental
+
+Chromatic Storm
+
+Grandmaster of Sparks
+
+Culumonibus Tyrant
+rules_text: Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, return up to one target nonland permanent to its owner’s hand. => Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, return up to one target nonland permanent to its owner's hand.
+
+Planar Till
+
+Harvest
+rules_text: Emerge {4}{B}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)[/i]
+Destroy all creatures. => Emerge {4}{B}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Destroy all creatures.
+
+Mythos of the Unyielding King
+rules_text: Destroy target creature or planeswalker. If {W}{U} was spent to cast this spell, your opponents can’t cast spells that share a card type with that permanent until your next turn. => Destroy target creature or planeswalker. If {W}{U} was spent to cast this spell, your opponents can't cast spells that share a card type with that permanent until your next turn.
+
+Elder Saakstalker
+rules_text: Name a nonland card name. Search each player’s graveyard, hand, and library for any number of cards with the same name and exile them. Each player shuffles.
+Elicit Sorcery {1}{B}{B} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {1}{B}{B}, putting it into the graveyard as it resolves.)[/i]
+Menace, Deathtouch => Name a nonland card name. Search each player's graveyard, hand, and library for any number of cards with the same name and exile them. Each player shuffles.
+Elicit Sorcery {B}{B}{B} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {B}{B}{B}, putting it into the graveyard as it resolves.)[/i]
+Menace, Deathtouch
+
+Dominated Slither
+
+Spellbattery Ghoul
+
+Cthonitaur
+rules_text: Lurk—Pay 5 life. [i](Defending player can’t block this creature unless they Pay 5 life)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, return target creature card from your graveyard to your hand. => Lurk—Pay 5 life. [i](Defending player can't block this creature unless they Pay 5 life)[/i]
+[i]Heroic[/i] — Whenever you cast a spell that targets this creature, return target creature card from your graveyard to your hand.
+
+Doldrum Dreamer
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, you may have each player sacrifice a creature. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, you may have each player sacrifice a creature.
+
+Mythos of the First Hunger
+rules_text: Each player may cast a creature spell from their hand without paying it’s mana cost. If {B}{R} was spent to cast this spell, each opponent sacrifices the permanent they control with the highest mana value at the beginning of the next end step. => Each player may cast a creature spell from their hand without paying it's mana cost. If {B}{R} was spent to cast this spell, each opponent sacrifices the permanent they control with the highest mana value at the beginning of the next end step.
+
+Lifegraft
+rules_text: Create a token that’s a copy of target land, except it’s a green 0/0 elemental creature in addition to its other types and has “This creature enters with two +1/+1 counters” => Create a token that's a copy of target land, except it's a green 2/2 Elemental creature in addition to its other types.
+
+Seek the Immense
+
+Elder Gangeth
+cost: {3}{G}{G}{G} => {3}{G}{G}
+
+Tanglespell Briar
+
+Aspect of Vigor
+
+Tune of Safeholding
+rules_text: You may return a blue creature and a white creature, or a blue & white creature you control to their owner’s hand rather than pay this spell’s mana cost.
+You draw two cards and gain 2 life. => You may return a blue creature and a white creature, or a blue & white creature you control to their owner's hand rather than pay this spell's mana cost.
+You draw two cards and gain 2 life.
+
+Hemorrphage, Spritevix Queen
+
+Distill Fears
+rules_text: When this enchantment enters, exile the top four cards of your library. Until the end of your next turn, you may play those cards.
+Discard a card or sacrifice a creature: Put target card exiled with this enchantment into its owner’s hand. => When this enchantment enters, exile the top four cards of your library. Until the end of your next turn, you may play those cards.
+Discard a card or sacrifice a creature: Put target card exiled with this enchantment into its owner's hand.
+
+Boorish Mystic
+
+Antolie, Anomalous Apostate
+
+Spritethrombosix
+pt: 3/1 => 3/2
+
+Sinister Magister
+
+Stroke of Avail
+
+Scalemail Magmawhelk
+
+Final Ember Embrace
+
+Mythos of the Archdemon
+
+Mindblaze Mystic
+
+Firemind Richualist
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, create a treasure token. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, create a treasure token.
+
+Hyperbolt
+
+Blazing Wheel-Kin
+
+Ominous Soul Tome
+rules_text: As long as it’s not your turn, spells you cast have delve.
+Whenever you cast an instant or sorcery spell, you may have this artifact become a X/X skeleton artifact creature until your next end step, where X is that spell’s mana value. => As long as it's not your turn, spells you cast have delve.
+Whenever you cast an instant or sorcery spell, you may have this artifact become a X/X skeleton artifact creature until your next end step, where X is that spell's mana value.
+
+Chronoduplicate
+rules_text: Cast a copy of target creature you control without paying it’s mana cost. => Cast a copy of target creature you control without paying it's mana cost.
+
+Mythos of the Sage
+
+Retroarcane Continuity
+
+The Wind Releaser
+rules_text: At the beginning of each player’s end step, exile target nonland permanent they control. For as long as that card remains exiled, its owner may cast it without paying its mana cost. => At the beginning of each player's end step, exile target nonland permanent they control. For as long as that card remains exiled, its owner may cast it without paying its mana cost.
+
+Narcorelapsy
+rules_text: Enchant creature
+When this aura enters, tap enchanted creature. It doesn’t untap during its controllers untap step.
+At the beginning of combat on your turn, if you’ve cast three or more noncreature spells this turn, you may return this aura from your graveyard to the battlefield. => Enchant creature
+When this aura enters, tap enchanted creature. It doesn't untap during its controllers untap step.
+At the beginning of combat on your turn, if you've cast three or more noncreature spells this turn, you may return this aura from your graveyard to the battlefield.
+
+Unmoored Ideas
+
+Temporal Emergence
+rules_text: Emerge {4}{U}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)[/i]
+Take an extra turn after this one => Emerge {4}{U}{U} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Take an extra turn after this one
+
+Acolyte of the Anchor
+rules_text: Players can’t spend more than X mana on casting a noncreature spell, where X is the highest mana value among permanents you control. => Players can't spend more than X mana on casting a noncreature spell, where X is the highest mana value among permanents you control.
+
+Anchorley Angel
+
+Mythos of the Pale
+rules_text: This spell deals twice X damage to target attacking or blocking creature. Then if {R}{G} was spent to cast this spell, add three mana in any combination of colors. That mana doesn’t empty from your mana pool this turn as steps and phases end. => This spell deals twice X damage to target attacking or blocking creature. Then if {R}{G} was spent to cast this spell, add three mana in any combination of colors. That mana doesn't empty from your mana pool this turn as steps and phases end.
+
+Unanchored Sky-Serpent
+
+Ultrashield Angel
+
+Decrown
+
+Re-weave the World
+
+Drawn From Discussion
+
+Sludgefly
+rules_text: Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, put a +1/+1 counter on this creature. => Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, put a +1/+1 counter on this creature.
+
+Twilight Tiger
+
+Saakstalker Egg
+rules_text: Defender
+Whenever this creature dies, each opponent exiles a card from their hand.
+Whenever this creature is sacrificed, search your library for demon card and reveal it. Shuffle, then put that card on top. => Defender
+Whenever this creature dies, each opponent exiles a card from their hand.
+Whenever this creature is sacrificed, return another target demon card from your graveyard to your hand.
+
+Influenced informant
+rules_text: Lurk—Pay 3 life. [i](Defending player can’t block this creature unless they Pay 3 life)[/i]
+Whenever this creature dies, you lose 1 life and draw a card.
+Whenever this creature is sacrificed, you lose 1 life and draw a card. => Lurk—Pay 3 life. [i](Defending player can't block this creature unless they Pay 3 life)[/i]
+Whenever this creature dies, you lose 1 life and draw a card.
+Whenever this creature is sacrificed, you lose 1 life and draw a card.
+
+Ichor Elemental
+
+Espien, Shellmage
+
+Hunting Saakstalker
+rules_text: Each opponent loses X life, where X is the highest mana value among permanents you control.
+Elicit Sorcery {2}{B} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {2}{B}, putting it into the graveyard as it resolves.)[/i]
+Menace => Each opponent loses life equal to the highest mana value among permanents you control.
+Elicit Sorcery {2}{B} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {2}{B}, putting it into the graveyard as it resolves.)[/i]
+Menace
+
+Brainseize
+rules_text: Target player reveals their hand. You choose a nonland card from it. That player discards that card. Then if that card wasn’t an instant or sorcery, you discard a card. => Target player reveals their hand. You choose a nonland card from it. That player discards that card. Then if that card wasn't an instant or sorcery, you discard a card.
+
+Resummon
+rules_text: Emerge {3}{B}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)[/i]
+Cast target creature card from your graveyard without paying its mana cost. => Emerge {3}{B}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Cast target creature card from your graveyard without paying its mana cost.
+
+Demon's Prowl
+rules_text: Target creature you control gains menace, deathtouch, and lifelink until end of turn.
+Creatures target opponent controls gets -1/-1 until end of turn. => Target creature you control gains menace, deathtouch, and lifelink until end of turn.
+Creatures target opponent controls get -1/-1 until end of turn.
+
+Nirvana Doldrums
+
+Revolving Dread
+
+Mosswhelk
+rules_text: This creature’s power and toughness is equal to the number of anomalies you control. [i](cards with multiple card types are anomalies.)[/i] => This creature's power and toughness is equal to the number of anomalies you control. [i](cards with multiple card types are anomalies.)[/i]
+
+Carrabaster Cultivator
+pt: 1/2 => 1/1
+
+Growing Duderino
+
+Bear Ghost
+rules_text: [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, you may put a land card from your hand onto the battlefield. => [i][i]Magecraft[/i][/i] — Whenever you cast or copy an instant or sorcery spell, you may put a land card from your hand onto the battlefield.
+
+Aran, Forest Hermit
+rules_text: Vigilance
+Creatures you control have “[i]Heroic[/i] — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it”.
+{1}{BR}: Target creature you control gains menace until end of turn. => Vigilance
+Creatures you control have “[i]Heroic[/i] — Whenever you cast a spell that targets this creature, put two +1/+1 counters on it”.
+{1}{BR}: Target creature you control gains menace until end of turn.
+
+Greater Gangeth
+rules_text: Vigilance, Trample
+As long as you control 4 or more anomalies, this creature costs {2} less to cast and gets +3/+0. [i](cards with multiple card types are anomalies.)[/i] => This spell costs {2} less to cast if you control an anomaly. [i](A card with multiple card types is an anomaly)[/i]
+Vigilance, Trample
+This creature gets +1/+0 for each anomaly you control.
+
+Essence Feeder
+
+Thornbark Prile
+
+Mawssive Hunger
+
+Aran's Acuity
+
+Anchor-root Vitality
+rules_text: Target creature gets +X/+X until end of turn, where X is it’s mana value. Put a +1/+1 counter on that creature. => Target creature gets +X/+X until end of turn, where X is it's mana value. Put a +1/+1 counter on that creature.
+
+Revolving Medititation
+
+Forgetmenot Glade
+rules_text: Forgetmenot Glade enters the battlefield tapped unless you’ve cast an instant or sorcery spell this turn.
+{T}, Add {W}, {G}, Or {U}. => Forgetmenot Glade enters the battlefield tapped unless you've cast an instant or sorcery spell this turn.
+{T}, Add {W}, {G}, Or {U}.
+
+Chalcogen Spring
+rules_text: Chalcogen Spring enters the battlefield tapped unless you’ve cast an instant or sorcery spell this turn.
+{T}, Add {W}, {U}, Or {B}. => Chalcogen Spring enters the battlefield tapped unless you've cast an instant or sorcery spell this turn.
+{T}, Add {W}, {U}, Or {B}.
+
+Whizzing Sinews
+rules_text: Whizzing Sinews enters the battlefield tapped unless you’ve cast an instant or sorcery spell this turn.
+{T}, Add {U}, {B}, Or {R}. => Whizzing Sinews enters the battlefield tapped unless you've cast an instant or sorcery spell this turn.
+{T}, Add {U}, {B}, Or {R}.
+
+Prechronal Undergrowth
+rules_text: Prechronal Undergrowth enters the battlefield tapped unless you’ve cast an instant or sorcery spell this turn.
+{T}, Add {B}, {R}, or {G}. => Prechronal Undergrowth enters the battlefield tapped unless you've cast an instant or sorcery spell this turn.
+{T}, Add {B}, {R}, or {G}.
+
+Platau lumen
+rules_text: Platau lumen enters the battlefield tapped unless you’ve cast an instant or sorcery spell this turn.
+{T}, Add {R}, {G}, Or {W}. => Platau lumen enters the battlefield tapped unless you've cast an instant or sorcery spell this turn.
+{T}, Add {R}, {G}, Or {W}.
+
+Benevolent Herd
+rules_text: Flying
+Whenever you cast your first spell on each opponent’s turn, you gain 1 life and scry 1. => Flying
+Whenever you cast your first spell on each opponent's turn, you gain 1 life and scry 1.
+
+Drench
+rules_text: Emerge {2}{U}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)[/i]
+Target creature an opponent controls gets -2/-4 until end of turn.
+If you’ve sacrificed a creature this turn, draw a card. => Emerge {2}{U}{B} [i](You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)[/i]
+Target creature an opponent controls gets -2/-4 until end of turn.
+If you've sacrificed a creature this turn, draw a card.
+
+Excrutiating Voice
+
+Leyline Channeler
+
+Idol of Harmony
+type: Enchantment Creature — ??? => Enchantment Creature — Avatar
+cost: {3}{G}{W} => {2}{G}{W}
+
+Mightsoul Samurai
+rules_text: Lifelink, Lurk {2} [i](Defending player can’t block this creature unless they {2})[/i]
+this creature’s power and toughness is equal to the highest mana value among permanents you control. => Lifelink, Lurk {2} [i](Defending player can't block this creature unless they {2})[/i]
+this creature's power and toughness is equal to the highest mana value among permanents you control.
+
+Knorguer, Saccloc
+rules_text: Flying
+Whenever you sacrifice a permanent, tap target permanent an opponent controls. => Vigilance
+Whenever you sacrifice a permanent, choose one — 
+• Tap target permanent.
+• Target player mills a card.
+• Each opponent loses 1 life.
+
+Shadowflock
+rules_text: Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, create two 1/1 black Bird creature tokens with flying and decayed. => Flying
+[i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, create two 1/1 black Bird creature tokens with flying and decayed.
+
+Alarming Alteration
+
+Honourable Bushido
+rules_text: Creatures you control get +3/+0 as long as you’ve cast 3 or more instant or sorcery spells this turn. => Creatures you control get +3/+0 as long as you've cast 3 or more instant or sorcery spells this turn.
+
+Klashpeak Stinger
+rules_text: This spell deals 1 damage to any target.
+Elicit Creature {R} [i](You may cast this as a Creature instead of as an Instant Creature for {R}, it resolves without the above effects.)[/i]
+This creature can’t block. => This spell deals 1 damage to any target.
+Elicit Creature {R} [i](You may cast this as a Creature instead of as an Instant Creature for {R}, it resolves without the above effects.)[/i]
+This creature can't block.
+
+Klashpeak Crusader
+
+Chainfiend
+pt: 3/3 => 4/4
+
+Boastful Battlemage
+
+Heroic Spearmagus
+
+Kleefoff, Essence Looter
+rules_text: [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn’t cast, the next instant or sorcery spell you cast this turn costs {1} less to cast.
+{1}{UB}: Draw a card, then discard a card. this creature gains flying until end of turn. => [i]Whiz[/i] — Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, the next instant or sorcery spell you cast this turn costs {1} less to cast.
+{1}{UB}: Draw a card, then discard a card. this creature gains flying until end of turn.
+
+Unanchored Richual
+
+Blitz Infusion
+
+Blazing Axe
+
+Revolving Panic
+
+Ravencaller
+rules_text: Flying
+{1}{U}, {T}, Sacrifice this creature: Create X 1/1 black bird creature tokens with flying and decayed, where X is the highest mana value among permanents you control. => Flying
+{1}{U}, {T}, Sacrifice this creature: Create a number of 1/1 black Bird creature tokens with flying and decayed equal to the highest mana value among permanents you control.
+
+Spellatog
+
+Safekeeper of the Chains
+
+Hereditary Heron
+
+Kefus, the Scribe
+
+Dragger of Depths
+rules_text: Creatures you control get Lurk {2} until end of turn. [i](creatures you control can’t be blocked unless defending player pays {2} for each of those creatures.)[/i]
+Elicit Sorcery {1}{U}{U} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {1}{U}{U}, putting it into the graveyard as it resolves.)[/i]
+{3}{U}{U}: This creature can’t be blocked this turn. => Until end of turn, whenever a creature you control deals combat damage, target player mills that many cards.
+Elicit Sorcery {1}{U}{U} [i](You may cast this as a Sorcery instead of as a Sorcery Creature for {1}{U}{U}, putting it into the graveyard as it resolves.)[/i]
+{3}{U}{U}: This creature can't be blocked this turn.
+
+Driftmuller
+
+Revoke Access
+rules_text: Counter target spell. The creatures of that spell’s controller get -2/-0 until end of turn. => Counter target spell. Creatures your opponents control get -2/-0 until end of turn.
+
+Thirst for Acknowledgement
+
+Spritevix's Retrieveal
+
+Revolving Insight
+
+Voidliss Sky-Serpent
+rules_text: Protection from anomalies [i](This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything with multiple card types.)[/i]
+This creature has flying as long as it’s attacking. => Protection from anomalies [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything with multiple card types.)[/i]
+This creature has flying as long as it's attacking.
+
+Aspiring Bannerette
+
+Mild Mystic
+rules_text: [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, you gain 1 life. => [i][i]Magecraft[/i][/i] — Whenever you cast or copy an instant or sorcery spell, you gain 1 life.
+
+Skviper Skimmer
+
+Tale Weaver
+rules_text: Whenever you cast your first instant or sorcery spell each turn, create two 1/1 white soldier creature token. => Whenever you cast your first instant or sorcery spell each turn, create two 1/1 white soldier creature tokens.
+
+Lathinia, Metalwinged
+
+Idol of Decrees
+rules_text: Vigilance
+Whenever this creature dies, the next spell you cast this turn can be cast as though it had flash.
+Whenever this creature is sacrificed, your opponents can’t cast more than one spell until your next turn. => Vigilance
+Whenever this creature dies, the next spell you cast this turn can be cast as though it had flash.
+Whenever this creature is sacrificed, your opponents can't cast more than one spell until your next turn.
+
+Defrock
+
+Giant's Axe
+
+Rematerialize
+
+Revolving Arts
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
