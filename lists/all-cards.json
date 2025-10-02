@@ -5219,8 +5219,10 @@
             "loyalty": "",
             "artist": "@BrendanCave on Twitter",
             "alias": "",
+            "position": "0",
             "notes": "https://twitter.com/BrendanCave/status/1520443850728390656/photo/1\n\n\nhttps://no.wikipedia.org/wiki/Vitiligo\ndosix",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Map out",
@@ -5239,8 +5241,10 @@
             "loyalty": "",
             "artist": "Kyle Herring on Artstation",
             "alias": "",
+            "position": "1",
             "notes": "https://www.artstation.com/artwork/q9xodP",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "See Ahead",
@@ -5259,8 +5263,10 @@
             "loyalty": "",
             "artist": "Tiago Alexandre on Artstation",
             "alias": "",
+            "position": "2",
             "notes": "https://www.artstation.com/artwork/rRrLY2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Idol of Essence",
@@ -5279,8 +5285,10 @@
             "loyalty": "",
             "artist": "Ruslan Kadiev on Artstation",
             "alias": "",
+            "position": "3",
             "notes": "\n\n\n\n\nOG artist_1:\n(BURH)\nhttps://twitter.com/craftedlavais/likes (BRUH)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spritevarix",
@@ -5299,8 +5307,10 @@
             "loyalty": "",
             "artist": "@KamikiriRIP On twitter",
             "alias": "",
+            "position": "4",
             "notes": "https://x.com/KamikiriRIP/status/1764366778921324836/photo/1\n\nOG art_1:\nhttps://twitter.com/Kamikiri_T/status/1446009007450181632/photo/1\n\nFrom wikiped: \"A varix (pl. varices) is an abnormally dilated vessel with a tortuous course....\" (Aka \u00e5reknute)\n\n\nOG_1:\nFlying\nWhenever you discard MV1 Spritevarix (new art), each opponent loses 1 life.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Willing Fodder",
@@ -5319,8 +5329,10 @@
             "loyalty": "",
             "artist": "Enmanuel Martinez on Artstation",
             "alias": "",
+            "position": "5",
             "notes": "https://gmlemas.artstation.com/projects/8lgaxG\n\n\n\nOG_1:\nWhenever CB02 MV2 Willing Fodder dies, each opponent loses 2 life.\nWhenever CB02 MV2 Willing Fodder is sacrificed, you may have each player discard a card.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chitinous Hound",
@@ -5339,8 +5351,10 @@
             "loyalty": "",
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
+            "position": "6",
             "notes": "https://www.artstation.com/artwork/XgBZwy\n\n\n\nOG art_1:\n@Kamikiri_T on Twitter\nhttps://twitter.com/Kamikiri_T/status/1433083513142583296\n\n\n\nOG:\nLifelink\nWhenever you discard CB03 MV2 Chitin Pet or another card, you may pay B and exile CB03 MV2 Chitin Pet from your graveyard. if you do, each player loses 3 life.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gerx Parasite",
@@ -5359,8 +5373,10 @@
             "loyalty": "",
             "artist": "@SigneJeppesen",
             "alias": "",
+            "position": "7",
             "notes": "https://twitter.com/SigneJeppesen/status/1444280562617888770/photo/1\n\n\nOG_1:\nCosted 3 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blood Seer",
@@ -5379,8 +5395,10 @@
             "loyalty": "",
             "artist": "Marcel Mercado",
             "alias": "",
+            "position": "8",
             "notes": "https://store.marcelmercado.com/product/blood-magic-gliclee-print\n\n\nOG_3:\nYou draw a card and lose 1 life.\nElicit \u200fCreature U/B\n\n\n\nOG_2:\nCosted 1BB, and was an instant creature.\n\nYou Draw a card and lose 1 life\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nElicit Creature B\n1/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recluded Ronin",
@@ -5399,8 +5417,10 @@
             "loyalty": "",
             "artist": "Carlos \"Kamyu\" D\u00edaz Asenjo",
             "alias": "",
+            "position": "9",
             "notes": "https://www.artstation.com/artwork/nYe2aO\n\n\n\nOG_1:\nWas a common at 2 mana.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Belltower Mystic",
@@ -5419,8 +5439,10 @@
             "loyalty": "",
             "artist": "@istrandar On twitter",
             "alias": "",
+            "position": "10",
             "notes": "https://twitter.com/istrandar/status/1448017174518456324/photo/3\n\n\n\nOG_4:\nUsed old whiz text, didn't have flying\n\nOG_3:\nOpponents lose 1 life.\n\nOG_2:\nCreates a 1/1 black elemental with decayed.\n\nOG_1:\nCreates a 1/1 black bird with flying and decayed.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spritestenosix",
@@ -5439,8 +5461,10 @@
             "loyalty": "",
             "artist": "@KamikiriRIP on Twitter",
             "alias": "",
+            "position": "11",
             "notes": "https://x.com/KamikiriRIP/status/1803477713577189736/photo/1\n\nOG Art_1:\nhttps://twitter.com/Kamikiri_T/status/1430845872753971200/photo/1\n\n\nOG_2:\nAs long as a player has discarded a card this turn, this creature has lifelink.\nW/UW/U, or pay 4 life: This creature gains flying until end of turn.\n\nOG: Flying\nHeroic \u2014 Whenever you cast a spell that targets CARDNAME, it gets +2/+0 until end of turn and you lose 1 life.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Minister of Bygones",
@@ -5459,8 +5483,10 @@
             "loyalty": "",
             "artist": "A-Inh",
             "alias": "",
+            "position": "12",
             "notes": "https://www.artstation.com/artwork/1xYgZ2\n\n\nOG_1:\nWas originally sky skriller.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prowling Saakstalker",
@@ -5479,8 +5505,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "13",
             "notes": "https://www.artstation.com/artwork/d00L13\n\nOG_3:\nCosted 5 mana and entered tapped.\n\nOG_2:\nWasn't an instant\n\nOG_1:\nUp to one target creature gets +3/+0 and indestructible until end of turn.\nElicit Sorcery 1B (You may cast this as a Sorcery spell for 1B, Removing the bracketed qualities.)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ichorate",
@@ -5499,8 +5527,10 @@
             "loyalty": "",
             "artist": "Ruslan Kadiev on Artstation",
             "alias": "",
+            "position": "14",
             "notes": "https://www.artstation.com/artwork/0lKW8\n\n\nOG art_1:\n@pucchiyo\nhttps://twitter.com/pucchiyo/status/1458427889737551873/photo/1\n\n\nOG_1:\ncosted 4 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fae Blade Blessing",
@@ -5519,8 +5549,10 @@
             "loyalty": "",
             "artist": "Chris Dixon on Artstation",
             "alias": "",
+            "position": "15",
             "notes": "https://www.artstation.com/artwork/lRyR4Y\n\n\nOG: As an additional cost to casting this spell, sacrifice a creature or discard a card.\nTarget creature you control gets +4/+2 and indestructible until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Witherweight",
@@ -5539,8 +5571,10 @@
             "loyalty": "",
             "artist": "Aina Theede on Artstation",
             "alias": "",
+            "position": "16",
             "notes": "https://www.artstation.com/artwork/2qLdvv\n\n\n\n\nOG_1:\n(was uncommon)\nTarget creature gets -2/-1 and gains flying until end of turn.\nDraw a card.\nWhenever Witherweight is put into your graveyard. Create a 1/1 black Bird creature token with flying and decayed. (It can't block. When it attacks, sacrifice it at end of combat.)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chain Drain",
@@ -5559,8 +5593,10 @@
             "loyalty": "",
             "artist": "Tey Ito on Artstation",
             "alias": "",
+            "position": "17",
             "notes": "https://www.artstation.com/artwork/KaqRlR\n\n\nOG_1:\nCosted like, 5 mana bro...\nAnd the emerge was also 5 mana...",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spritevix Bargain",
@@ -5579,8 +5615,10 @@
             "loyalty": "",
             "artist": "Travis-Anderson",
             "alias": "",
+            "position": "18",
             "notes": "https://www.deviantart.com/travis-anderson/art/The-bleeding-sphere-742456983",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Reposess Soul",
@@ -5599,8 +5637,10 @@
             "loyalty": "",
             "artist": "hgjart",
             "alias": "",
+            "position": "19",
             "notes": "https://www.deviantart.com/hgjart/art/Scorpio-577002158",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ashassinate",
@@ -5619,8 +5659,10 @@
             "loyalty": "",
             "artist": "Vladimir Matyukhin FT on Artstation",
             "alias": "",
+            "position": "20",
             "notes": "https://www.artstation.com/artwork/Z5Ao5w\n\n\nOG_1:\nhad generic cycling cost",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Demonstrate Dissent",
@@ -5639,8 +5681,10 @@
             "loyalty": "",
             "artist": "hgjart",
             "alias": "",
+            "position": "21",
             "notes": "https://www.deviantart.com/hgjart/art/Sagittarius-577165369\nhgjart",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spirima",
@@ -5659,8 +5703,10 @@
             "loyalty": "",
             "artist": "Borja Pindado on Artstation",
             "alias": "",
+            "position": "22",
             "notes": "https://www.artstation.com/artwork/wq94X\n\nOG art_1:\n@pint38 on Twitter\nhttps://twitter.com/pint38/status/1454526177306193920/photo/2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Glade Protector",
@@ -5679,8 +5725,10 @@
             "loyalty": "",
             "artist": "Benj\u00e1min S\u00f3lyom-Tisza on Artstation",
             "alias": "",
+            "position": "23",
             "notes": "https://www.artstation.com/artwork/8eg9VR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wurmsoul Mystic",
@@ -5699,8 +5747,10 @@
             "loyalty": "",
             "artist": "Ilya Popov",
             "alias": "",
+            "position": "24",
             "notes": "https://www.artstation.com/artwork/xJ5L1r\n\n\nOG art_1:\nMostly Dans\nhttps://www.flickr.com/photos/dannyboymalinga/5066007188/sizes/l/in/photostream/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Muscle Mystic",
@@ -5719,8 +5769,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "25",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Ronin-Brawler-545822531\n\nOG art_1:\nGreatBigGiant on Deviantart\nhttps://www.deviantart.com/greatbiggiant/art/African-Shaman-Has-Mastered-the-Art-of-Shrinking-819886658\n\nOG_1\nCreatures you control have \u201cHeroic \u2014 Whenever you cast a spell that targets this creature, it gets +1/+1 until end of turn\u201d",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Verdant Boar",
@@ -5739,8 +5791,10 @@
             "loyalty": "",
             "artist": "Sickbrush on Deviantart",
             "alias": "",
+            "position": "26",
             "notes": "https://www.deviantart.com/sickbrush/art/Elara-Boar-Guardian-392388387\n\nOG_4:\nCreate a 2/2 green Beast enchantment creature token.\nElicit \u200fCreature 2R/G (You may cast this as a Creature instead of as a Sorcery Creature for 2R/G, it resolves without the above effects.)\nTrample\n\nOG_3:\nCreate a 1/1 red wizard creature token with \u201cMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.\u201d\nDidn't have trample\n\nOG_2:\nCreate a 2/2 green Beast enchantment creature token.\n\nElicit Creature 2R/G\n\nOG_1: Until end of turn, creatures enter the battlefield under your control with two additional +1/+1 counters.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Canopy Ambusher",
@@ -5759,8 +5813,10 @@
             "loyalty": "",
             "artist": "nigelhimself on deviantart",
             "alias": "",
+            "position": "27",
             "notes": "https://www.deviantart.com/nigelhimself/art/Spider-cocoon-Daily-Spitpaint-499569028\n\n\nOG_2:\n5 damage to flying creature\n\nOG_1: \nDestroy flying creature\n",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Daunting Lifeflame",
@@ -5779,8 +5835,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "28",
             "notes": "https://www.artstation.com/artwork/0nb4Kw\n\nOG art_1:\nPatrick Danneker \nhttps://www.artstation.com/artwork/zAza5d\n\n\n!chop\n\n\nAlter: Magecraft \u2014 Whenever you cast or copy an instant or sorcery spell, target creature you control can't be blocked by creatures with power 2 or less this turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Granky Mystic",
@@ -5799,8 +5857,10 @@
             "loyalty": "",
             "artist": "Gaelya",
             "alias": "",
+            "position": "29",
             "notes": "https://bsky.app/profile/gaelya.bsky.social/post/3luksdicb6224\n\n\nOG_1:\nhttps://www.artstation.com/artwork/grqex\n\n\n\nUp to five target creatures get +4/+6 until end of turn\n\nElicit Creature 3G\n3/4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vine Heroc",
@@ -5819,8 +5879,10 @@
             "loyalty": "",
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
+            "position": "30",
             "notes": "https://www.artstation.com/artwork/5vzqJW\n\n\n\n\n\nOG art_1:\n@foreverinvalid on Twitter\nhttps://twitter.com/foreverinvalid/status/1459997708404600839/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flightsteppe Centaur",
@@ -5839,8 +5901,10 @@
             "loyalty": "",
             "artist": "David Alvarez on Artstation",
             "alias": "",
+            "position": "31",
             "notes": "https://www.artstation.com/artwork/NgO4z\n\n\nOG_2:\nMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, look at the top card of your library. If it's a land card, you may reveal it and put it into your hand.\n\nOG: Heroic \u2014 Whenever you cast a spell that targets CARDNAME, you may search your library for a basic land card, reveal it and put it into your hand, then shuffle.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Neoitc Oldgrowth",
@@ -5859,8 +5923,10 @@
             "loyalty": "",
             "artist": "JMD3 on Deviantart",
             "alias": "",
+            "position": "32",
             "notes": "https://www.deviantart.com/jmd3/art/Forest-King-491825971\n\nOG art_1:\nTimoon on Deviantart\nhttps://www.deviantart.com/timooon/art/Pachyderm-Caterpillar-359099941\n\n\nwhenever CARDNAME enters or leaves the battlefield, if you've cast an instant or a sorcery spell this turn, draw a card.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mystic's Retort",
@@ -5879,8 +5945,10 @@
             "loyalty": "",
             "artist": "KateMaxpaint",
             "alias": "",
+            "position": "33",
             "notes": "https://www.deviantart.com/katemaxpaint/art/Wolves-Summoner-251350570",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Druidic Vigor",
@@ -5899,8 +5967,10 @@
             "loyalty": "",
             "artist": "Johan Espling on Artstation",
             "alias": "",
+            "position": "34",
             "notes": "https://www.artstation.com/artwork/DyrzE\n\n\n!chop\nOG_4:\nCosted 4 mana, costed less from only instants and sorceries.\n\nOG_1:\nGave +3/+3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Natal Growth",
@@ -5919,8 +5989,10 @@
             "loyalty": "",
             "artist": "Ruslan Kadiev on Artstation",
             "alias": "",
+            "position": "35",
             "notes": "https://www.artstation.com/artwork/0zr4V\n\n\n\nOG art_1:\n@advadnoun on Twitter\nhttps://twitter.com/advadnoun/status/1483878237985906688/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Verdant Synthesis",
@@ -5939,8 +6011,10 @@
             "loyalty": "",
             "artist": "Huussii",
             "alias": "",
+            "position": "36",
             "notes": "https://www.deviantart.com/huussii/art/Exiled-Druids-of-Lornwood-622851414",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Disarming Vines",
@@ -5959,8 +6033,10 @@
             "loyalty": "",
             "artist": "Matt Sellers on Artstation",
             "alias": "",
+            "position": "37",
             "notes": "https://www.artstation.com/artwork/nQGqve",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Endless Vegetation",
@@ -5979,8 +6055,10 @@
             "loyalty": "",
             "artist": "Alexander Cowan on Artstation",
             "alias": "",
+            "position": "38",
             "notes": "https://www.artstation.com/artwork/r1LJ6",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heroic Growth",
@@ -5999,8 +6077,10 @@
             "loyalty": "",
             "artist": "Jim Fitzpatrick",
             "alias": "",
+            "position": "39",
             "notes": "https://greengallery.ie/collections/jim-fitzpatrick/products/nuada-the-high-king\n\n(already have the white uncommon reprint lol)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tranquil Cove",
@@ -6019,8 +6099,10 @@
             "loyalty": "",
             "artist": "John Avon",
             "alias": "(Canon reprint)",
+            "position": "40",
             "notes": "CARDNAME enters the battlefield tapped.\nWhen CARDNAME enters the battlefield, you gain 1 life.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dismal Backwater",
@@ -6039,8 +6121,10 @@
             "loyalty": "",
             "artist": "Eytan Zana",
             "alias": "(Canon reprint)",
+            "position": "41",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodfell Cave",
@@ -6059,8 +6143,10 @@
             "loyalty": "",
             "artist": "Adam Paquette",
             "alias": "(Canon reprint)",
+            "position": "42",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rugged Highlands",
@@ -6079,8 +6165,10 @@
             "loyalty": "",
             "artist": "Eytan Zana",
             "alias": "(Canon reprint)",
+            "position": "43",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blossoming Sands",
@@ -6099,8 +6187,10 @@
             "loyalty": "",
             "artist": "Sam Burley",
             "alias": "(Canon reprint)",
+            "position": "44",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skrigi Honorguard",
@@ -6119,8 +6209,10 @@
             "loyalty": "",
             "artist": "Fran Fdez on Artstation",
             "alias": "",
+            "position": "45",
             "notes": "https://www.artstation.com/artwork/N5n1Oz\n\nOG art_1:\nhttps://www.artstation.com/artwork/ZODRX\n\n!chop",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lith Mystic",
@@ -6139,8 +6231,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "46",
             "notes": "https://www.artstation.com/artwork/049aqw\n\nOG art_1:\nascar_angainor\nhttps://www.furaffinity.net/view/19272076/\n\n\n\nOG_1:\nWas named immolating mystic, had other art\n\n1R, Exile an instant or sorcery card from your graveyard: MV2 Immolating Mystic gets +3/+0 until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ritual Ram",
@@ -6159,8 +6253,10 @@
             "loyalty": "",
             "artist": "Narges Jafari on Artstation",
             "alias": "",
+            "position": "47",
             "notes": "https://www.artstation.com/artwork/XnveQa",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anomulmutt",
@@ -6179,8 +6275,10 @@
             "loyalty": "",
             "artist": "Spyros Verykios",
             "alias": "",
+            "position": "48",
             "notes": "https://www.behance.net/gallery/27151379/Burning-dog-2\n\n\n\nOG_1:\nAs long as you control 3 or more anomalies, MV2 Anomulmutt gets +3/+0 and can't block. (Anything with more than one card type is an anomaly.)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flamebow Elemental",
@@ -6199,8 +6297,10 @@
             "loyalty": "",
             "artist": "Ruslan Kadiev on Artstation",
             "alias": "",
+            "position": "49",
             "notes": "https://www.artstation.com/artwork/e0myw\n\nOG art_1:\nValentina Remanar on Artstation\nhttps://www.artstation.com/artwork/YbKdV\n\n\n\nOG_1:\nDidn't have reach",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Featherseer Mystic",
@@ -6219,8 +6319,10 @@
             "loyalty": "",
             "artist": "Erikas Perl on Artstation",
             "alias": "",
+            "position": "50",
             "notes": "https://www.artstation.com/artwork/eZoEb",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blazing Mystic",
@@ -6239,8 +6341,10 @@
             "loyalty": "",
             "artist": "Alexander Elichev",
             "alias": "",
+            "position": "51",
             "notes": "https://www.artstation.com/artwork/e36YD\n\n!chop\n\nOG_2:\nUsed old whiz text\n\nOG_1?:\n\n\nCreatures you control have \u201cHeroic \u2014 Whenever you cast a spell that targets this creature, it gains +1/+0 until end of turn\u201d\n\n3/2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Goblin Muscician",
@@ -6259,8 +6363,10 @@
             "loyalty": "",
             "artist": "Igor-Grechanyi on Deviantart",
             "alias": "",
+            "position": "52",
             "notes": "https://www.deviantart.com/igor-grechanyi/art/Goblin-bard-294814962\n\n\nOG_2:\nWas a 2/5 that costed double red\n\nOG_1:\nUsed old whiz text.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chainbreak Ragetaur",
@@ -6279,8 +6385,10 @@
             "loyalty": "",
             "artist": "0bo",
             "alias": "",
+            "position": "53",
             "notes": "https://www.deviantart.com/0bo/art/red-monster-444876727",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Idol of Skirmishes",
@@ -6299,8 +6407,10 @@
             "loyalty": "",
             "artist": "Jim Fitzpatrick",
             "alias": "",
+            "position": "54",
             "notes": "https://greengallery.ie/collections/jim-fitzpatrick/products/nuada-silverarm\n\n\nOG_1:\nWas when 'this creature' attacks.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whizzing Fireballt",
@@ -6319,8 +6429,10 @@
             "loyalty": "",
             "artist": "P\u00e9ter Kov\u00e1cs on Artstation",
             "alias": "",
+            "position": "55",
             "notes": "https://www.artstation.com/artwork/XnV4gR\n\n\nOG_1:\nThis spell costs 2 less to cast if an instant or sorcery card was put into your graveyard this turn.\nThis spell deals 3 damage to any target.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overpulse",
@@ -6339,8 +6451,10 @@
             "loyalty": "",
             "artist": "Ruslan Kadiev on Artstation",
             "alias": "",
+            "position": "56",
             "notes": "https://www.artstation.com/artwork/XBdP3\n\n\n\nOG art_1:\nJohn Edwards on Artstation\nhttps://www.artstation.com/artwork/q9Lgxz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prowling Peck",
@@ -6359,8 +6473,10 @@
             "loyalty": "",
             "artist": "Kyle Pearson on Artstation",
             "alias": "",
+            "position": "57",
             "notes": "https://www.artstation.com/artwork/ELJdNv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wideflame",
@@ -6379,8 +6495,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "58",
             "notes": "https://www.artstation.com/artwork/042WzV\n\n!chop !oprhan\n\n\nOG_1:\nHad generic cycling cost",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Searing Thoughts",
@@ -6399,8 +6517,10 @@
             "loyalty": "",
             "artist": "Bryan Sola on artstation",
             "alias": "",
+            "position": "59",
             "notes": "https://www.artstation.com/artwork/nmmy4\n\nOG art_1:\nhibiscu on Deviantart\nhttps://www.deviantart.com/hibiscu/art/burning-mind-274208702",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Vampiric Fury",
@@ -6419,8 +6539,10 @@
             "loyalty": "",
             "artist": "Sergei Snegirev on Artstation",
             "alias": "",
+            "position": "60",
             "notes": "https://www.artstation.com/artwork/zORwEm \n\nPotentially flagged for upshifting to uncommon.\n\n\n\n\n\n\nOG1: Target creature you control gets +1/+1 until end of turn, then. if its power is 3 or less, return CG14 Natal Growth to its owner's hand.\n\nOG2: Target creature you control gets +1/+1 until end of turn. Then if it's untapped, return CG14 Natal Growth to its owners hand.\n\nOG_3:\nTarget creature you control gets +2/+2 until end of turn. If that creature is untapped, you may tap it. if you do, return CG14 Natal Growth to its owners hand.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Single Point Stab",
@@ -6439,8 +6561,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "61",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Ifrit-Strike-555869893\n\n\nOG art_1:\nProjectmoon art for single point stab",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drown In Flames",
@@ -6459,8 +6583,10 @@
             "loyalty": "",
             "artist": "@JamesBousema on Twitter",
             "alias": "",
+            "position": "62",
             "notes": "https://twitter.com/JamesBousema/status/1470821147302236160/photo/1\n\n\n!chop\n\n\nOG_1:\nDidn't have uncounterable text",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spritembolusix",
@@ -6479,8 +6605,10 @@
             "loyalty": "",
             "artist": "@KamikiriRIP on Twitter",
             "alias": "",
+            "position": "63",
             "notes": "https://x.com/KamikiriRIP/status/1829317773182509477/photo/1\n\nOG art_1:\nhttps://twitter.com/Kamikiri_T/status/1406808731082317825/photo/1\n\n\nOG_1:\nFlying\nWhenever this creature dies, scry 1.\nWhenever this creature is sacrificed, draw a card, then discard a card.\n\nFrom Wikiped: \"An embolism is the lodging of an embolus, a blockage-causing piece of material, inside a blood vessel...\"",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Idol of Benthic Secrets",
@@ -6499,8 +6627,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "64",
             "notes": "https://x.com/KamikiriRIP/status/1755174472230023525/photo/1\n\n\n\nOG_1:\nWas a reprint of Naiad",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Memory Nomad",
@@ -6519,8 +6649,10 @@
             "loyalty": "",
             "artist": "@JoelCHoltzman on Twitter",
             "alias": "",
+            "position": "65",
             "notes": "https://twitter.com/JoelCHoltzman/status/1447896163416412168/photo/2\n\nOG_3:\nWas a 2/3\n\nOG_2:\nwas a 4 mana 2/2, had elicit creature for 2 mana, and was a sorcery creature\n\nOG_1:\nCosted 5 mana for full\n\n\nOld ft:\n\u201c...coldhearted? that's roughly two days' travel north of here, you're thinking of calcul...\u201d",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seer of Unchained Sight",
@@ -6539,8 +6671,10 @@
             "loyalty": "",
             "artist": "Andrea Butera",
             "alias": "",
+            "position": "66",
             "notes": "https://www.artstation.com/artwork/oADVmz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aether Bird",
@@ -6559,8 +6693,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "67",
             "notes": "https://x.com/KamikiriRIP/status/1840814524439675334/photo/1\n\nOG art_1:\n@alexriesart on Twitter\nhttps://twitter.com/alexriesart/status/1458456779331801089/photo/1\n\nOG_3:\nDidn't untap as well\n\nOG_2:\nwas a 1/1\n\nOG_1:\nUp to one target creature gains flying until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Etherial Goat",
@@ -6579,8 +6715,10 @@
             "loyalty": "",
             "artist": "blackultra8t on Deviantart",
             "alias": "",
+            "position": "68",
             "notes": "https://www.deviantart.com/blackultra8t/art/Sentinel-of-the-Kartarjie-Stones-842420333\n\nOG_4:\nwas a 2/3\n\nOG_3:\nUsed old whiz text.\n\nOG_2:\nWhenever an instant or sorcery card is put into your graveyard, if you pay 1 or if it wasn't cast. target creature you control gains flying until end of turn.\n\nOG_1:\nMagecraft \u2014 (...) Target creature gains flying",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "War Mystic",
@@ -6599,8 +6737,10 @@
             "loyalty": "",
             "artist": "Mateusz Wisniewski on Artstation",
             "alias": "",
+            "position": "69",
             "notes": "https://www.artstation.com/artwork/8qDBq\n\nOG_2:\nWas a 3 mana 2/3\n\nOG_1:\nWas a 2 mana 2/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mistful Mystic",
@@ -6619,8 +6759,10 @@
             "loyalty": "",
             "artist": "Katie Watersell on Artstation",
             "alias": "",
+            "position": "70",
             "notes": "https://www.artstation.com/artwork/G8z9a\n\nOG art_1:\n@JoelCHoltzman On twitter\nhttps://twitter.com/JoelCHoltzman/status/1447896163416412168/photo/2\n\n\nOG_3:\nWhenever an anomaly enters under your control, target player mills three cards.\n2/3\n\nOG_2:\nThe first time an instant or sorcery card is put into your graveyard each turn, tap target creature an opponent controls with mana value less than or equal to that card's mana value.\n\nOG_1:\nWhenever you cast your second instant or sorcery spell each turn, tap target creature an opponent controls. it doesn't untap during its controller's next untap step.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spriteamyloidosix",
@@ -6639,8 +6781,10 @@
             "loyalty": "",
             "artist": "@Kamikiri_T",
             "alias": "",
+            "position": "71",
             "notes": "https://twitter.com/Kamikiri_T/status/1431506623189508097/photo/1\n\nFrom wikiped: \"Amyloidosis is a group of diseases in which abnormal proteins, known as amyloid fibrils, build up in tissue...\"\n\nOG_2:\nFlying\nThis creature has hexproof as long as you've discarded a card this turn.\n\nOG: Flying\nCU08 MV5 Glimmerdrake has hexproof as long as you've cast an instant or a sorcery spell this turn.\n\n\nGlimmerdrake",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Divedrake",
@@ -6659,8 +6803,10 @@
             "loyalty": "",
             "artist": "Jose Ochoa on Artstation",
             "alias": "",
+            "position": "72",
             "notes": "https://www.artstation.com/artwork/GemzeB\n\n\nOG art_1:\n@Kamikiri_T on Twitter\nhttps://twitter.com/Kamikiri_T/status/1404672302231408640/photo/1\n(404, account gone)\n\n\nOG_1:\nWas a 5/6 without flying",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bolstering Portal",
@@ -6679,8 +6825,10 @@
             "loyalty": "",
             "artist": "Cau\u00ea Piloto",
             "alias": "",
+            "position": "73",
             "notes": "https://twitter.com/StendhalNara/status/1462503250209427457/photo/3\n\nPotentially flagged\n\nOG: Defender\nHeroic \u2014 Whenever you cast a spell that targets CW12 MV3 Brickler B (shift to blue?), creatures you control get +0/+1 until end of turn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Recall Without Knowing",
@@ -6699,8 +6847,10 @@
             "loyalty": "",
             "artist": "Samuel Vial",
             "alias": "",
+            "position": "74",
             "notes": "https://www.artstation.com/artwork/49ak04",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Counterslice",
@@ -6719,8 +6869,10 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen on Artstation",
             "alias": "",
+            "position": "75",
             "notes": "https://www.artstation.com/artwork/1yBz2\n\n\nPotentially flagged for upshifting to uncommon.\n\n\nOG art_1:\n@takyon236 on Twitter\nhttps://twitter.com/takyon236/status/1445748717303177228/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Suppresion Force",
@@ -6739,8 +6891,10 @@
             "loyalty": "",
             "artist": "Santiago Iborra/Quellion (Edited)",
             "alias": "",
+            "position": "76",
             "notes": "\n\n\n(mechanic flag)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flutter Rebuttal",
@@ -6759,8 +6913,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "77",
             "notes": "https://x.com/KamikiriRIP/status/1791482226255044658/photo/1\n\n\nOG art_1:\nKelly Recco on Artstation\nhttps://www.artstation.com/artwork/ykE3On\n\n\nOG_1:\nCounter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drawl",
@@ -6779,8 +6935,10 @@
             "loyalty": "",
             "artist": "Bruce Brenneise on Artstation",
             "alias": "",
+            "position": "78",
             "notes": "https://www.artstation.com/artwork/3mVaE",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Perforate Spirit",
@@ -6799,8 +6957,10 @@
             "loyalty": "",
             "artist": "Jay Axer on bluesky",
             "alias": "",
+            "position": "79",
             "notes": "https://bsky.app/profile/jayaxer.bsky.social/post/3lyxwjtb5vk26",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soul Surgery",
@@ -6819,8 +6979,10 @@
             "loyalty": "",
             "artist": "@sstarkm",
             "alias": "",
+            "position": "80",
             "notes": "https://twitter.com/sstarkm/status/1432389333391224847/photo/1\n\n\n\nOG_2:\nCosted 2UU\nEmerge 3U (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature's mana value.)\nScry 2.\nDraw two cards.\n\nOG_1:\nEmerge costed 5 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mystic's Chill",
@@ -6839,8 +7001,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "81",
             "notes": "https://www.artstation.com/artwork/042WzV\n\n\nOG_1:\nHad generic cycling cost.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fluffyhead",
@@ -6859,8 +7023,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "82",
             "notes": "https://x.com/KamikiriRIP/status/1884585969120334220/photo/4\n\nOG art_1:\nCaptdiablo on Deviantart\nhttps://www.deviantart.com/captdiablo/art/Warforged-Artificer-844702607\n\n\nOG_3: \nMade a servo\n\nOG_2:\nCosted 3(G/W)\nCreate a 1/1 colorless servo artifact creature token.\nElicit \u200fCreature W\n\nOG_1:\n\nCreate a 1/1 colorless thopter artifact creature tokens\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nElicit Creature [1][W]\n\n2/2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unrelenting Soltari",
@@ -6879,8 +7045,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "83",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Soul-of-the-Samurai-443409557\n\n\nOG art_1:\n@RiversHaveWings on twitter\nhttps://twitter.com/RiversHaveWings/status/1436778072896729089/photo/4\n\n\nOG_1:\nMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, MV2 Scvollop gets your choice of lifelink, vigilance, or flying until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Veiling Mist",
@@ -6899,8 +7067,10 @@
             "loyalty": "",
             "artist": "Jake Murray",
             "alias": "",
+            "position": "84",
             "notes": "https://www.artstation.com/artwork/N5g1XP\n\nhttp://jakemurraystudio.com/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Panchar",
@@ -6919,8 +7089,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "85",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Peace-and-Harmony-587134226\n\nOG art_1:\nhttps://www.deviantart.com/sabine62/art/Rotbox1-478267834\n\nOG_1:\nAs long as you control 3 or more anomalies, this creature has flying.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Batallion Frontliner",
@@ -6939,8 +7111,10 @@
             "loyalty": "",
             "artist": "P\u00e9ter Kov\u00e1cs on Artstation",
             "alias": "",
+            "position": "86",
             "notes": "https://www.artstation.com/artwork/lxbaDJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gladesprite",
@@ -6959,8 +7133,10 @@
             "loyalty": "",
             "artist": "Pierre-Alexandre Schuller on Artstation",
             "alias": "",
+            "position": "87",
             "notes": "https://www.artstation.com/artwork/YeZm1w\n\n\n\nOG_1:\nFlying\nWhenever you cast your first spell during each opponent's turn, put a +1/+1 counter on target creature.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spritepallorix",
@@ -6979,8 +7155,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "88",
             "notes": "https://x.com/KamikiriRIP/status/1834250042066305224/photo/1\n\nOG art_1:\nbestdesigns on istockphoto\nhttps://www.istockphoto.com/photo/angel-gm603283032-103636307?irgwc=1&esource=AFF_IS_IR_TinEye_77643_&asid=TinEye&cid=IS&utm_medium=affiliate&utm_source=TinEye&utm_content=77643&clickid=3UoQB82ozxyLU4O0M-0V7wD0UkEzMoyClTr30M0&utm_term=&ad_placement=&keyword_product=&Adid=435504\n\nOG_2:\nDestroy up to one target enchantment.\nElicit Creature 2W\nFlying\n3/1\n\nOG_1:\n\nDestroy up to one target enchantment\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nElicit Creature 1W\nFlying",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Attack Leader",
@@ -6999,8 +7177,10 @@
             "loyalty": "",
             "artist": "Anato Finnstark on Artstation",
             "alias": "",
+            "position": "89",
             "notes": "https://www.artstation.com/artwork/QnWLk8\n\nOG_2:\nCosted 2WW\n\nOG_1:\nGave +1/+0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blademaster",
@@ -7019,8 +7199,10 @@
             "loyalty": "",
             "artist": "Vablo On Deviantart",
             "alias": "",
+            "position": "90",
             "notes": "https://www.deviantart.com/vablo/art/Tokra-The-Goldskin-Swordsman-592515610",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Backup Squad",
@@ -7039,8 +7221,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer on Artstation",
             "alias": "",
+            "position": "91",
             "notes": "https://www.artstation.com/artwork/gJ3kwe\n\n\n\nOG_1:\nCosted 5 mana\nUp to one target attacking or blocking creature gets +3/+3 until end of turn.\nElicit Instant 1W\n3/4\n\n\nElicit Instant 1W\nDeal 3 damage to up to one target Attacking or Blocking creature",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ageless Observer",
@@ -7059,8 +7243,10 @@
             "loyalty": "",
             "artist": "Gaelya",
             "alias": "",
+            "position": "92",
             "notes": "https://bsky.app/profile/gaelya.bsky.social/post/3luksdicb6224\n\n\nOG art_1:\nAdrian smith on Artstation\nhttps://www.artstation.com/artwork/dOQm0X",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Fabric Weaver",
@@ -7079,8 +7265,10 @@
             "loyalty": "",
             "artist": "Julia Metzger",
             "alias": "",
+            "position": "93",
             "notes": "http://valyavande.net/\n\nhttps://www.artstation.com/artwork/lVzE1J\n\n\n\nOG_5:\nCard costed 4WW\nElicit costed 2{G/W}\n\nOG_4:\nWas a sorcery creature\nCreatures you control get +1/+1 and gain vigilance until end of turn.\nElicit Sorcery 1W\n\nOG_3:\nOnly gave +1/+0\n\n\nOG_2: You gain X life, where X is half the greatest mana value among permanents you control, rounded up.\nElicit Sorcery 3G/W\n\nOG: \nCARDNAME costs 1 less to cast for each anomaly you control (Something with multiple card types is an anomaly.)\nWhen CARDNAME enters the battlefield, you gain 2 life and draw a card.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Piercing Barrage",
@@ -7099,8 +7287,10 @@
             "loyalty": "",
             "artist": "P\u00e9ter Kov\u00e1cs on Artstation",
             "alias": "",
+            "position": "94",
             "notes": "https://www.artstation.com/artwork/XnV4gR\n\n\nflag",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Celestial Binding",
@@ -7119,8 +7309,10 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
+            "position": "95",
             "notes": "https://www.artstation.com/artwork/zD6W0Q?album_id=2706638",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brilliant Polish",
@@ -7139,8 +7331,10 @@
             "loyalty": "",
             "artist": "Erikas Perl on Artstation",
             "alias": "",
+            "position": "96",
             "notes": "https://www.artstation.com/artwork/xKO9O",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Etherial Flourish",
@@ -7159,8 +7353,10 @@
             "loyalty": "",
             "artist": "Linda Lith\u00e9n on Artstation",
             "alias": "",
+            "position": "97",
             "notes": "https://www.artstation.com/artwork/nQlA14\n\n\nOG_2:\nAnomalous creatures you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn.\nBasic Landcycling W\n\nOG_1:\nHad generic cycling cost.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Suprashield",
@@ -7179,8 +7375,10 @@
             "loyalty": "",
             "artist": "A. Shipwright on Artstation",
             "alias": "",
+            "position": "98",
             "notes": "https://www.artstation.com/artwork/48rgrW\n\n\nOG_2:\nCosted 3 mana\n\nOG_1:\nAs an additional cost to casting this spell, you may sacrifice a land, artifact, or enchantment.\nTarget creature you control gets +2/+2 and lifelink until end of turn. If you sacrificed a permanent to cast this spell, it gets protection from a color of your choice until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Banish an Opulent Soul",
@@ -7199,8 +7397,10 @@
             "loyalty": "",
             "artist": "Gaelya",
             "alias": "",
+            "position": "99",
             "notes": "https://bsky.app/profile/gaelya.bsky.social/post/3lv63bw4b622f\n\n\nOG_1:\nWas originally uncommon, and costed 6 mana.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -7219,8 +7419,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "100",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Dragons-Plain-549942686",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forest",
@@ -7239,8 +7441,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "101",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Old-Heart-557308923",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -7259,8 +7463,10 @@
             "loyalty": "",
             "artist": "Guillermo Mart\u00ednez on Artstation",
             "alias": "",
+            "position": "102",
             "notes": "https://www.artstation.com/artwork/A9xqEq",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Island",
@@ -7279,8 +7485,10 @@
             "loyalty": "",
             "artist": "Ruslan Kadiev on Artstation",
             "alias": "",
+            "position": "103",
             "notes": "https://www.artstation.com/artwork/XE1wl",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Superposition Gateway",
@@ -7299,8 +7507,10 @@
             "loyalty": "",
             "artist": "Lucas Staniec on Artstation",
             "alias": "",
+            "position": "104",
             "notes": "https://www.artstation.com/artwork/5XNEnJ\n\n\nOG_1:\nWhenever a nonland anomaly you control leaves the battlefield, you may cast a copy of it without paying its mana cost, except that spell isn't a creature spell if the anomaly was a creature.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ingis, Chains of the worldsoul",
@@ -7319,8 +7529,10 @@
             "loyalty": "",
             "artist": "Brucebrenneise on Instagram",
             "alias": "",
+            "position": "105",
             "notes": "https://www.instagram.com/p/B92YIe9jr49/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lavez, Anchor of the Worldsoul",
@@ -7339,8 +7551,10 @@
             "loyalty": "",
             "artist": "Brucebrenneise on Instagram",
             "alias": "",
+            "position": "106",
             "notes": "https://www.instagram.com/p/CtcSWVMP8hg/\n\n\nOG_2:\nWas 5 mana\n\nOG_1:\nCosted 6 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rix, Shackle of the Worldsoul",
@@ -7359,8 +7573,10 @@
             "loyalty": "",
             "artist": "SebastianWagner on Deviantart",
             "alias": "",
+            "position": "107",
             "notes": "https://www.deviantart.com/sebastianwagner/art/Johrails-Silencer-408866767\n\n\nFrom OG skippy.\n\n\nOG_1:\nCosted 4 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lichbind",
@@ -7379,8 +7595,10 @@
             "loyalty": "",
             "artist": "Damien Mammoliti on Artstation",
             "alias": "",
+            "position": "108",
             "notes": "https://www.artstation.com/artwork/kDW8mx\n\n\nOG_1:\nCosted 5 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Overgrowing Pumkin",
@@ -7399,8 +7617,10 @@
             "loyalty": "",
             "artist": "Phill-Art on Deviantart",
             "alias": "",
+            "position": "109",
             "notes": "https://www.deviantart.com/phill-art/art/The-Great-Pumpkin-490304179",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flurry of Regrowth",
@@ -7419,8 +7639,10 @@
             "loyalty": "",
             "artist": "1Oshuart on Deviantart",
             "alias": "",
+            "position": "110",
             "notes": "https://www.deviantart.com/1oshuart/art/forest-dweller-801600688",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cloudyawner",
@@ -7439,8 +7661,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer on Artstation",
             "alias": "",
+            "position": "111",
             "notes": "https://www.artstation.com/artwork/Pnl58\n\nOG art_1:\nAri-Matti Toivonen on Artstation\nhttps://www.artstation.com/artwork/6aKnl5\n\nOG_3:\nDidn't enter tapped.\n\nOG_2:\nUntil the beginning of your two next turns, creatures enter the battlefield tapped. Take an extra turn after this one, then exile 99 MM10 Cloudyawner if it's not a creature spell.\n\nElicit Sorcery 3WWU (You may cast this as a Sorcery spell for 3WWU, Removing the bracketed qualities.)\nFlying\n\n\nOG_1:\nUntil your next turn, whenever a creature attacks you. tap it, it doesn't untap during its controller's next untap Phase.\n\nElicit Sorcery 2WU (You may cast this as a Sorcery spell for 2WU, Removing its other spell types and effects.)\nFlying",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ruination Mystic",
@@ -7459,8 +7683,10 @@
             "loyalty": "",
             "artist": "Marko Jeli\u0107 on Artstation",
             "alias": "",
+            "position": "112",
             "notes": "https://www.artstation.com/artwork/lD9adJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "All Encompassing Wish",
@@ -7479,8 +7705,10 @@
             "loyalty": "",
             "artist": "Jeffrey Smith on Artstation",
             "alias": "",
+            "position": "113",
             "notes": "https://www.artstation.com/artwork/XBgEq3\n\n\n\n\nAlt_1:\nYou may discard your hand. If you do, put that many cards from your sideboard into your hand.\nPut each nonland card from your sideboard into your hand.\nCreate two treasure tokens.\n\nOG_2:\nCosted 4 mana\n\nOG_1:\nCosted 6 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stormful Growthmagus",
@@ -7499,8 +7727,10 @@
             "loyalty": "",
             "artist": "Fran Fdez on Artstation",
             "alias": "",
+            "position": "114",
             "notes": "https://www.artstation.com/artwork/XnDoWn\n\nOG art_1:\nAri-Matti Toivonen on Artstation\nhttps://www.artstation.com/artwork/LDKPK\n\n\nOG_2:\nHeroic \u2014 Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.\nMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, put a +1/+1 counter on this creature.\nRemove X counters from this creature: Add X mana in any combination of colors. Activate this ability only once each turn.\n\nOG_1:\nCosted 2 mana\nHeroic \u2014 Whenever you cast a spell that targets Growaway Stormkin, put a +1/+1 counter on it.\nRemove all counters on Growaway Stormkin: Add one mana of any color for each counter removed this way. Activate this ability only once each turn.\nWas a 2/2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Outpouring of Life",
@@ -7519,8 +7749,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "115",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Healing-The-Wounded-845566320\n\n\nOG_1:\nWas power 2 or less",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soul Augury",
@@ -7539,8 +7771,10 @@
             "loyalty": "",
             "artist": "Denis Gauder on Artstation",
             "alias": "",
+            "position": "116",
             "notes": "https://www.artstation.com/artwork/39PKLo\n\n\n\nOG_1:\nReveal the top five cards of your library. Put the card with the highest mana value from among them into your hand. You may cast the nonland card with the lowest mana value from among them without paying its mana cost. Put the rest at the bottom of your library in any order.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Observer of All",
@@ -7559,8 +7793,10 @@
             "loyalty": "",
             "artist": "Tooth Wu on Artstation",
             "alias": "",
+            "position": "117",
             "notes": "https://www.artstation.com/artwork/g8EZ8E\n\nOG_2:\nCosted 3WUB and was a 3/3\n\nOG_1:\nHad Emerge 1WUB",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Demonic Prepotence",
@@ -7579,8 +7815,10 @@
             "loyalty": "",
             "artist": "Vlad Marica on Artstation",
             "alias": "",
+            "position": "118",
             "notes": "https://www.artstation.com/artwork/B2em\n\n\nAlt_1:\nTarget opponent exiles up to 5 nonland cards from their sideboard, Then exile a card from your sideboard if fewer than 5 were exiled this way. You may cast cards exiled this way without paying their mana cost for as long as they remain exiled.\n\nOG_1:\nTarget opponent exiles 5 nonland cards from their sideboard, Then exile a card from your sideboard if fewer than 5 were exiled this way. You may cast a copy of any number of cards exiled this way without paying their mana costs.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ravenous Rhizome",
@@ -7599,8 +7837,10 @@
             "loyalty": "",
             "artist": "Phill-Art on Deviantart",
             "alias": "",
+            "position": "119",
             "notes": "https://www.deviantart.com/phill-art/art/Root-Monster-536009708\n\n\nOG art_1:\nAri-Matti Toivonen on Artstation\nhttps://www.artstation.com/artwork/xzbVJ1\n\n\nOG_2:\nHeroic \u2014 Whenever you cast a spell that targets MMJ Ravenous Roots, it gets +1/+1 and your choice of double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, or vigilance until end of turn.\n\n\nog_1:\nHeroic \u2014 Whenever you cast a spell that targets MMJ Jund Mythic, it gets your choice of double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, or vigilance until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Singe Elemental",
@@ -7619,8 +7859,10 @@
             "loyalty": "",
             "artist": "Travis Anderson on Artstation",
             "alias": "",
+            "position": "120",
             "notes": "https://www.artstation.com/artwork/ANZoX\n\n\nOG_3:\n(Didn't have the flux batallion tap)\nMMN Sting Elemental deals 1 damage to any target and you gain 1 life.\nStorm\n\nOG_2:\nWas \"Damage to each opponent\"\nWas a rare\n\nOG_1:\neliciting sorcery costed \n(did i forget to fill this in?)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -7639,8 +7881,10 @@
             "loyalty": "",
             "artist": "1oshuart on Deviantart",
             "alias": "",
+            "position": "121",
             "notes": "https://www.deviantart.com/1oshuart/art/Basic-Land-Magic-Fan-art-585620471",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -7659,8 +7903,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "122",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Amberheart-Sanctuary-552891404",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mountain",
@@ -7679,8 +7925,10 @@
             "loyalty": "",
             "artist": "Steph Johnstone on Artstation",
             "alias": "",
+            "position": "123",
             "notes": "https://www.artstation.com/artwork/vDEO3O",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chromatic Storm",
@@ -7699,8 +7947,10 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen on Artstation",
             "alias": "",
+            "position": "124",
             "notes": "https://www.artstation.com/artwork/rg42L",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Grandmaster of Sparks",
@@ -7719,8 +7969,10 @@
             "loyalty": "",
             "artist": "Yuchen Wang on Artstation",
             "alias": "",
+            "position": "125",
             "notes": "https://www.artstation.com/artwork/1884oK\n\n\nGoblin Game\nGoblingame\n\nhttps://twitter.com/zefferal/status/1486394673040138240",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Culumonibus Tyrant",
@@ -7739,8 +7991,10 @@
             "loyalty": "",
             "artist": "Artem Chebokha on Artstation",
             "alias": "",
+            "position": "126",
             "notes": "https://www.artstation.com/artwork/BmXWr4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Planar Till",
@@ -7759,8 +8013,10 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
+            "position": "127",
             "notes": "https://www.artstation.com/artwork/zD6W0Q?album_id=2706638\n\n\n\nOG art_1:\nIlya Popov on Artstation\nhttps://www.artstation.com/artwork/5vEax1\n\n\nOG_1:\nDestroy all anomalies and all nonbasic lands",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -7779,8 +8035,10 @@
             "loyalty": "",
             "artist": "DartGarry on Deviantart",
             "alias": "",
+            "position": "128",
             "notes": "https://www.deviantart.com/dartgarry/art/Sahrims-cemetery-841502343",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -7799,8 +8057,10 @@
             "loyalty": "",
             "artist": "joseochoart",
             "alias": "",
+            "position": "129",
             "notes": "http://joseochoart.blogspot.com/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -7819,8 +8079,10 @@
             "loyalty": "",
             "artist": "Vadim Polishchuk on Artstation",
             "alias": "",
+            "position": "130",
             "notes": "https://www.artstation.com/artwork/48kZaq",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Plains",
@@ -7839,8 +8101,10 @@
             "loyalty": "",
             "artist": "Vadim Polishchuk on Artstation",
             "alias": "",
+            "position": "131",
             "notes": "https://www.artstation.com/artwork/68eNo0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Presence of Undeath",
@@ -7859,8 +8123,10 @@
             "loyalty": "",
             "artist": "Andrea Butera",
             "alias": "",
+            "position": "132",
             "notes": "https://www.artstation.com/artwork/JlDENR",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Harvest",
@@ -7879,8 +8145,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "133",
             "notes": "https://www.artstation.com/artwork/mqQ61d\n\n\nOG_4:\nEmerge cost was 5 mana\n\nOG_3:\nCosted 3 mana\nYou may sacrifice any number of creatures.\nEach opponent sacrifices creatures until they have sacrificed creatures with total mana value equal to or grater than the ones you sacrificed this way.\n\nOG_2:\nwas 5 mana\n\nOG_1:\nAs an additional cost to casting this card, sacrifice any number of creatures.\nEach opponent sacrifices creatures until they have sacrificed creatures with total converted mana cost equal or grater than the ones used to cast this spell.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mythos of the Unyielding King",
@@ -7899,8 +8167,10 @@
             "loyalty": "",
             "artist": "Johan Espling on Artstation",
             "alias": "",
+            "position": "134",
             "notes": "https://www.artstation.com/artwork/4Nl8n",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elder Saakstalker",
@@ -7919,8 +8189,10 @@
             "loyalty": "",
             "artist": "Vlad Marica on Artstation",
             "alias": "",
+            "position": "135",
             "notes": "https://www.artstation.com/artwork/B2em\n\nOG art_1:\n\nIlya Popov on Artstation\nhttps://www.artstation.com/artwork/D5nWne\n\n\nOG_1:\nElicit costed 2B",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dominated Slither",
@@ -7939,8 +8211,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "136",
             "notes": "https://www.artstation.com/artwork/DvX4V0\n\n!chop\n\nOG_1:\nWhenever a player sacrifices a permanent, scry 1.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spellbattery Ghoul",
@@ -7959,8 +8233,10 @@
             "loyalty": "",
             "artist": "Vlad Marica",
             "alias": "",
+            "position": "137",
             "notes": "https://www.artstation.com/artwork/V11Z\n\n\nOG art_1:\nKarl Kopinski\n(I hadn't started linking properly yet when I got that art? Shame)\n\n\nCreate a 1/1 red wizard creature token with \u201cMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.\u201d\n\n\n\nOG_3:\nCosted 3 mana\n\nOG_2:\nCosted 4 mana\n\n\nOG_1:\nWhenever RB01 Spellguide Ghoul dies, create a 1/1 colorless Thopter artifact creature token.\nWhenever RB01 Spellguide Ghoul is sacrificed to cast a spell, copy that spell. you may choose new targets for the copy",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Cthonitaur",
@@ -7979,8 +8255,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "138",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Chaos-Rider-30min-spitpaint-848276633",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Doldrum Dreamer",
@@ -7999,8 +8277,10 @@
             "loyalty": "",
             "artist": "phillhosking on Deviantart",
             "alias": "",
+            "position": "139",
             "notes": "https://www.deviantart.com/phillhosking/art/death-plane-colossus-213827387\n\n\nOG_1:\nCosted 2B",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Big Mana (art flag)",
@@ -8019,8 +8299,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "140",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Biggerly (art flag)",
@@ -8039,8 +8321,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "141",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mythos of the First Hunger",
@@ -8059,8 +8343,10 @@
             "loyalty": "",
             "artist": "Jakub Bazyluk on Artstation",
             "alias": "",
+            "position": "142",
             "notes": "https://www.artstation.com/artwork/68Oyl0",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lifegraft",
@@ -8079,8 +8365,10 @@
             "loyalty": "",
             "artist": "Pyro Helfier on artstation",
             "alias": "",
+            "position": "143",
             "notes": "https://www.artstation.com/artwork/babaan\n\n\nOG_1:\nCreate a token that's a copy of target land, except it's a green 0/0 elemental creature in addition to its other types and has \u201cThis creature enters with two +1/+1 counters\u201d",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Seek the Immense",
@@ -8099,8 +8387,10 @@
             "loyalty": "",
             "artist": "Bjorn Hurri on Artstation",
             "alias": "",
+            "position": "144",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Elder Gangeth",
@@ -8119,8 +8409,10 @@
             "loyalty": "",
             "artist": "BelleDeesse",
             "alias": "",
+            "position": "145",
             "notes": "https://www.wallpaperup.com/449276/clouds_dragon_horns_original_scenic_sky_you_(shimizu).html\n\nOG_2:\nCosted 6 mana\n\nOG_1:\nDidn't have reach\nWas a 0/5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tanglespell Briar",
@@ -8139,8 +8431,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "146",
             "notes": "https://www.artstation.com/artwork/nY9PVo",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aspect of Vigor",
@@ -8159,8 +8453,10 @@
             "loyalty": "",
             "artist": "Kevin McKenna on Artstation",
             "alias": "",
+            "position": "147",
             "notes": "https://www.artstation.com/artwork/9GqWL\n\n!chop",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tune of Safeholding",
@@ -8179,8 +8475,10 @@
             "loyalty": "",
             "artist": "Sebastian Kowoll on Artstation",
             "alias": "",
+            "position": "148",
             "notes": "https://www.artstation.com/artwork/zA5rw\n\n\n\nOG_2:\nCounter target spell\nElicit Instant 1UU{} (You may cast this as an Instant instead of as an Instant creature for 1UU, putting it into the graveyard as it resolves.)\nElicit Creature 1W[] (You may cast this as a Creature instead of as an Instant Creature for 1W, it resolves without the above effects.)\n{Lifelink}\n\nOG_1:\n\nElicit Instant 1UU\nElicit Creature WW",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hemorrphage, Spritevix Queen",
@@ -8199,8 +8497,10 @@
             "loyalty": "",
             "artist": "@KamikiriRIP on Twitter",
             "alias": "",
+            "position": "149",
             "notes": "https://twitter.com/KamikiriRIP/status/1772645486572274056/photo/1\n\n\nOG art_1:\nGautier ( Got' ) Viller on Artstation\nhttps://www.artstation.com/artwork/Ye99Rq\n\n\nOG_3:\nIf a cost you pay, an effect, or an ability would require you to sacrifice a creature, you may discard a card instead.\nIf a cost you pay, an effect, or an ability would require you to discard a card, you may sacrifice a creature instead.\n\nOG_2:\nIf a cost you pay, an effect, or an ability would require you to sacrifice a creature, you may instead discard a card.\nIf a cost you pay, an effect, or an ability would require you to discard a card, you may instead sacrifice a creature.\n\n\n\nOG_1:\n3UB\nAs long as it's your turn, Namo Namo, Brinebreather is a Swamp Island land in addition to its other types.\nIf a cost you pay, an effect, or an ability would require you to sacrifice a creature, you may instead discard a card.\nIf a cost you pay, an effect, or an ability would require you to discard a card, you may instead sacrifice a creature.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Distill Fears",
@@ -8219,8 +8519,10 @@
             "loyalty": "",
             "artist": "Lu Castro on Artstation. Edited Slightly",
             "alias": "",
+            "position": "150",
             "notes": "https://www.artstation.com/artwork/v1v3vD\n\n\n\nOG_1:\nExile the top four cards of your library face down. You may look at and play those cards until the end of your next turn.\nFor as long as you can play any of those cards, you may discard a card or sacrifice a creature to put one into your hand.\n\n\nAlt_1:\n\nExile the top four cards of your library face down. You may look at and play those cards until the end of your next turn. Until the end of your next turn, those cards have \u201cDiscard a card or sacrifice a creature: Put this card into your hand.\u201d\n\nAlt_2:\n(enchantment)\nWhen Distill Fears enters the battlefield, exile the top four cards of your library face down, then sacrifice Distill Fears at the end of your next turn.\nYou may look at and play cards exiled with Distill Fears.\nDiscard a card or sacrifice a creature: Put a card exiled with Distill Fears into your hand.\n",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boorish Mystic",
@@ -8239,8 +8541,10 @@
             "loyalty": "",
             "artist": "Jim Fitzpatrick",
             "alias": "",
+            "position": "151",
             "notes": "https://greengallery.ie/collections/jim-fitzpatrick/products/fionn-mac-cumhail\n\n\n\nOG_1:\nOn each of your turns, you may cast your first Instant or sorcery spell Without paying it's mana cost as long as it targets Boorish Mystic and it has a mana value less than or equal to the number of lands you control.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Antolie, Anomalous Apostate",
@@ -8259,8 +8563,10 @@
             "loyalty": "",
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
+            "position": "152",
             "notes": "https://www.artstation.com/artwork/B1NY5r\n\n\nOG art_1:\n@verface on Twitter.com\nhttps://twitter.com/verface/status/1327299449698258946/photo/2\n\n\n\nOG: Each nontoken creature assigns combat damage equal to its mana value rather than its power.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Augur of Soul",
@@ -8279,8 +8585,10 @@
             "loyalty": "",
             "artist": "\u2726 Monztre \u2726 on Artstation",
             "alias": "",
+            "position": "153",
             "notes": "https://www.artstation.com/artwork/mDO1z1\n\n\n\nOG_1:\nVigilance\nHeroic \u2014 Whenever you cast a spell that targets this creature, copy it. You may choose new targets for the copy. If that spell is a permanent spell, copy it twice instead.\n\nOG_4:\nVigilance\nHeroic \u2014 Whenever you cast a spell that targets this creature, copy it. You may choose new targets for the copy. When that copy targets one or more creatures you control, those creatures get +1/+1 and gain vigilance until end of turn.\n\nOG_3:\nHeroic \u2014 Whenever you cast a spell that targets RMB_1 Gladechamp Mystic you may copy it. You may choose new targets for the copy. When that copy targets one or more creatures you control, those creatures get +1/+1 and gains vigilance until end of turn.\n\nOG_2:\nSpecified targets \"only\" this creature for some reason.\n\nOG_1:\ncosted GWUU\nHeroic \u2014 Whenever you cast a spell that targets only RMB (Centaur Mystic) you may copy it. You may choose new targets for the copy.\n 2/2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spritethrombosix",
@@ -8299,8 +8607,10 @@
             "loyalty": "",
             "artist": "@KamikiriRIP on Twitter",
             "alias": "",
+            "position": "154",
             "notes": "https://x.com/KamikiriRIP/status/1834250022466060638/photo/1\n\nOG art_1:\nhttps://twitter.com/Kamikiri_T/status/1429403968522711040/photo/1\n\n\nOG_3:\nWas a 3/1\n\nOG_2:\nDidn't have deathtouch\n\nOG_1:\nFlying\nInstant and sorcery spells you cast have \u201cas an additional cost to casting this spell, you may sacrifice a creature.\u201d And \u201cIf a creature was sacrificed to cast this spell, draw a card.\u201d",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sinister Magister",
@@ -8319,8 +8629,10 @@
             "loyalty": "",
             "artist": "Jason Nguyen on Artstation",
             "alias": "",
+            "position": "155",
             "notes": "https://www.artstation.com/artwork/lLDxa",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Szyssixz, Feaster of Essence",
@@ -8339,8 +8651,10 @@
             "loyalty": "",
             "artist": "Peter Polach on Artstation",
             "alias": "",
+            "position": "156",
             "notes": "https://www.artstation.com/artwork/RYEZnA\n\nOG_1:\nPermanent spells that target RMJ_2 Heroic enter with a finality counter. Non-permanent spells that target RMJ_2 Heroic exile as they resolve.\nHeroic \u2014 Whenever you cast a spell that targets this creature, return target card from your graveyard to your hand.\n\n\nOG_0: Was a 3 mana 6/6\nInstant and Sorcery spells that target RMJ Szyssixz costs 3 less to cast.\nWhenever RMJ Szyssixz becomes the target of a spell, that spell's controller gains 2 life and each other player loses 2 life.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Stroke of Avail",
@@ -8359,8 +8673,10 @@
             "loyalty": "",
             "artist": "@SerenaMalyon on Twitter",
             "alias": "",
+            "position": "157",
             "notes": "https://twitter.com/SerenaMalyon/status/1477331562442022912/photo/1\n\n\nOG_1:\nWas an uncommon, costed 4 mana, was 99'd",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Scalemail Magmawhelk",
@@ -8379,8 +8695,10 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
+            "position": "158",
             "notes": "https://www.artstation.com/artwork/8eQvan",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Final Ember Embrace",
@@ -8399,8 +8717,10 @@
             "loyalty": "",
             "artist": "Travis Anderson on Artstation",
             "alias": "",
+            "position": "159",
             "notes": "https://www.artstation.com/artwork/9mGXro",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mythos of the Archdemon",
@@ -8419,8 +8739,10 @@
             "loyalty": "",
             "artist": "Vlad Marica on Artstation",
             "alias": "",
+            "position": "160",
             "notes": "https://www.artstation.com/artwork/B2em",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mindblaze Mystic",
@@ -8439,8 +8761,10 @@
             "loyalty": "",
             "artist": "Waynebarlow_Thedarkness on instagram",
             "alias": "",
+            "position": "161",
             "notes": "https://www.instagram.com/p/CCEJVAljtEO/\n\n\nOG_2:\nwas a 4/3\n\nOG_1:\nWas a 3/3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Firemind Richualist",
@@ -8459,8 +8783,10 @@
             "loyalty": "",
             "artist": "Tomas Duchek on Artstation",
             "alias": "",
+            "position": "162",
             "notes": "https://www.artstation.com/artwork/o2QeNk\n\n\nOG_2:\nwas a 4/4 that costed double red\n\nOG_1:\nUsed old whiz text.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hyperbolt",
@@ -8479,8 +8805,10 @@
             "loyalty": "",
             "artist": "Eva Kedves on Artstation",
             "alias": "",
+            "position": "163",
             "notes": "https://www.artstation.com/artwork/A9oXro",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Burning Apostle",
@@ -8499,8 +8827,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "164",
             "notes": "https://twitter.com/OlegBulakh_Art/status/1743290830830322055/photo/1\n\n\nhttps://www.artstation.com/artwork/vDD5JO\n\n\nOG_1:\nFlying, Haste\nAs long as this creature is attacking, spells you cast cost 3 less to cast.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blazing Wheel-Kin",
@@ -8519,8 +8849,10 @@
             "loyalty": "",
             "artist": "CrazyAsian1 on Deviantart",
             "alias": "",
+            "position": "165",
             "notes": "https://www.deviantart.com/crazyasian1/art/Shikigami-Wanyudo-Ronin-Illustration-862907020\n\n\nOG art_1:\nConnor Sheehan on Artstation\nhttps://www.artstation.com/artwork/KeJD0R",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ominous Soul Tome",
@@ -8539,8 +8871,10 @@
             "loyalty": "",
             "artist": "Omuk on Deviantart",
             "alias": "",
+            "position": "166",
             "notes": "https://www.deviantart.com/omuk/art/Teachings-Of-Iuun-426724086",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chronoduplicate",
@@ -8559,8 +8893,10 @@
             "loyalty": "",
             "artist": "Benjamin goutte on Artstation",
             "alias": "",
+            "position": "167",
             "notes": "https://www.artstation.com/artwork/343Gg",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mythos of the Sage",
@@ -8579,8 +8915,10 @@
             "loyalty": "",
             "artist": "Fran Fdez on Artstation",
             "alias": "",
+            "position": "168",
             "notes": "https://www.artstation.com/artwork/VgyxZN\n\n\nOG_1:\nWas",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Retroarcane Continuity",
@@ -8599,8 +8937,10 @@
             "loyalty": "",
             "artist": "@artrhinoo on Twitter",
             "alias": "",
+            "position": "169",
             "notes": "\n\n\nOG_1:\nWas a uncommon blue card.\n\nWhen you cast this spell, if it's not your turn, copy it.\nReturn target nonland permanent to its owner's hand.\nDraw a card, then discard a card.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "The Wind Releaser",
@@ -8619,8 +8959,10 @@
             "loyalty": "",
             "artist": "Ernesto Carrasquillo V\u00e9lez on Artstation",
             "alias": "",
+            "position": "170",
             "notes": "https://www.artstation.com/artwork/xJkGLr\n\n\n\nDesign Challenge",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Narcorelapsy",
@@ -8639,8 +8981,10 @@
             "loyalty": "",
             "artist": "Polina Kirillova on Artstation",
             "alias": "",
+            "position": "171",
             "notes": "https://www.artstation.com/artwork/KndvG",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unmoored Ideas",
@@ -8659,8 +9003,10 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen on Artstation",
             "alias": "",
+            "position": "172",
             "notes": "https://www.artstation.com/artwork/6alAbw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Temporal Emergence",
@@ -8679,8 +9025,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "173",
             "notes": "https://www.artstation.com/artwork/bldYkr",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Acolyte of the Anchor",
@@ -8699,8 +9047,10 @@
             "loyalty": "",
             "artist": "Joshua Esmeralda on Artstation",
             "alias": "",
+            "position": "174",
             "notes": "https://www.artstation.com/artwork/484g5k",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anchorley Angel",
@@ -8719,8 +9069,10 @@
             "loyalty": "",
             "artist": "Raul Bottero on Artstation",
             "alias": "",
+            "position": "175",
             "notes": "https://www.artstation.com/artwork/nQByx1\n\n\n\nOG_1:\nFlying\nOther anomalies you control have lifelink. (Anything with more than one card type is an anomaly.)\nInstants and sorceries you own have lifelink.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mythos of the Pale",
@@ -8739,8 +9091,10 @@
             "loyalty": "",
             "artist": "gugu-troll on Deviantart",
             "alias": "",
+            "position": "176",
             "notes": "https://www.deviantart.com/gugu-troll/art/Young-Koschei-704056556",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unanchored Sky-Serpent",
@@ -8759,8 +9113,10 @@
             "loyalty": "",
             "artist": "Ari-Matti Toivonen on Artstation",
             "alias": "",
+            "position": "177",
             "notes": "https://www.artstation.com/artwork/Oyqd2g",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ultrashield Angel",
@@ -8779,8 +9135,10 @@
             "loyalty": "",
             "artist": "Gunship Revolution \u00a9 Bushiroad International",
             "alias": "",
+            "position": "178",
             "notes": "https://www.artstation.com/artwork/WEYKv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Decrown",
@@ -8799,8 +9157,10 @@
             "loyalty": "",
             "artist": "Brucebrenneise on Instagram",
             "alias": "",
+            "position": "179",
             "notes": "https://www.instagram.com/p/COWBrtkDftw/",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Re-weave the World",
@@ -8819,8 +9179,10 @@
             "loyalty": "",
             "artist": "Travis Anderson on Artstation",
             "alias": "",
+            "position": "180",
             "notes": "https://www.artstation.com/artwork/YyE3X\n\n\nOG_1: costed 3 mana\nEach player returns three cards from their graveyard that was put there this turn to their hand.\nExile Re-weave the World.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drawn From Discussion",
@@ -8839,8 +9201,10 @@
             "loyalty": "",
             "artist": "Robbie Trevino on Artstation",
             "alias": "",
+            "position": "181",
             "notes": "https://www.artstation.com/artwork/lxNbPJ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -8859,8 +9223,10 @@
             "loyalty": "",
             "artist": "Antoine Ren on Artstation",
             "alias": "",
+            "position": "182",
             "notes": "https://www.artstation.com/artwork/1nXy5L",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -8879,8 +9245,10 @@
             "loyalty": "",
             "artist": "Antoine Ren on Artstation",
             "alias": "",
+            "position": "183",
             "notes": "https://www.artstation.com/artwork/qAZ3XN",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -8899,8 +9267,10 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets on Artstation",
             "alias": "",
+            "position": "184",
             "notes": "https://www.artstation.com/artwork/oyQ3q",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Swamp",
@@ -8919,8 +9289,10 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets on Artstation",
             "alias": "",
+            "position": "185",
             "notes": "https://www.artstation.com/artwork/dGzde",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Beast",
@@ -8939,8 +9311,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "186",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bird",
@@ -8959,8 +9333,10 @@
             "loyalty": "",
             "artist": "Julian Bauer on Artstation",
             "alias": "",
+            "position": "187",
             "notes": "https://www.artstation.com/artwork/yvOz8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Servo",
@@ -8979,8 +9355,10 @@
             "loyalty": "",
             "artist": "Xabi Gazte",
             "alias": "",
+            "position": "188",
             "notes": "https://xabigaztelua.com/projects/Po6331",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shell",
@@ -8999,8 +9377,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "189",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soldier",
@@ -9019,8 +9399,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "190",
             "notes": "",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Soltari Wizard",
@@ -9039,8 +9421,10 @@
             "loyalty": "",
             "artist": "GtheDoubleGee on Artstation",
             "alias": "",
+            "position": "191",
             "notes": "https://www.artstation.com/artwork/b5aZnv",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thopter",
@@ -9059,8 +9443,10 @@
             "loyalty": "",
             "artist": "Xabi Gazte",
             "alias": "",
+            "position": "192",
             "notes": "https://xabigaztelua.com/projects/Po6331",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Sludgefly",
@@ -9079,8 +9465,10 @@
             "loyalty": "",
             "artist": "Timi Honkanen on Artstation",
             "alias": "",
+            "position": "193",
             "notes": "https://www.artstation.com/artwork/ELbNk8\n\n\n\nOG_2: Was a common\n\nOG_1:\nUsed old whiz text.\n\nput a +1/+1 counter on CARDNAME",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Twilight Tiger",
@@ -9099,8 +9487,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "194",
             "notes": "https://x.com/KamikiriRIP/status/1771132193378861318/photo/2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Saakstalker Egg",
@@ -9119,8 +9509,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "195",
             "notes": "https://www.artstation.com/artwork/d00L13\n\n\n!chop !orphan\n\n\nOG_1:\nDefender\nWhenever this creature dies, each opponent exiles a card from their hand.\nWhenever this creature is sacrificed, search your library for demon card and reveal it. Shuffle, then put that card on top.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Influenced informant",
@@ -9139,8 +9531,10 @@
             "loyalty": "",
             "artist": "Timi Honkanen on Artstation",
             "alias": "",
+            "position": "196",
             "notes": "https://www.artstation.com/artwork/k4DA4d",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ichor Elemental",
@@ -9159,8 +9553,10 @@
             "loyalty": "",
             "artist": "Timi honkanen on Artstation",
             "alias": "",
+            "position": "197",
             "notes": "https://www.artstation.com/artwork/Vgklmg\n\n\nOG_1:\nCosted 4B\nHeroic \u2014 Whenever you cast a spell that targets MV5 Ichor Elemental (Buff?), each opponent loses 2 life and you gain 2 life.\nWas a 3/3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Espien, Shellmage",
@@ -9179,8 +9575,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "198",
             "notes": "https://x.com/KamikiriRIP/status/1710283376261800203/photo/1\n\nOG art_1:\nDaniel Carri\u00f3 on Artstation\nhttps://www.artstation.com/artwork/lxrYeJ\n\n\n\nOG_2:\nAA costed 1(W/U)(W/U)\n\nOG_1:\nAA costed 2(W/U)(W/U)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hunting Saakstalker",
@@ -9199,8 +9597,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "199",
             "notes": "https://www.artstation.com/artwork/zDJlr2\n\n\n\nOG_4:\nEach opponent loses X life, where X is the highest mana value among permanents you control.\nElicit Sorcery 2B\n\nOG_3:\nCosted 4BB\nDestroy up to one target creature.\nElicit Sorcery 1B (You may cast this as a Sorcery spell for 1B, Removing the bracketed qualities.)\n[Menace]\n\n\n(scavenger pack_2)\n\nOG_2:\n[Destroy up to one target creature.]\nElicit Creature 3B (You may cast this as a Creature spell for 3B, Removing the bracketed qualities.)\nMenace\n\n\nOG_1:\n\nDestroy up to one target creature.\n\nElicit Creature 3B\n3/4\n(Francis Brunet / https://www.artstation.com/artwork/my86E )",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Brainseize",
@@ -9219,8 +9619,10 @@
             "loyalty": "",
             "artist": "Harvey Bunda on Artstation",
             "alias": "",
+            "position": "200",
             "notes": "https://www.artstation.com/artwork/or4bz",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Resummon",
@@ -9239,8 +9641,10 @@
             "loyalty": "",
             "artist": "Sean Mundy",
             "alias": "",
+            "position": "201",
             "notes": "\n\n\n\nOG_1:\nDidn't have Emerge",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Gossamer Sins",
@@ -9259,8 +9663,10 @@
             "loyalty": "",
             "artist": "KateMaxpaint",
             "alias": "",
+            "position": "202",
             "notes": "https://www.deviantart.com/katemaxpaint/art/Dark-witch-260604798",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Demon's Prowl",
@@ -9279,8 +9685,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "203",
             "notes": "https://www.artstation.com/artwork/d00L13",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Nirvana Doldrums",
@@ -9299,8 +9707,10 @@
             "loyalty": "",
             "artist": "Dirk Waschmuth on Artstation",
             "alias": "",
+            "position": "204",
             "notes": "https://www.artstation.com/artwork/wOKYV",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Revolving Dread",
@@ -9319,8 +9729,10 @@
             "loyalty": "",
             "artist": "KamikiriRip on twitter",
             "alias": "",
+            "position": "205",
             "notes": "https://x.com/KamikiriRIP/status/1763873485749911716/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mosswhelk",
@@ -9339,8 +9751,10 @@
             "loyalty": "",
             "artist": "Andrew Silke on Artstation",
             "alias": "",
+            "position": "206",
             "notes": "https://www.artstation.com/artwork/egbJ\n\n\nOG_1:\nAs long as you control three or more anomalies, this creature gets +4/+4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Carrabaster Cultivator",
@@ -9359,8 +9773,10 @@
             "loyalty": "",
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
+            "position": "207",
             "notes": "https://www.artstation.com/artwork/oAgwaJ\n\nOG art_1:\nYuri Yashin\nhttps://www.invasive.org/browse/detail.cfm?imgnum=1265024\n\nOG_2:\nWas a 1/2\n\nOG_1:\nSearch your library for a Basic land and put it onto the battlefield, then shuffle.\n\nElicit Creature 2G",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Growing Duderino",
@@ -9379,8 +9795,10 @@
             "loyalty": "",
             "artist": "Kerim Akyuz",
             "alias": "",
+            "position": "208",
             "notes": "https://www.artstation.com/artwork/wOErO",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bear Ghost",
@@ -9399,8 +9817,10 @@
             "loyalty": "",
             "artist": "Bear Ghost \u2014 Blasterpiece",
             "alias": "",
+            "position": "209",
             "notes": "https://www.bearghost.com/blasterpiece-vinyl-panel/\n\n (art)\n\nOG_1:\nWas a 4 mana 3/3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aran, Forest Hermit",
@@ -9419,8 +9839,10 @@
             "loyalty": "",
             "artist": "Guillermo Mart\u00ednez on Artstation",
             "alias": "",
+            "position": "210",
             "notes": "https://www.artstation.com/artwork/48Z1kW\n\nOG art_1:\nFrancis Brunet on Artstation\nhttps://www.artstation.com/artwork/bmG4a\n\nOG_4:\nOnly gave a single +1/+1 counter.\n\nOG_3:\nVigilance\nCreatures you control have \u201cHeroic \u2014 Whenever you cast a spell that targets this creature, put a +1/+1 counter on it\u201d.\n1B/R: Target creature you control gains menace until end of turn.\n\nOG_2:\nVigilance\nCreatures you control have \u201cHeroic \u2014 Whenever you cast a spell that targets this creature, put a +1/+1 counter on it\u201d.\nB/RB/R: Target creature you control gains menace until end of turn.\n\nOG_1: \n(didn't have menace AA)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Greater Gangeth",
@@ -9439,8 +9861,10 @@
             "loyalty": "",
             "artist": "Sickbrush on Deviantart",
             "alias": "",
+            "position": "211",
             "notes": "https://www.deviantart.com/sickbrush/art/Elara-Deer-guardian-392888237\n\nOG art_1:\nTabitha Paterson\nhttps://twilightbeasts.org/2014/04/30/an-elk-that-wasnt-an-elk/\n\n\nOG_1:\nVigilance, Trample\nAs long as you control 4 or more anomalies, this creature costs 2 less to cast and gets +3/+0.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Essence Feeder",
@@ -9459,8 +9883,10 @@
             "loyalty": "",
             "artist": "Jose Ochoa on Artstation",
             "alias": "",
+            "position": "212",
             "notes": "https://www.artstation.com/artwork/PmedgB\n\n\nOG_2:\nUntil end of turn, whenever an instant or sorcery card would be put into a graveyard, exile it instead and you draw a card.\n\nElicit Instant 3G\nHaste\n\nOG_1:\nElicit Instant 2G\nDraw a card.\nUntil end of turn, whenever an instant or sorcery card would be put into a graveyard, exile it instead and you gain 2 life.\n\n5/5",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thornbark Prile",
@@ -9479,8 +9905,10 @@
             "loyalty": "",
             "artist": "Chris Cold on Artstation",
             "alias": "",
+            "position": "213",
             "notes": "https://www.artstation.com/artwork/JQblD\n\n\nOG_1:\nDidn't have heroic",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mawssive Hunger",
@@ -9499,8 +9927,10 @@
             "loyalty": "",
             "artist": "Bruce Brenneise on Artstation",
             "alias": "",
+            "position": "214",
             "notes": "https://www.artstation.com/artwork/EVdXe2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Archdruid's Insight",
@@ -9519,8 +9949,10 @@
             "loyalty": "",
             "artist": "cris-pq",
             "alias": "",
+            "position": "215",
             "notes": "\nhttps://www.deviantart.com/cris-pq/art/Golem-summon-366439115",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aran's Acuity",
@@ -9539,8 +9971,10 @@
             "loyalty": "",
             "artist": "Guillermo Mart\u00ednez on Artstation",
             "alias": "",
+            "position": "216",
             "notes": "https://www.artstation.com/artwork/XnZ2Al\n\nOG art_1:\nAlexander Dimitrov on Artstation\nhttps://www.artstation.com/artwork/oAoQrJ\n\n\nAlt: Return any card, exile on resolution?\n\nOG_1:\nCosted 4 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Anchor-root Vitality",
@@ -9559,8 +9993,10 @@
             "loyalty": "",
             "artist": "Septimius Ferdian",
             "alias": "",
+            "position": "217",
             "notes": "https://www.gmbinder.com/share/-MOuVZsX5E-TaFN8b6bJ\n\n\nOG_3:\nTarget creature gets +X/+X until end of turn, where X is it's mana value.\n\n\nOG_2:\nChanged to 2 mana\n\n\nOG_1:\nwas 3 mana",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Revolving Medititation",
@@ -9579,8 +10015,10 @@
             "loyalty": "",
             "artist": "Borja Pindado on Artstation",
             "alias": "",
+            "position": "218",
             "notes": "https://www.artstation.com/artwork/oAyPbw",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Forgetmenot Glade",
@@ -9599,8 +10037,10 @@
             "loyalty": "",
             "artist": "@tabisumika on Twitter",
             "alias": "",
+            "position": "219",
             "notes": "https://twitter.com/tabisumika/status/1460539387838709762/photo/3\n\n\nOriginal name:\nForgetmenot Meadow",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chalcogen Spring",
@@ -9619,8 +10059,10 @@
             "loyalty": "",
             "artist": "Calder Moore on Artstation",
             "alias": "",
+            "position": "220",
             "notes": "\n\nOG art_1:\nDominik Mayer on Artstation\nhttps://www.artstation.com/artwork/48WX9W",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Whizzing Sinews",
@@ -9639,8 +10081,10 @@
             "loyalty": "",
             "artist": "Ihor Vitkovskyi on Artstation",
             "alias": "",
+            "position": "221",
             "notes": "https://www.artstation.com/artwork/3oaX42\n\n\nOG art_1:\n@DMTFL_AI on Twitter\nhttps://twitter.com/DMTFL_AI/status/1441262727469707265/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Prechronal Undergrowth",
@@ -9659,8 +10103,10 @@
             "loyalty": "",
             "artist": "Ihor Vitkovskyi on Artstation",
             "alias": "",
+            "position": "222",
             "notes": "https://www.artstation.com/artwork/vJ5d46\n\n\nOG art_1:\n@exphrasis on Twitter\nhttps://twitter.com/exphrasis/status/1448370550665986049/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Platau lumen",
@@ -9679,8 +10125,10 @@
             "loyalty": "",
             "artist": "Ihor Vitkovskyi on Artstation",
             "alias": "",
+            "position": "223",
             "notes": "https://www.artstation.com/artwork/vJ4Elv\n\n\n\nOG art_1:\nDominik Mayer on artstation\nhttps://www.artstation.com/artwork/mdnKZ",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Benevolent Herd",
@@ -9699,8 +10147,10 @@
             "loyalty": "",
             "artist": "Stas Chervinskiy on Artstation",
             "alias": "",
+            "position": "224",
             "notes": "https://www.artstation.com/artwork/xYyAN1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Drench",
@@ -9719,8 +10169,10 @@
             "loyalty": "",
             "artist": "Mauricio Ochoa Botache",
             "alias": "",
+            "position": "225",
             "notes": "https://www.artstation.com/artwork/w6V4qY\n\n\nOG_1:\nCosted 2UB, had emerge for 3UB",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Excrutiating Voice",
@@ -9739,8 +10191,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "226",
             "notes": "https://www.artstation.com/artwork/d00L13",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Leyline Channeler",
@@ -9759,8 +10213,10 @@
             "loyalty": "",
             "artist": "Jim FitzPatrick",
             "alias": "",
+            "position": "227",
             "notes": "https://greengallery.ie/collections/jim-fitzpatrick/products/breas-the-beautiful\n\nOG_3:\nWhenever you cast a spell that targets a creature you control, Leyline Channeler deals 2 damage to each opponent.\n\nOG_2:\nInstant and sorcery spells you cast that target creatures you control cost 3 less to cast.\n3/4\n\nOG_1:\nwas \"costs (2) less to cast.\"",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Idol of Harmony",
@@ -9779,8 +10235,10 @@
             "loyalty": "",
             "artist": "janhein on Deviantart",
             "alias": "",
+            "position": "228",
             "notes": "https://www.deviantart.com/janhein/art/Rebirth-in-Fermat-s-Spiral-493056467\n\n\nOG_7:\ncosted 5 mana.\n\nOG_6:\nAs long as you control fewer than 6 anomalies, Harmonic Evocation isn't a creature.\n\nOG_5:\nAs long as you control fewer than 6 anomalies, Harmonic Evocation isn't a creature.\nThe first Anomaly you cast each turn costs 2 less to cast.\n\n\nOG_4:\nCreate two 2/2 green beast enchantment creature tokens, then put a +1/+1 counter on an anomaly you control.\n\nOG_3:\nChoose one, X is equal to the highest mana value among permanents you control:\n\u2022 Create a X/X Green Beast Enchantment creature token.\n\u2022 Create half X 2/2 Green Beast Enchantment creature tokens, rounded down.\n\n(Notes: Win-more card.)\n\nOG_2:\nChoose one, X is equal to the highest mana value among permanents you control:\n\u2022 Create a X/X Green Beast Enchantment creature token.\n\u2022 Create X minus two 1/1 White human soldier creature tokens.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mightsoul Samurai",
@@ -9799,8 +10257,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "229",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Samurai-Golem-863541751\n\n\n\n\nOG art_1:\n1oshuart on Deviantart\nhttps://www.deviantart.com/1oshuart/art/Gomur-Bronzebeard-563239485\n\n\nOG_2:\nDidn't have lifelink\n\n\nOG_1:\nUMB1 Big Guy's power is equal to the second highest mana value among permanents you control.\nUMB1 Big Guy's toughness is equal to the highest mana value among permanents you control.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Knorguer, Saccloc",
@@ -9819,8 +10279,10 @@
             "loyalty": "",
             "artist": "Julian Bauer on Artstation",
             "alias": "",
+            "position": "230",
             "notes": "https://www.artstation.com/artwork/L34KWv\n\n\n\nOG_1:\nB(U/W)\nFlying\nWhenever you sacrifice a permanent, tap target nonland permanent an opponent controls.\n",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Shadowflock",
@@ -9839,8 +10301,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "231",
             "notes": "https://x.com/KamikiriRIP/status/1801948705467277392/photo/2\n\nOG art_1:\nJerome Comentale on Artstation\nhttps://www.artstation.com/artwork/rnxnm\n\n\nOG_3:\nUsed old whiz text.\n\nOG_2:\nFlying\nWhiz \u2014 Whenever an instant or sorcery card is put into your graveyard, if you pay 1 or if it wasn't a spell, create a 1/1 black Bird creature token with flying and decayed.\n\nOG_1:\nFlash, Flying\nWhenever UMG0 Shadowflock enters the battlefield or attacks, you may exile a card named Flutter Rebuttal, a card named Witherweight, and/or a card named Prowling Peck from your graveyard. If you do, copy them, you may cast the copies without paying their mana cost.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Alarming Alteration",
@@ -9859,8 +10323,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "232",
             "notes": "https://x.com/KamikiriRIP/status/1846594592390762758/photo/1\n\nOG art_1:\nDamien Mammoliti on Artstation\nhttps://www.artstation.com/artwork/8n5QQ\n\nOG_2:\nPut a trample counter on target creature.\nPut a deathtouch counter on target creature.\nPut a menace counter on target creature.\n\nOG_1:\nG(R/B)(R/B)\nput a +1/+1 counter on target creature\ntarget creature gets deathtouch until end of turn\ntarget creature gets menace until end of turn",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Honourable Bushido",
@@ -9879,8 +10345,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer on Artstation",
             "alias": "",
+            "position": "233",
             "notes": "https://www.artstation.com/artwork/B3Qbvm\n\n\nOG_4:\nWas an enchantment creature\nWhenever you cast your third instant or sorcery spell each turn, creatures you control get +2/+0 until end of turn.\n\nOG_3:\n1W(R/G)\nCreatures you control get +2/+0 as long as you've cast three or more instant or sorcery spells this turn.\n1/3\n\n\nOG_2:\nWhen CARDNAME enters the battlefield, Create a 1/1 red wizard creature token with \u201cMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.\u201d\n\nOG_1:\nMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, target creature you control gets +1/+0 until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Klashpeak Stinger",
@@ -9899,8 +10367,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "234",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Burning-Mummy-30min-spitpaint-898818471\n\n\n\nOG art_2:\n(coulnd't find the link again)\n\nOG art_1:\nDidier Nguyen on Artstation\nhttps://www.artstation.com/artwork/8ee24Q",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Klashpeak Crusader",
@@ -9919,8 +10389,10 @@
             "loyalty": "",
             "artist": "Tomasz Ryger on Artstation",
             "alias": "",
+            "position": "235",
             "notes": "https://www.artstation.com/artwork/nJZYXr\n\nOG art_1:\nJoseph Meehan on Artstation\nhttps://www.artstation.com/artwork/0dk1G\n\n\n\n\n\n\nOG_3:\nHeroic \u2014 Whenever you cast a spell that targets MV2 Klashpeak Crusader, create a 1/1 white soldier creature token. It gains haste until end of turn.\n\nOG_2:\nmade servo tokens\n\n\nOG_1:\nReprint of 1 drop with same effect",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Firemane Hyena",
@@ -9939,8 +10411,10 @@
             "loyalty": "",
             "artist": "Toby Fox (no, not that one)",
             "alias": "",
+            "position": "236",
             "notes": "https://bsky.app/profile/tobyfoxart.bsky.social/post/3lpqy6qarlk2y\n\n\n\nOG art_1:\nhttps://twitter.com/AllieBriggsArt/status/1528742577444372480/photo/1\n\n\nAlt: \nMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn. Then if it's the third time this ability has resolved this turn you may discard your hand. If you do, draw three cards.\n\nOG_1:\nMagecraft \u2014 Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn. Then if it's the third time this ability has resolved this turn, add RRR.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Chainfiend",
@@ -9959,8 +10433,10 @@
             "loyalty": "",
             "artist": "Diana Franco on Artstation",
             "alias": "",
+            "position": "237",
             "notes": "https://www.artstation.com/artwork/2q9Jya\n\nOG art_1:\nhttps://www.artstation.com/artwork/d00L13\n\nOG_1:\nWas a 3/3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Boastful Battlemage",
@@ -9979,8 +10455,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "238",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Cinderhead-543771168\n\n\nOG art_1:\n@VincentAnima on Twitter\nhttps://twitter.com/VincentAnima/status/1531993548765159424/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Heroic Spearmagus",
@@ -9999,8 +10477,10 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
+            "position": "239",
             "notes": "https://www.artstation.com/artwork/X1Kd0y",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kleefoff, Essence Looter",
@@ -10019,8 +10499,10 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
+            "position": "240",
             "notes": "https://www.deviantart.com/gugu-troll/art/Hiding-in-the-ice-190954908\n\n\n\nOG art_1: (It was the same as Crux in the revolution format.)\n\u00a9 AAA Game Art Studio (found on Artstation)\nhttps://www.artstation.com/artwork/8lrqRq\n\n\nOG_3:\nWhiz \u2014 Whenever an instant or sorcery card is put into your graveyard, if it wasn't cast, the next instant or sorcery spell you cast this turn costs 1 less to cast.\n1U/B: Draw a card, then discard a card.\n\n\nOG_2:\nOld wording on triggered ability, looting was [U/B][U/B].\n\nOG:\nHaste\nWhenever an instant or sorcery card is put into your graveyard, if it wasn't cast, the next instant or sorcery spell you cast this turn costs 1 less to cast.\nR, T, Discard a card: Draw a card.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Bloodflare",
@@ -10039,8 +10521,10 @@
             "loyalty": "",
             "artist": "ChaoyuanXu",
             "alias": "",
+            "position": "241",
             "notes": "https://www.deviantart.com/chaoyuanxu/art/The-Monkey-King-and-the-Phoenix-Flame-581796969",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Flip of Allegiance",
@@ -10059,8 +10543,10 @@
             "loyalty": "",
             "artist": "@Anontloudeac on Twitter",
             "alias": "",
+            "position": "242",
             "notes": "https://x.com/Anontloudeac/status/1446100651327492101/photo/4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Unanchored Richual",
@@ -10079,8 +10565,10 @@
             "loyalty": "",
             "artist": "Ean Koh",
             "alias": "",
+            "position": "243",
             "notes": "https://www.artstation.com/artwork/v1ydvE\n\nOG art_1:\nhttps://youtu.be/cDJ5xK9zBDk | The Richual | Deep Rock Galactic\n\n\nOG_1:\ncost 1R\nFor each anomaly you control, add R. (Anything with more than one card type is an anomaly.)",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blitz Infusion",
@@ -10099,8 +10587,10 @@
             "loyalty": "",
             "artist": "Nitrox Marquez",
             "alias": "",
+            "position": "244",
             "notes": "https://www.artstation.com/artwork/68PZ30\n\n\n\nOG_1:\nBlitz Infusion deals 2 damage to any target.\nUntil end of turn, instant and sorcery spells you cast have \u201cThis spell deals 2 damage to up to one target creature or planeswalker\u201d in addition to their other effects.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Blazing Axe",
@@ -10119,8 +10609,10 @@
             "loyalty": "",
             "artist": "Evan Surya Nugraha on Artstation",
             "alias": "",
+            "position": "245",
             "notes": "https://www.artstation.com/artwork/VJ1n4\n\n\nOG art_1:\nDungeon Strugglers\nhttps://www.artstation.com/artwork/D5KYrR\n\n\n\nOG_1:\nEquipped creature gets +2/+0 and has haste.\nWhenever you cast an instant or sorcery spell that targets a creature you control, you may attach Metioric Cudgel to that creature.\nEquip 3",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Revolving Panic",
@@ -10139,8 +10631,10 @@
             "loyalty": "",
             "artist": "Marta Dettlaff on Artstation",
             "alias": "",
+            "position": "246",
             "notes": "https://www.artstation.com/artwork/8Glow",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Ravencaller",
@@ -10159,8 +10653,10 @@
             "loyalty": "",
             "artist": "Veli Nystr\u00f6m on Artstation",
             "alias": "",
+            "position": "247",
             "notes": "https://www.artstation.com/artwork/oO93B\n\n\nOG_1:\nFlying\n1U, T, Sacrifice this creature: Create X 1/1 black Bird creature tokens with flying and decayed, where X is the highest mana value among permanents you control.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spellatog",
@@ -10179,8 +10675,10 @@
             "loyalty": "",
             "artist": "@dynasoar5 on Twitter",
             "alias": "",
+            "position": "248",
             "notes": "https://twitter.com/dynasoar5/status/1455214951279337482/photo/1\n\n\nUpshifted to Uncommon",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Safekeeper of the Chains",
@@ -10199,8 +10697,10 @@
             "loyalty": "",
             "artist": "Fran Fdez on Artstation",
             "alias": "",
+            "position": "249",
             "notes": "https://www.artstation.com/artwork/8eE3EQ\n\n\n\nOG art_1:\nJiaHao on Artstation\nhttps://www.artstation.com/artwork/qYkDR\n\nOG_2:\nWas a 2/1\n\n\nOG_1:\nWhenever UU03 MV3 Mudman dies, target creature an opponent controls gets -2/-0 until your next turn.\nWhenever UU03 MV3 Mudman is sacrificed, each creature your opponents control get -2/-0 until your next turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hereditary Heron",
@@ -10219,8 +10719,10 @@
             "loyalty": "",
             "artist": "Jeszika Le Vye on Artstation/www.Jeszika.com",
             "alias": "",
+            "position": "250",
             "notes": "https://www.artstation.com/artwork/RYlgJr'\n\n\nOG_1:\nFlying\nWhenever MV4 Heredit'Heron dies, target creature you control gains flying until end of turn.\nWhenever MV4 Heredit'Heron is sacrificed, put a flying counter on target creature you control.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Kefus, the Scribe",
@@ -10239,8 +10741,10 @@
             "loyalty": "",
             "artist": "Tomas Duchek on Artstation",
             "alias": "",
+            "position": "251",
             "notes": "https://www.artstation.com/artwork/6bZwZn\n\n\n!chop\n\nOG_4:\nAA costed double hybrid\n\nOG_3:\nCosted 5 mana\n\nOG_2:\nInstant and Sorcery spells you cast cost 1 less to cast for each permanent you control with mana value 4 or greater.\nG/WG/W: Prevent all damage that would be dealt this turn to target anomaly you control. (Anything with more than one card type is an anomaly.)\n\nOG_1:\nG/WG/W: Target anomaly you control gains protection from spells until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Dragger of Depths",
@@ -10259,8 +10763,10 @@
             "loyalty": "",
             "artist": "@sinsin08051 on Twitter",
             "alias": "",
+            "position": "252",
             "notes": "https://twitter.com/sinsin08051/status/1533036451277176832/photo/1\n\n\nOG_3:\nCreatures you control get Lurk 2 until end of turn. (creatures you control can't be blocked unless defending player pays 2 for each of those creatures.)\nElicit Sorcery 1UU (You may cast this as a Sorcery instead of as a Sorcery Creature for 1UU, putting it into the graveyard as it resolves.)\n3UU: This creature can't be blocked this turn.\n\n\nOG_2:\nCreatures you control get \u201cthis creature can't be blocked unless defending player pays 2\u201d until end of turn.\nElicit Sorcery 1UU (You may cast this as a Sorcery spell for 1UU, Removing its other spell types and effects.)\n3UU: MV7 Dragger of Depths can't be blocked this turn.\n\nOG_1:\n\nUntil the beginning of your next turn, nonland permanents your opponents control have \u201cyou can't untap this permanent unless you pay 2\u201d\n\nElicit Sorcery 2UU (You may cast this as a Sorcery spell for 2UU, Removing its other spell types and effects.)\n3UU: UU06 MV7 Dragger of Depths can't be blocked this turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Driftmuller",
@@ -10279,8 +10785,10 @@
             "loyalty": "",
             "artist": "Cobaltart on Deviantart",
             "alias": "",
+            "position": "253",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Storm-Phoenix-753951534\n\n\nOG art_1:\n@RyanResolute92 On twitter\nhttps://twitter.com/RyanResolute92/status/1447977774237421569/photo/4",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Revoke Access",
@@ -10299,8 +10807,10 @@
             "loyalty": "",
             "artist": "TVlooplay on Deviantart",
             "alias": "",
+            "position": "254",
             "notes": "https://twitter.com/seanmundyphoto/status/1331982601264001026/photo/3\n\n\nhttps://www.deviantart.com/tvlookplay/art/Mage-hand-choke-343470385\n\nOG_1:\nCounter target spell. The creatures of that spell's controller get -2/-0 until end of turn.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Storm Shield",
@@ -10319,8 +10829,10 @@
             "loyalty": "",
             "artist": "almeidahelder",
             "alias": "",
+            "position": "255",
             "notes": "https://www.deviantart.com/almeidahelder/art/Event-picture-Defender-of-ulthuan-united-756553100",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Thirst for Acknowledgement",
@@ -10339,8 +10851,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "256",
             "notes": "https://www.artstation.com/artwork/BmvwDr\n\n\n\nOriginally named \"thirst for answers\"",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Spritevix's Retrieveal",
@@ -10359,8 +10873,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "257",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Rebirth-II-549354529\n\n\nOG art_1:\nGabriel Nagypal on Artstation\nhttps://www.artstation.com/artwork/L2Jkow\n\n\nOG_1:\nReturn target instant card and target sorcery card from your graveyard to your hand, then exile Eldritch Retrieval.\nWhenever you discard Eldritch Retrieval, you may pay UU and exile it. If you do, return target instant or sorcery card from your graveyard to your hand.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Hatching the Spritevix",
@@ -10379,8 +10895,10 @@
             "loyalty": "",
             "artist": "Cobaltplasma on Deviantart",
             "alias": "",
+            "position": "258",
             "notes": "https://www.deviantart.com/cobaltplasma/art/Hatchling-706706374\n\n\n\nOG art_1:\n@NeonBre on Twitter\nhttps://twitter.com/NeonBre/status/1531036812654919680/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Revolving Insight",
@@ -10399,8 +10917,10 @@
             "loyalty": "",
             "artist": "KamikiriRip on Twitter",
             "alias": "",
+            "position": "259",
             "notes": "https://x.com/KamikiriRIP/status/1777662698219589904/photo/1",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Collective Ideals",
@@ -10419,8 +10939,10 @@
             "loyalty": "",
             "artist": "\nSam Kanios on Artstation",
             "alias": "",
+            "position": "260",
             "notes": "https://www.artstation.com/artwork/aGvad0\n\n(art)\n\n\n\nOG_1:\nTarget creature gets +0/+1 until end of turn.\nIf this spell is not a copy, create a 1/1 white soldier creature token\nStorm",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Voidliss Sky-Serpent",
@@ -10439,8 +10961,10 @@
             "loyalty": "",
             "artist": "KamikiriRIP on twitter",
             "alias": "",
+            "position": "261",
             "notes": "https://x.com/KamikiriRIP/status/1797995363099693343/photo/2\n\nOG art_1:\nJason Nguyen on Artstation\nhttps://www.artstation.com/artwork/g8G3D8",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Aspiring Bannerette",
@@ -10459,8 +10983,10 @@
             "loyalty": "",
             "artist": "Antoine Ren on Artstation",
             "alias": "",
+            "position": "262",
             "notes": "https://www.artstation.com/artwork/PmJ8Jr",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Mild Mystic",
@@ -10479,8 +11005,10 @@
             "loyalty": "",
             "artist": "Jim Fitzpatrick",
             "alias": "",
+            "position": "263",
             "notes": "https://greengallery.ie/collections/jim-fitzpatrick/products/sionna",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Skviper Skimmer",
@@ -10499,8 +11027,10 @@
             "loyalty": "",
             "artist": "Ilya Popov on Artstation",
             "alias": "",
+            "position": "264",
             "notes": "https://www.artstation.com/artwork/rJ96w2",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Tale Weaver",
@@ -10519,8 +11049,10 @@
             "loyalty": "",
             "artist": "Alexandr Elichev on Artstation",
             "alias": "",
+            "position": "265",
             "notes": "https://www.artstation.com/artwork/2qElEv\n\nOG art_1:\nAlexandr Elichev\nhttps://www.artstation.com/artwork/vBN1E\n(was moved to \"porcelain armorer\" in Jardeka)\n\nOG_4:\nCreated a single token\n\nOG_3:\nCosted double white\n\nOG_2:\nWhenever you cast your first spell during each opponent's turn, create a 1/1 colorless servo artifact creature token.\n\nOG_1:\nWhenever you cast your first instant or sorcery spell each turn, create a 1/1 colorless servo artifact creature token.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Lathinia, Metalwinged",
@@ -10539,8 +11071,10 @@
             "loyalty": "",
             "artist": "Dallas Williams on Artstation",
             "alias": "",
+            "position": "266",
             "notes": "https://www.artstation.com/artwork/qa1dy",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Idol of Decrees",
@@ -10559,8 +11093,10 @@
             "loyalty": "",
             "artist": "Tiziana Federica Ruiu on Artstation",
             "alias": "",
+            "position": "267",
             "notes": "https://www.artstation.com/artwork/BPgL9",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Wise Lichtmancer",
@@ -10579,8 +11115,10 @@
             "loyalty": "",
             "artist": "Travis-Anderson",
             "alias": "",
+            "position": "268",
             "notes": "https://www.deviantart.com/travis-anderson/art/Iciaon-hermit-834776066",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Defrock",
@@ -10599,8 +11137,10 @@
             "loyalty": "",
             "artist": "Evan Surya Nugraha on Artstation",
             "alias": "",
+            "position": "269",
             "notes": "https://www.artstation.com/artwork/ONogJ\n\n\n\nOG_1:\nCosted 4 mana\nExile target nonland permanent with mana value 3 or greater. Until end of turn, that permanent's controller can't cast spells that share a card type with that permanent.",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Giant's Axe",
@@ -10619,8 +11159,10 @@
             "loyalty": "",
             "artist": "Jonathan Lebrec on Artstation",
             "alias": "",
+            "position": "270",
             "notes": "https://www.artstation.com/artwork/mDN4ky\n\n\nOG_3:\nCosted 2 mana\n\nOG_2:\nCosted 3 mana\n\nOG_1:\nWas a common\n\n",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Rematerialize",
@@ -10639,8 +11181,10 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
+            "position": "271",
             "notes": "https://www.artstation.com/artwork/n3nLX",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Astral Barrage",
@@ -10659,8 +11203,10 @@
             "loyalty": "",
             "artist": "Hugo Fredoueil on Artstation",
             "alias": "",
+            "position": "272",
             "notes": "https://www.artstation.com/artwork/zD6W0Q?album_id=2706638",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         },
         {
             "card_name": "Revolving Arts",
@@ -10679,8 +11225,10 @@
             "loyalty": "",
             "artist": "Marta Dettlaff on Artstation",
             "alias": "",
+            "position": "273",
             "notes": "https://www.artstation.com/artwork/J9z0z",
-            "image_type": "png"
+            "image_type": "png",
+            "v_mana": ""
         }
     ]
 }

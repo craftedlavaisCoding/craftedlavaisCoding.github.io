@@ -1,4 +1,528 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+
+Spritevitiligosix
+
+Map out
+
+See Ahead
+
+Idol of Essence
+
+Spritevarix
+
+Willing Fodder
+
+Chitinous Hound
+
+Gerx Parasite
+
+Blood Seer
+
+Recluded Ronin
+
+Belltower Mystic
+
+Spritestenosix
+
+Minister of Bygones
+
+Prowling Saakstalker
+
+Ichorate
+
+Fae Blade Blessing
+
+Witherweight
+
+Chain Drain
+
+Spritevix Bargain
+
+Reposess Soul
+
+Ashassinate
+
+Demonstrate Dissent
+
+Spirima
+
+Glade Protector
+
+Wurmsoul Mystic
+
+Muscle Mystic
+
+Verdant Boar
+
+Canopy Ambusher
+
+Daunting Lifeflame
+
+Granky Mystic
+
+Vine Heroc
+
+Flightsteppe Centaur
+
+Neoitc Oldgrowth
+
+Mystic's Retort
+
+Druidic Vigor
+
+Natal Growth
+
+Verdant Synthesis
+
+Disarming Vines
+
+Endless Vegetation
+
+Heroic Growth
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Cave
+
+Rugged Highlands
+
+Blossoming Sands
+
+Skrigi Honorguard
+
+Lith Mystic
+
+Ritual Ram
+
+Anomulmutt
+
+Flamebow Elemental
+
+Featherseer Mystic
+
+Blazing Mystic
+
+Goblin Muscician
+
+Chainbreak Ragetaur
+
+Idol of Skirmishes
+
+Whizzing Fireballt
+
+Overpulse
+
+Prowling Peck
+
+Wideflame
+
+Searing Thoughts
+
+Vampiric Fury
+
+Single Point Stab
+
+Drown In Flames
+
+Spritembolusix
+
+Idol of Benthic Secrets
+
+Memory Nomad
+
+Seer of Unchained Sight
+
+Aether Bird
+
+Etherial Goat
+
+War Mystic
+
+Mistful Mystic
+
+Spriteamyloidosix
+
+Divedrake
+
+Bolstering Portal
+
+Recall Without Knowing
+
+Counterslice
+
+Suppresion Force
+
+Flutter Rebuttal
+
+Drawl
+
+Perforate Spirit
+
+Soul Surgery
+
+Mystic's Chill
+
+Fluffyhead
+
+Unrelenting Soltari
+
+Veiling Mist
+
+Panchar
+
+Batallion Frontliner
+
+Gladesprite
+
+Spritepallorix
+
+Attack Leader
+
+Blademaster
+
+Backup Squad
+
+Ageless Observer
+
+Fabric Weaver
+
+Piercing Barrage
+
+Celestial Binding
+
+Brilliant Polish
+
+Etherial Flourish
+
+Suprashield
+
+Banish an Opulent Soul
+
+Superposition Gateway
+
+Ingis, Chains of the worldsoul
+
+Lavez, Anchor of the Worldsoul
+
+Rix, Shackle of the Worldsoul
+
+Lichbind
+
+Overgrowing Pumkin
+
+Flurry of Regrowth
+
+Cloudyawner
+
+Ruination Mystic
+
+All Encompassing Wish
+
+Stormful Growthmagus
+
+Outpouring of Life
+
+Soul Augury
+
+The Observer of All
+
+Demonic Prepotence
+
+Ravenous Rhizome
+
+Singe Elemental
+
+Chromatic Storm
+
+Grandmaster of Sparks
+
+Culumonibus Tyrant
+
+Planar Till
+
+Presence of Undeath
+
+Harvest
+
+Mythos of the Unyielding King
+
+Elder Saakstalker
+
+Dominated Slither
+
+Spellbattery Ghoul
+
+Cthonitaur
+
+Doldrum Dreamer
+
+Big Mana (art flag)
+
+Biggerly (art flag)
+
+Mythos of the First Hunger
+
+Lifegraft
+
+Seek the Immense
+
+Elder Gangeth
+
+Tanglespell Briar
+
+Aspect of Vigor
+
+Tune of Safeholding
+
+Hemorrphage, Spritevix Queen
+
+Distill Fears
+
+Boorish Mystic
+
+Antolie, Anomalous Apostate
+
+Augur of Soul
+
+Spritethrombosix
+
+Sinister Magister
+
+Szyssixz, Feaster of Essence
+
+Stroke of Avail
+
+Scalemail Magmawhelk
+
+Final Ember Embrace
+
+Mythos of the Archdemon
+
+Mindblaze Mystic
+
+Firemind Richualist
+
+Hyperbolt
+
+Burning Apostle
+
+Blazing Wheel-Kin
+
+Ominous Soul Tome
+
+Chronoduplicate
+
+Mythos of the Sage
+
+Retroarcane Continuity
+
+The Wind Releaser
+
+Narcorelapsy
+
+Unmoored Ideas
+
+Temporal Emergence
+
+Acolyte of the Anchor
+
+Anchorley Angel
+
+Mythos of the Pale
+
+Unanchored Sky-Serpent
+
+Ultrashield Angel
+
+Decrown
+
+Re-weave the World
+
+Drawn From Discussion
+
+Beast
+
+Bird
+
+Servo
+
+Shell
+
+Soldier
+
+Soltari Wizard
+
+Thopter
+
+Sludgefly
+
+Twilight Tiger
+
+Saakstalker Egg
+
+Influenced informant
+
+Ichor Elemental
+
+Espien, Shellmage
+
+Hunting Saakstalker
+
+Brainseize
+
+Resummon
+
+Gossamer Sins
+
+Demon's Prowl
+
+Nirvana Doldrums
+
+Revolving Dread
+
+Mosswhelk
+
+Carrabaster Cultivator
+
+Growing Duderino
+
+Bear Ghost
+
+Aran, Forest Hermit
+
+Greater Gangeth
+
+Essence Feeder
+
+Thornbark Prile
+
+Mawssive Hunger
+
+Archdruid's Insight
+
+Aran's Acuity
+
+Anchor-root Vitality
+
+Revolving Medititation
+
+Forgetmenot Glade
+
+Chalcogen Spring
+
+Whizzing Sinews
+
+Prechronal Undergrowth
+
+Platau lumen
+
+Benevolent Herd
+
+Drench
+
+Excrutiating Voice
+
+Leyline Channeler
+
+Idol of Harmony
+
+Mightsoul Samurai
+
+Knorguer, Saccloc
+
+Shadowflock
+
+Alarming Alteration
+
+Honourable Bushido
+
+Klashpeak Stinger
+
+Klashpeak Crusader
+
+Firemane Hyena
+
+Chainfiend
+
+Boastful Battlemage
+
+Heroic Spearmagus
+
+Kleefoff, Essence Looter
+
+Bloodflare
+
+Flip of Allegiance
+
+Unanchored Richual
+
+Blitz Infusion
+
+Blazing Axe
+
+Revolving Panic
+
+Ravencaller
+
+Spellatog
+
+Safekeeper of the Chains
+
+Hereditary Heron
+
+Kefus, the Scribe
+
+Dragger of Depths
+
+Driftmuller
+
+Revoke Access
+
+Storm Shield
+
+Thirst for Acknowledgement
+
+Spritevix's Retrieveal
+
+Hatching the Spritevix
+
+Revolving Insight
+
+Collective Ideals
+
+Voidliss Sky-Serpent
+
+Aspiring Bannerette
+
+Mild Mystic
+
+Skviper Skimmer
+
+Tale Weaver
+
+Lathinia, Metalwinged
+
+Idol of Decrees
+
+Wise Lichtmancer
+
+Defrock
+
+Giant's Axe
+
+Rematerialize
+
+Astral Barrage
+
+Revolving Arts
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Map out added.
