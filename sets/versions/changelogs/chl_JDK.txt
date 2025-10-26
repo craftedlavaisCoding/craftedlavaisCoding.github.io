@@ -1,4 +1,859 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Grrr, Interplanar Armsdealer added.
+Junkyard Expert added.
+Perforating Carapace added.
+Stampedeing Oxobegg added.
+Easy-fix Scrapheap added.
+Old World Rockstar added.
+Assimilate added.
+Mind Numbing Screech added.
+Nerveweave Swap Station added.
+Brightlash Eggfly added.
+Universal Engineer added.
+Ambushing Scuttler added.
+Crashing Rhinobegg added.
+Holographm Stalker added.
+
+I am Disaster removed.
+Remnant of War removed.
+Eradication Protocol removed.
+Metalshroom Thallid removed.
+Modification Surplus removed.
+Junkfire Phoenix removed.
+Tazertot Artificer removed.
+Exclusion Protocol removed.
+Brightlash Mothguard removed.
+XRL8, Cybernetics Salvager removed.
+Jet Supporter removed.
+Crashing Tuskobegg removed.
+Hologaphm Stalker removed.
+
+Terramorphic Expanse
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Caves
+
+Rugged Highlands
+
+Blossoming Sands
+
+Scoured Barrens
+
+Swiftwater Cliffs
+
+Jungle Hollow
+
+Wind-Scarred Crag
+
+Thornwood Falls
+
+Deflecting Pool
+rules_text: {T}: Add {C} or one mana of any type that your other lands can’t produce. => {T}: Add {C} or one mana of any type that your other lands can't produce.
+
+Frosted Sandpeaks
+
+Sunken Conservatory
+
+Remediated Outpost
+
+Coastal Crash-Site
+
+Dessicated Drift
+
+Lupa, the Metallophage
+
+Bolstering Scrapling
+
+Rattling Sentry
+
+Rabid Striker
+
+Parcelk
+
+Toolsmith Courier
+
+Trashore Freighter
+rules_text: When this creature dies, create an implant token with a +1/+1 counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature dies, create an implant token with a +1/+1 counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+{8}, Exile this card from your graveyard: Draw two cards, then discard a card.
+
+Voltaic Construct
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, untap it. Each ability source triggers this only once each turn.
+{T}: You gain 1 life. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, untap it. Each ability source triggers this only once each turn.
+{T}: You gain 1 life.
+
+Abandoned Walker
+
+Old World Guardian
+
+Filtering Star
+
+Rusty Gauntlet
+
+Universal Corrosive
+
+Flensing Jar
+rules_text: {T}, Sacrifice this artifact: Exile target player’s graveyard.
+{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it and put it into your hand, then shuffle. => {T}, Sacrifice this artifact: Exile target player's graveyard.
+{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it and put it into your hand, then shuffle.
+
+Scavenged Supplies
+
+Coalpower Gauntlet
+rules_text: Equipped creature gets +1/+0 and has Lurk {1}. [i](Defending player can’t block that creature unless they pay {1})[/i]
+Equip {2} => Equipped creature gets +1/+0 and has Lurk {1}. [i](Defending player can't block that creature unless they pay {1})[/i]
+Equip {2}
+
+Metalshroom
+
+Cyclic Vessel
+
+Sedative Darts
+rules_text: {1}, {T}, Sacrifice this artifact: Put a stun counter on target creature.
+{B}, {T}, Sacrifice this artifact: Target creature gets -1/-1 until end of turn. => When this artifact enters, draw a card, then discard a card.
+{1}, {T}, Sacrifice this artifact: Put a stun counter on target creature.
+{B}, {T}, Sacrifice this artifact: Target creature gets -1/-1 until end of turn.
+
+Dormant Tallmer
+
+Consumerist Spirit Guide
+
+Cleaver's Carpace
+rules_text: Equipped creature gets +3/+3 and has “Lurk—Pay 3 life.”
+[i](Defending player can’t block that creature unless they pay 3 life.)[/i]
+Equip {2}
+{B}, discard this card: Create a 1/1 green Insect creature token. => Equipped creature gets +3/+3 and has “Lurk—Pay 3 life.”
+[i](Defending player can't block that creature unless they pay 3 life.)[/i]
+Equip {2}
+{B}, discard this card: Create a 1/1 green Insect creature token.
+
+Junkshore Fisherman
+
+Vampiric Strider
+rules_text: When this creature enters, create an implant token with a lifelink counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with a lifelink counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Shearing Rager
+
+Deathblade
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, it gains your choice of deathtouch or menace until end of turn. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, it gains your choice of deathtouch or menace until end of turn. Each ability source triggers this only once each turn.
+
+Pillabegg Scavengers
+
+Furnace-Coals Hunter
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, each opponent loses 1 life. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, each opponent loses 1 life. Each ability source triggers this only once each turn.
+
+Trashore Racketeer
+
+Junksniffter
+
+Ravenous Blade
+
+Junkyard Hunt
+
+Bleed Out
+
+Thousand Cuts
+
+Junk-sea Reclaiming
+
+Divestion Blade
+
+Boneforged Staff
+
+Lethal Prowess
+rules_text: Target creature you control gets +1/+1 and gains lifelink and deathtouch until end of turn.
+If it’s the target of an activated ability you control, instead put a +1/+1, lifelink, and deathtouch counter on it. => Target creature you control gets +1/+1 and gains lifelink and deathtouch until end of turn. If it's the target of an activated ability you control, instead put a +1/+1, a lifelink, and a deathtouch counter on it.
+
+Mulchpot
+
+Verdanth Lizard
+
+Toolsmith Apprentice
+rules_text: This creature gets +2/+0 as long as it’s modified. [i](Equipment, Auras you control, and counters are modifications.)[/i] => This creature gets +2/+0 as long as it's modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Ruins Ranger
+rules_text: This creature can’t be blocked by more than one creature.
+Whenever this creature attacks, it gets +1/+0 until end of turn for each kind of counter among permanents you control. => This creature can't be blocked by more than one creature.
+Whenever this creature attacks, it gets +1/+0 until end of turn for each kind of counter among permanents you control.
+
+Pillabegg Elder
+
+Piled-up Junkshell
+
+Basilisker
+rules_text: When this creature enters, create a implant token with a deathtouch counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create a implant token with a deathtouch counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Kybertusk Mammoth
+rules_text: This creature enters with three +1/+1 counters and a reach counter.
+When this creature dies, create an implant token and put it’s counters on it. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => This creature enters with three +1/+1 counters and a reach counter.
+When this creature dies, create an implant token and put it's counters on it. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Steelgrazing Goat
+
+Junkbelly
+
+Excavating the Factory
+
+Grow From Steel
+
+Atomize
+rules_text: Destroy target artifact or enchantment.
+Create an implant token with a trample counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Destroy target artifact or enchantment.
+Create an implant token with a trample counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Pillabegg Probiota
+
+Jawlock
+
+Cybernetic Might
+rules_text: Enchant creature
+Flash
+This spell costs {1} less to cast for each permanent you’ve sacrificed this turn.
+Enchanted creature gets +4/+4. => Flash
+Enchant Creature
+This spell costs {1} less to cast for each permanent you've sacrificed this turn.
+Enchanted creature gets +4/+4.
+
+Trashore Trawl
+
+Blast Furnace Beetle
+rules_text: When this creature enters, add {R}{R}. You can’t spend this mana on casting nonartifact spells. => When this creature enters, add {R}{R}. You can't spend this mana on casting nonartifact spells.
+
+Junker Man
+
+Scrappy Automaton
+
+Crucible Juggernaut
+
+Arc-talon Lacerator
+rules_text: When this creature enters, create an implant token with a first strike counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+This creature can’t block. => When this creature enters, create an implant token with a first strike counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+This creature can't block.
+
+Junksea Artillerist
+
+Slag Cruciblair
+rules_text: When this creature enters, create an implant token with a menace counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+This creature can’t attack unless you’ve sacrificed a permanent this turn. => When this creature enters, create an implant token with a menace counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+This creature can't attack unless you've sacrificed a permanent this turn.
+
+Met-a110 Moth
+rules_text: This creature has flying as long as it’s attacking.
+This creature has haste as long as you control three or more artifact creatures. => This creature has flying as long as it's attacking.
+This creature has haste as long as you control three or more artifact creatures.
+
+Smokewagg
+rules_text: Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+[i]Clang[/i] — Whenever an artifact enters under your control, target creature can’t block until end of turn. => Ward—Pay 2 life [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)[/i]
+[i]Clang[/i] — Whenever an artifact enters under your control, target creature can't block until end of turn.
+
+Automaton Arc-flamer
+
+Transmute Thermite
+
+Immenent Missile
+
+Pugilist's Prize
+
+Rushed Rerpurposing
+
+Slagful Slam
+
+Reforge
+
+Blinding Flare
+rules_text: Target creature can’t block this turn.
+Exile the top card of your library. You may play that card until the end of your next turn. => Target creature can't block this turn.
+Exile the top card of your library. You may play that card until the end of your next turn.
+
+Licensed Larcenist
+
+Artserphlan
+
+Draining Festerspark
+rules_text: When this creature enters, create an implant token with a flying counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with a flying counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+pt: 1/1 => 1/2
+
+Triage Tri-arm
+rules_text: Flash
+When this creature enters, the next equip ability you activate costs {0}, and you may activate it whenever you could cast an instant. => Flash
+When this creature enters, attach target equipment to target creature you control.
+
+Prime Pugilist
+rules_text: This creature gets +1/+1 for each equipment attached to it.
+[i]Clang[/i] — Whenever an artifact enters under your control, you may swap this creature’s power and toughness until end of turn. => This creature gets +1/+1 for each equipment attached to it.
+[i]Clang[/i] — Whenever an artifact enters under your control, you may swap this creature's power and toughness until end of turn.
+
+Drakepost Parcel
+
+Tort Artificer
+rules_text: When this creature enters, create an implant token with a shield counter, then scry X, where X is the number of kinds of counters among permanents you control. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with a shield counter, then scry X, where X is the number of kinds of counters among permanents you control. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Spliceblade Rogue
+rules_text: Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Lurk {3} [i](Defending player can’t block this creature unless they pay {3})[/i] => Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Lurk {3} [i](Defending player can't block this creature unless they pay {3})[/i]
+
+Leopard Drone Hunter
+rules_text: When this creature enters, create an implant token with a hexproof counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with a hexproof counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Portable Barricade
+
+Quick Revision
+cost: {U} => {1}{U}
+rules_text: As an additional cost to casting this spell, return an artifact you control to its owner’s hand or pay {1}{U}.
+Counter target spell. => As an additional cost to casting this spell, return an artifact you control to its owner's hand or pay {U}.
+Counter target spell.
+
+Fuel Freeze
+
+Artificer's Assertion
+
+Wing Servos
+rules_text: Return target creature to its owner’s hand.
+You may move a counter from a permanent you control onto target permanent you control. => Return target creature to its owner's hand.
+You may move a counter from a permanent you control onto target permanent you control.
+
+Hitreg
+rules_text: Until end of turn, target artifact or creature becomes a 4/5 artificer creature.
+Draw a card. => Until end of turn, target artifact or creature becomes a 4/5 artifact creature.
+Draw a card.
+
+Drawn Blade
+
+Holographm Umbra
+rules_text: Create a token that’s a copy of target artifact or creature you control. Then that permanent phases out until that token leaves the battlefield. [i](Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)[/i] => Create a token that's a copy of target artifact or creature you control. Then that permanent phases out until that token leaves the battlefield. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i]
+
+Strikesmith
+
+Dwarftificer
+rules_text: When this creature enters, create an implant token with a +1/+1 counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with a +1/+1 counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Dewmoth
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn.
+pt: 1/2 => 2/2
+
+Farmword
+rules_text: Flying
+When this creature enters, search your library for a basic Plains card and reveal it, put it into your hand, then shuffle. => Flying
+When this creature enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.
+
+Sandpeaks Cleric
+
+Heiromancer Hologram
+rules_text: When this creature enters, draw a card. Then if you don’t control a modified creature, put a card from your hand on the bottom of your library. => When this creature enters, draw a card. Then if you don't control a modified creature, put a card from your hand on the bottom of your library.
+
+Lightstep Ascetic
+rules_text: This creature can’t be blocked by creatures with power 3 or greater.
+{T}: Until end of turn, target creature you control can’t be blocked by creatures with power 3 or greater. => This creature can't be blocked by creatures with power 3 or greater.
+{T}: Until end of turn, target creature you control can't be blocked by creatures with power 3 or greater.
+
+Sable Drone Recon
+rules_text: When this creature enters, create two implant tokens with +1/+1 counters. [i](They’re token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create two implant tokens with +1/+1 counters. [i](They're token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Rune-etch Artificer
+
+Moonmoth Steed
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, it gets your choice of flying, first strike, vigilance, or lifelink until end of turn. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, it gets your choice of flying, first strike, vigilance, or lifelink until end of turn. Each ability source triggers this only once each turn.
+
+Smite the Unlicensed
+
+Projectile Energy Shield
+
+Reforging Binding
+rules_text: Enchanted creature can’t attack or block.
+Tap three untapped artifacts you control: Exile enchanted creature. => Enchanted creature can't attack or block.
+Tap three untapped artifacts you control: Exile enchanted creature.
+
+On Patrol
+rules_text: Enchant creature you control.
+When this aura enters, untap target permanent.
+Enchanted creature has vigilance and “{T}: Tap target creature.” => Enchant creature you control.
+When this Aura enters, untap target permanent.
+Enchanted creature has vigilance and “{T}: Tap target creature.”
+
+Moonlight Mothering
+cost: {3}{W} => {2}{W}
+rules_text: Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+Whenever enchanted creature deals combat damage to a player, create an implant token with a +1/+1 counter on it. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+You may cast this card from your graveyard for {3}{W}{W}.
+
+Protective Holographm
+rules_text: Return target artifact or creature you control to its owner’s hand.
+You gain 2 life.
+{1}{W}, discard this card: Put a +1/+1 counter on target creature you control. => Return target artifact or creature you control to its owner's hand.
+You gain 2 life.
+{1}{W}, Discard this card: Put a +1/+1 counter on target creature you control.
+
+Gone to History
+
+Steelstorm Conduit
+rules_text: This artifact enters with X nanite counters.
+You may cast artifact spells with mana value less than or equal to the number of opulence counters on this artifact without paying their mana cost. => This artifact enters with X nanite counters.
+You may cast artifact spells with mana value less than or equal to the number of nanite counters on this artifact without paying their mana cost.
+
+Sword of One and Many
+
+Astro, Wonder Wielder
+rules_text:  => [+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible Attach up to one target equipment you control to it.
+[-6]: Search your library and graveyard for any number of equipment cards. Put them onto the battlefield, then shuffle.
+
+Konzah, Gastropod Proficcionado
+rules_text:  => [+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact, if you do, create another token.
+[0]: You may sacrifice a slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.
+[-9]: Put a permanent card with mana value 0 from your hand onto the battlefield. Then repeat this process for mana values 1 through 8.
+[1]:
+special_text: [+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact, if you do, create another token.
+[0]: You may sacrifice a slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.
+[-9]: Put a permanent card with mana value 0 from your hand onto the battlefield. Then repeat this process for mana values 1 through 8.
+[1]:  => [+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact, if you do, create another token.
+[0]: You may sacrifice a slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.
+[-9]: Put a permanent card with mana value 0 from your hand onto the battlefield. Then repeat this process for mana values 1 through 8.
+[1]:
+
+Semblance of Prosperity
+rules_text: Whenever a nontoken land enters under your control, create a token that’s a copy of it, except it’s a implant artifact with a +1/+1 counter on it with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.” in addition to its other types. => Whenever a nontoken land enters under your control, create a token that's a copy of it, except it's a implant artifact with a +1/+1 counter on it with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.” in addition to its other types.
+
+Witness the End
+rules_text: Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner’s control. When it does, if it’s the only creature on the battlefield, you gain 3 life and draw three cards. => Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control. When it does, if it's the only creature on the battlefield, you gain 3 life and draw three cards.
+
+Behel, Unliving Weapon
+rules_text: As an additional cost to cast Behel, sacrifice an equipment.
+Deathtouch
+Treat Behel as though it’s equipped with each equipment in your graveyard. => As an additional cost to cast Behel, sacrifice an equipment.
+Deathtouch
+Treat Behel as though it's equipped with each equipment in your graveyard.
+
+Furnace-Coals Reaper
+
+Breach the Factory
+
+Illusion of Peace
+rules_text: Modified permanents you control have hexproof and indestructible as long as you haven’t blocked or cast a spell this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Modified permanents you control have hexproof and indestructible as long as you haven't blocked or cast a spell this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Deep Strata Pressure
+
+Symmetric Warfare
+
+The Factory
+
+Apocalypse Then
+
+Retrofitter's Ritual
+rules_text: Add {R}{R}{R}{R}. You can’t spend this mana to cast spells from your hand. => Add {R}{R}{R}{R}. You can't spend this mana to cast spells from your hand.
+
+Ayesha, Lost Embrace
+rules_text: Flying, Vigilance, Phasing
+You can cast Ayesha, Lost Embrace from anywhere that isn’t your hand.
+If Ayesha would die, return it to its owner’s hand instead of putting it into the graveyard. => Flying, Vigilance, Phasing
+You can cast Ayesha, Lost Embrace from anywhere that isn't your hand.
+If Ayesha would die, return it to its owner's hand instead of putting it into the graveyard.
+
+Behel's Escalating Machinations
+
+Reflective Hulk
+
+The Goldigarch
+
+Verdant Rebreather
+rules_text: Whenever equipped creature attacks, you may put a land card from your hand onto the battlefield tapped. If you don’t, return a land you control to your hand, draw a card, then discard a card.
+Equip {1} => Whenever equipped creature attacks, you may put a land card from your hand onto the battlefield tapped. If you don't, return a land you control to your hand, draw a card, then discard a card.
+Equip {1}
+
+Furnace Firestarter
+
+Crystalline Giant
+rules_text: At the beginning of combat on your turn, choose a kind of counter at random that this creature doesn’t have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on this creature. => At the beginning of combat on your turn, choose a kind of counter at random that this creature doesn't have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on this creature.
+
+Tempered Powergem
+
+Sponsored Companion
+
+Brainial Plating
+
+Murk Shade
+
+Colossurs
+rules_text: Each creature with total power and toughness 7 or less can’t block this creature.
+{1}{R}{R}: This creature gets +2/+2 and trample until end of turn. => Each creature with total power and toughness 7 or less can't block this creature.
+{1}{R}{R}: This creature gets +2/+2 and trample until end of turn.
+
+Specimen Container
+rules_text: When this creature enters the battlefield, search your library for a creature card and reveal it. Shuffle, then put that card on top.
+{4}{G}{G}, Sacrifice this creature: Put a creature card from your hand onto the battlefield. => When this creature enters the battlefield, search your library for a creature card and reveal it. Shuffle, then put that card on top.
+{4}{G}{G}, Sacrifice this artifact: Put a creature card from your hand onto the battlefield.
+
+Serpent of the Void
+
+Darklash Flaggelant
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, each opponent loses 2 life. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, each opponent loses 2 life. Each ability source triggers this only once each turn.
+
+Acidspit Incubator
+
+Factory Wurm
+rules_text: Deathtouch
+While you’re searching your library, you may put this this card into your graveyard from your library. When you do, you lose 1 life. => Deathtouch
+While you're searching your library, you may put this this card into your graveyard from your library. When you do, you lose 1 life.
+
+Pollution Armaments
+cost: {B} => {2}{B}
+
+Industry Abomination
+rules_text: You may pay {B} and sacrifice three artifact creatures rather than pay this spell’s mana cost.
+Exile three artifact creature cards from your graveyard: Return this creature from your graveyard to your hand. => You may pay {B} and sacrifice three artifact creatures rather than pay this spell's mana cost.
+Exile three artifact creature cards from your graveyard: Return this creature from your graveyard to your hand.
+
+Conflict of Interest
+
+Trashore Ogre
+
+Terrabombing
+
+Jade Armorer
+rules_text: When this creature enters, create an implant token with X +1/+1 counters on it. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with X +1/+1 counters on it. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Perfect Complexion
+rules_text: Put a hexproof counter on target creature. Remove a counter from that creature at the beginning of the next end step. => Put a hexproof counter on target creature, it gains +1/+1 until end of turn. Remove a counter from that creature at the beginning of the next end step.
+
+Cyborgmancer
+
+Dr. Fabre, the Junkseer
+rules_text: Whenever one or more artifact cards are put into your graveyard from anywhere, add two mana in any combination of colors. You can’t spend this mana on casting spells from your hand. => Whenever one or more artifact cards are put into your graveyard from anywhere, add two mana in any combination of colors. You can't spend this mana on casting spells from your hand.
+
+Steel Gardener
+
+Scaled Armorer
+
+War Djinn
+
+Furnacemaster Orc
+
+Dreck Contamination
+
+Daggers of Dance and Death
+
+Old World Engineers
+
+Dross Digestion
+
+Collected Clangours
+
+Mass reproduction
+rules_text: Create an implant token with a +1/+1 counter.
+The next time you activate an ability that isn’t a mana ability this turn, copy it X times, where X is the number of kinds of counters among permanents you control. => Create an implant token with a +1/+1 counter.
+The next time you activate an ability that isn't a mana ability this turn, copy it X times, where X is the number of kinds of counters among permanents you control.
+
+Blitzwing Armorer
+rules_text: When this creature enters, create four implant tokens with haste counters. [i](They’re token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+Whenever a creature you control attacks, if it entered the battlefield this turn, it gains flying until end of turn. => When this creature enters, create four implant tokens with haste counters. [i](They're token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+Whenever a creature you control attacks, if it entered the battlefield this turn, it gains flying until end of turn.
+
+Remelt
+
+Rhoogex, the Furnace Lord
+rules_text: Artifact creature and vehicle spells you cast have blitz. The blitz cost is equal to its mana cost minus {3}. Vehicles cast this way have “Crew 1” => Artifact creature and vehicle spells you cast have blitz. The blitz cost is equal to its mana cost minus {3}. Vehicles cast this way have “Crew 1” [i](If you cast a spell for its blitz cost, it gains haste and “When this creature dies, draw a card”. Sacrifice it at the beginning of the next end step.)[/i]
+
+Immolation Automaton
+
+Clangorous Militia
+
+Furnace Knight
+
+Replicating Ripper
+rules_text: Haste
+Whenever you sacrifice a permanent, you may pay {R}. If you do, create a token that’s a copy of this creature. Exile that token at the beginning of the next end step. => Haste
+Whenever you sacrifice a permanent, you may pay {R}. If you do, create a token that's a copy of this creature. Exile that token at the beginning of the next end step.
+
+Vedalken Tinkerer
+rules_text: The first noncreature artifact spell you cast each turn costs {2} less to cast.
+{3}, {T}: You may cast your next artifact spell as though it has flash. => Flash
+The first noncreature artifact spell you cast each turn costs {2} less to cast.
+{3}, {T}: You may cast your next artifact spell this turn as though it has flash.
+
+Accomplished Blade-Arts
+
+Veiled Armorer
+
+Archon of Artifice
+
+Mechanical Mimic
+
+Monitor's Autopugilistar
+
+Martial Tech
+
+Old World Flutist
+
+Lisence Suspender
+
+Perfected Armormod
+
+Scholar of Runes
+
+Bladeblessed Angel
+rules_text: Flying, First strike, Vigilance
+Whenever this creature attacks, create an implant token with your choice of a Flying, First strike, Vigilance, or +1/+1 counter on it. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Flying, First strike, Vigilance
+Whenever this creature attacks, create an implant token with your choice of a Flying, First strike, Vigilance, or +1/+1 counter on it. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Cardboard Crustacean
+
+Half-Chi
+
+Junk-sea Tril-0
+
+Constructed Steward
+
+Rusted Recouper
+rules_text: Protection from creatures with +1/+1 counters.
+When this creature enters, create an implant token with a +1/+1 counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Protection from creatures with +1/+1 counters.
+When this creature enters, create an implant token with a +1/+1 counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Cobbled Automaton
+
+Scintilla War Machine
+
+Remnant Warden
+
+Astro's Spaceblade
+
+Infomschematic Well
+rules_text: This spell costs {1} less to cast for each spell you’ve cast this turn.
+{4}, {T}, Sacrifice this artifact: Choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference. => This spell costs {1} less to cast for each spell you've cast this turn.
+{4}, {T}, Sacrifice this artifact: Choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.
+
+Trash Dowsing Staff
+rules_text: {T}: Surveil 1.
+{1}, {T}, Exile this artifact: Shuffle any number of cards from graveyards into their owner’s libraries. => {T}: Surveil 1.
+{1}, {T}, Exile this artifact: Shuffle any number of cards from graveyards into their owner's libraries.
+
+Hardgraphm Armor
+
+Ciphered Blade
+
+Scorpion Spineclamp
+
+Metalshroom Foofballs
+
+Seeding Mine
+
+Blight Troop
+rules_text: Deathtouch
+[i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, it gets +1/+0 until end of turn. Each ability source triggers this only once each turn. => Deathtouch
+[i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, it gets +1/+0 until end of turn. Each ability source triggers this only once each turn.
+
+Resentful Smith
+
+Wredger
+
+Zjieg, Edgelord
+rules_text: Equipped creatures you control get +1/+0.
+When Zjieg enters, search your library for a card, then shuffle. If it’s an equipment, you may reveal it and put it into your hand. Otherwise, put it on top of your library. => Equipped creatures you control get +1/+0.
+When Zjieg enters, search your library for a card, then shuffle. If it's an equipment, you may reveal it and put it into your hand. Otherwise, put it on top of your library.
+
+Extortionist Cutpurse
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, target opponent discards a card. If they have no cards in hand, you draw a card instead. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, target opponent discards a card. If they have no cards in hand, you draw a card instead. Each ability source triggers this only once each turn.
+
+Smokebrock Vulture
+
+Grrr's Warhound
+
+Merciless Rend
+rules_text: Exile target creature. If that creature had any counters on it, choose one and create an implant token with that counter on it. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Exile target creature. If that creature had any counters on it, choose one and create an implant token with that counter on it. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Manufacturing Defect
+
+Under the Junk-sea
+
+Miasma Siphoner
+rules_text: When this equipment enters or whenever an opponent loses life, put a smoke counter on it.
+Equipped creature gets +1/+0 and gains “Ward—pay 1 life.” for each smoke counter on this equipment.
+Equip {3} => Equipped creature gets +3/+0 and has “Ward—Exile two cards from your graveyard.”
+You may cast this card from your graveyard.
+Equip {3}
+
+Return Rearmed
+
+Sulphuric Seas
+
+Steel Soul Farie
+
+Prime Forest Loamer
+
+Verdant Hologram
+rules_text: Whenever one or more counters are put on a permanent you control, if it’s the first time counters have been put on that permanent this turn, you gain 1 life. => Whenever one or more counters are put on a permanent you control, if it's the first time counters have been put on that permanent this turn, you gain 1 life.
+
+Acrid Hound
+
+Scrap Animist
+
+Beldram, Adaptive Automator
+rules_text: Ward {2}
+When Beldram enters, create an implant with a trample counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+Whenever you would put a keyword counter on a creature you control, put a keyword counter and a +1/+1 counter on that creature instead. => Ward {2}
+When Beldram enters, create an implant with a trample counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+Whenever you would put a keyword counter on a creature you control, put a keyword counter and a +1/+1 counter on that creature instead.
+
+Rhinodrone Piker
+rules_text: When this creature enters, create an implant with a +1/+1 counter and a haste counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+Modified creatures you control can’t be blocked by creatures with power 2 or less. => When this creature enters, create an implant with a +1/+1 counter and a haste counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+Modified creatures you control can't be blocked by creatures with power 2 or less.
+
+Verdant Synthesizer
+
+Pin to the Ground
+
+Interlocking Insight
+
+Junksea's Stampede
+
+Stratify the Past
+
+Solaris Cleaner
+
+Weapons Merchant
+rules_text: Lurk—Pay {1} and 1 life [i](Defending player can’t block this creature unless they pay {1} and 1 life)[/i]
+When this creature enters, each opponent loses X life and you gain X life, where X is the number of equipment you control. => Lurk—Pay {1} and 1 life [i](Defending player can't block this creature unless they pay {1} and 1 life)[/i]
+When this creature enters, each opponent loses X life and you gain X life, where X is the number of equipment you control.
+
+Death Machinist
+rules_text: Menace
+Whenever this creature attacks, exile target artifact creature card with mana value 3 or less from your graveyard. Create a token copy of it that’s tapped and attacking. Sacrifice it at the beginning of the next end step. => Menace
+Whenever this creature attacks, exile target artifact creature card with mana value 3 or less from your graveyard. Create a token copy of it that's tapped and attacking. Sacrifice it at the beginning of the next end step.
+
+Rust Refiner
+
+Old World Decoration
+
+Angle Knight
+rules_text: Vigilance
+[i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn. => Vigilance
+[i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn.
+
+Artifizzard
+
+Junksea Hunter
+
+Scorpone Aristocrat
+rules_text: When this creature enters, target creature an opponent controls can’t attack or block until your next turn.
+[i]Clang[/i] — Whenever an artifact enters under your control, it deals 1 damage to up to one target creature or planeswalker and you gain 1 life. => When this creature enters, target creature an opponent controls can't attack or block until your next turn.
+[i]Clang[/i] — Whenever an artifact enters under your control, it deals 1 damage to up to one target creature or planeswalker and you gain 1 life.
+
+Implant Enthusiast
+rules_text: Whenever you put a counter on a permanent you control, if this creature doesn’t have a counter of that kind, you may put one on this creature. => Whenever you put a counter on a permanent you control, if this creature doesn't have a counter of that kind, you may put one on this creature.
+
+Kyberdaemon
+rules_text: This spell can’t be countered.
+Haste
+Artifact spells you control and abilities of artifacts you control can’t be countered. => This spell can't be countered.
+Haste
+Artifact spells you control and abilities of artifacts you control can't be countered.
+
+Slaghorn Rhino
+
+Opportunistic Saprotrophy
+
+Furnace Artillerist
+
+Blastman
+
+Furnace Crawler
+
+Glimmering Find
+
+Molten Wellspring
+
+Forged Ferocity
+
+Crucible Cannon
+
+Furnace Flare
+
+Junker's Furnace
+
+Nexus Salvage
+
+Interplanter
+rules_text: When this creature enters, create an implant token with your choice of two different counters among Vigilance, +1/+1, Flying, and Shield. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with your choice of two different counters among Vigilance, +1/+1, Flying, and Shield. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Glirix, Toolsmith
+
+Augur of Implants
+
+Drone Falconer
+rules_text: Flying
+Protection from creatures with flying.
+When this creature enters, create a implant token with a flying counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Flying
+Protection from creatures with flying.
+When this creature enters, create a implant token with a flying counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Metalmancer
+rules_text: Vigilance
+{T}, Return an artifact you own to your hand: Put an artifact card artifact card with mana value equal to 1 plus the returned artifact’s mana value from your hand onto the battlefield. => Vigilance
+{T}, Return an artifact you own to your hand: Put an artifact card artifact card with mana value equal to 1 plus the returned artifact's mana value from your hand onto the battlefield.
+
+Jardekan Techmage
+rules_text: You may cast artifact spells as though they have flash, and you may activate equip abilities and abilities of implants you control whenever you could cast an instant. [i](They’re token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => You may cast artifact spells as though they have flash, and you may activate equip abilities and abilities of implants you control whenever you could cast an instant. [i](They're token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Cryogen Broadsword
+
+Holographic Insight
+rules_text: Draw four cards, then discard a card.
+Create an implant token with a Vigilance counter and a flying counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Draw four cards, then discard a card.
+Create an implant token with a Vigilance counter and a flying counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Digitalize
+
+Shackles of Artifice
+
+Skyclang Jetwings
+
+Assimilation Blade
+
+Assault Trooper
+
+Liscenced Scout
+
+Old World Noble
+rules_text: Flying
+Protection from colorless sources your opponents control. [i](This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything colorless your opponents control.)[/i] => Flying
+Protection from colorless sources your opponents control. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything colorless your opponents control.)[/i]
+
+Robotics Artisan
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, tap target creature an opponent controls. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, tap target creature an opponent controls. Each ability source triggers this only once each turn.
+
+Derelict Sentinel
+rules_text: [i]Clang[/i] — Whenever an artifact enters under your control, you gain 1 life. If it’s the second time this ability has resolved this turn, draw a card. => [i]Clang[/i] — Whenever an artifact enters under your control, you gain 1 life. If it's the second time this ability has resolved this turn, draw a card.
+
+Old World Armada
+rules_text: [i]Proficiency[/i] — Whenever this creature becomes a target of an activated ability you control, create a 1/1 white soldier creature token. Each ability source triggers this only once each turn. => [i]Proficiency[/i] — Whenever this creature becomes a target of an ability you control, create a 1/1 white soldier creature token. Each ability source triggers this only once each turn.
+
+Kudu-Drone Scout
+rules_text: When this creature enters, create an implant token with a double strike counter. [i](It’s a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => When this creature enters, create an implant token with a double strike counter. [i](It's a token artifact with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Tinkering Maestro
+
+Modified Mauling
+
+Embellish Armaments
+rules_text: Create three implant tokens with +1/+1 counters. [i](They’re token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i] => Create three implant tokens with +1/+1 counters. [i](They're token artifacts with “{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery”)[/i]
+
+Clean Idea
+rules_text: Activated abilities you control cost {2} less to activate until end of turn. This effect can’t reduce those costs to less than one mana unless they’re tap abilities.
+Draw a card. => Activated abilities you control cost {2} less to activate until end of turn. This effect can't reduce those costs to less than one mana unless they're tap abilities.
+Draw a card.
+
+Juliet's Autodog
+
+Reassemble
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
