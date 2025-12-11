@@ -4,35 +4,35 @@
         "number": 30,
         "shape": "normal",
         "set": "JDK",
-        "position": "152"
+        "position": "147"
     },
     {
         "card_name": "Ayesha, Lost Embrace",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "JDK",
-        "position": "150"
+        "position": "145"
     },
     {
         "card_name": "Assimilate",
         "number": 82,
         "shape": "normal",
         "set": "JDK",
-        "position": "198"
+        "position": "131"
     },
     {
         "card_name": "Apocalypse Then",
         "number": 121,
         "shape": "normal",
         "set": "JDK",
-        "position": "148"
+        "position": "143"
     },
     {
         "card_name": "Konzah, Gastropod Proficcionado",
         "number": 176,
         "shape": "planeswalker",
         "set": "JDK",
-        "position": "138"
+        "position": "133"
     },
     {
         "card_name": "Bladeblessed Angel",
@@ -43,31 +43,31 @@
     },
     {
         "card_name": "Behel's Escalating Machinations",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "JDK",
-        "position": "151"
+        "position": "146"
     },
     {
         "card_name": "Grrr, Interplanar Armsdealer",
         "number": 94,
         "shape": "planeswalker",
         "set": "JDK",
-        "position": "137"
+        "position": "132"
     },
     {
         "card_name": "Retrofitter's Ritual",
         "number": 152,
         "shape": "normal",
         "set": "JDK",
-        "position": "149"
+        "position": "144"
     },
     {
         "card_name": "Semblance of Prosperity",
         "number": 188,
         "shape": "normal",
         "set": "JDK",
-        "position": "139"
+        "position": "134"
     },
     {
         "card_name": "Brightlash Eggfly",
@@ -77,67 +77,67 @@
         "position": "209"
     },
     {
-        "card_name": "Accomplished Blade-Arts",
+        "card_name": "Archon of Artifice",
         "number": 41,
         "shape": "normal",
         "set": "JDK",
-        "position": "200"
+        "position": "202"
     },
     {
         "card_name": "Acidspit Incubator",
         "number": 81,
         "shape": "normal",
         "set": "JDK",
-        "position": "166"
+        "position": "162"
     },
     {
         "card_name": "Blitzwing Armorer",
         "number": 127,
         "shape": "normal",
         "set": "JDK",
-        "position": "191"
+        "position": "192"
     },
     {
         "card_name": "Cyborgmancer",
         "number": 167,
         "shape": "normal",
         "set": "JDK",
-        "position": "177"
+        "position": "172"
     },
     {
-        "card_name": "Lisence Suspender",
-        "number": 17,
+        "card_name": "License Suspender",
+        "number": 15,
         "shape": "normal",
         "set": "JDK",
         "position": "210"
     },
     {
-        "card_name": "Archon of Artifice",
-        "number": 42,
+        "card_name": "Mechanical Mimic",
+        "number": 64,
         "shape": "normal",
         "set": "JDK",
-        "position": "202"
+        "position": "204"
     },
     {
         "card_name": "Conflict of Interest",
         "number": 87,
         "shape": "normal",
         "set": "JDK",
-        "position": "170"
+        "position": "166"
     },
     {
         "card_name": "Clangorous Militia",
         "number": 128,
         "shape": "normal",
         "set": "JDK",
-        "position": "195"
+        "position": "196"
     },
     {
         "card_name": "Dr. Fabre, the Junkseer",
         "number": 168,
         "shape": "normal",
         "set": "JDK",
-        "position": "178"
+        "position": "173"
     },
     {
         "card_name": "Martial Tech",
@@ -147,32 +147,32 @@
         "position": "207"
     },
     {
-        "card_name": "Mechanical Mimic",
-        "number": 65,
+        "card_name": "Mind Numbing Screech",
+        "number": 66,
         "shape": "normal",
         "set": "JDK",
-        "position": "204"
+        "position": "203"
     },
     {
         "card_name": "Darklash Flaggelant",
         "number": 88,
         "shape": "normal",
         "set": "JDK",
-        "position": "165"
+        "position": "161"
     },
     {
         "card_name": "Furnace Knight",
         "number": 135,
         "shape": "normal",
         "set": "JDK",
-        "position": "196"
+        "position": "197"
     },
     {
         "card_name": "Jade Armorer",
         "number": 172,
         "shape": "normal",
         "set": "JDK",
-        "position": "174"
+        "position": "169"
     },
     {
         "card_name": "Old World Flutist",
@@ -182,32 +182,32 @@
         "position": "208"
     },
     {
-        "card_name": "Mind Numbing Screech",
+        "card_name": "Monitor's Autopugilistar",
         "number": 67,
         "shape": "normal",
         "set": "JDK",
-        "position": "203"
+        "position": "205"
     },
     {
         "card_name": "Factory Wurm",
         "number": 92,
         "shape": "normal",
         "set": "JDK",
-        "position": "167"
+        "position": "163"
     },
     {
         "card_name": "Immolation Automaton",
         "number": 138,
         "shape": "normal",
         "set": "JDK",
-        "position": "194"
+        "position": "195"
     },
     {
         "card_name": "Perfect Complexion",
         "number": 179,
         "shape": "normal",
         "set": "JDK",
-        "position": "176"
+        "position": "171"
     },
     {
         "card_name": "Perfected Armormod",
@@ -217,32 +217,32 @@
         "position": "211"
     },
     {
-        "card_name": "Monitor's Autopugilistar",
+        "card_name": "Nerveweave Swap Station",
         "number": 68,
         "shape": "normal",
         "set": "JDK",
-        "position": "205"
+        "position": "206"
     },
     {
         "card_name": "Industry Abomination",
         "number": 96,
         "shape": "normal",
         "set": "JDK",
-        "position": "169"
+        "position": "165"
     },
     {
         "card_name": "Old World Rockstar",
         "number": 146,
         "shape": "normal",
         "set": "JDK",
-        "position": "190"
+        "position": "191"
     },
     {
-        "card_name": "Stampedeing Oxobegg",
+        "card_name": "Stampeding Oxobegg",
         "number": 189,
         "shape": "normal",
         "set": "JDK",
-        "position": "175"
+        "position": "170"
     },
     {
         "card_name": "Scholar of Runes",
@@ -252,32 +252,32 @@
         "position": "212"
     },
     {
-        "card_name": "Nerveweave Swap Station",
+        "card_name": "Override Clamp",
         "number": 69,
         "shape": "normal",
         "set": "JDK",
-        "position": "206"
+        "position": "200"
     },
     {
         "card_name": "Junkyard Expert",
         "number": 100,
         "shape": "normal",
         "set": "JDK",
-        "position": "164"
+        "position": "160"
     },
     {
         "card_name": "Remelt",
         "number": 150,
         "shape": "normal",
         "set": "JDK",
-        "position": "192"
+        "position": "193"
     },
     {
         "card_name": "Steel Gardener",
         "number": 190,
         "shape": "normal",
         "set": "JDK",
-        "position": "179"
+        "position": "174"
     },
     {
         "card_name": "Universal Engineer",
@@ -295,24 +295,24 @@
     },
     {
         "card_name": "Perforating Carapace",
-        "number": 106,
+        "number": 105,
         "shape": "normal",
         "set": "JDK",
-        "position": "171"
+        "position": "159"
     },
     {
         "card_name": "Replicating Ripper",
         "number": 151,
         "shape": "normal",
         "set": "JDK",
-        "position": "197"
+        "position": "198"
     },
     {
         "card_name": "Terrabombing",
         "number": 194,
         "shape": "normal",
         "set": "JDK",
-        "position": "173"
+        "position": "168"
     },
     {
         "card_name": "Assault Trooper",
@@ -330,24 +330,24 @@
     },
     {
         "card_name": "Pollution Armaments",
-        "number": 108,
+        "number": 107,
         "shape": "normal",
         "set": "JDK",
-        "position": "168"
+        "position": "164"
     },
     {
         "card_name": "Rhoogex, the Furnace Lord",
         "number": 153,
         "shape": "normal",
         "set": "JDK",
-        "position": "193"
+        "position": "194"
     },
     {
         "card_name": "Trashore Ogre",
         "number": 196,
         "shape": "normal",
         "set": "JDK",
-        "position": "172"
+        "position": "167"
     },
     {
         "card_name": "Clean Idea",
@@ -358,7 +358,7 @@
     },
     {
         "card_name": "Assimilation Blade",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "JDK",
         "position": "293"
@@ -393,17 +393,17 @@
     },
     {
         "card_name": "Augur of Implants",
-        "number": 46,
+        "number": 45,
         "shape": "normal",
         "set": "JDK",
         "position": "284"
     },
     {
-        "card_name": "Extortionist Cutpurse",
-        "number": 91,
+        "card_name": "Boneforged Staff",
+        "number": 85,
         "shape": "normal",
         "set": "JDK",
-        "position": "236"
+        "position": "242"
     },
     {
         "card_name": "Crucible Cannon",
@@ -428,17 +428,17 @@
     },
     {
         "card_name": "Cryogen Broadsword",
-        "number": 49,
+        "number": 48,
         "shape": "normal",
         "set": "JDK",
         "position": "288"
     },
     {
-        "card_name": "Grrr's Warhound",
-        "number": 95,
+        "card_name": "Extortionist Cutpurse",
+        "number": 91,
         "shape": "normal",
         "set": "JDK",
-        "position": "238"
+        "position": "236"
     },
     {
         "card_name": "Forged Ferocity",
@@ -463,17 +463,17 @@
     },
     {
         "card_name": "Digitalize",
-        "number": 50,
+        "number": 49,
         "shape": "normal",
         "set": "JDK",
         "position": "290"
     },
     {
-        "card_name": "Manufacturing Defect",
-        "number": 103,
+        "card_name": "Grrr's Warhound",
+        "number": 95,
         "shape": "normal",
         "set": "JDK",
-        "position": "240"
+        "position": "238"
     },
     {
         "card_name": "Furnace Artillerist",
@@ -498,17 +498,17 @@
     },
     {
         "card_name": "Drone Falconer",
-        "number": 54,
+        "number": 53,
         "shape": "normal",
         "set": "JDK",
         "position": "285"
     },
     {
-        "card_name": "Merciless Rend",
-        "number": 104,
+        "card_name": "Manufacturing Defect",
+        "number": 103,
         "shape": "normal",
         "set": "JDK",
-        "position": "239"
+        "position": "240"
     },
     {
         "card_name": "Furnace Crawler",
@@ -526,24 +526,24 @@
     },
     {
         "card_name": "Liscenced Scout",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "JDK",
         "position": "295"
     },
     {
         "card_name": "Glirix, Toolsmith",
-        "number": 56,
+        "number": 55,
         "shape": "normal",
         "set": "JDK",
         "position": "283"
     },
     {
-        "card_name": "Miasma Siphoner",
-        "number": 105,
+        "card_name": "Merciless Rend",
+        "number": 104,
         "shape": "normal",
         "set": "JDK",
-        "position": "242"
+        "position": "239"
     },
     {
         "card_name": "Furnace Flare",
@@ -568,14 +568,14 @@
     },
     {
         "card_name": "Holographic Insight",
-        "number": 58,
+        "number": 57,
         "shape": "normal",
         "set": "JDK",
         "position": "289"
     },
     {
         "card_name": "Resentful Smith",
-        "number": 110,
+        "number": 109,
         "shape": "normal",
         "set": "JDK",
         "position": "233"
@@ -603,14 +603,14 @@
     },
     {
         "card_name": "Holographm Stalker",
-        "number": 59,
+        "number": 58,
         "shape": "normal",
         "set": "JDK",
         "position": "282"
     },
     {
         "card_name": "Return Rearmed",
-        "number": 111,
+        "number": 110,
         "shape": "normal",
         "set": "JDK",
         "position": "243"
@@ -638,7 +638,7 @@
     },
     {
         "card_name": "Interplanter",
-        "number": 61,
+        "number": 60,
         "shape": "normal",
         "set": "JDK",
         "position": "281"
@@ -673,7 +673,7 @@
     },
     {
         "card_name": "Jardekan Techmage",
-        "number": 62,
+        "number": 61,
         "shape": "normal",
         "set": "JDK",
         "position": "287"
@@ -708,13 +708,13 @@
     },
     {
         "card_name": "Metalmancer",
-        "number": 66,
+        "number": 65,
         "shape": "normal",
         "set": "JDK",
         "position": "286"
     },
     {
-        "card_name": "Under the Junk-sea",
+        "card_name": "Under the Junk-Sea",
         "number": 117,
         "shape": "normal",
         "set": "JDK",
@@ -774,7 +774,7 @@
         "number": 7,
         "shape": "normal",
         "set": "JDK",
-        "position": "119"
+        "position": "113"
     },
     {
         "card_name": "Skyclang Jetwings",
@@ -809,333 +809,333 @@
         "number": 8,
         "shape": "normal",
         "set": "JDK",
-        "position": "118"
+        "position": "112"
     },
     {
         "card_name": "Artificer's Assertion",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "JDK",
-        "position": "112"
+        "position": "106"
     },
     {
         "card_name": "Bleed Out",
         "number": 83,
         "shape": "normal",
         "set": "JDK",
-        "position": "60"
+        "position": "54"
     },
     {
-        "card_name": "Arc-talon Lacerator",
+        "card_name": "Arc-Talon Lacerator",
         "number": 122,
         "shape": "normal",
         "set": "JDK",
-        "position": "87"
+        "position": "81"
     },
     {
         "card_name": "Atomize",
         "number": 162,
         "shape": "normal",
         "set": "JDK",
-        "position": "78"
+        "position": "72"
     },
     {
         "card_name": "Farmword",
         "number": 10,
         "shape": "normal",
         "set": "JDK",
-        "position": "120"
+        "position": "114"
     },
     {
-        "card_name": "Artserphlan",
-        "number": 44,
+        "card_name": "Artserphlan Citizen",
+        "number": 43,
         "shape": "normal",
         "set": "JDK",
-        "position": "101"
-    },
-    {
-        "card_name": "Boneforged Staff",
-        "number": 85,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "64"
-    },
-    {
-        "card_name": "Automaton Arc-flamer",
-        "number": 123,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "92"
-    },
-    {
-        "card_name": "Basilisker",
-        "number": 163,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "72"
-    },
-    {
-        "card_name": "Gone to History",
-        "number": 11,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "133"
-    },
-    {
-        "card_name": "Draining Festerspark",
-        "number": 51,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "102"
+        "position": "95"
     },
     {
         "card_name": "Cleaver's Carpace",
         "number": 86,
         "shape": "normal",
         "set": "JDK",
-        "position": "49"
+        "position": "58"
     },
     {
-        "card_name": "Blast Furnace Beetle",
-        "number": 124,
+        "card_name": "Automaton Arc-Flamer",
+        "number": 123,
         "shape": "normal",
         "set": "JDK",
-        "position": "83"
+        "position": "86"
     },
     {
-        "card_name": "Cybernetic Might",
-        "number": 166,
+        "card_name": "Basilisker",
+        "number": 163,
         "shape": "normal",
         "set": "JDK",
-        "position": "81"
+        "position": "66"
     },
     {
-        "card_name": "Heiromancer Hologram",
-        "number": 12,
+        "card_name": "Gone to History",
+        "number": 11,
         "shape": "normal",
         "set": "JDK",
-        "position": "122"
+        "position": "127"
     },
     {
-        "card_name": "Drakepost Parcel",
-        "number": 52,
+        "card_name": "Draining Festerspark",
+        "number": 50,
         "shape": "normal",
         "set": "JDK",
-        "position": "105"
+        "position": "96"
     },
     {
         "card_name": "Deathblade",
         "number": 89,
         "shape": "normal",
         "set": "JDK",
-        "position": "53"
+        "position": "47"
     },
     {
-        "card_name": "Blinding Flare",
-        "number": 126,
+        "card_name": "Blast Furnace Beetle",
+        "number": 124,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "77"
+    },
+    {
+        "card_name": "Cybernetic Might",
+        "number": 166,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "75"
+    },
+    {
+        "card_name": "Heiromancer Hologram",
+        "number": 12,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "116"
+    },
+    {
+        "card_name": "Drakepost Parcel",
+        "number": 51,
         "shape": "normal",
         "set": "JDK",
         "position": "99"
-    },
-    {
-        "card_name": "Excavating the Factory",
-        "number": 169,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "76"
-    },
-    {
-        "card_name": "Lightstep Ascetic",
-        "number": 15,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "123"
-    },
-    {
-        "card_name": "Drawn Blade",
-        "number": 53,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "115"
     },
     {
         "card_name": "Divestion Blade",
         "number": 90,
         "shape": "normal",
         "set": "JDK",
-        "position": "63"
+        "position": "57"
     },
     {
-        "card_name": "Crucible Juggernaut",
-        "number": 130,
+        "card_name": "Blinding Flare",
+        "number": 126,
         "shape": "normal",
         "set": "JDK",
-        "position": "86"
+        "position": "93"
     },
     {
-        "card_name": "Grow From Steel",
-        "number": 170,
+        "card_name": "Excavating the Factory",
+        "number": 169,
         "shape": "normal",
         "set": "JDK",
-        "position": "77"
+        "position": "70"
     },
     {
-        "card_name": "Moonlight Mothering",
-        "number": 20,
+        "card_name": "Lightstep Ascetic",
+        "number": 16,
         "shape": "normal",
         "set": "JDK",
-        "position": "131"
+        "position": "117"
     },
     {
-        "card_name": "Fuel Freeze",
-        "number": 55,
+        "card_name": "Drawn Blade",
+        "number": 52,
         "shape": "normal",
         "set": "JDK",
-        "position": "111"
+        "position": "109"
     },
     {
         "card_name": "Furnace-Coals Hunter",
         "number": 93,
         "shape": "normal",
         "set": "JDK",
-        "position": "55"
+        "position": "49"
     },
     {
-        "card_name": "Immenent Missile",
+        "card_name": "Crucible Juggernaut",
+        "number": 130,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "80"
+    },
+    {
+        "card_name": "Grow From Steel",
+        "number": 170,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "71"
+    },
+    {
+        "card_name": "Moonlight Mothering",
+        "number": 20,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "125"
+    },
+    {
+        "card_name": "Fuel Freeze",
+        "number": 54,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "105"
+    },
+    {
+        "card_name": "Junksea Reclaiming",
+        "number": 97,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "56"
+    },
+    {
+        "card_name": "Imminent Missile",
         "number": 137,
         "shape": "normal",
         "set": "JDK",
-        "position": "94"
+        "position": "88"
     },
     {
         "card_name": "Jawlock",
         "number": 173,
         "shape": "normal",
         "set": "JDK",
-        "position": "80"
+        "position": "74"
     },
     {
         "card_name": "Moonmoth Steed",
         "number": 21,
         "shape": "normal",
         "set": "JDK",
-        "position": "126"
+        "position": "120"
     },
     {
         "card_name": "Hitreg",
-        "number": 57,
+        "number": 56,
         "shape": "normal",
         "set": "JDK",
-        "position": "114"
-    },
-    {
-        "card_name": "Junk-sea Reclaiming",
-        "number": 97,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "62"
-    },
-    {
-        "card_name": "Junker Man",
-        "number": 139,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "84"
-    },
-    {
-        "card_name": "Junkbelly",
-        "number": 174,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "75"
-    },
-    {
-        "card_name": "On Patrol",
-        "number": 25,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "130"
-    },
-    {
-        "card_name": "Holographm Umbra",
-        "number": 60,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "116"
+        "position": "108"
     },
     {
         "card_name": "Junkshore Fisherman",
         "number": 98,
         "shape": "normal",
         "set": "JDK",
-        "position": "50"
+        "position": "44"
     },
     {
-        "card_name": "Junksea Artillerist",
-        "number": 141,
+        "card_name": "Junker Man",
+        "number": 139,
         "shape": "normal",
         "set": "JDK",
-        "position": "88"
+        "position": "78"
     },
     {
-        "card_name": "Kybertusk Mammoth",
-        "number": 177,
+        "card_name": "Junkbelly",
+        "number": 174,
         "shape": "normal",
         "set": "JDK",
-        "position": "73"
+        "position": "69"
     },
     {
-        "card_name": "Projectile Energy Shield",
-        "number": 27,
+        "card_name": "On Patrol",
+        "number": 25,
         "shape": "normal",
         "set": "JDK",
-        "position": "128"
+        "position": "124"
     },
     {
-        "card_name": "Leopard Drone Hunter",
-        "number": 63,
+        "card_name": "Holographm Umbra",
+        "number": 59,
         "shape": "normal",
         "set": "JDK",
-        "position": "108"
+        "position": "110"
     },
     {
         "card_name": "Junksniffter",
         "number": 99,
         "shape": "normal",
         "set": "JDK",
-        "position": "57"
+        "position": "51"
     },
     {
-        "card_name": "Met-a110 Moth",
+        "card_name": "Junksea Artillerist",
+        "number": 141,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "82"
+    },
+    {
+        "card_name": "Kybertusk Mammoth",
+        "number": 177,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "67"
+    },
+    {
+        "card_name": "Projectile Energy Shield",
+        "number": 27,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "122"
+    },
+    {
+        "card_name": "Leopard Drone Hunter",
+        "number": 62,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "102"
+    },
+    {
+        "card_name": "Junkyard Hunt",
+        "number": 101,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "53"
+    },
+    {
+        "card_name": "Met-A110 Moth",
         "number": 143,
         "shape": "normal",
         "set": "JDK",
-        "position": "90"
+        "position": "84"
     },
     {
         "card_name": "Mulchpot",
         "number": 178,
         "shape": "normal",
         "set": "JDK",
-        "position": "66"
+        "position": "60"
     },
     {
         "card_name": "Protective Holographm",
         "number": 28,
         "shape": "normal",
         "set": "JDK",
-        "position": "132"
+        "position": "126"
     },
     {
         "card_name": "Licensed Larcenist",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "JDK",
-        "position": "100"
+        "position": "94"
     },
     {
-        "card_name": "Junkyard Hunt",
-        "number": 101,
+        "card_name": "Lethal Prowess",
+        "number": 102,
         "shape": "normal",
         "set": "JDK",
         "position": "59"
@@ -1145,224 +1145,224 @@
         "number": 148,
         "shape": "normal",
         "set": "JDK",
-        "position": "95"
+        "position": "89"
     },
     {
-        "card_name": "Piled-up Junkshell",
+        "card_name": "Piled-Up Junkshell",
         "number": 180,
         "shape": "normal",
         "set": "JDK",
-        "position": "71"
+        "position": "65"
     },
     {
         "card_name": "Reforging Binding",
         "number": 31,
         "shape": "normal",
         "set": "JDK",
-        "position": "129"
+        "position": "123"
     },
     {
         "card_name": "Portable Barricade",
         "number": 70,
         "shape": "normal",
         "set": "JDK",
-        "position": "109"
+        "position": "103"
     },
     {
-        "card_name": "Lethal Prowess",
-        "number": 102,
+        "card_name": "Pillabegg Scavengers",
+        "number": 106,
         "shape": "normal",
         "set": "JDK",
-        "position": "65"
+        "position": "48"
     },
     {
         "card_name": "Reforge",
         "number": 149,
         "shape": "normal",
         "set": "JDK",
-        "position": "98"
+        "position": "92"
     },
     {
         "card_name": "Pillabegg Elder",
         "number": 181,
         "shape": "normal",
         "set": "JDK",
-        "position": "70"
+        "position": "64"
     },
     {
-        "card_name": "Rune-etch Artificer",
+        "card_name": "Rune-Etch Artificer",
         "number": 33,
         "shape": "normal",
         "set": "JDK",
-        "position": "125"
+        "position": "119"
     },
     {
         "card_name": "Prime Pugilist",
         "number": 71,
         "shape": "normal",
         "set": "JDK",
-        "position": "104"
+        "position": "98"
     },
     {
-        "card_name": "Pillabegg Scavengers",
-        "number": 107,
+        "card_name": "Ravenous Blade",
+        "number": 108,
         "shape": "normal",
         "set": "JDK",
-        "position": "54"
+        "position": "52"
     },
     {
         "card_name": "Rushed Rerpurposing",
         "number": 154,
         "shape": "normal",
         "set": "JDK",
-        "position": "96"
+        "position": "90"
     },
     {
         "card_name": "Pillabegg Probiota",
         "number": 182,
         "shape": "normal",
         "set": "JDK",
-        "position": "79"
+        "position": "73"
     },
     {
         "card_name": "Sable Drone Recon",
         "number": 34,
         "shape": "normal",
         "set": "JDK",
-        "position": "124"
+        "position": "118"
     },
     {
         "card_name": "Quick Revision",
         "number": 72,
         "shape": "normal",
         "set": "JDK",
-        "position": "110"
+        "position": "104"
     },
     {
-        "card_name": "Ravenous Blade",
-        "number": 109,
+        "card_name": "Scuttling Bronzeplate",
+        "number": 111,
         "shape": "normal",
         "set": "JDK",
-        "position": "58"
+        "position": "43"
     },
     {
         "card_name": "Scrappy Automaton",
         "number": 155,
         "shape": "normal",
         "set": "JDK",
-        "position": "85"
+        "position": "79"
     },
     {
         "card_name": "Ruins Ranger",
         "number": 186,
         "shape": "normal",
         "set": "JDK",
-        "position": "69"
+        "position": "63"
     },
     {
         "card_name": "Sandpeaks Cleric",
         "number": 35,
         "shape": "normal",
         "set": "JDK",
-        "position": "121"
+        "position": "115"
     },
     {
         "card_name": "Spliceblade Rogue",
         "number": 75,
         "shape": "normal",
         "set": "JDK",
-        "position": "107"
+        "position": "101"
     },
     {
         "card_name": "Shearing Rager",
         "number": 112,
         "shape": "normal",
         "set": "JDK",
-        "position": "52"
+        "position": "46"
     },
     {
         "card_name": "Slag Cruciblair",
         "number": 156,
         "shape": "normal",
         "set": "JDK",
-        "position": "89"
+        "position": "83"
     },
     {
         "card_name": "Steelgrazing Goat",
         "number": 192,
         "shape": "normal",
         "set": "JDK",
-        "position": "74"
+        "position": "68"
     },
     {
         "card_name": "Smite the Unlicensed",
         "number": 37,
         "shape": "normal",
         "set": "JDK",
-        "position": "127"
+        "position": "121"
     },
     {
         "card_name": "Tort Artificer",
         "number": 76,
         "shape": "normal",
         "set": "JDK",
-        "position": "106"
+        "position": "100"
     },
     {
         "card_name": "Thousand Cuts",
         "number": 115,
         "shape": "normal",
         "set": "JDK",
-        "position": "61"
+        "position": "55"
     },
     {
         "card_name": "Slagful Slam",
         "number": 157,
         "shape": "normal",
         "set": "JDK",
-        "position": "97"
+        "position": "91"
     },
     {
         "card_name": "Toolsmith Apprentice",
         "number": 195,
         "shape": "normal",
         "set": "JDK",
-        "position": "68"
+        "position": "62"
     },
     {
         "card_name": "Strikesmith",
         "number": 38,
         "shape": "normal",
         "set": "JDK",
-        "position": "117"
+        "position": "111"
     },
     {
-        "card_name": "Triage Tri-arm",
+        "card_name": "Triage Tri-Arm",
         "number": 77,
         "shape": "normal",
         "set": "JDK",
-        "position": "103"
+        "position": "97"
     },
     {
         "card_name": "Trashore Racketeer",
         "number": 116,
         "shape": "normal",
         "set": "JDK",
-        "position": "56"
+        "position": "50"
     },
     {
         "card_name": "Smokewagg",
         "number": 159,
         "shape": "normal",
         "set": "JDK",
-        "position": "91"
+        "position": "85"
     },
     {
         "card_name": "Trashore Trawl",
         "number": 197,
         "shape": "normal",
         "set": "JDK",
-        "position": "82"
+        "position": "76"
     },
     {
         "card_name": "e"
@@ -1372,28 +1372,28 @@
         "number": 80,
         "shape": "normal",
         "set": "JDK",
-        "position": "113"
+        "position": "107"
     },
     {
         "card_name": "Vampiric Strider",
         "number": 118,
         "shape": "normal",
         "set": "JDK",
-        "position": "51"
+        "position": "45"
     },
     {
         "card_name": "Transmute Thermite",
         "number": 160,
         "shape": "normal",
         "set": "JDK",
-        "position": "93"
+        "position": "87"
     },
     {
-        "card_name": "Verdanth Lizard",
+        "card_name": "Verdantho Lizard",
         "number": 200,
         "shape": "normal",
         "set": "JDK",
-        "position": "67"
+        "position": "61"
     },
     {
         "card_name": "er"
@@ -1413,70 +1413,70 @@
         "number": 228,
         "shape": "normal",
         "set": "JDK",
-        "position": "140"
+        "position": "135"
     },
     {
         "card_name": "Behel, Unliving Weapon",
         "number": 203,
         "shape": "normal",
         "set": "JDK",
-        "position": "141"
+        "position": "136"
     },
     {
         "card_name": "Furnace-Coals Reaper",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "JDK",
-        "position": "142"
+        "position": "137"
     },
     {
         "card_name": "Breach the Factory",
         "number": 204,
         "shape": "normal",
         "set": "JDK",
-        "position": "143"
+        "position": "138"
     },
     {
         "card_name": "Illusion of Peace",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "JDK",
-        "position": "144"
+        "position": "139"
     },
     {
         "card_name": "Scaled Armorer",
         "number": 222,
         "shape": "normal",
         "set": "JDK",
-        "position": "180"
+        "position": "181"
     },
     {
         "card_name": "War Djinn",
         "number": 226,
         "shape": "normal",
         "set": "JDK",
-        "position": "181"
+        "position": "182"
     },
     {
         "card_name": "Furnacemaster Orc",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "JDK",
-        "position": "182"
+        "position": "183"
     },
     {
         "card_name": "Dreck Contamination",
         "number": 209,
         "shape": "normal",
         "set": "JDK",
-        "position": "183"
+        "position": "184"
     },
     {
-        "card_name": "Easy-fix Scrapheap",
+        "card_name": "Easy-Fix Scrapheap",
         "number": 211,
         "shape": "normal",
         "set": "JDK",
-        "position": "184"
+        "position": "185"
     },
     {
         "card_name": "Solaris Cleaner",
@@ -1533,35 +1533,35 @@
         "number": 206,
         "shape": "normal",
         "set": "JDK",
-        "position": "185"
+        "position": "186"
     },
     {
         "card_name": "Old World Engineers",
         "number": 220,
         "shape": "normal",
         "set": "JDK",
-        "position": "186"
+        "position": "187"
     },
     {
         "card_name": "Deep Strata Pressure",
         "number": 208,
         "shape": "normal",
         "set": "JDK",
-        "position": "145"
+        "position": "140"
     },
     {
         "card_name": "Collected Clangours",
         "number": 205,
         "shape": "normal",
         "set": "JDK",
-        "position": "188"
+        "position": "189"
     },
     {
-        "card_name": "Mass reproduction",
-        "number": 218,
+        "card_name": "Mass Reproduction",
+        "number": 217,
         "shape": "normal",
         "set": "JDK",
-        "position": "189"
+        "position": "190"
     },
     {
         "card_name": "Angle Knight",
@@ -1582,7 +1582,7 @@
         "number": 210,
         "shape": "normal",
         "set": "JDK",
-        "position": "187"
+        "position": "188"
     },
     {
         "card_name": "Scorpone Aristocrat",
@@ -1593,7 +1593,7 @@
     },
     {
         "card_name": "Implant Enthusiast",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "JDK",
         "position": "267"
@@ -1606,7 +1606,7 @@
     },
     {
         "card_name": "Junksea Hunter",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "JDK",
         "position": "265"
@@ -1637,14 +1637,14 @@
         "number": 225,
         "shape": "normal",
         "set": "JDK",
-        "position": "146"
+        "position": "141"
     },
     {
-        "card_name": "The Factory",
-        "number": 212,
+        "card_name": "MMx2, The Factory",
+        "number": 218,
         "shape": "normal",
         "set": "JDK",
-        "position": "147"
+        "position": "142"
     },
     {
         "card_name": "e"
@@ -1673,98 +1673,98 @@
         "number": 1,
         "shape": "planeswalker",
         "set": "JDK",
-        "position": "136"
+        "position": "130"
     },
     {
         "card_name": "Steelstorm Conduit",
         "number": 271,
         "shape": "normal",
         "set": "JDK",
-        "position": "134"
+        "position": "128"
     },
     {
         "card_name": "Sword of One and Many",
         "number": 272,
         "shape": "normal",
         "set": "JDK",
-        "position": "135"
+        "position": "129"
     },
     {
         "card_name": "Brainial Plating",
         "number": 233,
         "shape": "normal",
         "set": "JDK",
-        "position": "159"
+        "position": "154"
     },
     {
         "card_name": "Colossurs",
         "number": 238,
         "shape": "normal",
         "set": "JDK",
-        "position": "161"
+        "position": "156"
     },
     {
         "card_name": "Crystalline Giant",
         "number": 241,
         "shape": "normal",
         "set": "JDK",
-        "position": "156"
+        "position": "151"
     },
     {
         "card_name": "Furnace Firestarter",
         "number": 246,
         "shape": "normal",
         "set": "JDK",
-        "position": "155"
+        "position": "150"
     },
     {
         "card_name": "The Goldigarch",
         "number": 247,
         "shape": "normal",
         "set": "JDK",
-        "position": "153"
+        "position": "148"
     },
     {
         "card_name": "Murk Shade",
         "number": 255,
         "shape": "normal",
         "set": "JDK",
-        "position": "160"
+        "position": "155"
     },
     {
         "card_name": "Serpent of the Void",
         "number": 268,
         "shape": "normal",
         "set": "JDK",
-        "position": "163"
+        "position": "158"
     },
     {
         "card_name": "Specimen Container",
         "number": 269,
         "shape": "normal",
         "set": "JDK",
-        "position": "162"
+        "position": "157"
     },
     {
         "card_name": "Sponsored Companion",
         "number": 270,
         "shape": "normal",
         "set": "JDK",
-        "position": "158"
+        "position": "153"
     },
     {
         "card_name": "Tempered Powergem",
         "number": 273,
         "shape": "normal",
         "set": "JDK",
-        "position": "157"
+        "position": "152"
     },
     {
         "card_name": "Verdant Rebreather",
         "number": 278,
         "shape": "normal",
         "set": "JDK",
-        "position": "154"
+        "position": "149"
     },
     {
         "card_name": "Ambushing Scuttler",
@@ -1830,7 +1830,7 @@
         "position": "225"
     },
     {
-        "card_name": "Junk-sea Tril-0",
+        "card_name": "Junksea Tril-0",
         "number": 251,
         "shape": "normal",
         "set": "JDK",
@@ -1890,147 +1890,147 @@
         "number": 229,
         "shape": "normal",
         "set": "JDK",
-        "position": "36"
+        "position": "30"
     },
     {
         "card_name": "Bolstering Scrapling",
         "number": 232,
         "shape": "normal",
         "set": "JDK",
-        "position": "29"
+        "position": "23"
     },
     {
         "card_name": "Coalpower Gauntlet",
         "number": 236,
         "shape": "normal",
         "set": "JDK",
-        "position": "43"
+        "position": "37"
     },
     {
         "card_name": "Consumerist Spirit Guide",
         "number": 240,
         "shape": "normal",
         "set": "JDK",
-        "position": "48"
+        "position": "42"
     },
     {
         "card_name": "Cyclic Vessel",
         "number": 242,
         "shape": "normal",
         "set": "JDK",
-        "position": "45"
+        "position": "39"
     },
     {
         "card_name": "Dormant Tallmer",
         "number": 243,
         "shape": "normal",
         "set": "JDK",
-        "position": "47"
+        "position": "41"
     },
     {
         "card_name": "Filtering Star",
         "number": 244,
         "shape": "normal",
         "set": "JDK",
-        "position": "38"
+        "position": "32"
     },
     {
         "card_name": "Flensing Jar",
         "number": 245,
         "shape": "normal",
         "set": "JDK",
-        "position": "41"
+        "position": "35"
     },
     {
         "card_name": "Lupa, the Metallophage",
         "number": 252,
         "shape": "normal",
         "set": "JDK",
-        "position": "28"
+        "position": "22"
     },
     {
         "card_name": "Metalshroom",
         "number": 253,
         "shape": "normal",
         "set": "JDK",
-        "position": "44"
+        "position": "38"
     },
     {
         "card_name": "Old World Guardian",
         "number": 256,
         "shape": "normal",
         "set": "JDK",
-        "position": "37"
+        "position": "31"
     },
     {
         "card_name": "Parcelk",
         "number": 257,
         "shape": "normal",
         "set": "JDK",
-        "position": "32"
+        "position": "26"
     },
     {
         "card_name": "Rabid Striker",
         "number": 258,
         "shape": "normal",
         "set": "JDK",
-        "position": "31"
+        "position": "25"
     },
     {
         "card_name": "Rattling Sentry",
         "number": 259,
         "shape": "normal",
         "set": "JDK",
-        "position": "30"
+        "position": "24"
     },
     {
         "card_name": "Rusty Gauntlet",
         "number": 262,
         "shape": "normal",
         "set": "JDK",
-        "position": "39"
+        "position": "33"
     },
     {
         "card_name": "Scavenged Supplies",
         "number": 263,
         "shape": "normal",
         "set": "JDK",
-        "position": "42"
+        "position": "36"
     },
     {
         "card_name": "Sedative Darts",
         "number": 266,
         "shape": "normal",
         "set": "JDK",
-        "position": "46"
+        "position": "40"
     },
     {
         "card_name": "Toolsmith Courier",
         "number": 274,
         "shape": "normal",
         "set": "JDK",
-        "position": "33"
+        "position": "27"
     },
     {
         "card_name": "Trashore Freighter",
         "number": 276,
         "shape": "normal",
         "set": "JDK",
-        "position": "34"
+        "position": "28"
     },
     {
         "card_name": "Universal Corrosive",
         "number": 277,
         "shape": "normal",
         "set": "JDK",
-        "position": "40"
+        "position": "34"
     },
     {
         "card_name": "Voltaic Construct",
         "number": 279,
         "shape": "normal",
         "set": "JDK",
-        "position": "35"
+        "position": "29"
     },
     {
         "card_name": "e"
@@ -2055,41 +2055,6 @@
     },
     {
         "card_name": "er"
-    },
-    {
-        "card_name": "Frosted Sandpeaks",
-        "number": 286,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "23"
-    },
-    {
-        "card_name": "Dismal Backwater",
-        "number": 285,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "13"
-    },
-    {
-        "card_name": "Remediated Outpost",
-        "number": 288,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "25"
-    },
-    {
-        "card_name": "Coastal Crash-Site",
-        "number": 282,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "26"
-    },
-    {
-        "card_name": "Dessicated Drift",
-        "number": 284,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "27"
     },
     {
         "card_name": "Tranquil Cove",
@@ -2099,7 +2064,11 @@
         "position": "12"
     },
     {
-        "card_name": "e"
+        "card_name": "Dismal Backwater",
+        "number": 285,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "13"
     },
     {
         "card_name": "Bloodfell Caves",
@@ -2188,18 +2157,46 @@
         "card_name": "er"
     },
     {
+        "card_name": "Coastal Crash-Site",
+        "number": 282,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "179"
+    },
+    {
         "card_name": "Deflecting Pool",
         "number": 283,
         "shape": "normal",
         "set": "JDK",
-        "position": "22"
+        "position": "175"
+    },
+    {
+        "card_name": "Dessicated Drift",
+        "number": 284,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "180"
+    },
+    {
+        "card_name": "Frosted Sandpeaks",
+        "number": 286,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "176"
+    },
+    {
+        "card_name": "Remediated Outpost",
+        "number": 288,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "178"
     },
     {
         "card_name": "Sunken Conservatory",
         "number": 291,
         "shape": "normal",
         "set": "JDK",
-        "position": "24"
+        "position": "177"
     },
     {
         "card_name": "Terramorphic Expanse",
@@ -2215,7 +2212,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "er"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2230,50 +2227,53 @@
         "card_name": "er"
     },
     {
-        "card_name": "Forest",
-        "number": 306,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "0"
-    },
-    {
-        "card_name": "Forest",
-        "number": 307,
-        "shape": "normal",
-        "set": "JDK",
-        "position": "1"
+        "card_name": "er"
     },
     {
         "card_name": "Forest",
         "number": 305,
         "shape": "normal",
         "set": "JDK",
-        "position": "2"
+        "position": "0"
     },
     {
-        "card_name": "Island",
-        "number": 300,
+        "card_name": "Forest",
+        "number": 306,
         "shape": "normal",
         "set": "JDK",
-        "position": "3"
+        "position": "1"
+    },
+    {
+        "card_name": "Forest",
+        "number": 307,
+        "shape": "normal",
+        "set": "JDK",
+        "position": "2"
     },
     {
         "card_name": "Island",
         "number": 299,
         "shape": "normal",
         "set": "JDK",
+        "position": "3"
+    },
+    {
+        "card_name": "Island",
+        "number": 300,
+        "shape": "normal",
+        "set": "JDK",
         "position": "4"
     },
     {
         "card_name": "Mountain",
-        "number": 304,
+        "number": 303,
         "shape": "normal",
         "set": "JDK",
         "position": "5"
     },
     {
         "card_name": "Mountain",
-        "number": 303,
+        "number": 304,
         "shape": "normal",
         "set": "JDK",
         "position": "6"
@@ -2314,6 +2314,50 @@
     },
     {
         "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Implant",
+        "number": 2,
+        "shape": "token",
+        "set": "JDK",
+        "position": "307"
+    },
+    {
+        "card_name": "Saproling Construct",
+        "number": 3,
+        "shape": "token",
+        "set": "JDK",
+        "position": "308"
+    },
+    {
+        "card_name": "Servo",
+        "number": 4,
+        "shape": "token",
+        "set": "JDK",
+        "position": "309"
+    },
+    {
+        "card_name": "Insect",
+        "number": 1,
+        "shape": "token",
+        "set": "JDK",
+        "position": "310"
     },
     {
         "card_name": "e"

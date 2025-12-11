@@ -3,12 +3,12 @@
         {
             "set_code": "JDK",
             "set_name": "Jardeka, Age of Rust",
-            "formats": ""
+            "formats": "Standard"
         },
         {
-            "set_code": "skp",
-            "set_name": "Skippy",
-            "formats": ""
+            "set_code": "LEF",
+            "set_name": "Leffway is Made",
+            "formats": "Standard"
         }
     ]
 }

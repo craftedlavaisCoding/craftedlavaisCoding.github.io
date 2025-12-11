@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "306",
+			"collector_number": "305",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/0.png"
 			}
@@ -15,7 +15,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "307",
+			"collector_number": "306",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/1.png"
 			}
@@ -25,7 +25,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "305",
+			"collector_number": "307",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/2.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "300",
+			"collector_number": "299",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "299",
+			"collector_number": "300",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "304",
+			"collector_number": "303",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "303",
+			"collector_number": "304",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/6.png"
 			}
@@ -221,73 +221,13 @@
 			}
 		},
 		{
-			"name": "Deflecting Pool",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "283",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/22.png"
-			}
-		},
-		{
-			"name": "Frosted Sandpeaks",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "286",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/23.png"
-			}
-		},
-		{
-			"name": "Sunken Conservatory",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "291",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/24.png"
-			}
-		},
-		{
-			"name": "Remediated Outpost",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "288",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/25.png"
-			}
-		},
-		{
-			"name": "Coastal Crash-Site",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "282",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/26.png"
-			}
-		},
-		{
-			"name": "Dessicated Drift",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "284",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/27.png"
-			}
-		},
-		{
 			"name": "Lupa, the Metallophage",
 			"rarity": "common",
 			"mana_cost": "{0}",
 			"type": "Legendary Artifact Creature — Fungus",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/28.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/22.png"
 			}
 		},
 		{
@@ -297,7 +237,7 @@
 			"type": "Artifact Creature — Implant Construct",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/29.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/23.png"
 			}
 		},
 		{
@@ -307,7 +247,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "259",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/30.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/24.png"
 			}
 		},
 		{
@@ -317,7 +257,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "258",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/31.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/25.png"
 			}
 		},
 		{
@@ -327,7 +267,7 @@
 			"type": "Artifact Creature — Elk",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/32.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/26.png"
 			}
 		},
 		{
@@ -337,7 +277,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "274",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/33.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/27.png"
 			}
 		},
 		{
@@ -347,7 +287,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "276",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/34.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/28.png"
 			}
 		},
 		{
@@ -357,7 +297,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "279",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/35.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/29.png"
 			}
 		},
 		{
@@ -367,7 +307,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/36.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/30.png"
 			}
 		},
 		{
@@ -377,7 +317,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/37.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/31.png"
 			}
 		},
 		{
@@ -387,7 +327,7 @@
 			"type": "Artifact",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/38.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/32.png"
 			}
 		},
 		{
@@ -397,7 +337,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "262",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/39.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/33.png"
 			}
 		},
 		{
@@ -407,7 +347,7 @@
 			"type": "Artifact",
 			"collector_number": "277",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/40.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/34.png"
 			}
 		},
 		{
@@ -417,7 +357,7 @@
 			"type": "Artifact",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/41.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/35.png"
 			}
 		},
 		{
@@ -427,7 +367,7 @@
 			"type": "Artifact",
 			"collector_number": "263",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/42.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/36.png"
 			}
 		},
 		{
@@ -437,7 +377,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/43.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/37.png"
 			}
 		},
 		{
@@ -447,7 +387,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/44.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/38.png"
 			}
 		},
 		{
@@ -457,7 +397,7 @@
 			"type": "Artifact — Implant",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/45.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/39.png"
 			}
 		},
 		{
@@ -467,7 +407,7 @@
 			"type": "Artifact",
 			"collector_number": "266",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/46.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/40.png"
 			}
 		},
 		{
@@ -477,7 +417,7 @@
 			"type": "Artifact",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/47.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/41.png"
 			}
 		},
 		{
@@ -487,17 +427,17 @@
 			"type": "Artifact Creature — Spirit",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/48.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/42.png"
 			}
 		},
 		{
-			"name": "Cleaver's Carpace",
+			"name": "Scuttling Bronzeplate",
 			"rarity": "common",
-			"mana_cost": "{4}{B}",
-			"type": "Artifact — Equipment",
-			"collector_number": "86",
+			"mana_cost": "{B}",
+			"type": "Creature — Mite",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/49.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/43.png"
 			}
 		},
 		{
@@ -507,7 +447,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/50.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/44.png"
 			}
 		},
 		{
@@ -517,7 +457,7 @@
 			"type": "Artifact Creature — Vampire Cyborg",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/51.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/45.png"
 			}
 		},
 		{
@@ -527,7 +467,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/52.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/46.png"
 			}
 		},
 		{
@@ -537,7 +477,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/53.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/47.png"
 			}
 		},
 		{
@@ -545,9 +485,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Insect Soldier",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/54.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/48.png"
 			}
 		},
 		{
@@ -557,7 +497,7 @@
 			"type": "Creature — Demon Warrior",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/55.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/49.png"
 			}
 		},
 		{
@@ -567,7 +507,7 @@
 			"type": "Creature — Merfolk Rogue",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/56.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/50.png"
 			}
 		},
 		{
@@ -577,7 +517,7 @@
 			"type": "Creature — Insect Drake",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/57.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/51.png"
 			}
 		},
 		{
@@ -585,9 +525,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/58.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/52.png"
 			}
 		},
 		{
@@ -597,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/59.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/53.png"
 			}
 		},
 		{
@@ -607,7 +547,7 @@
 			"type": "Instant",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/60.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/54.png"
 			}
 		},
 		{
@@ -617,17 +557,17 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/61.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/55.png"
 			}
 		},
 		{
-			"name": "Junk-sea Reclaiming",
+			"name": "Junksea Reclaiming",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/62.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/56.png"
 			}
 		},
 		{
@@ -637,17 +577,17 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/63.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/57.png"
 			}
 		},
 		{
-			"name": "Boneforged Staff",
+			"name": "Cleaver's Carpace",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/64.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/58.png"
 			}
 		},
 		{
@@ -657,7 +597,7 @@
 			"type": "Instant",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/65.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/59.png"
 			}
 		},
 		{
@@ -667,17 +607,17 @@
 			"type": "Creature — Plant",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/66.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/60.png"
 			}
 		},
 		{
-			"name": "Verdanth Lizard",
+			"name": "Verdantho Lizard",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Lizard",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/67.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/61.png"
 			}
 		},
 		{
@@ -687,7 +627,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/68.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/62.png"
 			}
 		},
 		{
@@ -697,7 +637,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/69.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/63.png"
 			}
 		},
 		{
@@ -707,17 +647,17 @@
 			"type": "Creature — Insect Druid",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/70.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/64.png"
 			}
 		},
 		{
-			"name": "Piled-up Junkshell",
+			"name": "Piled-Up Junkshell",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Artifact — Equipment",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/71.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/65.png"
 			}
 		},
 		{
@@ -727,7 +667,7 @@
 			"type": "Creature — Human Rouge",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/72.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/66.png"
 			}
 		},
 		{
@@ -737,7 +677,7 @@
 			"type": "Creature — Elephant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/73.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/67.png"
 			}
 		},
 		{
@@ -747,7 +687,7 @@
 			"type": "Creature — Giant Goat",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/74.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/68.png"
 			}
 		},
 		{
@@ -757,7 +697,7 @@
 			"type": "Creature — Frog Lizard",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/75.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/69.png"
 			}
 		},
 		{
@@ -767,7 +707,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/76.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/70.png"
 			}
 		},
 		{
@@ -777,7 +717,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/77.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/71.png"
 			}
 		},
 		{
@@ -787,7 +727,7 @@
 			"type": "Sorcery",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/78.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/72.png"
 			}
 		},
 		{
@@ -797,7 +737,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/79.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/73.png"
 			}
 		},
 		{
@@ -807,7 +747,7 @@
 			"type": "Instant",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/80.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/74.png"
 			}
 		},
 		{
@@ -817,7 +757,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/81.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/75.png"
 			}
 		},
 		{
@@ -827,7 +767,7 @@
 			"type": "Instant",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/82.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/76.png"
 			}
 		},
 		{
@@ -837,7 +777,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/83.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/77.png"
 			}
 		},
 		{
@@ -847,7 +787,7 @@
 			"type": "Creature — Human Warrior",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/84.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/78.png"
 			}
 		},
 		{
@@ -857,7 +797,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/85.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/79.png"
 			}
 		},
 		{
@@ -867,17 +807,17 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/86.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/80.png"
 			}
 		},
 		{
-			"name": "Arc-talon Lacerator",
+			"name": "Arc-Talon Lacerator",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Artificer",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/87.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/81.png"
 			}
 		},
 		{
@@ -887,7 +827,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/88.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/82.png"
 			}
 		},
 		{
@@ -897,17 +837,17 @@
 			"type": "Creature — Elemental Lizard",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/89.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/83.png"
 			}
 		},
 		{
-			"name": "Met-a110 Moth",
+			"name": "Met-A110 Moth",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Artifact Creature — Insect Construct",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/90.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/84.png"
 			}
 		},
 		{
@@ -917,17 +857,17 @@
 			"type": "Creature — Brushwagg",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/91.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/85.png"
 			}
 		},
 		{
-			"name": "Automaton Arc-flamer",
+			"name": "Automaton Arc-Flamer",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/92.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/86.png"
 			}
 		},
 		{
@@ -937,17 +877,17 @@
 			"type": "Sorcery",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/93.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/87.png"
 			}
 		},
 		{
-			"name": "Immenent Missile",
+			"name": "Imminent Missile",
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/94.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/88.png"
 			}
 		},
 		{
@@ -957,7 +897,7 @@
 			"type": "Artifact — Treasure",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/95.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/89.png"
 			}
 		},
 		{
@@ -967,7 +907,7 @@
 			"type": "Sorcery",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/96.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/90.png"
 			}
 		},
 		{
@@ -977,7 +917,7 @@
 			"type": "Instant",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/97.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/91.png"
 			}
 		},
 		{
@@ -987,7 +927,7 @@
 			"type": "Sorcery",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/98.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/92.png"
 			}
 		},
 		{
@@ -997,7 +937,7 @@
 			"type": "Sorcery",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/99.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/93.png"
 			}
 		},
 		{
@@ -1005,19 +945,19 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/100.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/94.png"
 			}
 		},
 		{
-			"name": "Artserphlan",
+			"name": "Artserphlan Citizen",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Cyborg",
-			"collector_number": "44",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/101.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/95.png"
 			}
 		},
 		{
@@ -1025,19 +965,19 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "51",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/102.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/96.png"
 			}
 		},
 		{
-			"name": "Triage Tri-arm",
+			"name": "Triage Tri-Arm",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Artificer",
+			"type": "Creature — Vedalken Artificer",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/103.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/97.png"
 			}
 		},
 		{
@@ -1047,7 +987,7 @@
 			"type": "Artifact Creature — Ape Cyborg",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/104.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/98.png"
 			}
 		},
 		{
@@ -1055,9 +995,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/105.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/99.png"
 			}
 		},
 		{
@@ -1067,7 +1007,7 @@
 			"type": "Creature — Turtle Artificer",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/106.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/100.png"
 			}
 		},
 		{
@@ -1077,7 +1017,7 @@
 			"type": "Creature — Quatril Rogue",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/107.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/101.png"
 			}
 		},
 		{
@@ -1085,9 +1025,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Creature — Human Cat Rogue",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/108.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/102.png"
 			}
 		},
 		{
@@ -1097,7 +1037,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/109.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/103.png"
 			}
 		},
 		{
@@ -1107,7 +1047,7 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/110.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/104.png"
 			}
 		},
 		{
@@ -1115,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "55",
+			"collector_number": "54",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/111.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/105.png"
 			}
 		},
 		{
@@ -1125,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "43",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/112.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/106.png"
 			}
 		},
 		{
@@ -1137,7 +1077,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/113.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/107.png"
 			}
 		},
 		{
@@ -1145,9 +1085,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/114.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/108.png"
 			}
 		},
 		{
@@ -1155,9 +1095,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "53",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/115.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/109.png"
 			}
 		},
 		{
@@ -1165,9 +1105,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "59",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/116.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/110.png"
 			}
 		},
 		{
@@ -1177,7 +1117,7 @@
 			"type": "Creature — Human Artificer Knight",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/117.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/111.png"
 			}
 		},
 		{
@@ -1187,7 +1127,7 @@
 			"type": "Creature — Dwarf Artificer",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/118.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/112.png"
 			}
 		},
 		{
@@ -1197,7 +1137,7 @@
 			"type": "Creature — Insect Cleric",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/119.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/113.png"
 			}
 		},
 		{
@@ -1207,7 +1147,7 @@
 			"type": "Creature — Insect Peasant",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/120.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/114.png"
 			}
 		},
 		{
@@ -1217,7 +1157,7 @@
 			"type": "Creature — Mutant Cleric",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/121.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/115.png"
 			}
 		},
 		{
@@ -1227,7 +1167,7 @@
 			"type": "Creature — Cleric Illusion",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/122.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/116.png"
 			}
 		},
 		{
@@ -1235,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/123.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/117.png"
 			}
 		},
 		{
@@ -1247,17 +1187,17 @@
 			"type": "Creature — Human Antelope Scout",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/124.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/118.png"
 			}
 		},
 		{
-			"name": "Rune-etch Artificer",
+			"name": "Rune-Etch Artificer",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Dwarf Artificer",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/125.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/119.png"
 			}
 		},
 		{
@@ -1267,7 +1207,7 @@
 			"type": "Creature — Insect",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/126.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/120.png"
 			}
 		},
 		{
@@ -1277,7 +1217,7 @@
 			"type": "Instant",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/127.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/121.png"
 			}
 		},
 		{
@@ -1287,7 +1227,7 @@
 			"type": "Instant",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/128.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/122.png"
 			}
 		},
 		{
@@ -1297,7 +1237,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/129.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/123.png"
 			}
 		},
 		{
@@ -1307,7 +1247,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/130.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/124.png"
 			}
 		},
 		{
@@ -1317,7 +1257,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/131.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/125.png"
 			}
 		},
 		{
@@ -1327,7 +1267,7 @@
 			"type": "Instant",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/132.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/126.png"
 			}
 		},
 		{
@@ -1337,7 +1277,7 @@
 			"type": "Instant",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/133.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/127.png"
 			}
 		},
 		{
@@ -1347,7 +1287,7 @@
 			"type": "Artifact",
 			"collector_number": "271",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/134.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/128.png"
 			}
 		},
 		{
@@ -1357,7 +1297,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "272",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/135.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/129.png"
 			}
 		},
 		{
@@ -1367,7 +1307,17 @@
 			"type": "Legendary Planeswalker — Astro",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/136.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/130.png"
+			}
+		},
+		{
+			"name": "Assimilate",
+			"rarity": "mythic",
+			"mana_cost": "{6}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/131.png"
 			}
 		},
 		{
@@ -1377,7 +1327,7 @@
 			"type": "Legendary Planeswalker — Grrr",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/137.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/132.png"
 			}
 		},
 		{
@@ -1387,7 +1337,7 @@
 			"type": "Legendary Planeswalker — Konzah",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/138.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/133.png"
 			}
 		},
 		{
@@ -1397,7 +1347,7 @@
 			"type": "Creature — Dryad Illusion",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/139.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/134.png"
 			}
 		},
 		{
@@ -1407,7 +1357,7 @@
 			"type": "Instant",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/140.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/135.png"
 			}
 		},
 		{
@@ -1417,7 +1367,7 @@
 			"type": "Legendary Artifact Creature — Cyborg",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/141.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/136.png"
 			}
 		},
 		{
@@ -1425,9 +1375,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{B}{B}{R}",
 			"type": "Artifact Creature — Specter",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/142.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/137.png"
 			}
 		},
 		{
@@ -1437,7 +1387,7 @@
 			"type": "Sorcery",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/143.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/138.png"
 			}
 		},
 		{
@@ -1445,9 +1395,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Illusion",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/144.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/139.png"
 			}
 		},
 		{
@@ -1457,7 +1407,7 @@
 			"type": "Instant",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/145.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/140.png"
 			}
 		},
 		{
@@ -1467,17 +1417,17 @@
 			"type": "Enchantment",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/146.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/141.png"
 			}
 		},
 		{
-			"name": "The Factory",
+			"name": "MMx2, The Factory",
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}{R}{G}",
 			"type": "Legendary Artifact Enchantment",
-			"collector_number": "212",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/147.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/142.png"
 			}
 		},
 		{
@@ -1487,7 +1437,7 @@
 			"type": "Sorcery",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/148.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/143.png"
 			}
 		},
 		{
@@ -1497,7 +1447,7 @@
 			"type": "Sorcery",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/149.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/144.png"
 			}
 		},
 		{
@@ -1505,9 +1455,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Avatar",
-			"collector_number": "47",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/150.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/145.png"
 			}
 		},
 		{
@@ -1515,9 +1465,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Enchantment",
-			"collector_number": "48",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/151.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/146.png"
 			}
 		},
 		{
@@ -1527,7 +1477,7 @@
 			"type": "Artifact Creature — Elemental",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/152.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/147.png"
 			}
 		},
 		{
@@ -1537,7 +1487,7 @@
 			"type": "Legendary Artifact — Vehicle",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/153.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/148.png"
 			}
 		},
 		{
@@ -1547,7 +1497,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "278",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/154.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/149.png"
 			}
 		},
 		{
@@ -1557,7 +1507,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/155.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/150.png"
 			}
 		},
 		{
@@ -1567,7 +1517,7 @@
 			"type": "Artifact Creature — Giant",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/156.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/151.png"
 			}
 		},
 		{
@@ -1577,7 +1527,7 @@
 			"type": "Artifact — Food",
 			"collector_number": "273",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/157.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/152.png"
 			}
 		},
 		{
@@ -1587,7 +1537,7 @@
 			"type": "Artifact Creature — Dog",
 			"collector_number": "270",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/158.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/153.png"
 			}
 		},
 		{
@@ -1597,7 +1547,7 @@
 			"type": "Artifact",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/159.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/154.png"
 			}
 		},
 		{
@@ -1607,7 +1557,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/160.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/155.png"
 			}
 		},
 		{
@@ -1617,7 +1567,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/161.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/156.png"
 			}
 		},
 		{
@@ -1627,17 +1577,27 @@
 			"type": "Artifact",
 			"collector_number": "269",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/162.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/157.png"
 			}
 		},
 		{
 			"name": "Serpent of the Void",
 			"rarity": "rare",
-			"mana_cost": "{X}",
+			"mana_cost": "{X}{X}",
 			"type": "Artifact Creature — Serpent Implant",
 			"collector_number": "268",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/163.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/158.png"
+			}
+		},
+		{
+			"name": "Perforating Carapace",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/159.png"
 			}
 		},
 		{
@@ -1647,7 +1607,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/164.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/160.png"
 			}
 		},
 		{
@@ -1657,7 +1617,7 @@
 			"type": "Creature — Wraith Soldier",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/165.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/161.png"
 			}
 		},
 		{
@@ -1667,7 +1627,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/166.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/162.png"
 			}
 		},
 		{
@@ -1677,7 +1637,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/167.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/163.png"
 			}
 		},
 		{
@@ -1685,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/168.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/164.png"
 			}
 		},
 		{
@@ -1697,7 +1657,7 @@
 			"type": "Artifact Creature — Horror",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/169.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/165.png"
 			}
 		},
 		{
@@ -1707,17 +1667,7 @@
 			"type": "Sorcery",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/170.png"
-			}
-		},
-		{
-			"name": "Perforating Carapace",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Artifact — Equipment",
-			"collector_number": "106",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/171.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/166.png"
 			}
 		},
 		{
@@ -1727,7 +1677,7 @@
 			"type": "Creature — Fungus Ogre",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/172.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/167.png"
 			}
 		},
 		{
@@ -1737,7 +1687,7 @@
 			"type": "Sorcery",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/173.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/168.png"
 			}
 		},
 		{
@@ -1747,17 +1697,17 @@
 			"type": "Creature — Human Artificer Knight",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/174.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/169.png"
 			}
 		},
 		{
-			"name": "Stampedeing Oxobegg",
+			"name": "Stampeding Oxobegg",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Insect Ox",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/175.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/170.png"
 			}
 		},
 		{
@@ -1767,7 +1717,7 @@
 			"type": "Instant",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/176.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/171.png"
 			}
 		},
 		{
@@ -1777,7 +1727,7 @@
 			"type": "Artifact Creature — Human Cyborg",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/177.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/172.png"
 			}
 		},
 		{
@@ -1787,7 +1737,7 @@
 			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/178.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/173.png"
 			}
 		},
 		{
@@ -1797,7 +1747,67 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "190",
 			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/174.png"
+			}
+		},
+		{
+			"name": "Deflecting Pool",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/175.png"
+			}
+		},
+		{
+			"name": "Frosted Sandpeaks",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/176.png"
+			}
+		},
+		{
+			"name": "Sunken Conservatory",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/177.png"
+			}
+		},
+		{
+			"name": "Remediated Outpost",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/178.png"
+			}
+		},
+		{
+			"name": "Coastal Crash-Site",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "282",
+			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/179.png"
+			}
+		},
+		{
+			"name": "Dessicated Drift",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/180.png"
 			}
 		},
 		{
@@ -1807,7 +1817,7 @@
 			"type": "Creature — Lizard Artificer",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/180.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/181.png"
 			}
 		},
 		{
@@ -1817,7 +1827,7 @@
 			"type": "Creature — Djinn",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/181.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/182.png"
 			}
 		},
 		{
@@ -1825,9 +1835,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Artifact Creature — Orc Cyborg",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/182.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/183.png"
 			}
 		},
 		{
@@ -1837,17 +1847,17 @@
 			"type": "Sorcery",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/183.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/184.png"
 			}
 		},
 		{
-			"name": "Easy-fix Scrapheap",
+			"name": "Easy-Fix Scrapheap",
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/184.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/185.png"
 			}
 		},
 		{
@@ -1857,7 +1867,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/185.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/186.png"
 			}
 		},
 		{
@@ -1867,7 +1877,7 @@
 			"type": "Artifact Creature — Insect Artificer",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/186.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/187.png"
 			}
 		},
 		{
@@ -1877,7 +1887,7 @@
 			"type": "Enchantment",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/187.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/188.png"
 			}
 		},
 		{
@@ -1887,17 +1897,17 @@
 			"type": "Instant",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/188.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/189.png"
 			}
 		},
 		{
-			"name": "Mass reproduction",
+			"name": "Mass Reproduction",
 			"rarity": "rare",
 			"mana_cost": "{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/189.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/190.png"
 			}
 		},
 		{
@@ -1907,7 +1917,7 @@
 			"type": "Creature — Human Noble Performer",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/190.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/191.png"
 			}
 		},
 		{
@@ -1917,7 +1927,7 @@
 			"type": "Creature — Human Artificer",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/191.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/192.png"
 			}
 		},
 		{
@@ -1927,7 +1937,7 @@
 			"type": "Sorcery",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/192.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/193.png"
 			}
 		},
 		{
@@ -1937,7 +1947,7 @@
 			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/193.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/194.png"
 			}
 		},
 		{
@@ -1947,7 +1957,7 @@
 			"type": "Artifact Creature — Construct",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/194.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/195.png"
 			}
 		},
 		{
@@ -1957,7 +1967,7 @@
 			"type": "Enchantment",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/195.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/196.png"
 			}
 		},
 		{
@@ -1967,7 +1977,7 @@
 			"type": "Creature — Elemental Knight",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/196.png"
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/197.png"
 			}
 		},
 		{
@@ -1976,16 +1986,6 @@
 			"mana_cost": "{1}{R}",
 			"type": "Artifact Creature — Construct",
 			"collector_number": "151",
-			"image_uris": {
-				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/197.png"
-			}
-		},
-		{
-			"name": "Assimilate",
-			"rarity": "mythic",
-			"mana_cost": "{6}{B}{B}",
-			"type": "Enchantment — Aura",
-			"collector_number": "82",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/198.png"
 			}
@@ -2001,11 +2001,11 @@
 			}
 		},
 		{
-			"name": "Accomplished Blade-Arts",
+			"name": "Override Clamp",
 			"rarity": "rare",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "41",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/200.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Artifact Creature — Archon",
-			"collector_number": "42",
+			"collector_number": "41",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/202.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/203.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/204.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/205.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}",
 			"type": "Artifact",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/206.png"
 			}
@@ -2101,11 +2101,11 @@
 			}
 		},
 		{
-			"name": "Lisence Suspender",
+			"name": "License Suspender",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Human Cleric",
-			"collector_number": "17",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/210.png"
 			}
@@ -2181,10 +2181,10 @@
 			}
 		},
 		{
-			"name": "Junk-sea Tril-0",
+			"name": "Junksea Tril-0",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Insect",
+			"type": "Artifact Creature — Trilobite",
 			"collector_number": "251",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/218.png"
@@ -2335,7 +2335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/233.png"
 			}
@@ -2411,7 +2411,7 @@
 			}
 		},
 		{
-			"name": "Under the Junk-sea",
+			"name": "Under the Junk-Sea",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Instant",
@@ -2421,11 +2421,11 @@
 			}
 		},
 		{
-			"name": "Miasma Siphoner",
+			"name": "Boneforged Staff",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{B}",
 			"type": "Artifact — Equipment",
-			"collector_number": "105",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/242.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/243.png"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{G}",
 			"type": "Creature — Horror",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/265.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Artifact Creature — Human Cyborg",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/267.png"
 			}
@@ -2814,8 +2814,8 @@
 			"name": "Interplanter",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Merfolk Artificer",
-			"collector_number": "61",
+			"type": "Creature — Siren Artificer",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/281.png"
 			}
@@ -2825,7 +2825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Illusion Cyborg",
-			"collector_number": "59",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/282.png"
 			}
@@ -2835,7 +2835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Insect Artificer",
-			"collector_number": "56",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/283.png"
 			}
@@ -2845,7 +2845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "46",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/284.png"
 			}
@@ -2855,7 +2855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Human Bird Artificer",
-			"collector_number": "54",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/285.png"
 			}
@@ -2865,7 +2865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}{U}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/286.png"
 			}
@@ -2875,7 +2875,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Vedalken Artificer",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/287.png"
 			}
@@ -2885,7 +2885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "49",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/288.png"
 			}
@@ -2895,7 +2895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "58",
+			"collector_number": "57",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/289.png"
 			}
@@ -2905,7 +2905,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/290.png"
 			}
@@ -2935,7 +2935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "45",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/293.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Scout",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/295.png"
 			}
@@ -3033,7 +3033,7 @@
 		{
 			"name": "Embellish Armaments",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Sorcery",
 			"collector_number": "9",
 			"image_uris": {
@@ -3053,7 +3053,7 @@
 		{
 			"name": "Juliet's Autodog",
 			"rarity": "uncommon",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Artifact — Equipment",
 			"collector_number": "13",
 			"image_uris": {
@@ -3069,19 +3069,54 @@
 			"image_uris": {
 				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/306.png"
 			}
+		},
+		{
+			"name": "Implant",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Implant",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/307.png"
+			}
+		},
+		{
+			"name": "Saproling Construct",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Saproling Construct",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/308.png"
+			}
+		},
+		{
+			"name": "Servo",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Servo",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/309.png"
+			}
+		},
+		{
+			"name": "Insect",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Insect",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/JDK-files/img/310.png"
+			}
 		}
 	]
 
 [rare(1)]
-	2 Deflecting Pool
-	2 Frosted Sandpeaks
-	2 Sunken Conservatory
-	2 Remediated Outpost
-	2 Coastal Crash-Site
-	2 Dessicated Drift
 	1 Steelstorm Conduit
 	1 Sword of One and Many
 	1 Astro, Wonder Wielder
+	1 Assimilate
 	1 Grrr, Interplanar Armsdealer
 	1 Konzah, Gastropod Proficcionado
 	1 Semblance of Prosperity
@@ -3092,7 +3127,7 @@
 	1 Illusion of Peace
 	1 Deep Strata Pressure
 	1 Symmetric Warfare
-	1 The Factory
+	1 MMx2, The Factory
 	1 Apocalypse Then
 	1 Retrofitter's Ritual
 	1 Ayesha, Lost Embrace
@@ -3109,6 +3144,7 @@
 	2 Colossurs
 	2 Specimen Container
 	2 Serpent of the Void
+	2 Perforating Carapace
 	2 Junkyard Expert
 	2 Darklash Flaggelant
 	2 Acidspit Incubator
@@ -3116,25 +3152,30 @@
 	2 Pollution Armaments
 	2 Industry Abomination
 	2 Conflict of Interest
-	2 Perforating Carapace
 	2 Trashore Ogre
 	2 Terrabombing
 	2 Jade Armorer
-	2 Stampedeing Oxobegg
+	2 Stampeding Oxobegg
 	2 Perfect Complexion
 	2 Cyborgmancer
 	2 Dr. Fabre, the Junkseer
 	2 Steel Gardener
+	2 Deflecting Pool
+	2 Frosted Sandpeaks
+	2 Sunken Conservatory
+	2 Remediated Outpost
+	2 Coastal Crash-Site
+	2 Dessicated Drift
 	2 Scaled Armorer
 	2 War Djinn
 	2 Furnacemaster Orc
 	2 Dreck Contamination
-	2 Easy-fix Scrapheap
+	2 Easy-Fix Scrapheap
 	2 Daggers of Dance and Death
 	2 Old World Engineers
 	2 Dross Digestion
 	2 Collected Clangours
-	2 Mass reproduction
+	2 Mass Reproduction
 	2 Old World Rockstar
 	2 Blitzwing Armorer
 	2 Remelt
@@ -3143,9 +3184,8 @@
 	2 Clangorous Militia
 	2 Furnace Knight
 	2 Replicating Ripper
-	1 Assimilate
 	2 Vedalken Tinkerer
-	2 Accomplished Blade-Arts
+	2 Override Clamp
 	2 Veiled Armorer
 	2 Archon of Artifice
 	2 Mind Numbing Screech
@@ -3155,7 +3195,7 @@
 	2 Martial Tech
 	2 Old World Flutist
 	2 Brightlash Eggfly
-	2 Lisence Suspender
+	2 License Suspender
 	2 Perfected Armormod
 	2 Scholar of Runes
 	2 Bladeblessed Angel
@@ -3164,7 +3204,7 @@
 	4 Cardboard Crustacean
 	4 Half-Chi
 	4 Ambushing Scuttler
-	4 Junk-sea Tril-0
+	4 Junksea Tril-0
 	4 Constructed Steward
 	4 Rusted Recouper
 	4 Cobbled Automaton
@@ -3187,8 +3227,8 @@
 	4 Grrr's Warhound
 	4 Merciless Rend
 	4 Manufacturing Defect
-	4 Under the Junk-sea
-	4 Miasma Siphoner
+	4 Under the Junk-Sea
+	4 Boneforged Staff
 	4 Return Rearmed
 	4 Sulphuric Seas
 	4 Steel Soul Farie
@@ -3286,7 +3326,7 @@
 	8 Sedative Darts
 	8 Dormant Tallmer
 	8 Consumerist Spirit Guide
-	8 Cleaver's Carpace
+	8 Scuttling Bronzeplate
 	8 Junkshore Fisherman
 	8 Vampiric Strider
 	8 Shearing Rager
@@ -3299,16 +3339,16 @@
 	8 Junkyard Hunt
 	8 Bleed Out
 	8 Thousand Cuts
-	8 Junk-sea Reclaiming
+	8 Junksea Reclaiming
 	8 Divestion Blade
-	8 Boneforged Staff
+	8 Cleaver's Carpace
 	8 Lethal Prowess
 	8 Mulchpot
-	8 Verdanth Lizard
+	8 Verdantho Lizard
 	8 Toolsmith Apprentice
 	8 Ruins Ranger
 	8 Pillabegg Elder
-	8 Piled-up Junkshell
+	8 Piled-Up Junkshell
 	8 Basilisker
 	8 Kybertusk Mammoth
 	8 Steelgrazing Goat
@@ -3324,23 +3364,23 @@
 	8 Junker Man
 	8 Scrappy Automaton
 	8 Crucible Juggernaut
-	8 Arc-talon Lacerator
+	8 Arc-Talon Lacerator
 	8 Junksea Artillerist
 	8 Slag Cruciblair
-	8 Met-a110 Moth
+	8 Met-A110 Moth
 	8 Smokewagg
-	8 Automaton Arc-flamer
+	8 Automaton Arc-Flamer
 	8 Transmute Thermite
-	8 Immenent Missile
+	8 Imminent Missile
 	8 Pugilist's Prize
 	8 Rushed Rerpurposing
 	8 Slagful Slam
 	8 Reforge
 	8 Blinding Flare
 	8 Licensed Larcenist
-	8 Artserphlan
+	8 Artserphlan Citizen
 	8 Draining Festerspark
-	8 Triage Tri-arm
+	8 Triage Tri-Arm
 	8 Prime Pugilist
 	8 Drakepost Parcel
 	8 Tort Artificer
@@ -3362,7 +3402,7 @@
 	8 Heiromancer Hologram
 	8 Lightstep Ascetic
 	8 Sable Drone Recon
-	8 Rune-etch Artificer
+	8 Rune-Etch Artificer
 	8 Moonmoth Steed
 	8 Smite the Unlicensed
 	8 Projectile Energy Shield
@@ -3383,12 +3423,6 @@
 	12 Jungle Hollow
 	12 Wind-Scarred Crag
 	12 Thornwood Falls
-	2 Deflecting Pool
-	2 Frosted Sandpeaks
-	2 Sunken Conservatory
-	2 Remediated Outpost
-	2 Coastal Crash-Site
-	2 Dessicated Drift
 	12 Lupa, the Metallophage
 	12 Bolstering Scrapling
 	12 Rattling Sentry
@@ -3410,7 +3444,7 @@
 	12 Sedative Darts
 	12 Dormant Tallmer
 	12 Consumerist Spirit Guide
-	12 Cleaver's Carpace
+	12 Scuttling Bronzeplate
 	12 Junkshore Fisherman
 	12 Vampiric Strider
 	12 Shearing Rager
@@ -3423,16 +3457,16 @@
 	12 Junkyard Hunt
 	12 Bleed Out
 	12 Thousand Cuts
-	12 Junk-sea Reclaiming
+	12 Junksea Reclaiming
 	12 Divestion Blade
-	12 Boneforged Staff
+	12 Cleaver's Carpace
 	12 Lethal Prowess
 	12 Mulchpot
-	12 Verdanth Lizard
+	12 Verdantho Lizard
 	12 Toolsmith Apprentice
 	12 Ruins Ranger
 	12 Pillabegg Elder
-	12 Piled-up Junkshell
+	12 Piled-Up Junkshell
 	12 Basilisker
 	12 Kybertusk Mammoth
 	12 Steelgrazing Goat
@@ -3448,23 +3482,23 @@
 	12 Junker Man
 	12 Scrappy Automaton
 	12 Crucible Juggernaut
-	12 Arc-talon Lacerator
+	12 Arc-Talon Lacerator
 	12 Junksea Artillerist
 	12 Slag Cruciblair
-	12 Met-a110 Moth
+	12 Met-A110 Moth
 	12 Smokewagg
-	12 Automaton Arc-flamer
+	12 Automaton Arc-Flamer
 	12 Transmute Thermite
-	12 Immenent Missile
+	12 Imminent Missile
 	12 Pugilist's Prize
 	12 Rushed Rerpurposing
 	12 Slagful Slam
 	12 Reforge
 	12 Blinding Flare
 	12 Licensed Larcenist
-	12 Artserphlan
+	12 Artserphlan Citizen
 	12 Draining Festerspark
-	12 Triage Tri-arm
+	12 Triage Tri-Arm
 	12 Prime Pugilist
 	12 Drakepost Parcel
 	12 Tort Artificer
@@ -3486,7 +3520,7 @@
 	12 Heiromancer Hologram
 	12 Lightstep Ascetic
 	12 Sable Drone Recon
-	12 Rune-etch Artificer
+	12 Rune-Etch Artificer
 	12 Moonmoth Steed
 	12 Smite the Unlicensed
 	12 Projectile Energy Shield
@@ -3498,6 +3532,7 @@
 	1 Steelstorm Conduit
 	1 Sword of One and Many
 	1 Astro, Wonder Wielder
+	1 Assimilate
 	1 Grrr, Interplanar Armsdealer
 	1 Konzah, Gastropod Proficcionado
 	1 Semblance of Prosperity
@@ -3508,7 +3543,7 @@
 	1 Illusion of Peace
 	1 Deep Strata Pressure
 	1 Symmetric Warfare
-	1 The Factory
+	1 MMx2, The Factory
 	1 Apocalypse Then
 	1 Retrofitter's Ritual
 	1 Ayesha, Lost Embrace
@@ -3525,6 +3560,7 @@
 	2 Colossurs
 	2 Specimen Container
 	2 Serpent of the Void
+	2 Perforating Carapace
 	2 Junkyard Expert
 	2 Darklash Flaggelant
 	2 Acidspit Incubator
@@ -3532,25 +3568,30 @@
 	2 Pollution Armaments
 	2 Industry Abomination
 	2 Conflict of Interest
-	2 Perforating Carapace
 	2 Trashore Ogre
 	2 Terrabombing
 	2 Jade Armorer
-	2 Stampedeing Oxobegg
+	2 Stampeding Oxobegg
 	2 Perfect Complexion
 	2 Cyborgmancer
 	2 Dr. Fabre, the Junkseer
 	2 Steel Gardener
+	2 Deflecting Pool
+	2 Frosted Sandpeaks
+	2 Sunken Conservatory
+	2 Remediated Outpost
+	2 Coastal Crash-Site
+	2 Dessicated Drift
 	2 Scaled Armorer
 	2 War Djinn
 	2 Furnacemaster Orc
 	2 Dreck Contamination
-	2 Easy-fix Scrapheap
+	2 Easy-Fix Scrapheap
 	2 Daggers of Dance and Death
 	2 Old World Engineers
 	2 Dross Digestion
 	2 Collected Clangours
-	2 Mass reproduction
+	2 Mass Reproduction
 	2 Old World Rockstar
 	2 Blitzwing Armorer
 	2 Remelt
@@ -3559,9 +3600,8 @@
 	2 Clangorous Militia
 	2 Furnace Knight
 	2 Replicating Ripper
-	1 Assimilate
 	2 Vedalken Tinkerer
-	2 Accomplished Blade-Arts
+	2 Override Clamp
 	2 Veiled Armorer
 	2 Archon of Artifice
 	2 Mind Numbing Screech
@@ -3571,7 +3611,7 @@
 	2 Martial Tech
 	2 Old World Flutist
 	2 Brightlash Eggfly
-	2 Lisence Suspender
+	2 License Suspender
 	2 Perfected Armormod
 	2 Scholar of Runes
 	2 Bladeblessed Angel
@@ -3579,7 +3619,7 @@
 	6 Cardboard Crustacean
 	6 Half-Chi
 	6 Ambushing Scuttler
-	6 Junk-sea Tril-0
+	6 Junksea Tril-0
 	6 Constructed Steward
 	6 Rusted Recouper
 	6 Cobbled Automaton
@@ -3602,8 +3642,8 @@
 	6 Grrr's Warhound
 	6 Merciless Rend
 	6 Manufacturing Defect
-	6 Under the Junk-sea
-	6 Miasma Siphoner
+	6 Under the Junk-Sea
+	6 Boneforged Staff
 	6 Return Rearmed
 	6 Sulphuric Seas
 	6 Steel Soul Farie
@@ -3680,12 +3720,6 @@
 	6 Jungle Hollow
 	6 Wind-Scarred Crag
 	6 Thornwood Falls
-	7 Deflecting Pool
-	7 Frosted Sandpeaks
-	7 Sunken Conservatory
-	7 Remediated Outpost
-	7 Coastal Crash-Site
-	7 Dessicated Drift
 	6 Lupa, the Metallophage
 	6 Bolstering Scrapling
 	6 Rattling Sentry
@@ -3707,7 +3741,7 @@
 	6 Sedative Darts
 	6 Dormant Tallmer
 	6 Consumerist Spirit Guide
-	6 Cleaver's Carpace
+	6 Scuttling Bronzeplate
 	6 Junkshore Fisherman
 	6 Vampiric Strider
 	6 Shearing Rager
@@ -3720,16 +3754,16 @@
 	6 Junkyard Hunt
 	6 Bleed Out
 	6 Thousand Cuts
-	6 Junk-sea Reclaiming
+	6 Junksea Reclaiming
 	6 Divestion Blade
-	6 Boneforged Staff
+	6 Cleaver's Carpace
 	6 Lethal Prowess
 	6 Mulchpot
-	6 Verdanth Lizard
+	6 Verdantho Lizard
 	6 Toolsmith Apprentice
 	6 Ruins Ranger
 	6 Pillabegg Elder
-	6 Piled-up Junkshell
+	6 Piled-Up Junkshell
 	6 Basilisker
 	6 Kybertusk Mammoth
 	6 Steelgrazing Goat
@@ -3745,23 +3779,23 @@
 	6 Junker Man
 	6 Scrappy Automaton
 	6 Crucible Juggernaut
-	6 Arc-talon Lacerator
+	6 Arc-Talon Lacerator
 	6 Junksea Artillerist
 	6 Slag Cruciblair
-	6 Met-a110 Moth
+	6 Met-A110 Moth
 	6 Smokewagg
-	6 Automaton Arc-flamer
+	6 Automaton Arc-Flamer
 	6 Transmute Thermite
-	6 Immenent Missile
+	6 Imminent Missile
 	6 Pugilist's Prize
 	6 Rushed Rerpurposing
 	6 Slagful Slam
 	6 Reforge
 	6 Blinding Flare
 	6 Licensed Larcenist
-	6 Artserphlan
+	6 Artserphlan Citizen
 	6 Draining Festerspark
-	6 Triage Tri-arm
+	6 Triage Tri-Arm
 	6 Prime Pugilist
 	6 Drakepost Parcel
 	6 Tort Artificer
@@ -3783,7 +3817,7 @@
 	6 Heiromancer Hologram
 	6 Lightstep Ascetic
 	6 Sable Drone Recon
-	6 Rune-etch Artificer
+	6 Rune-Etch Artificer
 	6 Moonmoth Steed
 	6 Smite the Unlicensed
 	6 Projectile Energy Shield
@@ -3795,6 +3829,7 @@
 	4 Steelstorm Conduit
 	4 Sword of One and Many
 	4 Astro, Wonder Wielder
+	4 Assimilate
 	4 Grrr, Interplanar Armsdealer
 	4 Konzah, Gastropod Proficcionado
 	4 Semblance of Prosperity
@@ -3805,7 +3840,7 @@
 	4 Illusion of Peace
 	4 Deep Strata Pressure
 	4 Symmetric Warfare
-	4 The Factory
+	4 MMx2, The Factory
 	4 Apocalypse Then
 	4 Retrofitter's Ritual
 	4 Ayesha, Lost Embrace
@@ -3822,6 +3857,7 @@
 	7 Colossurs
 	7 Specimen Container
 	7 Serpent of the Void
+	7 Perforating Carapace
 	7 Junkyard Expert
 	7 Darklash Flaggelant
 	7 Acidspit Incubator
@@ -3829,25 +3865,30 @@
 	7 Pollution Armaments
 	7 Industry Abomination
 	7 Conflict of Interest
-	7 Perforating Carapace
 	7 Trashore Ogre
 	7 Terrabombing
 	7 Jade Armorer
-	7 Stampedeing Oxobegg
+	7 Stampeding Oxobegg
 	7 Perfect Complexion
 	7 Cyborgmancer
 	7 Dr. Fabre, the Junkseer
 	7 Steel Gardener
+	7 Deflecting Pool
+	7 Frosted Sandpeaks
+	7 Sunken Conservatory
+	7 Remediated Outpost
+	7 Coastal Crash-Site
+	7 Dessicated Drift
 	7 Scaled Armorer
 	7 War Djinn
 	7 Furnacemaster Orc
 	7 Dreck Contamination
-	7 Easy-fix Scrapheap
+	7 Easy-Fix Scrapheap
 	7 Daggers of Dance and Death
 	7 Old World Engineers
 	7 Dross Digestion
 	7 Collected Clangours
-	7 Mass reproduction
+	7 Mass Reproduction
 	7 Old World Rockstar
 	7 Blitzwing Armorer
 	7 Remelt
@@ -3856,9 +3897,8 @@
 	7 Clangorous Militia
 	7 Furnace Knight
 	7 Replicating Ripper
-	4 Assimilate
 	7 Vedalken Tinkerer
-	7 Accomplished Blade-Arts
+	7 Override Clamp
 	7 Veiled Armorer
 	7 Archon of Artifice
 	7 Mind Numbing Screech
@@ -3868,7 +3908,7 @@
 	7 Martial Tech
 	7 Old World Flutist
 	7 Brightlash Eggfly
-	7 Lisence Suspender
+	7 License Suspender
 	7 Perfected Armormod
 	7 Scholar of Runes
 	7 Bladeblessed Angel
@@ -3876,7 +3916,7 @@
 	15 Cardboard Crustacean
 	15 Half-Chi
 	15 Ambushing Scuttler
-	15 Junk-sea Tril-0
+	15 Junksea Tril-0
 	15 Constructed Steward
 	15 Rusted Recouper
 	15 Cobbled Automaton
@@ -3899,8 +3939,8 @@
 	15 Grrr's Warhound
 	15 Merciless Rend
 	15 Manufacturing Defect
-	15 Under the Junk-sea
-	15 Miasma Siphoner
+	15 Under the Junk-Sea
+	15 Boneforged Staff
 	15 Return Rearmed
 	15 Sulphuric Seas
 	15 Steel Soul Farie
