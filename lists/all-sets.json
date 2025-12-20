@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "ALY",
+            "set_name": "Unnamed Ally Faction Set",
+            "formats": "Standard"
+        },
+        {
             "set_code": "JDK",
             "set_name": "Jardeka, Age of Rust",
             "formats": "Standard"
