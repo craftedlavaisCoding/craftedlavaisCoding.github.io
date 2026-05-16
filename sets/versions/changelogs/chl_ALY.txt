@@ -1,4 +1,391 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Hellish Kickoff added.
+Lost Adventurer added.
+Bureaucratic Misadventure added.
+Policy-makers Projection added.
+Guarded Vault added.
+Nefarious Weights added.
+Willowburn Bloom added.
+Farmhand added.
+Ungrateful Amalgam added.
+Voltaic Coach added.
+Glass Bat added.
+Leonin Coach added.
+Salto Training Hound added.
+Asar, Tireless Duelist added.
+Jadead Referee added.
+Infro De-fragment added.
+Dataminers added.
+Tutor Pair added.
+Bury in the Woods added.
+Oracular Attack added.
+Dodgy Refreshments added.
+Suddenly Whole Again added.
+Forbidden Knowledge added.
+Back From the Bench added.
+Explorererer added.
+Fungersnacker added.
+Fleafey Spidey added.
+Gortsaran Forester added.
+Grovekeep added.
+Overgrown Farmbeast added.
+Loam Elemental added.
+Tiger Farm added.
+Compost Guard added.
+Natural Overgrowth added.
+Recycle Roots added.
+Prospective Thrill added.
+Flightly Seeding added.
+Logging Suit added.
+Road to Somewhere added.
+Fictilis Anthropologist added.
+Army of Lawyers added.
+Masonry Policy added.
+Super Student added.
+Aqueduct Flow added.
+Encrypt Enabler added.
+Infostealer added.
+Secret Tendrils added.
+Secure Soul Layers added.
+Morris Observer added.
+Salto Training Coach added.
+Stadium Game Bully added.
+Stadium Lasher added.
+Delivery Skeleton added.
+Rabid Fightodino added.
+Cografya Farseer added.
+Flame-Axe Clearcutter added.
+Dawn Fowl added.
+Underbrush Explorer added.
+Woodland Pair added.
+Carrot Cruncher added.
+Bountiful Quarry added.
+Mulch Microbe added.
+Recollect added.
+Canine of Fecundity added.
+Flametail Monkey added.
+Punchy Prize added.
+Gloating Cheerleader added.
+Falconer's Phoenix added.
+Blazetrailing Cutclearer added.
+Throwout Thrillman added.
+Short-Fused kreyton added.
+Well Wrought Duelist added.
+Reckless Trailblazing added.
+Exploratory Geology added.
+Yoink! added.
+Unlucky Offshot added.
+Chart it All added.
+Exerted Swing added.
+Construant added.
+Knower of Power added.
+Flittering Mascot added.
+Ephemeral Crati added.
+Bridge Booper added.
+Beurodrage added.
+Aqueduct Expansion added.
+Eliptic Curve Sealing added.
+Fragment the Moment added.
+Measure Twice added.
+Overdue Assignment added.
+Command the Laws added.
+Data Security added.
+Reboot added.
+Don Quixote added.
+Haunted Blueprints added.
+Gortsaran Sprite added.
+Harvest Hallowblade added.
+Land Pumper added.
+Yellowprint Reclaimer added.
+Yellowprint Eagle added.
+Blossom Architect added.
+Gift Honse in Mouth added.
+Wheatfield Reaper added.
+Public Works Project added.
+Reconstruct added.
+Seed Bank added.
+Escort off the Premises added.
+
+Wire Cutter Construct removed.
+Graveramp removed.
+Lost in Abstraction removed.
+Rowdy Crowdy removed.
+
+Fictilis First Year
+rules_text: As long as you control an artifact or an enchantment, this creature has vigilance and first strike. => As long as you control an Aura, this creature has vigilance and first strike.
+
+Landscape Painter
+type: Enchantment Creature — Human => Creature — Human
+
+Freshreef Guardian
+type: Enchantment Creature — Golem => Enchantment Creature — Golem Policy
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+You have ward {1}. => When this creature enters, create a Architect role token attached to another target creature you control. [i](If you control another role on it, put that one into the graveyard. Enchanted creature has flying.)[/i]
+Enchanted creatures you control have ward {1}.
+
+Limestone Prospector
+
+Sustenance for Guards
+rules_text: Create two 1/1 white soldier creature tokens with lifelink. Then you may compost 2. If you do, creatures you control get +1/+0 until end of turn. [i](To compost 2, discard, sacrifice, or exile a land card from your graveyard two times.)[/i] => Create two 1/1 white Soldier creature tokens with lifelink. Then you may compost 2. If you do, creatures you control get +1/+0 until end of turn. [i](To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)[/i]
+
+Flagstone
+rules_text: Enchant Land you control.
+Enchanted land is a white 3/4 Elemental creature with vigilance in addition to its other types.
+When enchanted land dies, search your library for a plains card and put it onto the battlefield, then shuffle. => Enchant Land you control.
+Enchanted land is a white 3/3 Elemental creature with vigilance in addition to its other types.
+When enchanted land dies, return it to the battlefield.
+
+Old Ass Architect
+rules_text: Lifelink
+{5}{U}, {T}: Target player mills four cards. This ability costs {1} less to activate for each artifact and enchantment you control. => Lifelink
+{5}{U}, {T}: Target player mills four cards. This ability costs {1} less to activate for each Aura you control.
+
+Overburdened Hampter
+rules_text: When this creature enters, you gain 1 life and draw a card, then put a card from your hand on the bottom of your library unless you compost 1. [i](To compost 1, discard, sacrifice, or exile a land card from your graveyard .)[/i] => When this creature enters, you gain 1 life and draw a card, then put a card from your hand on the bottom of your library unless you compost 1. [i](To compost 1, discard, sacrifice, or exile a land card from your graveyard.)[/i]
+
+Savior of the Harvest
+rules_text: Flying
+When this creature enters, if a land you control left the battlefield this turn, search your library for a basic plains card and put it onto the battlefield tapped, then shuffle. => Flying
+When this creature enters, put target land that was put into your graveyard this turn onto the battlefield tapped.
+
+Logging Crew
+rules_text: When this creature enters, creatures you control get +1/+0 until end of turn. Then they get an additional +0/+2 until end of turn if you control an artifact and an enchantment.
+{G}, Exile this card from your graveyard: Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i] => When this creature enters, each creature you control gets +1/+0 until end of turn. Each enchanted creature you control gets +2/+0 until end of turn instead.
+{G}, Exile this card from your graveyard: Create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.”)[/i]
+
+Restructuring Lithomancer
+
+Etherial Armament
+type: Enchantment — Aura => Enchantment — Policy
+rules_text: Flash
+Enchant creature
+When this aura enters, you may have enchanted creature deal 2 damage to target attacking or blocking creature.
+Enchanted creature has first strike. => Flash
+When this Policy enters, create a Officer Role token attached to target creature you control. Then each enchanted creature you control deals 2 damage to target attacking, blocking, or tapped creature an opponent controls. [i](If you control another role on it, put that one into the graveyard. Enchanted creature has vigilance.)[/i]
+
+Masoned Out
+
+Meadow Petals
+
+Relocate
+
+Twofish
+type: Artifact Creature — Elemental => Creature — Elemental
+
+Waterworks Architect
+type: Enchantment Creature — Elemental Artificer => Creature — Elemental Artificer
+
+Urban-Ex Student
+rules_text: Vigilance
+As long as you control an artifact and an enchantment, this creature can't be blocked. => Vigilance
+As long as you control two or more auras, this creature can't be blocked.
+
+Encrypt Illusion
+rules_text: When this creature becomes the target of a spell or ability, encrypt it. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard two cards during your turn to put it into your hand.)[/i] => When this creature becomes the target of a spell or ability, encrypt it. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard a card during your turn to put it into your hand.)[/i]
+
+Cipherparrot
+
+Shringklozes
+rules_text: When this creature enters, target creature an opponent controls gets -1/-0 until end of turn for each card you own in exile. => When this creature enters, target creature an opponent controls gets -1/-0 until your next turn for each card you own in exile.
+
+Contained Torrent
+type: Artifact Creature — Elemental => Creature — Elemental
+rules_text: Lurk {3}
+This creature costs {1} less to cast for each artifact and enchantment you control. => Lurk {3} [i](Defending player can't block this creature unless they pay {3})[/i]
+This creature costs {1} less to cast for each enchantment you control.
+pt:  => 5/5
+
+Secretive Flyer
+
+Construction Site Safety
+cost: {1}{U} => {U}
+
+Chantsmepell
+rules_text: This spell costs {1} less to cast if you control an artifact, and 1 less to cast if you control an enchantment.
+Counter target spell. => This spell costs {1} less to cast for each aura you control.
+Counter target spell.
+
+Data Construct
+rules_text: When this artifact enters, encrypt the top card of your library. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard two cards during your turn to put it into your hand.)[/i]
+{2}{U}, Sacrifice this artifact: Draw two cards. => When this artifact enters, encrypt the top card of your library. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard a card during your turn to put it into your hand.)[/i]
+{2}{U}, Sacrifice this artifact: Draw two cards.
+
+Transcribe Layer Script
+rules_text: Draw three cards, then encrypt a card from your hand. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard two cards during your turn to put it into your hand.)[/i] => Draw three cards, then encrypt a card from your hand. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard a card during your turn to put it into your hand.)[/i]
+
+Construant Nest
+
+Drown In Cement
+
+Zip Bomb
+
+Fleetfoot Fairy
+
+Novice Trailblazer
+rules_text: When this creature enters, target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => When this creature enters, target creature you control explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Ball Runner
+rules_text: Whenever this creature becomes blocked, it deals 1 damage to any target other than a creature blocking it. => Whenever this creature becomes blocked, it deals 1 damage to any target other than a creature blocking it.
+{2}{G}, Exile this creature from your graveyard: Search your library for a land card that shares a basic land type with a land you control. Put it onto the battlefield tapped, then shuffle.
+
+Slugging Orch
+
+Burning Gladiator
+rules_text: Whenever this creature becomes bloodied, create a red 1/1 Elemental creature token. => Whenever this creature becomes bloodied, create a red 1/1 Elemental creature token. [i](A creature is bloodied if it has taken damage this turn.)[/i]
+
+Irate Archivist
+
+Ball Slaggah
+
+Salto Pamphleteer
+
+Orc Bulldozaz
+rules_text: Menace, Reach
+This spell costs {1} less to cast for each bloodied creature you control. => Menace, Reach
+This spell costs {1} less to cast for each bloodied creature you control. [i](A creature is bloodied if it has taken damage this turn.)[/i]
+{1}{B}: Return this card from your graveyard to your hand.
+
+Chart the Way
+
+Swing for the Prize
+
+Clearing Boulders
+
+The Crowd Goes Feral
+
+Countdown
+
+Cografya Scout
+
+Elf Explorer
+
+Compostrorr
+rules_text: Compost 1: Put a +1/+1 counter on this creature. Activate only once each turn. [i](To compost 1, discard, sacrifice, or exile a land card from your graveyard .)[/i] => Compost 1: Put a +1/+1 counter on this creature. Activate only once each turn. [i](To compost 1, discard, sacrifice, or exile a land card from your graveyard.)[/i]
+
+Brazen Jungler
+
+Exploratory Vines
+rules_text: [i]Landfall[/i] — Whenever a land enters under your control. this creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)[/i] => [i]Landfall[/i] — Whenever a land enters under your control. this creature explores. [i](Reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)[/i]
+
+Cultivating Dryad
+
+Gulch Antelopes
+
+Splanctre
+rules_text: Whenever this creature becomes the target of a spell or ability an opponent controls, search your library for two basic lands, put them onto the battlefield tapped, then shuffle.
+{3}{W}: This creature gains flying until end of turn. => Whenever this creature becomes the target of a spell or ability an opponent controls, search your library for two land cards that share a basic land type with lands you control. Put them onto the battlefield, then shuffle.
+{3}{W}: This creature gains flying until end of turn.
+
+Force of the Wilderness
+
+Jungling Transformation
+
+Needle Sharp Seedlings
+rules_text: As an additional cost to casting this spell, pay {3} or compost 2. [i](To compost 2, discard, sacrifice, or exile a land card from your graveyard two times.)[/i]
+Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control. => As an additional cost to casting this spell, pay {3} or compost 2. [i](To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)[/i]
+Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don't control.
+
+Gortsaran Might
+
+Farmland Map
+
+Caving Faming
+
+Fictilis Initiate
+rules_text: First strike
+Whenever an artifact or enchantment enters under your control, scry 1. => First strike
+This creature enters with an Architect Role token. [i](If you control another role on it, put that one into the graveyard. Enchanted creature has flying.)[/i]
+pt: 2/1 => 1/2
+
+Mantilla Initiate
+
+Cryptic Seals
+
+Salto Initiate
+
+No Pain No Gain
+
+Cografya Initiate
+
+Jungle Forerunner
+
+Gortsaran Initiate
+
+Forage for Seeds
+
+Goal Sprinter
+
+Miasmic Minotaur
+rules_text: Deathtouch
+As long as this creature is bloodied, it gets +2/+0. => Deathtouch
+As long as this creature is bloodied, it gets +2/+0. [i](A creature is bloodied if it has taken damage this turn.)[/i]
+
+Blueprint Thief
+rules_text: Whenever this creature deals damage to a player, encrypt the top card of your library. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard two cards during your turn to put it into your hand.)[/i] => Lifelink
+Whenever this creature deals damage to a player, encrypt the top card of your library. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard a card during your turn to put it into your hand.)[/i]
+
+Webcrawler
+rules_text: Menace, Reach
+As long as you own 3 or more cards in exile, this creature gets +3/+0. => Menace, Reach
+As long as you own three or more cards in exile, this creature gets +3/+0.
+
+Orcish Headbutter
+rules_text: Whenever this creature becomes bloodied, target creature an opponent controls gets -2/-2 until end of turn. => Whenever this creature becomes bloodied, target creature an opponent controls gets -2/-2 until end of turn. [i](A creature is bloodied if it has taken damage this turn.)[/i]
+
+Salto Medic
+
+Rogueish Brogash
+rules_text: Menace
+When this creature enters, encrypt the top two cards of your library. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard two cards during your turn to put it into your hand.)[/i] => Menace
+When this creature enters, encrypt the top two cards of your library. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard a card during your turn to put it into your hand.)[/i]
+
+Tough Brashliner
+rules_text: Whenever this creature becomes bloodied, it gains indestructible until end of turn. [i](It has to survive the damage to become indestructible)[/i] => Whenever this creature becomes bloodied, it gains indestructible until end of turn. [i](It has to survive the damage to become indestructible)[/i] [i](A creature is bloodied if it has taken damage this turn.)[/i]
+
+Ratty Piper Guy
+rules_text: Flying
+{3}{B}: Return this card from your graveyard to your hand. => Flying
+{2}{R}, exile this card from your graveyard: Exile the top card of your library. Until the end of your next turn, you may play that card.
+pt: 4/5 => 4/4
+
+Protective Nerve Weave
+
+Bytesize
+rules_text: BytesizedeRals 1 damage to any target and you gain 1 life.
+Draw a card.
+Whenever you encrypt this card, you may reveal it and put it into your hand. => Bytesize deals 1 damage to any target and you gain 1 life. 
+Encrypt target creature card from your graveyard. [i](To Encrypt, look at and exile a card face down. For as long as it's exiled you may discard a card during your turn to put it into your hand.)[/i]
+
+Hazing Ritual
+
+Intimidating Pose
+
+Get Even
+rules_text: This spell costs {2} less to cast as long as you control a bloodied creature.
+Destroy target creature. => This spell costs {2} less to cast as long as you control a bloodied creature. [i](A creature is bloodied if it has taken damage this turn.)[/i]
+Destroy target creature.
+
+Glorious End
+
+Scared Crowley
+
+Explortobot
+
+Exile Bro
+
+Bulldozing Plans
+
+Crystal Fertilizer
+rules_text: {T}: Add one mana of any color.
+{T}, Compost 2, Sacrifice this artifact: Draw a card. [i](To compost 2, discard, sacrifice, or exile a land card from your graveyard two times.)[/i] => {T}: Add one mana of any color.
+{T}, Compost 2, Sacrifice this artifact: Draw a card. [i](To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)[/i]
+
+Evolving Wilds
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

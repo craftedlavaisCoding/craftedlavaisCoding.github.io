@@ -1,0 +1,2531 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Fictilis First Year",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Elf Artificer",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/0.png"
+			}
+		},
+		{
+			"name": "Landscape Painter",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/1.png"
+			}
+		},
+		{
+			"name": "Freshreef Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment Creature — Golem Policy",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/2.png"
+			}
+		},
+		{
+			"name": "Limestone Prospector",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Dwarf",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/3.png"
+			}
+		},
+		{
+			"name": "Sustenance for Guards",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/4.png"
+			}
+		},
+		{
+			"name": "Flagstone",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/5.png"
+			}
+		},
+		{
+			"name": "Old Ass Architect",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Advisor",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/6.png"
+			}
+		},
+		{
+			"name": "Overburdened Hampter",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Hamster Knight",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/7.png"
+			}
+		},
+		{
+			"name": "Savior of the Harvest",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/8.png"
+			}
+		},
+		{
+			"name": "Logging Crew",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Beast Artificer",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/9.png"
+			}
+		},
+		{
+			"name": "Restructuring Lithomancer",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Elf Artificer",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/10.png"
+			}
+		},
+		{
+			"name": "Etherial Armament",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Policy",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/11.png"
+			}
+		},
+		{
+			"name": "Masoned Out",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/12.png"
+			}
+		},
+		{
+			"name": "Meadow Petals",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/13.png"
+			}
+		},
+		{
+			"name": "Relocate",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/14.png"
+			}
+		},
+		{
+			"name": "Twofish",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/15.png"
+			}
+		},
+		{
+			"name": "Waterworks Architect",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Elemental Artificer",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/16.png"
+			}
+		},
+		{
+			"name": "Urban-Ex Student",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/17.png"
+			}
+		},
+		{
+			"name": "Encrypt Illusion",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Illusion",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/18.png"
+			}
+		},
+		{
+			"name": "Cipherparrot",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/19.png"
+			}
+		},
+		{
+			"name": "Shringklozes",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Illusion",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/20.png"
+			}
+		},
+		{
+			"name": "Contained Torrent",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/21.png"
+			}
+		},
+		{
+			"name": "Secretive Flyer",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Owl",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/22.png"
+			}
+		},
+		{
+			"name": "Construction Site Safety",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/23.png"
+			}
+		},
+		{
+			"name": "Chantsmepell",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/24.png"
+			}
+		},
+		{
+			"name": "Data Construct",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/25.png"
+			}
+		},
+		{
+			"name": "Transcribe Layer Script",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/26.png"
+			}
+		},
+		{
+			"name": "Construant Nest",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/27.png"
+			}
+		},
+		{
+			"name": "Drown In Cement",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/28.png"
+			}
+		},
+		{
+			"name": "Zip Bomb",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/29.png"
+			}
+		},
+		{
+			"name": "Fleetfoot Fairy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Fairy Scout",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/30.png"
+			}
+		},
+		{
+			"name": "Novice Trailblazer",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Scout",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/31.png"
+			}
+		},
+		{
+			"name": "Ball Runner",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Performer",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/32.png"
+			}
+		},
+		{
+			"name": "Slugging Orch",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/33.png"
+			}
+		},
+		{
+			"name": "Burning Gladiator",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Warlock Performer",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/34.png"
+			}
+		},
+		{
+			"name": "Irate Archivist",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Imp Advisor",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/35.png"
+			}
+		},
+		{
+			"name": "Ball Slaggah",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/36.png"
+			}
+		},
+		{
+			"name": "Salto Pamphleteer",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Orc Advisor Performer",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/37.png"
+			}
+		},
+		{
+			"name": "Orc Bulldozaz",
+			"rarity": "common",
+			"mana_cost": "{6}{R}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/38.png"
+			}
+		},
+		{
+			"name": "Chart the Way",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/39.png"
+			}
+		},
+		{
+			"name": "Swing for the Prize",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/40.png"
+			}
+		},
+		{
+			"name": "Clearing Boulders",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/41.png"
+			}
+		},
+		{
+			"name": "The Crowd Goes Feral",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/42.png"
+			}
+		},
+		{
+			"name": "Hellish Kickoff",
+			"rarity": "common",
+			"mana_cost": "{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/43.png"
+			}
+		},
+		{
+			"name": "Countdown",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/44.png"
+			}
+		},
+		{
+			"name": "Cografya Scout",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Squirrel Scout",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/45.png"
+			}
+		},
+		{
+			"name": "Lost Adventurer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/46.png"
+			}
+		},
+		{
+			"name": "Elf Explorer",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Scout",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/47.png"
+			}
+		},
+		{
+			"name": "Compostrorr",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Wurm Beast",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/48.png"
+			}
+		},
+		{
+			"name": "Brazen Jungler",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Troll Scout",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/49.png"
+			}
+		},
+		{
+			"name": "Exploratory Vines",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/50.png"
+			}
+		},
+		{
+			"name": "Cultivating Dryad",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Dryad Druid",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/51.png"
+			}
+		},
+		{
+			"name": "Gulch Antelopes",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Antelope",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/52.png"
+			}
+		},
+		{
+			"name": "Splanctre",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Plant Specter",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/53.png"
+			}
+		},
+		{
+			"name": "Force of the Wilderness",
+			"rarity": "common",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/54.png"
+			}
+		},
+		{
+			"name": "Jungling Transformation",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/55.png"
+			}
+		},
+		{
+			"name": "Needle Sharp Seedlings",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/56.png"
+			}
+		},
+		{
+			"name": "Gortsaran Might",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/57.png"
+			}
+		},
+		{
+			"name": "Farmland Map",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Map",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/58.png"
+			}
+		},
+		{
+			"name": "Caving Faming",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/59.png"
+			}
+		},
+		{
+			"name": "Fictilis Initiate",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Quatril Artificer",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/60.png"
+			}
+		},
+		{
+			"name": "Bureaucratic Misadventure",
+			"rarity": "common",
+			"mana_cost": "{W/U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/61.png"
+			}
+		},
+		{
+			"name": "Mantilla Initiate",
+			"rarity": "common",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/62.png"
+			}
+		},
+		{
+			"name": "Cryptic Seals",
+			"rarity": "common",
+			"mana_cost": "{1}{U/B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/63.png"
+			}
+		},
+		{
+			"name": "Salto Initiate",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Goblin Performer",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/64.png"
+			}
+		},
+		{
+			"name": "No Pain No Gain",
+			"rarity": "common",
+			"mana_cost": "{B/R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/65.png"
+			}
+		},
+		{
+			"name": "Cografya Initiate",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Goblin Ranger",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/66.png"
+			}
+		},
+		{
+			"name": "Jungle Forerunner",
+			"rarity": "common",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Creature — Elf Explorer",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/67.png"
+			}
+		},
+		{
+			"name": "Gortsaran Initiate",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Human Druid Cleric",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/68.png"
+			}
+		},
+		{
+			"name": "Forage for Seeds",
+			"rarity": "common",
+			"mana_cost": "{1}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/69.png"
+			}
+		},
+		{
+			"name": "Goal Sprinter",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/70.png"
+			}
+		},
+		{
+			"name": "Miasmic Minotaur",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Minotaur Performer",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/71.png"
+			}
+		},
+		{
+			"name": "Blueprint Thief",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/72.png"
+			}
+		},
+		{
+			"name": "Webcrawler",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Mite",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/73.png"
+			}
+		},
+		{
+			"name": "Orcish Headbutter",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Orc Performer",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/74.png"
+			}
+		},
+		{
+			"name": "Salto Medic",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Demon Cleric",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/75.png"
+			}
+		},
+		{
+			"name": "Rogueish Brogash",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/76.png"
+			}
+		},
+		{
+			"name": "Tough Brashliner",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Orc Performer",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/77.png"
+			}
+		},
+		{
+			"name": "Ratty Piper Guy",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Spectre",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/78.png"
+			}
+		},
+		{
+			"name": "Protective Nerve Weave",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/79.png"
+			}
+		},
+		{
+			"name": "Bytesize",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/80.png"
+			}
+		},
+		{
+			"name": "Hazing Ritual",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/81.png"
+			}
+		},
+		{
+			"name": "Intimidating Pose",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/82.png"
+			}
+		},
+		{
+			"name": "Get Even",
+			"rarity": "common",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/83.png"
+			}
+		},
+		{
+			"name": "Glorious End",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/84.png"
+			}
+		},
+		{
+			"name": "Scared Crowley",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/85.png"
+			}
+		},
+		{
+			"name": "Explortobot",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/86.png"
+			}
+		},
+		{
+			"name": "Exile Bro",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/87.png"
+			}
+		},
+		{
+			"name": "Bulldozing Plans",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/88.png"
+			}
+		},
+		{
+			"name": "Crystal Fertilizer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/89.png"
+			}
+		},
+		{
+			"name": "Evolving Wilds",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/90.png"
+			}
+		},
+		{
+			"name": "Policy-makers Projection",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/91.png"
+			}
+		},
+		{
+			"name": "Guarded Vault",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/92.png"
+			}
+		},
+		{
+			"name": "Nefarious Weights",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/93.png"
+			}
+		},
+		{
+			"name": "Willowburn Bloom",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Food",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/94.png"
+			}
+		},
+		{
+			"name": "Farmhand",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Scarecrow",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/95.png"
+			}
+		},
+		{
+			"name": "Ungrateful Amalgam",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Elemental",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/96.png"
+			}
+		},
+		{
+			"name": "Voltaic Coach",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct Preformer",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/97.png"
+			}
+		},
+		{
+			"name": "Glass Bat",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Bat",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/98.png"
+			}
+		},
+		{
+			"name": "Leonin Coach",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/99.png"
+			}
+		},
+		{
+			"name": "Salto Training Hound",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Dog Demon",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/100.png"
+			}
+		},
+		{
+			"name": "Asar, Tireless Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Creature — Orc Vampire Performer",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/101.png"
+			}
+		},
+		{
+			"name": "Jadead Referee",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Zombie Advisor",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/102.png"
+			}
+		},
+		{
+			"name": "Infro De-fragment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/103.png"
+			}
+		},
+		{
+			"name": "Dataminers",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Dwarf",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/104.png"
+			}
+		},
+		{
+			"name": "Tutor Pair",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Demon Performer Advisor",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/105.png"
+			}
+		},
+		{
+			"name": "Bury in the Woods",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/106.png"
+			}
+		},
+		{
+			"name": "Oracular Attack",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/107.png"
+			}
+		},
+		{
+			"name": "Dodgy Refreshments",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Artifact",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/108.png"
+			}
+		},
+		{
+			"name": "Suddenly Whole Again",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}",
+			"type": "Sorcery",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/109.png"
+			}
+		},
+		{
+			"name": "Forbidden Knowledge",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/110.png"
+			}
+		},
+		{
+			"name": "Back From the Bench",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/111.png"
+			}
+		},
+		{
+			"name": "Explorererer",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/112.png"
+			}
+		},
+		{
+			"name": "Fungersnacker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Zombie Druid",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/113.png"
+			}
+		},
+		{
+			"name": "Fleafey Spidey",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant Spider",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/114.png"
+			}
+		},
+		{
+			"name": "Gortsaran Forester",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Panda Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/115.png"
+			}
+		},
+		{
+			"name": "Grovekeep",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Centaur Dryad",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/116.png"
+			}
+		},
+		{
+			"name": "Overgrown Farmbeast",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/117.png"
+			}
+		},
+		{
+			"name": "Loam Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/118.png"
+			}
+		},
+		{
+			"name": "Tiger Farm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/119.png"
+			}
+		},
+		{
+			"name": "Compost Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Elf Cat Scout",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/120.png"
+			}
+		},
+		{
+			"name": "Natural Overgrowth",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/121.png"
+			}
+		},
+		{
+			"name": "Recycle Roots",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/122.png"
+			}
+		},
+		{
+			"name": "Prospective Thrill",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/123.png"
+			}
+		},
+		{
+			"name": "Flightly Seeding",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/124.png"
+			}
+		},
+		{
+			"name": "Logging Suit",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/125.png"
+			}
+		},
+		{
+			"name": "Road to Somewhere",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/126.png"
+			}
+		},
+		{
+			"name": "Fictilis Anthropologist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Elf Advisor",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/127.png"
+			}
+		},
+		{
+			"name": "Army of Lawyers",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment — Policy",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/128.png"
+			}
+		},
+		{
+			"name": "Masonry Policy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Policy",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/129.png"
+			}
+		},
+		{
+			"name": "Super Student",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/130.png"
+			}
+		},
+		{
+			"name": "Aqueduct Flow",
+			"rarity": "uncommon",
+			"mana_cost": "{W/U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/131.png"
+			}
+		},
+		{
+			"name": "Encrypt Enabler",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/132.png"
+			}
+		},
+		{
+			"name": "Infostealer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Creature — Horror",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/133.png"
+			}
+		},
+		{
+			"name": "Secret Tendrils",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/134.png"
+			}
+		},
+		{
+			"name": "Secure Soul Layers",
+			"rarity": "uncommon",
+			"mana_cost": "{U/B}",
+			"type": "Sorcery",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/135.png"
+			}
+		},
+		{
+			"name": "Morris Observer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U/B}{U/B}",
+			"type": "Creature — Horror",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/136.png"
+			}
+		},
+		{
+			"name": "Salto Training Coach",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Werewolf Advisor",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/137.png"
+			}
+		},
+		{
+			"name": "Stadium Game Bully",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Centaur Warrior",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/138.png"
+			}
+		},
+		{
+			"name": "Stadium Lasher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}{R}",
+			"type": "Creature — Cat Warrior Performer",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/139.png"
+			}
+		},
+		{
+			"name": "Delivery Skeleton",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B/R}{B/R}",
+			"type": "Creature — Skeleton",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/140.png"
+			}
+		},
+		{
+			"name": "Rabid Fightodino",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Creature — Zombie Dinosaur",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/141.png"
+			}
+		},
+		{
+			"name": "Cografya Farseer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Giant Scout",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/142.png"
+			}
+		},
+		{
+			"name": "Flame-Axe Clearcutter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Creature — Wolf Scout",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/143.png"
+			}
+		},
+		{
+			"name": "Dawn Fowl",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Bird",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/144.png"
+			}
+		},
+		{
+			"name": "Underbrush Explorer",
+			"rarity": "uncommon",
+			"mana_cost": "{R/G}",
+			"type": "Creature — Beast Scout",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/145.png"
+			}
+		},
+		{
+			"name": "Woodland Pair",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R/G}{R/G}",
+			"type": "Creature — Human Scout",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/146.png"
+			}
+		},
+		{
+			"name": "Carrot Cruncher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Dragon",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/147.png"
+			}
+		},
+		{
+			"name": "Bountiful Quarry",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Creature — Plant Unicorn",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/148.png"
+			}
+		},
+		{
+			"name": "Mulch Microbe",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Plant Jellyfish",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/149.png"
+			}
+		},
+		{
+			"name": "Recollect",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/150.png"
+			}
+		},
+		{
+			"name": "Canine of Fecundity",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G/W}{G/W}",
+			"type": "Creature — Elemental Wolf",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/151.png"
+			}
+		},
+		{
+			"name": "Flametail Monkey",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Monkey Scout",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/152.png"
+			}
+		},
+		{
+			"name": "Punchy Prize",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental Performer",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/153.png"
+			}
+		},
+		{
+			"name": "Gloating Cheerleader",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Bard",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/154.png"
+			}
+		},
+		{
+			"name": "Falconer's Phoenix",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Phoenix",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/155.png"
+			}
+		},
+		{
+			"name": "Blazetrailing Cutclearer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warlock Scout",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/156.png"
+			}
+		},
+		{
+			"name": "Throwout Thrillman",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Elemental Minotaur",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/157.png"
+			}
+		},
+		{
+			"name": "Short-Fused kreyton",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Giant Performer",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/158.png"
+			}
+		},
+		{
+			"name": "Well Wrought Duelist",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/159.png"
+			}
+		},
+		{
+			"name": "Reckless Trailblazing",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/160.png"
+			}
+		},
+		{
+			"name": "Exploratory Geology",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/161.png"
+			}
+		},
+		{
+			"name": "Yoink!",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/162.png"
+			}
+		},
+		{
+			"name": "Unlucky Offshot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/163.png"
+			}
+		},
+		{
+			"name": "Chart it All",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/164.png"
+			}
+		},
+		{
+			"name": "Exerted Swing",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/165.png"
+			}
+		},
+		{
+			"name": "Construant",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Beast",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/166.png"
+			}
+		},
+		{
+			"name": "Knower of Power",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Monk",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/167.png"
+			}
+		},
+		{
+			"name": "Flittering Mascot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Insect",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/168.png"
+			}
+		},
+		{
+			"name": "Ephemeral Crati",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Crab Illusion",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/169.png"
+			}
+		},
+		{
+			"name": "Bridge Booper",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/170.png"
+			}
+		},
+		{
+			"name": "Beurodrage",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Dragon Advisor",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/171.png"
+			}
+		},
+		{
+			"name": "Aqueduct Expansion",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Policy",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/172.png"
+			}
+		},
+		{
+			"name": "Eliptic Curve Sealing",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/173.png"
+			}
+		},
+		{
+			"name": "Fragment the Moment",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/174.png"
+			}
+		},
+		{
+			"name": "Measure Twice",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/175.png"
+			}
+		},
+		{
+			"name": "Overdue Assignment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Policy",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/176.png"
+			}
+		},
+		{
+			"name": "Command the Laws",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/177.png"
+			}
+		},
+		{
+			"name": "Data Security",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Enchantment — Policy",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/178.png"
+			}
+		},
+		{
+			"name": "Reboot",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Instant",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/179.png"
+			}
+		},
+		{
+			"name": "Don Quixote",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Knight",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/180.png"
+			}
+		},
+		{
+			"name": "Haunted Blueprints",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/181.png"
+			}
+		},
+		{
+			"name": "Gortsaran Sprite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Spirit",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/182.png"
+			}
+		},
+		{
+			"name": "Harvest Hallowblade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Elf Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/183.png"
+			}
+		},
+		{
+			"name": "Land Pumper",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/184.png"
+			}
+		},
+		{
+			"name": "Yellowprint Reclaimer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/185.png"
+			}
+		},
+		{
+			"name": "Yellowprint Eagle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/186.png"
+			}
+		},
+		{
+			"name": "Blossom Architect",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Elf Artificer",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/187.png"
+			}
+		},
+		{
+			"name": "Gift Honse in Mouth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Enchantment Creature — Horse Policy",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/188.png"
+			}
+		},
+		{
+			"name": "Wheatfield Reaper",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Spectre",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/189.png"
+			}
+		},
+		{
+			"name": "Public Works Project",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/190.png"
+			}
+		},
+		{
+			"name": "Reconstruct",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/191.png"
+			}
+		},
+		{
+			"name": "Seed Bank",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/192.png"
+			}
+		},
+		{
+			"name": "Escort off the Premises",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://craftedlavaisCoding.github.io/sets/ALY-files/img/193.png"
+			}
+		}
+	]
+
+[rare(1)]
+[uncommon(3)]
+	4 Policy-makers Projection
+	4 Guarded Vault
+	4 Nefarious Weights
+	4 Willowburn Bloom
+	4 Farmhand
+	4 Ungrateful Amalgam
+	4 Voltaic Coach
+	4 Glass Bat
+	4 Leonin Coach
+	4 Salto Training Hound
+	4 Asar, Tireless Duelist
+	4 Jadead Referee
+	4 Infro De-fragment
+	4 Dataminers
+	4 Tutor Pair
+	4 Bury in the Woods
+	4 Oracular Attack
+	4 Dodgy Refreshments
+	4 Suddenly Whole Again
+	4 Forbidden Knowledge
+	4 Back From the Bench
+	4 Explorererer
+	4 Fungersnacker
+	4 Fleafey Spidey
+	4 Gortsaran Forester
+	4 Grovekeep
+	4 Overgrown Farmbeast
+	4 Loam Elemental
+	4 Tiger Farm
+	4 Compost Guard
+	4 Natural Overgrowth
+	4 Recycle Roots
+	4 Prospective Thrill
+	4 Flightly Seeding
+	4 Logging Suit
+	4 Road to Somewhere
+	4 Fictilis Anthropologist
+	4 Army of Lawyers
+	4 Masonry Policy
+	4 Super Student
+	4 Aqueduct Flow
+	4 Encrypt Enabler
+	4 Infostealer
+	4 Secret Tendrils
+	4 Secure Soul Layers
+	4 Morris Observer
+	4 Salto Training Coach
+	4 Stadium Game Bully
+	4 Stadium Lasher
+	4 Delivery Skeleton
+	4 Rabid Fightodino
+	4 Cografya Farseer
+	4 Flame-Axe Clearcutter
+	4 Dawn Fowl
+	4 Underbrush Explorer
+	4 Woodland Pair
+	4 Carrot Cruncher
+	4 Bountiful Quarry
+	4 Mulch Microbe
+	4 Recollect
+	4 Canine of Fecundity
+	4 Flametail Monkey
+	4 Punchy Prize
+	4 Gloating Cheerleader
+	4 Falconer's Phoenix
+	4 Blazetrailing Cutclearer
+	4 Throwout Thrillman
+	4 Short-Fused kreyton
+	4 Well Wrought Duelist
+	4 Reckless Trailblazing
+	4 Exploratory Geology
+	4 Yoink!
+	4 Unlucky Offshot
+	4 Chart it All
+	4 Exerted Swing
+	4 Construant
+	4 Knower of Power
+	4 Flittering Mascot
+	4 Ephemeral Crati
+	4 Bridge Booper
+	4 Beurodrage
+	4 Aqueduct Expansion
+	4 Eliptic Curve Sealing
+	4 Fragment the Moment
+	4 Measure Twice
+	4 Overdue Assignment
+	4 Command the Laws
+	4 Data Security
+	4 Reboot
+	4 Don Quixote
+	4 Haunted Blueprints
+	4 Gortsaran Sprite
+	4 Harvest Hallowblade
+	4 Land Pumper
+	4 Yellowprint Reclaimer
+	4 Yellowprint Eagle
+	4 Blossom Architect
+	4 Gift Honse in Mouth
+	4 Wheatfield Reaper
+	4 Public Works Project
+	4 Reconstruct
+	4 Seed Bank
+	4 Escort off the Premises
+[common(7)]
+	8 Fictilis First Year
+	8 Landscape Painter
+	8 Freshreef Guardian
+	8 Limestone Prospector
+	8 Sustenance for Guards
+	8 Flagstone
+	8 Old Ass Architect
+	8 Overburdened Hampter
+	8 Savior of the Harvest
+	8 Logging Crew
+	8 Restructuring Lithomancer
+	8 Etherial Armament
+	8 Masoned Out
+	8 Meadow Petals
+	8 Relocate
+	8 Twofish
+	8 Waterworks Architect
+	8 Urban-Ex Student
+	8 Encrypt Illusion
+	8 Cipherparrot
+	8 Shringklozes
+	8 Contained Torrent
+	8 Secretive Flyer
+	8 Construction Site Safety
+	8 Chantsmepell
+	8 Data Construct
+	8 Transcribe Layer Script
+	8 Construant Nest
+	8 Drown In Cement
+	8 Zip Bomb
+	8 Fleetfoot Fairy
+	8 Novice Trailblazer
+	8 Ball Runner
+	8 Slugging Orch
+	8 Burning Gladiator
+	8 Irate Archivist
+	8 Ball Slaggah
+	8 Salto Pamphleteer
+	8 Orc Bulldozaz
+	8 Chart the Way
+	8 Swing for the Prize
+	8 Clearing Boulders
+	8 The Crowd Goes Feral
+	8 Hellish Kickoff
+	8 Countdown
+	8 Cografya Scout
+	8 Lost Adventurer
+	8 Elf Explorer
+	8 Compostrorr
+	8 Brazen Jungler
+	8 Exploratory Vines
+	8 Cultivating Dryad
+	8 Gulch Antelopes
+	8 Splanctre
+	8 Force of the Wilderness
+	8 Jungling Transformation
+	8 Needle Sharp Seedlings
+	8 Gortsaran Might
+	8 Farmland Map
+	8 Caving Faming
+	8 Fictilis Initiate
+	8 Bureaucratic Misadventure
+	8 Mantilla Initiate
+	8 Cryptic Seals
+	8 Salto Initiate
+	8 No Pain No Gain
+	8 Cografya Initiate
+	8 Jungle Forerunner
+	8 Gortsaran Initiate
+	8 Forage for Seeds
+	8 Goal Sprinter
+	8 Miasmic Minotaur
+	8 Blueprint Thief
+	8 Webcrawler
+	8 Orcish Headbutter
+	8 Salto Medic
+	8 Rogueish Brogash
+	8 Tough Brashliner
+	8 Ratty Piper Guy
+	8 Protective Nerve Weave
+	8 Bytesize
+	8 Hazing Ritual
+	8 Intimidating Pose
+	8 Get Even
+	8 Glorious End
+	8 Scared Crowley
+	8 Explortobot
+	8 Exile Bro
+	8 Bulldozing Plans
+	8 Crystal Fertilizer
+	8 Evolving Wilds
+[foil(1)]
+	12 Fictilis First Year
+	12 Landscape Painter
+	12 Freshreef Guardian
+	12 Limestone Prospector
+	12 Sustenance for Guards
+	12 Flagstone
+	12 Old Ass Architect
+	12 Overburdened Hampter
+	12 Savior of the Harvest
+	12 Logging Crew
+	12 Restructuring Lithomancer
+	12 Etherial Armament
+	12 Masoned Out
+	12 Meadow Petals
+	12 Relocate
+	12 Twofish
+	12 Waterworks Architect
+	12 Urban-Ex Student
+	12 Encrypt Illusion
+	12 Cipherparrot
+	12 Shringklozes
+	12 Contained Torrent
+	12 Secretive Flyer
+	12 Construction Site Safety
+	12 Chantsmepell
+	12 Data Construct
+	12 Transcribe Layer Script
+	12 Construant Nest
+	12 Drown In Cement
+	12 Zip Bomb
+	12 Fleetfoot Fairy
+	12 Novice Trailblazer
+	12 Ball Runner
+	12 Slugging Orch
+	12 Burning Gladiator
+	12 Irate Archivist
+	12 Ball Slaggah
+	12 Salto Pamphleteer
+	12 Orc Bulldozaz
+	12 Chart the Way
+	12 Swing for the Prize
+	12 Clearing Boulders
+	12 The Crowd Goes Feral
+	12 Hellish Kickoff
+	12 Countdown
+	12 Cografya Scout
+	12 Lost Adventurer
+	12 Elf Explorer
+	12 Compostrorr
+	12 Brazen Jungler
+	12 Exploratory Vines
+	12 Cultivating Dryad
+	12 Gulch Antelopes
+	12 Splanctre
+	12 Force of the Wilderness
+	12 Jungling Transformation
+	12 Needle Sharp Seedlings
+	12 Gortsaran Might
+	12 Farmland Map
+	12 Caving Faming
+	12 Fictilis Initiate
+	12 Bureaucratic Misadventure
+	12 Mantilla Initiate
+	12 Cryptic Seals
+	12 Salto Initiate
+	12 No Pain No Gain
+	12 Cografya Initiate
+	12 Jungle Forerunner
+	12 Gortsaran Initiate
+	12 Forage for Seeds
+	12 Goal Sprinter
+	12 Miasmic Minotaur
+	12 Blueprint Thief
+	12 Webcrawler
+	12 Orcish Headbutter
+	12 Salto Medic
+	12 Rogueish Brogash
+	12 Tough Brashliner
+	12 Ratty Piper Guy
+	12 Protective Nerve Weave
+	12 Bytesize
+	12 Hazing Ritual
+	12 Intimidating Pose
+	12 Get Even
+	12 Glorious End
+	12 Scared Crowley
+	12 Explortobot
+	12 Exile Bro
+	12 Bulldozing Plans
+	12 Crystal Fertilizer
+	12 Evolving Wilds
+	6 Policy-makers Projection
+	6 Guarded Vault
+	6 Nefarious Weights
+	6 Willowburn Bloom
+	6 Farmhand
+	6 Ungrateful Amalgam
+	6 Voltaic Coach
+	6 Glass Bat
+	6 Leonin Coach
+	6 Salto Training Hound
+	6 Asar, Tireless Duelist
+	6 Jadead Referee
+	6 Infro De-fragment
+	6 Dataminers
+	6 Tutor Pair
+	6 Bury in the Woods
+	6 Oracular Attack
+	6 Dodgy Refreshments
+	6 Suddenly Whole Again
+	6 Forbidden Knowledge
+	6 Back From the Bench
+	6 Explorererer
+	6 Fungersnacker
+	6 Fleafey Spidey
+	6 Gortsaran Forester
+	6 Grovekeep
+	6 Overgrown Farmbeast
+	6 Loam Elemental
+	6 Tiger Farm
+	6 Compost Guard
+	6 Natural Overgrowth
+	6 Recycle Roots
+	6 Prospective Thrill
+	6 Flightly Seeding
+	6 Logging Suit
+	6 Road to Somewhere
+	6 Fictilis Anthropologist
+	6 Army of Lawyers
+	6 Masonry Policy
+	6 Super Student
+	6 Aqueduct Flow
+	6 Encrypt Enabler
+	6 Infostealer
+	6 Secret Tendrils
+	6 Secure Soul Layers
+	6 Morris Observer
+	6 Salto Training Coach
+	6 Stadium Game Bully
+	6 Stadium Lasher
+	6 Delivery Skeleton
+	6 Rabid Fightodino
+	6 Cografya Farseer
+	6 Flame-Axe Clearcutter
+	6 Dawn Fowl
+	6 Underbrush Explorer
+	6 Woodland Pair
+	6 Carrot Cruncher
+	6 Bountiful Quarry
+	6 Mulch Microbe
+	6 Recollect
+	6 Canine of Fecundity
+	6 Flametail Monkey
+	6 Punchy Prize
+	6 Gloating Cheerleader
+	6 Falconer's Phoenix
+	6 Blazetrailing Cutclearer
+	6 Throwout Thrillman
+	6 Short-Fused kreyton
+	6 Well Wrought Duelist
+	6 Reckless Trailblazing
+	6 Exploratory Geology
+	6 Yoink!
+	6 Unlucky Offshot
+	6 Chart it All
+	6 Exerted Swing
+	6 Construant
+	6 Knower of Power
+	6 Flittering Mascot
+	6 Ephemeral Crati
+	6 Bridge Booper
+	6 Beurodrage
+	6 Aqueduct Expansion
+	6 Eliptic Curve Sealing
+	6 Fragment the Moment
+	6 Measure Twice
+	6 Overdue Assignment
+	6 Command the Laws
+	6 Data Security
+	6 Reboot
+	6 Don Quixote
+	6 Haunted Blueprints
+	6 Gortsaran Sprite
+	6 Harvest Hallowblade
+	6 Land Pumper
+	6 Yellowprint Reclaimer
+	6 Yellowprint Eagle
+	6 Blossom Architect
+	6 Gift Honse in Mouth
+	6 Wheatfield Reaper
+	6 Public Works Project
+	6 Reconstruct
+	6 Seed Bank
+	6 Escort off the Premises
+[wildcard(1)]
+	6 Fictilis First Year
+	6 Landscape Painter
+	6 Freshreef Guardian
+	6 Limestone Prospector
+	6 Sustenance for Guards
+	6 Flagstone
+	6 Old Ass Architect
+	6 Overburdened Hampter
+	6 Savior of the Harvest
+	6 Logging Crew
+	6 Restructuring Lithomancer
+	6 Etherial Armament
+	6 Masoned Out
+	6 Meadow Petals
+	6 Relocate
+	6 Twofish
+	6 Waterworks Architect
+	6 Urban-Ex Student
+	6 Encrypt Illusion
+	6 Cipherparrot
+	6 Shringklozes
+	6 Contained Torrent
+	6 Secretive Flyer
+	6 Construction Site Safety
+	6 Chantsmepell
+	6 Data Construct
+	6 Transcribe Layer Script
+	6 Construant Nest
+	6 Drown In Cement
+	6 Zip Bomb
+	6 Fleetfoot Fairy
+	6 Novice Trailblazer
+	6 Ball Runner
+	6 Slugging Orch
+	6 Burning Gladiator
+	6 Irate Archivist
+	6 Ball Slaggah
+	6 Salto Pamphleteer
+	6 Orc Bulldozaz
+	6 Chart the Way
+	6 Swing for the Prize
+	6 Clearing Boulders
+	6 The Crowd Goes Feral
+	6 Hellish Kickoff
+	6 Countdown
+	6 Cografya Scout
+	6 Lost Adventurer
+	6 Elf Explorer
+	6 Compostrorr
+	6 Brazen Jungler
+	6 Exploratory Vines
+	6 Cultivating Dryad
+	6 Gulch Antelopes
+	6 Splanctre
+	6 Force of the Wilderness
+	6 Jungling Transformation
+	6 Needle Sharp Seedlings
+	6 Gortsaran Might
+	6 Farmland Map
+	6 Caving Faming
+	6 Fictilis Initiate
+	6 Bureaucratic Misadventure
+	6 Mantilla Initiate
+	6 Cryptic Seals
+	6 Salto Initiate
+	6 No Pain No Gain
+	6 Cografya Initiate
+	6 Jungle Forerunner
+	6 Gortsaran Initiate
+	6 Forage for Seeds
+	6 Goal Sprinter
+	6 Miasmic Minotaur
+	6 Blueprint Thief
+	6 Webcrawler
+	6 Orcish Headbutter
+	6 Salto Medic
+	6 Rogueish Brogash
+	6 Tough Brashliner
+	6 Ratty Piper Guy
+	6 Protective Nerve Weave
+	6 Bytesize
+	6 Hazing Ritual
+	6 Intimidating Pose
+	6 Get Even
+	6 Glorious End
+	6 Scared Crowley
+	6 Explortobot
+	6 Exile Bro
+	6 Bulldozing Plans
+	6 Crystal Fertilizer
+	6 Evolving Wilds
+	15 Policy-makers Projection
+	15 Guarded Vault
+	15 Nefarious Weights
+	15 Willowburn Bloom
+	15 Farmhand
+	15 Ungrateful Amalgam
+	15 Voltaic Coach
+	15 Glass Bat
+	15 Leonin Coach
+	15 Salto Training Hound
+	15 Asar, Tireless Duelist
+	15 Jadead Referee
+	15 Infro De-fragment
+	15 Dataminers
+	15 Tutor Pair
+	15 Bury in the Woods
+	15 Oracular Attack
+	15 Dodgy Refreshments
+	15 Suddenly Whole Again
+	15 Forbidden Knowledge
+	15 Back From the Bench
+	15 Explorererer
+	15 Fungersnacker
+	15 Fleafey Spidey
+	15 Gortsaran Forester
+	15 Grovekeep
+	15 Overgrown Farmbeast
+	15 Loam Elemental
+	15 Tiger Farm
+	15 Compost Guard
+	15 Natural Overgrowth
+	15 Recycle Roots
+	15 Prospective Thrill
+	15 Flightly Seeding
+	15 Logging Suit
+	15 Road to Somewhere
+	15 Fictilis Anthropologist
+	15 Army of Lawyers
+	15 Masonry Policy
+	15 Super Student
+	15 Aqueduct Flow
+	15 Encrypt Enabler
+	15 Infostealer
+	15 Secret Tendrils
+	15 Secure Soul Layers
+	15 Morris Observer
+	15 Salto Training Coach
+	15 Stadium Game Bully
+	15 Stadium Lasher
+	15 Delivery Skeleton
+	15 Rabid Fightodino
+	15 Cografya Farseer
+	15 Flame-Axe Clearcutter
+	15 Dawn Fowl
+	15 Underbrush Explorer
+	15 Woodland Pair
+	15 Carrot Cruncher
+	15 Bountiful Quarry
+	15 Mulch Microbe
+	15 Recollect
+	15 Canine of Fecundity
+	15 Flametail Monkey
+	15 Punchy Prize
+	15 Gloating Cheerleader
+	15 Falconer's Phoenix
+	15 Blazetrailing Cutclearer
+	15 Throwout Thrillman
+	15 Short-Fused kreyton
+	15 Well Wrought Duelist
+	15 Reckless Trailblazing
+	15 Exploratory Geology
+	15 Yoink!
+	15 Unlucky Offshot
+	15 Chart it All
+	15 Exerted Swing
+	15 Construant
+	15 Knower of Power
+	15 Flittering Mascot
+	15 Ephemeral Crati
+	15 Bridge Booper
+	15 Beurodrage
+	15 Aqueduct Expansion
+	15 Eliptic Curve Sealing
+	15 Fragment the Moment
+	15 Measure Twice
+	15 Overdue Assignment
+	15 Command the Laws
+	15 Data Security
+	15 Reboot
+	15 Don Quixote
+	15 Haunted Blueprints
+	15 Gortsaran Sprite
+	15 Harvest Hallowblade
+	15 Land Pumper
+	15 Yellowprint Reclaimer
+	15 Yellowprint Eagle
+	15 Blossom Architect
+	15 Gift Honse in Mouth
+	15 Wheatfield Reaper
+	15 Public Works Project
+	15 Reconstruct
+	15 Seed Bank
+	15 Escort off the Premises
