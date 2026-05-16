@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/ALY-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/ALY-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>ALY visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,11 +181,11 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/ALY-files/logo.png" />
-	<img class="preload-hidden" src="/sets/ALY-files/icon.png" />
-		<img class="preload-hidden" src="/sets/JDK-files/icon.png" />
-		<img class="preload-hidden" src="/sets/LEF-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/ALY-files/logo.png" />
+	<img class="preload-hidden" src="../sets/ALY-files/icon.png" />
+		<img class="preload-hidden" src="../sets/JDK-files/icon.png" />
+		<img class="preload-hidden" src="../sets/LEF-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
 			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
@@ -192,143 +199,243 @@
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="ALY"><img src="/sets/ALY-files/icon.png">Unnamed Ally Faction Set</a>
+		<a class="set-bar" href="../previews/ALY"><img src="../sets/ALY-files/icon.png">Unnamed Ally Faction Set</a>
 	
-		<a class="set-bar inactive" href="JDK"><img src="/sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
+		<a class="set-bar inactive" href="../previews/JDK"><img src="../sets/JDK-files/icon.png">Jardeka, Age of Rust</a>
 	
-		<a class="set-bar inactive" href="LEF"><img src="/sets/LEF-files/icon.png">Leffway is Made</a>
+		<a class="set-bar inactive" href="../previews/LEF"><img src="../sets/LEF-files/icon.png">Leffway is Made</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/ALY-files/logo.png">
+		<img class="logo" src="../sets/ALY-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\88.png" id="88" data-flag="@X" onclick="openSidebar('88',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\71.png" id="71" data-flag="@X" onclick="openSidebar('71',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\9.png" id="9" data-flag="@X" onclick="openSidebar('9',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\49.png" id="49" data-flag="@X" onclick="openSidebar('49',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\26.png" id="26" data-flag="@X" onclick="openSidebar('26',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\77.png" id="77" data-flag="@X" onclick="openSidebar('77',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\66.png" id="66" data-flag="@X" onclick="openSidebar('66',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\17.png" id="17" data-flag="@X" onclick="openSidebar('17',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\53.png" id="53" data-flag="@X" onclick="openSidebar('53',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\36.png" id="36" data-flag="@X" onclick="openSidebar('36',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\82.png" id="82" data-flag="@X" onclick="openSidebar('82',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\74.png" id="74" data-flag="@X" onclick="openSidebar('74',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\20.png" id="20" data-flag="@X" onclick="openSidebar('20',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\51.png" id="51" data-flag="@X" onclick="openSidebar('51',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\22.png" id="22" data-flag="@X" onclick="openSidebar('22',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\79.png" id="79" data-flag="@X" onclick="openSidebar('79',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\70.png" id="70" data-flag="@X" onclick="openSidebar('70',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\21.png" id="21" data-flag="@X" onclick="openSidebar('21',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\56.png" id="56" data-flag="@X" onclick="openSidebar('56',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\25.png" id="25" data-flag="@X" onclick="openSidebar('25',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\78.png" id="78" data-flag="@X" onclick="openSidebar('78',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\68.png" id="68" data-flag="@X" onclick="openSidebar('68',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\7.png" id="7" data-flag="@X" onclick="openSidebar('7',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\58.png" id="58" data-flag="@X" onclick="openSidebar('58',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\28.png" id="28" data-flag="@X" onclick="openSidebar('28',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\80.png" id="80" data-flag="@X" onclick="openSidebar('80',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\72.png" id="72" data-flag="@X" onclick="openSidebar('72',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\18.png" id="18" data-flag="@X" onclick="openSidebar('18',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\61.png" id="61" data-flag="@X" onclick="openSidebar('61',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\24.png" id="24" data-flag="@X" onclick="openSidebar('24',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\86.png" id="86" data-flag="@X" onclick="openSidebar('86',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\75.png" id="75" data-flag="@X" onclick="openSidebar('75',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\19.png" id="19" data-flag="@X" onclick="openSidebar('19',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\59.png" id="59" data-flag="@X" onclick="openSidebar('59',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\27.png" id="27" data-flag="@X" onclick="openSidebar('27',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\89.png" id="89" data-flag="@X" onclick="openSidebar('89',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\65.png" id="65" data-flag="@X" onclick="openSidebar('65',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\8.png" id="8" data-flag="@X" onclick="openSidebar('8',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\47.png" id="47" data-flag="@X" onclick="openSidebar('47',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\35.png" id="35" data-flag="@X" onclick="openSidebar('35',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\90.png" id="90" data-flag="@X" onclick="openSidebar('90',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\69.png" id="69" data-flag="@X" onclick="openSidebar('69',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\11.png" id="11" data-flag="@X" onclick="openSidebar('11',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\52.png" id="52" data-flag="@X" onclick="openSidebar('52',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\31.png" id="31" data-flag="@X" onclick="openSidebar('31',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\83.png" id="83" data-flag="@X" onclick="openSidebar('83',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\67.png" id="67" data-flag="@X" onclick="openSidebar('67',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\16.png" id="16" data-flag="@X" onclick="openSidebar('16',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\48.png" id="48" data-flag="@X" onclick="openSidebar('48',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\34.png" id="34" data-flag="@X" onclick="openSidebar('34',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\84.png" id="84" data-flag="@X" onclick="openSidebar('84',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\73.png" id="73" data-flag="@X" onclick="openSidebar('73',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\15.png" id="15" data-flag="@X" onclick="openSidebar('15',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\55.png" id="55" data-flag="@X" onclick="openSidebar('55',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\23.png" id="23" data-flag="@X" onclick="openSidebar('23',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\91.png" id="91" data-flag="@X" onclick="openSidebar('91',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\62.png" id="62" data-flag="@X" onclick="openSidebar('62',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\13.png" id="13" data-flag="@X" onclick="openSidebar('13',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\60.png" id="60" data-flag="@X" onclick="openSidebar('60',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\29.png" id="29" data-flag="@X" onclick="openSidebar('29',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\87.png" id="87" data-flag="@X" onclick="openSidebar('87',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\64.png" id="64" data-flag="@X" onclick="openSidebar('64',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\12.png" id="12" data-flag="@X" onclick="openSidebar('12',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\54.png" id="54" data-flag="@X" onclick="openSidebar('54',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\32.png" id="32" data-flag="@X" onclick="openSidebar('32',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\85.png" id="85" data-flag="@X" onclick="openSidebar('85',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\63.png" id="63" data-flag="@X" onclick="openSidebar('63',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\14.png" id="14" data-flag="@X" onclick="openSidebar('14',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\50.png" id="50" data-flag="@X" onclick="openSidebar('50',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\33.png" id="33" data-flag="@X" onclick="openSidebar('33',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\81.png" id="81" data-flag="@X" onclick="openSidebar('81',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\76.png" id="76" data-flag="@X" onclick="openSidebar('76',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\10.png" id="10" data-flag="@X" onclick="openSidebar('10',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\57.png" id="57" data-flag="@X" onclick="openSidebar('57',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\30.png" id="30" data-flag="@X" onclick="openSidebar('30',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\ALY-files\img\187.png" id="ALY_187" data-flag="@X" onclick="openSidebar('ALY_187',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\172.png" id="ALY_172" data-flag="@X" onclick="openSidebar('ALY_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\101.png" id="ALY_101" data-flag="@X" onclick="openSidebar('ALY_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\156.png" id="ALY_156" data-flag="@X" onclick="openSidebar('ALY_156',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\120.png" id="ALY_120" data-flag="@X" onclick="openSidebar('ALY_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\180.png" id="ALY_180" data-flag="@X" onclick="openSidebar('ALY_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\171.png" id="ALY_171" data-flag="@X" onclick="openSidebar('ALY_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\111.png" id="ALY_111" data-flag="@X" onclick="openSidebar('ALY_111',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\164.png" id="ALY_164" data-flag="@X" onclick="openSidebar('ALY_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\112.png" id="ALY_112" data-flag="@X" onclick="openSidebar('ALY_112',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\193.png" id="ALY_193" data-flag="@X" onclick="openSidebar('ALY_193',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\170.png" id="ALY_170" data-flag="@X" onclick="openSidebar('ALY_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\106.png" id="ALY_106" data-flag="@X" onclick="openSidebar('ALY_106',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\165.png" id="ALY_165" data-flag="@X" onclick="openSidebar('ALY_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\114.png" id="ALY_114" data-flag="@X" onclick="openSidebar('ALY_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\188.png" id="ALY_188" data-flag="@X" onclick="openSidebar('ALY_188',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\177.png" id="ALY_177" data-flag="@X" onclick="openSidebar('ALY_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\104.png" id="ALY_104" data-flag="@X" onclick="openSidebar('ALY_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\161.png" id="ALY_161" data-flag="@X" onclick="openSidebar('ALY_161',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\124.png" id="ALY_124" data-flag="@X" onclick="openSidebar('ALY_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\182.png" id="ALY_182" data-flag="@X" onclick="openSidebar('ALY_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\166.png" id="ALY_166" data-flag="@X" onclick="openSidebar('ALY_166',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\108.png" id="ALY_108" data-flag="@X" onclick="openSidebar('ALY_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\155.png" id="ALY_155" data-flag="@X" onclick="openSidebar('ALY_155',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\113.png" id="ALY_113" data-flag="@X" onclick="openSidebar('ALY_113',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\183.png" id="ALY_183" data-flag="@X" onclick="openSidebar('ALY_183',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\178.png" id="ALY_178" data-flag="@X" onclick="openSidebar('ALY_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\110.png" id="ALY_110" data-flag="@X" onclick="openSidebar('ALY_110',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\152.png" id="ALY_152" data-flag="@X" onclick="openSidebar('ALY_152',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\115.png" id="ALY_115" data-flag="@X" onclick="openSidebar('ALY_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\181.png" id="ALY_181" data-flag="@X" onclick="openSidebar('ALY_181',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\173.png" id="ALY_173" data-flag="@X" onclick="openSidebar('ALY_173',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\98.png" id="ALY_98" data-flag="@X" onclick="openSidebar('ALY_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\154.png" id="ALY_154" data-flag="@X" onclick="openSidebar('ALY_154',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\116.png" id="ALY_116" data-flag="@X" onclick="openSidebar('ALY_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\184.png" id="ALY_184" data-flag="@X" onclick="openSidebar('ALY_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\169.png" id="ALY_169" data-flag="@X" onclick="openSidebar('ALY_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\103.png" id="ALY_103" data-flag="@X" onclick="openSidebar('ALY_103',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\153.png" id="ALY_153" data-flag="@X" onclick="openSidebar('ALY_153',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\118.png" id="ALY_118" data-flag="@X" onclick="openSidebar('ALY_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\190.png" id="ALY_190" data-flag="@X" onclick="openSidebar('ALY_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\168.png" id="ALY_168" data-flag="@X" onclick="openSidebar('ALY_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\102.png" id="ALY_102" data-flag="@X" onclick="openSidebar('ALY_102',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\160.png" id="ALY_160" data-flag="@X" onclick="openSidebar('ALY_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\125.png" id="ALY_125" data-flag="@X" onclick="openSidebar('ALY_125',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\191.png" id="ALY_191" data-flag="@X" onclick="openSidebar('ALY_191',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\174.png" id="ALY_174" data-flag="@X" onclick="openSidebar('ALY_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\99.png" id="ALY_99" data-flag="@X" onclick="openSidebar('ALY_99',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\158.png" id="ALY_158" data-flag="@X" onclick="openSidebar('ALY_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\121.png" id="ALY_121" data-flag="@X" onclick="openSidebar('ALY_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\192.png" id="ALY_192" data-flag="@X" onclick="openSidebar('ALY_192',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\167.png" id="ALY_167" data-flag="@X" onclick="openSidebar('ALY_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\107.png" id="ALY_107" data-flag="@X" onclick="openSidebar('ALY_107',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\157.png" id="ALY_157" data-flag="@X" onclick="openSidebar('ALY_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\117.png" id="ALY_117" data-flag="@X" onclick="openSidebar('ALY_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\189.png" id="ALY_189" data-flag="@X" onclick="openSidebar('ALY_189',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\175.png" id="ALY_175" data-flag="@X" onclick="openSidebar('ALY_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\100.png" id="ALY_100" data-flag="@X" onclick="openSidebar('ALY_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\163.png" id="ALY_163" data-flag="@X" onclick="openSidebar('ALY_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\123.png" id="ALY_123" data-flag="@X" onclick="openSidebar('ALY_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\186.png" id="ALY_186" data-flag="@X" onclick="openSidebar('ALY_186',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\176.png" id="ALY_176" data-flag="@X" onclick="openSidebar('ALY_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\109.png" id="ALY_109" data-flag="@X" onclick="openSidebar('ALY_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\159.png" id="ALY_159" data-flag="@X" onclick="openSidebar('ALY_159',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\122.png" id="ALY_122" data-flag="@X" onclick="openSidebar('ALY_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\185.png" id="ALY_185" data-flag="@X" onclick="openSidebar('ALY_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\179.png" id="ALY_179" data-flag="@X" onclick="openSidebar('ALY_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\105.png" id="ALY_105" data-flag="@X" onclick="openSidebar('ALY_105',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\162.png" id="ALY_162" data-flag="@X" onclick="openSidebar('ALY_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\119.png" id="ALY_119" data-flag="@X" onclick="openSidebar('ALY_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\11.png" id="ALY_11" data-flag="@X" onclick="openSidebar('ALY_11',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\24.png" id="ALY_24" data-flag="@X" onclick="openSidebar('ALY_24',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\72.png" id="ALY_72" data-flag="@X" onclick="openSidebar('ALY_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\32.png" id="ALY_32" data-flag="@X" onclick="openSidebar('ALY_32',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\49.png" id="ALY_49" data-flag="@X" onclick="openSidebar('ALY_49',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\0.png" id="ALY_0" data-flag="@X" onclick="openSidebar('ALY_0',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\19.png" id="ALY_19" data-flag="@X" onclick="openSidebar('ALY_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\80.png" id="ALY_80" data-flag="@X" onclick="openSidebar('ALY_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\36.png" id="ALY_36" data-flag="@X" onclick="openSidebar('ALY_36',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\59.png" id="ALY_59" data-flag="@X" onclick="openSidebar('ALY_59',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\5.png" id="ALY_5" data-flag="@X" onclick="openSidebar('ALY_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\27.png" id="ALY_27" data-flag="@X" onclick="openSidebar('ALY_27',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\83.png" id="ALY_83" data-flag="@X" onclick="openSidebar('ALY_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\34.png" id="ALY_34" data-flag="@X" onclick="openSidebar('ALY_34',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\45.png" id="ALY_45" data-flag="@X" onclick="openSidebar('ALY_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\2.png" id="ALY_2" data-flag="@X" onclick="openSidebar('ALY_2',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\23.png" id="ALY_23" data-flag="@X" onclick="openSidebar('ALY_23',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\84.png" id="ALY_84" data-flag="@X" onclick="openSidebar('ALY_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\39.png" id="ALY_39" data-flag="@X" onclick="openSidebar('ALY_39',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\48.png" id="ALY_48" data-flag="@X" onclick="openSidebar('ALY_48',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\1.png" id="ALY_1" data-flag="@X" onclick="openSidebar('ALY_1',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\21.png" id="ALY_21" data-flag="@X" onclick="openSidebar('ALY_21',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\70.png" id="ALY_70" data-flag="@X" onclick="openSidebar('ALY_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\41.png" id="ALY_41" data-flag="@X" onclick="openSidebar('ALY_41',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\51.png" id="ALY_51" data-flag="@X" onclick="openSidebar('ALY_51',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\3.png" id="ALY_3" data-flag="@X" onclick="openSidebar('ALY_3',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\25.png" id="ALY_25" data-flag="@X" onclick="openSidebar('ALY_25',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\81.png" id="ALY_81" data-flag="@X" onclick="openSidebar('ALY_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\44.png" id="ALY_44" data-flag="@X" onclick="openSidebar('ALY_44',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\47.png" id="ALY_47" data-flag="@X" onclick="openSidebar('ALY_47',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\9.png" id="ALY_9" data-flag="@X" onclick="openSidebar('ALY_9',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\28.png" id="ALY_28" data-flag="@X" onclick="openSidebar('ALY_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\82.png" id="ALY_82" data-flag="@X" onclick="openSidebar('ALY_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\42.png" id="ALY_42" data-flag="@X" onclick="openSidebar('ALY_42',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\50.png" id="ALY_50" data-flag="@X" onclick="openSidebar('ALY_50',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\12.png" id="ALY_12" data-flag="@X" onclick="openSidebar('ALY_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\18.png" id="ALY_18" data-flag="@X" onclick="openSidebar('ALY_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\71.png" id="ALY_71" data-flag="@X" onclick="openSidebar('ALY_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\30.png" id="ALY_30" data-flag="@X" onclick="openSidebar('ALY_30',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\58.png" id="ALY_58" data-flag="@X" onclick="openSidebar('ALY_58',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\13.png" id="ALY_13" data-flag="@X" onclick="openSidebar('ALY_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\22.png" id="ALY_22" data-flag="@X" onclick="openSidebar('ALY_22',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\74.png" id="ALY_74" data-flag="@X" onclick="openSidebar('ALY_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\43.png" id="ALY_43" data-flag="@X" onclick="openSidebar('ALY_43',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\54.png" id="ALY_54" data-flag="@X" onclick="openSidebar('ALY_54',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\6.png" id="ALY_6" data-flag="@X" onclick="openSidebar('ALY_6',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\20.png" id="ALY_20" data-flag="@X" onclick="openSidebar('ALY_20',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\79.png" id="ALY_79" data-flag="@X" onclick="openSidebar('ALY_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\35.png" id="ALY_35" data-flag="@X" onclick="openSidebar('ALY_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\57.png" id="ALY_57" data-flag="@X" onclick="openSidebar('ALY_57',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\7.png" id="ALY_7" data-flag="@X" onclick="openSidebar('ALY_7',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\26.png" id="ALY_26" data-flag="@X" onclick="openSidebar('ALY_26',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\78.png" id="ALY_78" data-flag="@X" onclick="openSidebar('ALY_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\31.png" id="ALY_31" data-flag="@X" onclick="openSidebar('ALY_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\52.png" id="ALY_52" data-flag="@X" onclick="openSidebar('ALY_52',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\14.png" id="ALY_14" data-flag="@X" onclick="openSidebar('ALY_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\15.png" id="ALY_15" data-flag="@X" onclick="openSidebar('ALY_15',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\76.png" id="ALY_76" data-flag="@X" onclick="openSidebar('ALY_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\38.png" id="ALY_38" data-flag="@X" onclick="openSidebar('ALY_38',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\55.png" id="ALY_55" data-flag="@X" onclick="openSidebar('ALY_55',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\10.png" id="ALY_10" data-flag="@X" onclick="openSidebar('ALY_10',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\17.png" id="ALY_17" data-flag="@X" onclick="openSidebar('ALY_17',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\75.png" id="ALY_75" data-flag="@X" onclick="openSidebar('ALY_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\37.png" id="ALY_37" data-flag="@X" onclick="openSidebar('ALY_37',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\46.png" id="ALY_46" data-flag="@X" onclick="openSidebar('ALY_46',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\8.png" id="ALY_8" data-flag="@X" onclick="openSidebar('ALY_8',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\16.png" id="ALY_16" data-flag="@X" onclick="openSidebar('ALY_16',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\77.png" id="ALY_77" data-flag="@X" onclick="openSidebar('ALY_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\33.png" id="ALY_33" data-flag="@X" onclick="openSidebar('ALY_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\56.png" id="ALY_56" data-flag="@X" onclick="openSidebar('ALY_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\4.png" id="ALY_4" data-flag="@X" onclick="openSidebar('ALY_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\29.png" id="ALY_29" data-flag="@X" onclick="openSidebar('ALY_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\73.png" id="ALY_73" data-flag="@X" onclick="openSidebar('ALY_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\40.png" id="ALY_40" data-flag="@X" onclick="openSidebar('ALY_40',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\53.png" id="ALY_53" data-flag="@X" onclick="openSidebar('ALY_53',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\37.png" id="37" data-flag="@X" onclick="openSidebar('37',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\39.png" id="39" data-flag="@X" onclick="openSidebar('39',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\41.png" id="41" data-flag="@X" onclick="openSidebar('41',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\43.png" id="43" data-flag="@X" onclick="openSidebar('43',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\45.png" id="45" data-flag="@X" onclick="openSidebar('45',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\38.png" id="38" data-flag="@X" onclick="openSidebar('38',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\40.png" id="40" data-flag="@X" onclick="openSidebar('40',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\42.png" id="42" data-flag="@X" onclick="openSidebar('42',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\44.png" id="44" data-flag="@X" onclick="openSidebar('44',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\46.png" id="46" data-flag="@X" onclick="openSidebar('46',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\128.png" id="ALY_128" data-flag="@X" onclick="openSidebar('ALY_128',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\132.png" id="ALY_132" data-flag="@X" onclick="openSidebar('ALY_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\137.png" id="ALY_137" data-flag="@X" onclick="openSidebar('ALY_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\142.png" id="ALY_142" data-flag="@X" onclick="openSidebar('ALY_142',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\148.png" id="ALY_148" data-flag="@X" onclick="openSidebar('ALY_148',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\127.png" id="ALY_127" data-flag="@X" onclick="openSidebar('ALY_127',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\133.png" id="ALY_133" data-flag="@X" onclick="openSidebar('ALY_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\138.png" id="ALY_138" data-flag="@X" onclick="openSidebar('ALY_138',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\144.png" id="ALY_144" data-flag="@X" onclick="openSidebar('ALY_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\147.png" id="ALY_147" data-flag="@X" onclick="openSidebar('ALY_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\129.png" id="ALY_129" data-flag="@X" onclick="openSidebar('ALY_129',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\134.png" id="ALY_134" data-flag="@X" onclick="openSidebar('ALY_134',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\139.png" id="ALY_139" data-flag="@X" onclick="openSidebar('ALY_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\143.png" id="ALY_143" data-flag="@X" onclick="openSidebar('ALY_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\149.png" id="ALY_149" data-flag="@X" onclick="openSidebar('ALY_149',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\131.png" id="ALY_131" data-flag="@X" onclick="openSidebar('ALY_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\136.png" id="ALY_136" data-flag="@X" onclick="openSidebar('ALY_136',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\140.png" id="ALY_140" data-flag="@X" onclick="openSidebar('ALY_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\145.png" id="ALY_145" data-flag="@X" onclick="openSidebar('ALY_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\151.png" id="ALY_151" data-flag="@X" onclick="openSidebar('ALY_151',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\130.png" id="ALY_130" data-flag="@X" onclick="openSidebar('ALY_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\135.png" id="ALY_135" data-flag="@X" onclick="openSidebar('ALY_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\141.png" id="ALY_141" data-flag="@X" onclick="openSidebar('ALY_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\146.png" id="ALY_146" data-flag="@X" onclick="openSidebar('ALY_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\150.png" id="ALY_150" data-flag="@X" onclick="openSidebar('ALY_150',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\60.png" id="ALY_60" data-flag="@X" onclick="openSidebar('ALY_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\62.png" id="ALY_62" data-flag="@X" onclick="openSidebar('ALY_62',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\64.png" id="ALY_64" data-flag="@X" onclick="openSidebar('ALY_64',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\66.png" id="ALY_66" data-flag="@X" onclick="openSidebar('ALY_66',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\68.png" id="ALY_68" data-flag="@X" onclick="openSidebar('ALY_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\61.png" id="ALY_61" data-flag="@X" onclick="openSidebar('ALY_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\63.png" id="ALY_63" data-flag="@X" onclick="openSidebar('ALY_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\65.png" id="ALY_65" data-flag="@X" onclick="openSidebar('ALY_65',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\67.png" id="ALY_67" data-flag="@X" onclick="openSidebar('ALY_67',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\69.png" id="ALY_69" data-flag="@X" onclick="openSidebar('ALY_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\3.png" id="3" data-flag="@X" onclick="openSidebar('3',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\4.png" id="4" data-flag="@X" onclick="openSidebar('4',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\2.png" id="2" data-flag="@X" onclick="openSidebar('2',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\1.png" id="1" data-flag="@X" onclick="openSidebar('1',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\0.png" id="0" data-flag="@X" onclick="openSidebar('0',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\6.png" id="6" data-flag="@X" onclick="openSidebar('6',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\ALY-files\img\5.png" id="5" data-flag="@X" onclick="openSidebar('5',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\95.png" id="ALY_95" data-flag="@X" onclick="openSidebar('ALY_95',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\92.png" id="ALY_92" data-flag="@X" onclick="openSidebar('ALY_92',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\93.png" id="ALY_93" data-flag="@X" onclick="openSidebar('ALY_93',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\91.png" id="ALY_91" data-flag="@X" onclick="openSidebar('ALY_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\96.png" id="ALY_96" data-flag="@X" onclick="openSidebar('ALY_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\97.png" id="ALY_97" data-flag="@X" onclick="openSidebar('ALY_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\94.png" id="ALY_94" data-flag="@X" onclick="openSidebar('ALY_94',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\88.png" id="ALY_88" data-flag="@X" onclick="openSidebar('ALY_88',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\89.png" id="ALY_89" data-flag="@X" onclick="openSidebar('ALY_89',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\87.png" id="ALY_87" data-flag="@X" onclick="openSidebar('ALY_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\86.png" id="ALY_86" data-flag="@X" onclick="openSidebar('ALY_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\85.png" id="ALY_85" data-flag="@X" onclick="openSidebar('ALY_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ALY_e" data-flag="@E" onclick="openSidebar('ALY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ALY_e" data-flag="@E" onclick="openSidebar('ALY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ALY_e" data-flag="@E" onclick="openSidebar('ALY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\126.png" id="ALY_126" data-flag="@X" onclick="openSidebar('ALY_126',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\ALY-files\img\90.png" id="ALY_90" data-flag="@X" onclick="openSidebar('ALY_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ALY_e" data-flag="@E" onclick="openSidebar('ALY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ALY_e" data-flag="@E" onclick="openSidebar('ALY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="ALY_e" data-flag="@E" onclick="openSidebar('ALY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="ALY_er" data-flag="@E" onclick="openSidebar('ALY_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -388,13 +495,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -548,9 +658,9 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {

@@ -1,0 +1,4745 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>LEF</name>
+			<longname>Leffway is Made</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-16</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Map Out</name>
+			<text>Look at the top seven cards of your library. You may reveal a land card from among them and put it into your hand. Put the rest at the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/0.png" num="3">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Idol of Essence</name>
+			<text>Whenever you cast a spell with mana value 4 or greater, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/1.png" num="1">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/2.png" num="267">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/3.png" num="268">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/4.png" num="258">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/5.png" num="259">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/6.png" num="264">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/7.png" num="265">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/8.png" num="266">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/9.png" num="256">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/10.png" num="257">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/11.png" num="255">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/12.png" num="254">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/13.png" num="262">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/14.png" num="261">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/15.png" num="260">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/16.png" num="263">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bird LEF</name>
+			<text>Flying, decayed (This creature can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/17.png" num="4">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Servo LEF</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/18.png" num="1">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Shell LEF</name>
+			<text>Defender</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/19.png" num="2">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Shell</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Soldier LEF</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/20.png" num="3">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Soltari Samurai LEF</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/21.png" num="5">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Soltari Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Thopter LEF</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/22.png" num="6">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Forgetmenot Glade</name>
+			<text>This land enters tapped unless you&apos;ve cast an instant or sorcery spell this turn.
+{T}: Add {G}, {W}, or {U}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/23.png" num="248">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Chalcogen Spring</name>
+			<text>This land enters tapped unless you&apos;ve cast an instant or sorcery spell this turn.
+{T}: Add {W}, {U}, or {B}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/24.png" num="246">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Whizzing Sinews</name>
+			<text>This land enters tapped unless you&apos;ve cast an instant or sorcery spell this turn.
+{T}: Add {U}, {B}, or {R}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/25.png" num="253">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prechronal Undergrowth</name>
+			<text>This land enters tapped unless you&apos;ve cast an instant or sorcery spell this turn.
+{T}: Add {B}, {R}, or {G}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/26.png" num="250">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Platau lumen</name>
+			<text>This land enters tapped unless you&apos;ve cast an instant or sorcery spell this turn.
+{T}: Add {R}, {G}, or {W}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/27.png" num="249">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Spritevitiligosix</name>
+			<text>Flying
+{2}: Add two mana in any combination of colors. Only spend this mana to cast instant or sorcery spells.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/28.png" num="242">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>See Ahead</name>
+			<text>Scry 1.
+If this spell is not a copy, draw a card.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/29.png" num="4">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spritevarix</name>
+			<text>Flying
+Whenever you mill or discard this card, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/30.png" num="122">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Willing Fodder</name>
+			<text>Whenever this creature dies, target creature an opponent controls gets -1/-1 until end of turn.
+Whenever this creature is sacrificed, target creature an opponent controls gets -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/31.png" num="125">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chitinous Hound</name>
+			<text>Lifelink
+Whenever an instant or a sorcery card is put into your graveyard, you may pay {1}{B} and exile this card from your graveyard. If you do, each opponent loses 3 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/32.png" num="92">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gerx Parasite</name>
+			<text>Deathtouch
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/33.png" num="101">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Slug</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blood Seer</name>
+			<text>Each player mills four cards.
+Elicit ‏creature {UB} (You may cast this as a creature instead of as a sorcery creature for {UB}, it resolves without the above effects.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/34.png" num="89">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recluded Ronin</name>
+			<text>Menace
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it, then you may have each player discards a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/35.png" num="114">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Insect Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Belltower Mystic</name>
+			<text>Flying
+Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/36.png" num="88">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spritestenosix</name>
+			<text>As long as a player has discarded a card this turn, this creature has lifelink.
+{WU}{WU}: This creature gets +1/+1 and gains vigilance until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/37.png" num="121">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minister of Bygones</name>
+			<text>This spell costs {2} less to cast for each creature you&apos;ve sacrificed this turn.
+Menace
+Discard a card: This creature gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/38.png" num="109">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>6B</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prowling Saakstalker</name>
+			<text>Up to one target creature gets +1/+0 and gains indestructible until end of turn.
+Elicit instant {1}{B} (You may cast this as an instant instead of as an instant creature for {1}{B}, putting it into the graveyard as it resolves.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/39.png" num="113">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ichorate</name>
+			<text>Destroy target creature. Each player loses 2 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/40.png" num="106">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fae Blade Blessing</name>
+			<text>Target creature you control gets +1/+1 and lifelink until end of turn.
+{B}, Discard Fae Blade Blessing: Exile two target cards from graveyards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/41.png" num="100">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Witherweight</name>
+			<text>Target creature gets -2/-2 until end of turn.
+Whenever this card is put into your graveyard from anywhere, create a 1/1 black Bird creature token with flying and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/42.png" num="126">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Bird LEF</reverse-related>
+		</card>
+		<card>
+			<name>Chain Drain</name>
+			<text>Emerge {2}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/43.png" num="91">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spritevix Bargain</name>
+			<text>Look at the top three cards of your library, put two of them into your hand and the other into your graveyard. Spritevix Bargain deals 2 damage to you or to target creature you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/44.png" num="123">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reposess Soul</name>
+			<text>Emerge {3}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Return up to two target creature cards from your graveyard to your hand. You gain 3 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/45.png" num="115">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ashassinate</name>
+			<text>Target player discards two cards.
+Basic landcycling {B} ({B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/46.png" num="87">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demonstrate Dissent</name>
+			<text>Choose one or both —
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/47.png" num="95">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirima</name>
+			<text>Put a +1/+1 counter on up to one target creature.
+Elicit ‏creature {G} (You may cast this as a creature instead of as a sorcery creature for {G}, it resolves without the above effects.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/48.png" num="202">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glade Protector</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, untap it. It gets +1/+1 until end of turn.
+{T}: Add {G}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/49.png" num="185">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wurmsoul Mystic</name>
+			<text>As long as you control an anomaly, this creature gets +1/+1 and has trample. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/50.png" num="208">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Muscle Mystic</name>
+			<text>Whenever a creature you control becomes the target of a spell you control, that creature gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/51.png" num="193">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verdant Boar</name>
+			<text>You gain 1 life for each anomaly you control. (Anything with multiple card types is an anomaly.)
+Elicit ‏creature {2}{RG} (You may cast this as a creature instead of as a sorcery creature for {2}{RG}, it resolves without the above effects.)
+Trample</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/52.png" num="205">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Boar</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Canopy Ambusher</name>
+			<text>Up to one target creature gets +1/+3 and gains reach until end of turn.
+Elicit creature {2}{G} (You may cast this as a creature instead of as an instant creature for {2}{G}, it resolves without the above effects.)
+Reach</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/53.png" num="175">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daunting Lifeflame</name>
+			<text>Ward {1}
+Magecraft — Whenever you cast or copy an instant or sorcery spell, target creature you control can&apos;t be blocked by more than one creature this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/54.png" num="177">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Granky Mystic</name>
+			<text>Up to five target creatures each get +3/+3 until end of turn.
+Elicit ‏creature {3}{G} (You may cast this as a creature instead of as a sorcery creature for {3}{G}, it resolves without the above effects.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/55.png" num="187">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Satyr Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vine Heroc</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/56.png" num="207">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flightsteppe Centaur</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, reveal the top card of your library. If it&apos;s a land card, put it into your hand.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/57.png" num="183">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Neoitc Oldgrowth</name>
+			<text>The first time this creature becomes the target of an instant or sorcery spell each turn, draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/58.png" num="197">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystic&apos;s Retort</name>
+			<text>This spell costs {2} less to cast if it targets an anomaly you control. (Anything with multiple card types is an anomaly.)
+Target creature you control deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/59.png" num="194">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Druidic Vigor</name>
+			<text>This spell costs {2} less to cast if you&apos;ve cast another spell this turn.
+Target creature you control gets +4/+4 and gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/60.png" num="179">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Natal Growth</name>
+			<text>Look at the top four cards of your library. You may reveal an anomaly or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/61.png" num="196">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Verdant Synthesis</name>
+			<text>Put a +1/+1 counter on up to one target creature. You gain 2 life. You may put a land card from your hand onto the battlefield tapped.
+Draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/62.png" num="206">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disarming Vines</name>
+			<text>Destroy target artifact or enchantment.
+{2}{BR}{BR}, Exile this card from your graveyard: Target creature gets +3/-3 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/63.png" num="178">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Endless Vegetation</name>
+			<text>Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/64.png" num="181">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Heroic Growth</name>
+			<text>Put a +1/+1 counter on target creature you control.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/65.png" num="189">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skrigi Honorguard</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, it gets +1/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/66.png" num="163">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soltari Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lith Mystic</name>
+			<text>{1}{BR}, Exile an instant or sorcery card from your graveyard: Each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/67.png" num="153">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ritual Ram</name>
+			<text>Add {R}{R}{R}{R}. Only spend this mana on casting spells.
+Elicit ‏creature {1}{R} (You may cast this as a creature instead of as a sorcery creature for {1}{R}, it resolves without the above effects.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/68.png" num="159">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Elemental Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anomulmutt</name>
+			<text>This creature gets +3/+0 and can&apos;t block as long as you control two more anomalies. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/69.png" num="127">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flamebow Elemental</name>
+			<text>Reach
+Heroic — Whenever you cast a spell that targets this creature, you may discard a card. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/70.png" num="143">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Featherseer Mystic</name>
+			<text>Exile the top card of your library. You may play that card until the end of your next turn.
+Elicit sorcery {R} (You may cast this as a sorcery instead of as a sorcery creature for {R}, putting it into the graveyard as it resolves.)
+You may cast this from your graveyard for it&apos;s elicit cost, if you do, exile it as it resolves.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/71.png" num="139">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blazing Mystic</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, target creature you control gets +2/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/72.png" num="129">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soltari Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Goblin Muscician</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/73.png" num="145">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chainbreak Ragetaur</name>
+			<text>Return up to one target sorcery card from your graveyard to your hand.
+Elicit instant {1}{R} (You may cast this as an instant instead of as an instant creature for {1}{R}, putting it into the graveyard as it resolves.)
+Reach</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/74.png" num="135">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Lizard Minotaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idol of Skirmishes</name>
+			<text>Whenever you attack, target creature you control gets +1/+0 until end of turn for each anomaly you control. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/75.png" num="149">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whizzing Fireball</name>
+			<text>This spell costs {2} less to cast if you discarded a card this turn.
+Whizzing Fireball deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/76.png" num="166">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overpulse</name>
+			<text>Target creature gets +1/-1 until end of turn.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/77.png" num="156">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prowling Peck</name>
+			<text>Target creature gains first strike until end of turn.
+Whenever this card is put into your graveyard from anywhere, create a 1/1 black Bird creature token with flying and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/78.png" num="157">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Bird LEF</reverse-related>
+		</card>
+		<card>
+			<name>Wideflame</name>
+			<text>Wideflame deals 2 damage to each creature.
+Basic landcycling {R} ({R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/79.png" num="167">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Searing Thoughts</name>
+			<text>As an additional cost to cast this spell, discard two cards or exile a nonland card from your hand.
+Draw three cards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/80.png" num="161">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vampiric Fury</name>
+			<text>Buyback—Discard a card (You may discard a card in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Target creature gets +2/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/81.png" num="165">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Single Point Stab</name>
+			<text>Target creature gets +1/+0 until end of turn. You may search your library for any number of cards named Single Point Stab, reveal them and put them into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/82.png" num="162">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drown In Flames</name>
+			<text>This spell deals 5 damage to target creature. If you&apos;ve discarded a card this turn, this spell can&apos;t be countered and the damage can&apos;t be prevented.
+{R}, Exile this card from your graveyard: The next spell you cast this turn can&apos;t be countered.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/83.png" num="138">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spritembolusix</name>
+			<text>Flying
+Whenever this creature dies, scry 1.
+Whenever this creature is sacrificed, draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/84.png" num="78">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Safekeeper of the Chains</name>
+			<text>Whenever this creature dies, target creature an opponent controls gets -2/-0 until your next turn.
+Whenever this creature is sacrificed, each creature your opponents control get -2/-0 until your next turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/85.png" num="73">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Memory Nomad</name>
+			<text>Look at the top three cards of your library, put one of them into your hand and the rest into your graveyard.
+Elicit creature {2}{U} (You may cast this as a creature instead of as a sorcery creature for {2}{U}, it resolves without the above effects.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/86.png" num="61">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seer of Unchained Sight</name>
+			<text>Whenever you cast your first spell during each opponent&apos;s turn, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/87.png" num="74">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aether Bird</name>
+			<text>Tap or untap target permanent.
+Elicit instant {WU} (You may cast this as an instant instead of as an instant creature for {WU}, putting it into the graveyard as it resolves.)
+Flying</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/88.png" num="46">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ethereal Goat</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, scry 1.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/89.png" num="55">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>War Mystic</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, this creature gets +1/+1 until end of turn.
+Whenever this creature becomes blocked, you may draw a card. If you do, discard a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/90.png" num="85">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mistful Mystic</name>
+			<text>Whenever you cast your first spell during each opponent&apos;s turn, draw a card, then discard a card.
+Whenever an anomaly you control enters, this creature can&apos;t be blocked until end of turn. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/91.png" num="62">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spriteamyloidosix</name>
+			<text>Flying
+This creature gets +2/+0 and has hexproof as long as you&apos;ve discarded a card or sacrificed a creature this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/92.png" num="77">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Dragon Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divedrake</name>
+			<text>Return target nonland permanent an opponent controls to its owner&apos;s hand.
+Elicit sorcery {1}{U} (You may cast this as a sorcery instead of as a sorcery creature for {1}{U}, putting it into the graveyard as it resolves.)
+Flying</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/93.png" num="51">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Bird Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bolstering Portal</name>
+			<text>Defender
+Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets +2/+2 until end of turn.
+{GW}{GW}: This creature can attack this turn as though it didn&apos;t have defender.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/94.png" num="47">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recall Without Knowing</name>
+			<text>Put target instant or sorcery card from your graveyard on top of your library.
+Exile Recall Without Knowing.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/95.png" num="69">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Counterslice</name>
+			<text>As an additional cost to cast this spell, sacrifice a permanent.
+Counter target spell unless its controller pays {2}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/96.png" num="49">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suppresion Force</name>
+			<text>Enchant creature
+Magecraft — Whenever you cast or copy an instant or sorcery spell, tap enchanted creature. If it&apos;s already tapped, put a stun counter on it. (If a permanent with a stun counter would become untapped, remove one from it instead.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/97.png" num="81">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flutter Rebuttal</name>
+			<text>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.
+Whenever this card is put into your graveyard from anywhere, create a 1/1 black Bird creature token with flying and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/98.png" num="56">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Bird LEF</reverse-related>
+		</card>
+		<card>
+			<name>Drawl</name>
+			<text>Draw two cards, then discard a card unless you&apos;ve cast another instant or sorcery spell this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/99.png" num="53">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Perforate Spirit</name>
+			<text>Target spell or nonland permanent&apos;s owner puts it on their choice of the top or bottom of their library.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/100.png" num="67">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Soul Surgery</name>
+			<text>Emerge {5}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Scry 3.
+Draw three cards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/101.png" num="75">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mystic&apos;s Chill</name>
+			<text>Target creature gets -4/-0 until end of turn.
+Basic landcycling {U} ({U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/102.png" num="63">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fluffyhead</name>
+			<text>Create three 1/1 black Bird creature tokens with flying and decayed. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
+Elicit ‏creature {W} (You may cast this as a creature instead of as a sorcery creature for {W}, it resolves without the above effects.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/103.png" num="23">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Illusion Sheep</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Bird LEF</reverse-related>
+		</card>
+		<card>
+			<name>Unrelenting Soltari</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets your choice of lifelink, vigilance, or first strike until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/104.png" num="42">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soltari Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Veiling Mist</name>
+			<text>Return up to one target creature you control to its owner&apos;s hand.
+Elicit creature {1}{W} (You may cast this as a creature instead of as an instant creature for {1}{W}, it resolves without the above effects.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/105.png" num="43">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Panchar</name>
+			<text>As long as you control three or more anomalies, this creature gets +1/+0 and has flying. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/106.png" num="30">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Batallion Frontliner</name>
+			<text>Whenever this creature dies, create a 1/1 white Soldier creature token.
+Whenever this creature is sacrificed, create a 1/1 white Soldier creature token.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/107.png" num="13">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Soldier LEF</reverse-related>
+			<reverse-related count="2">Solsider LEF</reverse-related>
+		</card>
+		<card>
+			<name>Gladesprite</name>
+			<text>Flying
+Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn. If it&apos;s not your turn, put a +1/+1 counter on it instead.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/108.png" num="25">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spritepallorix</name>
+			<text>Destroy up to one target enchantment.
+Elicit instant {1}{W} (You may cast this as an instant instead of as an instant creature for {1}{W}, putting it into the graveyard as it resolves.)
+Flying</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/109.png" num="37">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Attack Leader</name>
+			<text>Up to two target creatures get +1/+1 until end of turn.
+Elicit instant {RG} (You may cast this as an instant instead of as an instant creature for {RG}, putting it into the graveyard as it resolves.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/110.png" num="10">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Soltari Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blademaster</name>
+			<text>This creature has double strike as long as you&apos;ve cast an instant or sorcery spell this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/111.png" num="14">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soltari Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Backup Squad</name>
+			<text>Up to one target attacking or blocking creature gets +3/+3 until end of turn.
+Elicit instant {1}{W} (You may cast this as an Instant spell for {1}{W}, Removing the creature part)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/112.png" num="11">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ageless Observer</name>
+			<text>Whenever this creature attacks while you control three or more anomalies, creatures you control get +1/+0 until end of turn. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/113.png" num="6">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fabric Weaver</name>
+			<text>Put a +1/+1 counter on each anomaly you control. (Anything with multiple card types is an anomaly.)
+Elicit sorcery {1}{GW}{GW} (You may cast this as a sorcery instead of as a sorcery creature for {1}{GW}{GW}, putting it into the graveyard as it resolves.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/114.png" num="22">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Piercing Barrage</name>
+			<text>This spell deals 3 damage divided between up to three target attacking and/or blocking creatures.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/115.png" num="31">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Celestial Binding</name>
+			<text>Flash
+Emerge {2}{W} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/116.png" num="16">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brilliant Polish</name>
+			<text>Put a +1/+1 counter on target creature.
+Draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/117.png" num="15">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ethereal Flourish</name>
+			<text>Anomalous creatures you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn. (Anything with multiple card types is an anomaly.)
+Basic landcycling {W}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/118.png" num="21">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Suprashield</name>
+			<text>When you cast this spell, if it&apos;s not your turn, copy it.
+Target creature you control gets +1/+1 and gains protection from the colour of your choice until end of turn. (It can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that colour until end of turn..)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/119.png" num="38">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Banish an Opulent Soul</name>
+			<text>This spell costs {X} less to cast, where X is the mana value of the permanent its targeting.
+Exile target permanent.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/120.png" num="12">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>6W</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Superposition Gateway</name>
+			<text>Whenever an anomalous creature you control leaves the battlefield during your turn, you may cast a copy of it without paying its mana cost, except that spell isn&apos;t a creature spell. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/121.png" num="243">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ingis, Chains of the Worldsoul</name>
+			<text>As Ingis enters, each player notes a nonland card type.
+Players can&apos;t cast spells that don&apos;t share a card type named with Ingis.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/122.png" num="240">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lavez, Anchor of the Worldsoul</name>
+			<text>Instant and sorcery spells you cast cost {W}{U}{B}{R}{G} less to cast. This only reduces the amount of colored mana you pay.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/123.png" num="2">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rix, Shackle of the Worldsoul</name>
+			<text>You may reveal Rix from your opening hand. If you do, add {C}. Spend this mana only to cast anomalous spells. You don&apos;t lose this mana as steps and phases end. (Anything with multiple card types is an anomaly.)
+{2}, {T}, Sacrifice Rix: Copy the next anomalous spell you cast this turn.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/124.png" num="241">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lichbind</name>
+			<text>Each opponent exiles a permanent they control or a card from their hand or graveyard.
+Gravestorm (When you cast this spell, copy it for each permanent put into a graveyard from the battlefield this turn.)</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/125.png" num="108">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Overgrowing Pumkin</name>
+			<text>Trample
+Other creatures you control have trample.
+Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on each creature you control.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/126.png" num="198">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flurry of Regrowth</name>
+			<text>Choose a card at random from your graveyard. If it&apos;s a land card, put it onto the battlefield tapped. Otherwise, put it into your hand. Exile this spell.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/127.png" num="184">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cloudyawner</name>
+			<text>Flying
+This creature enters tapped.
+Whenever you cast your first spell during each opponent&apos;s turn, create a token that&apos;s a copy of this creature.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/128.png" num="215">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruination Mystic</name>
+			<text>Ward {1}
+If an ability you control would trigger from a player sacrificing a permanent, that ability triggers an additional time.
+Whenever another creature dies, create a 1/1 black Bird creature token with flying and decayed. This ability triggers only once each turn.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/129.png" num="229">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Bird LEF</reverse-related>
+		</card>
+		<card>
+			<name>All Encompassing Wish</name>
+			<text>As an additional cost to cast this spell, discard your hand and pay X life.
+Put X cards from outside the game into your hand.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/130.png" num="210">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BBRR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tempestous Growthmagus</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on it.
+Remove X counters from this creature: Add X mana in any combination of colors. Activate this ability only once each turn.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/131.png" num="237">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Outpouring of Life</name>
+			<text>You may cast creature spells with power 3 or less without paying their mana cost.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/132.png" num="227">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GGWW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Soul Augury</name>
+			<text>Reveal the top five cards of your library. Put the card with the greatest mana value from among them into your hand. You may cast another nonland card from among them without paying its mana cost. Put the rest at the bottom of your library in any order.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/133.png" num="233">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Observer of All</name>
+			<text>Emerge {3}{B}{B}{WU}
+The Observer can emerge from creatures your opponents control.
+Deathtouch, first strike.
+Whenever you would sacrifice a permanent, you may have it phase out instead of going to the graveyard as it&apos;s sacrificed. Do this only once each turn.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/134.png" num="226">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Eye Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demonic Prepotence</name>
+			<text>Target opponent exiles five nonland cards from their sideboard. Exile a card from your sideboard if fewer than five cards were exiled this way. You may cast a copy of any number of cards exiled this way without paying their mana costs.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/135.png" num="216">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UBR</manacost>
+				<cmc>6</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Rhizome</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it. It gains your choice of double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, or vigilance until end of turn.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/136.png" num="228">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Singe Elemental</name>
+			<text>Tap up to one target creature. This spell deals 1 damage to any target and you gain 1 life.
+Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)
+Elicit sorcery {R}{G}{W} (You may cast this as a sorcery instead of as a sorcery creature for {R}{G}{W}, putting it into the graveyard as it resolves.)</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/137.png" num="231">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chromatic Monsoon</name>
+			<text>For each color, exile an instant or sorcery card of that color from your graveyard. For each card exiled this way, copy it, and you may cast the copy without paying its mana cost.
+Exile Chromatic Monsoon.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/138.png" num="137">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Grandmaster of Sparks</name>
+			<text>Whenever you cast a noncreature spell, put a +1/+1 counter on this creature.
+Whenever this creature becomes blocked, it deals 1 damage to any target, then repeat this process for each counter on this creature.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/139.png" num="146">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1RRR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Culumonibus Tyrant</name>
+			<text>Flying
+Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, return up to one target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/140.png" num="50">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Octopus</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planar Till</name>
+			<text>Choose one —
+• Destroy all nonland non-anomalous permanents.
+• Destroy all anomalies. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/141.png" num="32">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Presence of Undeath</name>
+			<text>Enchant creature
+Whenever enchanted creature becomes the target of a spell, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/142.png" num="112">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Harvest</name>
+			<text>Emerge {4}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Destroy all creatures.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/143.png" num="103">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mythos of the Unyielding King</name>
+			<text>Destroy target creature or planeswalker. If {W}{U} was spent to cast this spell, your opponents can&apos;t cast spells that share a card type with that permanent until your next turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/144.png" num="110">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elder Saakstalker</name>
+			<text>Name a nonland card name. Search each player&apos;s graveyard, hand, and library for any number of cards with the same name and exile them. Each player shuffles.
+Elicit sorcery {B}{B}{B} (You may cast this as a sorcery instead of as a sorcery creature for {B}{B}{B}, putting it into the graveyard as it resolves.)
+Menace, Deathtouch</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/145.png" num="98">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dominated Slither</name>
+			<text>Each player sacrifices two creatures.
+Elicit ‏creature {1}{B} (You may cast this as a creature instead of as a sorcery creature for {1}{B}, it resolves without the above effects.)
+Whenever another creature dies, scry 1.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/146.png" num="97">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Zombie Snake</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spellbattery Ghoul</name>
+			<text>Whenever this creature dies, create a 1/1 red Soltari Samurai creature token with &quot;Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.&quot;
+Whenever this creature is sacrificed to cast a spell, copy that spell. You may choose new targets for the copy.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/147.png" num="120">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Zombie Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Soltari Samurai LEF</reverse-related>
+		</card>
+		<card>
+			<name>Cthonitaur</name>
+			<text>Lurk—Pay 5 life. (Defending player can&apos;t block this creature unless they pay 5 life in addition to any other costs.)
+Heroic — Whenever you cast a spell that targets this creature, return target creature card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/148.png" num="93">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Doldrum Dreamer</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, you may have each player sacrifice a creature.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/149.png" num="96">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Soulflame Ring</name>
+			<text>This artifact enters tapped.
+{T}: Add X mana of any one color, where X is the greatest mana value among other permanents you control.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/150.png" num="201">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bellow of Verdure</name>
+			<text>This spell costs {2} less to cast for each spell you&apos;ve cast this turn.
+Draw cards equal to the greatest power or mana value among creatures you control.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/151.png" num="174">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6GG</manacost>
+				<cmc>8</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mythos of the First Hunger</name>
+			<text>Each player may cast a creature spell from their hand without paying it&apos;s mana cost. If {B}{R} was spent to cast this spell, each opponent sacrifices the permanent they control with the greatest mana value at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/152.png" num="195">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lifegraft</name>
+			<text>Create a token that&apos;s a copy of target land, except it&apos;s a green 2/2 Elemental creature in addition to its other types.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/153.png" num="190">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seek the Immense</name>
+			<text>Target creature you control gets +X/+X until end of turn. Put a +1/+1 counter on it.
+Target player searches their library for a creature card, reveals it, puts it into their hand, then shuffles.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/154.png" num="200">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>X1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Elder Gangeth</name>
+			<text>Vigilance, trample, reach
+This creature gets +2/+1, for each anomaly you control. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/155.png" num="180">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tanglespell Briar</name>
+			<text>Spells your opponents control which target creatures you control and would cost less than four mana to cast costs four mana to cast. (For example, a spell that would cost {1}{B} to cast costs {3}{B} to cast instead.)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/156.png" num="203">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspect of Vigor</name>
+			<text>Creatures you control and creatures entering under your control this turn gain hexproof and indestructible until end of turn.
+Elicit instant {2}{G} (You may cast this as an instant instead of as an instant creature for {2}{G}, putting it into the graveyard as it resolves.)
+This creature enters with a +1/+1 counter for each other permanent you control with mana value 4 or greater.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/157.png" num="172">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tune of Safeholding</name>
+			<text>You may return a blue creature and a white creature, or a blue and white creature you control to their owner&apos;s hand rather than pay this spell&apos;s mana cost.
+You draw two cards and gain 2 life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/158.png" num="238">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hemorrphage, Spritevix Queen</name>
+			<text>Flying, lifelink
+You may discard cards and sacrifice creatures interchangeably. (For example, if a cost you pay would require you to sacrifice a creature, you may discard a card instead, and vice versa.)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/159.png" num="220">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Distill Fears</name>
+			<text>When this enchantment enters, exile the top four cards of your library. Until the end of your next turn, you may play those cards.
+Discard a card or sacrifice a creature: Put target card exiled with this enchantment into its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/160.png" num="217">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Boorish Mystic</name>
+			<text>The first instant or sorcery spell you cast each turn that targets this creature costs {0}.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/161.png" num="214">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Shaman Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Antolie, Anomalous Apostate</name>
+			<text>Trample, vigilance
+Nontoken creatures assign combat damage equal to their mana value instead of their power.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/162.png" num="211">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spritethrombosix</name>
+			<text>Flying, deathtouch
+Magecraft — Whenever you cast or copy an instant or sorcery spell, you may sacrifice a creature. When you do, draw a card.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/163.png" num="234">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Faerie Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sinister Magister</name>
+			<text>Whenever an instant or sorcery card is put into a graveyard, this creature deals 1 damage to each opponent.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/164.png" num="232">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Szyssixz, Feaster of Essence</name>
+			<text>Trample, first strike, menace
+Heroic — Whenever you cast a spell that targets Szyssixz, exile that spell, then copy it. You may choose new targets for the copy. When you do, return target card from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/165.png" num="236">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Zombie Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stroke of Avail</name>
+			<text>Reveal the top 6 cards of your library. You may put each instant, land, or anomalous card revealed this way into your hand. Put the rest at the bottom of your library in a random order. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/166.png" num="235">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scalemail Magmawhelk</name>
+			<text>Ward—{2}, Pay 2 life.
+Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on it. Then each opponent sacrifices an artifact.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/167.png" num="160">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Ember Embrace</name>
+			<text>Your life total becomes 2.
+Take an extra turn after this one.
+Exile Final Ember Embrace.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/168.png" num="140">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mythos of the Archdemon</name>
+			<text>Creatures you control get +2/+0 until end of turn. If {U}{B} was spent to cast this spell, creatures your opponents control get -1/-1 and lose all abilities until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/169.png" num="155">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mindblaze Mystic</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/170.png" num="154">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Firemind Richualist</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, create a Treasure token.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/171.png" num="142">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hyperbolt</name>
+			<text>This spell deals 6 damage to target creature.
+Whenever this spell deals excess damage, you may have it deal that much damage to any target.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/172.png" num="148">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Burning Apostle</name>
+			<text>Flying, haste
+Whenever this creature attacks, add {R}{R}{R}{R}{R}. This mana doesn&apos;t empty as steps and phases change, and can only be spent on casting instant or sorcery spells.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/173.png" num="134">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blazing Wheel-Kin</name>
+			<text>Each player discards their hand, then draws six cards.
+Elicit ‏creature {3}{R} (You may cast this as a creature instead of as a sorcery creature for {3}{R}, it resolves without the above effects.)
+Haste</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/174.png" num="130">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ominous Soul Tome</name>
+			<text>As long as it&apos;s not your turn, spells you cast have delve.
+Whenever you cast an instant or sorcery spell, you may have this artifact become a X/X skeleton artifact creature until your next end step, where X is that spell&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/175.png" num="66">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chronoduplicate</name>
+			<text>Cast a copy of target creature you control without paying it&apos;s mana cost.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/176.png" num="48">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mythos of the Sage</name>
+			<text>Draw ten cards, then put eight cards from your hand on the bottom of your library in a random order. If {W}{G} was spent to cast this spell, untap each permanent you control.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/177.png" num="64">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Retroarcane Continuity</name>
+			<text>The owner of target spell or permanent reveals their hand, then shuffles it and each spell, permanent, card in hand and/or graveyard with the same name as that spell or permanent into their library.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/178.png" num="70">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Wind Releaser</name>
+			<text>At the beginning of each player&apos;s end step, exile target nonland permanent they control. For as long as that card remains exiled, its owner may cast it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/179.png" num="86">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Merfolk Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Narcorelapsy</name>
+			<text>Enchant creature
+When this aura enters, tap enchanted creature. 
+Enchanted creature doesn&apos;t untap during its controllers untap step.
+At the beginning of combat on your turn, if you&apos;ve cast two or more noncreature spells this turn, you may return this Aura from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/180.png" num="65">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Unmoored Ideas</name>
+			<text>Each player mills three cards.
+Draw a card.
+Whenever a player casts a spell as long as this spell is on the stack, draw a card.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/181.png" num="84">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Temporal Emergence</name>
+			<text>Emerge {4}{U}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Take an extra turn after this one</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/182.png" num="82">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Acolyte of the Anchor</name>
+			<text>Players can&apos;t spend more than X mana on casting a noncreature spell, where X is the greatest mana value among permanents you control.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/183.png" num="5">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anchorley Angel</name>
+			<text>Flying
+Other anomalies you control have lifelink. (Anything with multiple card types is an anomaly.)
+Instant and sorcery spells you cast have lifelink.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/184.png" num="7">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mythos of the Pale</name>
+			<text>This spell deals twice X damage to target attacking or blocking creature. Then if {R}{G} was spent to cast this spell, add three mana in any combination of colors. That mana doesn&apos;t empty from your mana pool this turn as steps and phases end.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/185.png" num="29">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XW</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unanchored Sky-Serpent</name>
+			<text>Flying
+{2}{W}{W}: Exile another target creature. Its owner may cast it without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/186.png" num="41">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ultrashield Angel</name>
+			<text>Flying
+Magecraft — Whenever you cast or copy an instant or sorcery spell, double the toughness of each creature you control until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/187.png" num="40">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Decrown</name>
+			<text>Destroy the creature with the greatest power. (If one or more are tied for the greatest power, choose one.)
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/188.png" num="18">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Re-Weave the World</name>
+			<text>Each player returns two cards from their graveyard to their hand.
+Exile Re-Weave the World.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/189.png" num="33">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drawn From Discussion</name>
+			<text>Reveal the top 7 cards of your library. Each player chooses a different card from among them. Put those into your hand and the rest at the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/190.png" num="20">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sludgefly</name>
+			<text>Flying
+Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/191.png" num="119">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Twilight Tiger</name>
+			<text>This creature enters tapped.
+Whenever you sacrifice a permanent as a cost to casting a spell, return this creature from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/192.png" num="124">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Saakstalker Egg</name>
+			<text>Defender
+Whenever this creature dies, each opponent exiles a card from their hand.
+Whenever this creature is sacrificed, return another target Demon card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/193.png" num="118">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Egg</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Influenced Informant</name>
+			<text>Lurk—Pay 3 life. (Defending player can&apos;t block this creature unless they pay 3 life in addition to any other costs.)
+Whenever this creature dies, you lose 1 life and draw a card.
+Whenever this creature is sacrificed, you lose 1 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/194.png" num="107">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Lizard Rouge</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ichor Elemental</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, creatures your opponents control get -1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/195.png" num="105">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Ooze Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Espien, Shellmage</name>
+			<text>Whenever you sacrifice a permanent as a cost to cast a spell, each opponent loses 3 life unless they discard a card or sacrifice a nonland permanent.
+{2}{WU}, {T}: Create a white and blue 0/2 Shell artifact creature token with defender.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/196.png" num="99">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Snail Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Shell LEF</reverse-related>
+		</card>
+		<card>
+			<name>Brainseize</name>
+			<text>Target player reveals their hand. You choose a nonland card from it. That player discards that card. Then if that card wasn&apos;t an instant or sorcery card, you discard a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/197.png" num="90">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Resummon</name>
+			<text>Emerge {3}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Cast target creature card from your graveyard without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/198.png" num="116">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gossamer Sins</name>
+			<text>As an additional cost to cast this spell, you may sacrifice a creature. If you do, this spell has storm. (When you cast this spell, copy it for each spell cast before it this turn.)
+You lose 1 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/199.png" num="102">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Demon&apos;s Prowl</name>
+			<text>Target creature you control gains menace, deathtouch, and lifelink until end of turn.
+Creatures target opponent controls get -1/-1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/200.png" num="94">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nirvana Doldrums</name>
+			<text>Mill 6 cards. For each instant or sorcery card milled this way, you draw a card and lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/201.png" num="111">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Revolving Dread</name>
+			<text>You may search your library for a card named &quot;Revolving Insight&quot; and reveal it. If you do, put it into your hand, then shuffle.
+Each player sacrifices a creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/202.png" num="117">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mosswhelk</name>
+			<text>This creature&apos;s power and toughness is equal to the number of anomalies you control. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/203.png" num="192">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carrabaster Cultivator</name>
+			<text>Search your library for two basic land cards and put them onto the battlefield, then shuffle.
+Elicit ‏creature {1}{G} (You may cast this as a creature instead of as a sorcery creature for {1}{G}, it resolves without the above effects.)
+Deathtouch</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/204.png" num="176">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Dryad Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glade Trunkling</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, put a +1/+1 counter on it. Then if its power is 4 or greater, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/205.png" num="186">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bear Ghost</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, you may put a land card from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/206.png" num="173">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aran, Forest Hermit</name>
+			<text>Vigilance
+Creatures you control have &quot;Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on it&quot;.
+{1}{BR}: Target creature you control gains menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/207.png" num="169">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Troll Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Greater Gangeth</name>
+			<text>This spell costs {2} less to cast if you control an anomaly. (Anything with multiple card types is an anomaly.)
+Vigilance, trample
+This creature gets +1/+0 for each anomaly you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/208.png" num="188">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Essence Feeder</name>
+			<text>Whenever an instant or sorcery card would be put into a graveyard this turn, exile it instead. Whenever a card is exiled this way, draw a card.
+Elicit instant {3}{G} (You may cast this as an instant instead of as an instant creature for {3}{G}, putting it into the graveyard as it resolves.)
+Haste</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/209.png" num="182">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Elemental Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thornbark Prile</name>
+			<text>Trample
+Heroic — Whenever you cast a spell that targets this creature, put two +1/+1 counters on it.
+Pay 2 life: This creature gains hexproof and indestructible until end of turn. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/210.png" num="204">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Treefolk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mawssive Hunger</name>
+			<text>Target creature you control fights target creature an opponent controls. Whenever either of those creatures would die this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/211.png" num="191">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Archdruid&apos;s Insight</name>
+			<text>Enchant creature
+Enchanted creature gets +3/+3 and has trample.
+Whenever enchanted creature deals combat damage to a player, draw two cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/212.png" num="171">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aran&apos;s Acuity</name>
+			<text>Return target permanent card from your graveyard to your hand.
+Put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/213.png" num="170">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anchor-Root Vitality</name>
+			<text>Target creature gets +X/+X until end of turn, where X is it&apos;s mana value. Put a +1/+1 counter on that creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/214.png" num="168">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Revolving Medititation</name>
+			<text>You may search your library for a card named &quot;Revolving Panic&quot; and reveal it. If you do, put it into your hand, then shuffle.
+Put a +1/+1 counter on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/215.png" num="199">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Benevolent Herd</name>
+			<text>Flying
+Whenever you cast your first spell during each opponent&apos;s turn, you gain 1 life and scry 1.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/216.png" num="213">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Sheep</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drench</name>
+			<text>Emerge {2}{U}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Target creature an opponent controls gets -2/-4 until end of turn.
+If you&apos;ve sacrificed a creature this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/217.png" num="218">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Excrutiating Voice</name>
+			<text>Each player discards a card.
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/218.png" num="219">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Leyline Channeler</name>
+			<text>Creatures you control have &quot;Heroic — Whenever you cast a spell that targets this creature, it deals 2 damage to each opponent.&quot;</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/219.png" num="224">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idol of Harmony</name>
+			<text>Anomalies you cast cost {2} less to cast. (Anything with multiple card types is an anomaly.)
+As long as you control six or more anomalies, this permanent is a 6/6 Elemental Avatar creature in addition to its other types.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/220.png" num="222">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mightsoul Samurai</name>
+			<text>Lifelink, lurk {2} (Defending player can&apos;t block this creature unless they pay {2}.)
+This creature&apos;s power and toughness are each equal to the greatest mana value among permanents you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/221.png" num="225">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Samurai Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>*/*</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knorguer, Saccloc</name>
+			<text>Vigilance
+Whenever you sacrifice a permanent, choose one — 
+• Tap target permanent.
+• Target player mills a card.
+• Each opponent loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/222.png" num="223">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dragon Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shadowflock</name>
+			<text>Flying
+Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, create two 1/1 black Bird creature tokens with flying and decayed.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/223.png" num="230">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related count="2">Bird LEF</reverse-related>
+		</card>
+		<card>
+			<name>Alarming Alteration</name>
+			<text>Distribute a menace counter, a trample counter, and a deathtouch counter among up to three target creatures. For each counter put on a creature this way, that creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/224.png" num="209">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Honourable Bushido</name>
+			<text>Creatures you control get +3/+0 as long as you&apos;ve cast three or more spells this turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/225.png" num="221">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soltari Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Klashpeak Stinger</name>
+			<text>This spell deals 1 damage to any target.
+Elicit creature {R} (You may cast this as a creature instead of as an instant creature for {R}, it resolves without the above effects.)
+This creature can&apos;t block.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/226.png" num="151">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Elemental Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Klashpeak Crusader</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, create a 1/1 red Soltari Samurai creature token with &quot;Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn.&quot;</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/227.png" num="150">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Soltari Samurai LEF</reverse-related>
+		</card>
+		<card>
+			<name>Firemane Hyena</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets +1/+1 until end of turn. Then if it&apos;s the third time this ability has resolved this turn, add {R}{R}{R}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/228.png" num="141">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Hyena</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chainfiend</name>
+			<text>Haste
+Other anomalies you control have haste. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/229.png" num="136">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Boastful Battlemage</name>
+			<text>Whenever this creature attacks, copy the next instant or sorcery spell you cast this turn if it targets this creature. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/230.png" num="133">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heroic Spearmagus</name>
+			<text>Heroic — Whenever you cast a spell that targets this creature, it deals 1 damage to each opponent.
+Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature deals 1 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/231.png" num="147">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodflare</name>
+			<text>This spell costs {4}{R} less to cast if it targets creatures controlled by different players.
+This spell deals 4 damage to each of up to two target creatures.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/232.png" num="132">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flip of Allegiance</name>
+			<text>This spell costs {2} less to cast if it targets a creature with heroic.
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/233.png" num="144">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unanchored Richual</name>
+			<text>Create a Treasure token for each anomaly you control. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/234.png" num="164">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blitz Infusion</name>
+			<text>Blitz Infusion deals 2 damage to any target.
+Until end of turn, instant and sorcery spells you cast have &quot;This spell deals 1 damage to any target&quot; in addition to their other effects.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/235.png" num="131">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blazing Axe</name>
+			<text>Equipped creature gets +2/+0 and has haste.
+Whenever you cast a spell that targets a creature you control, you may attach this Equipment to that creature.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/236.png" num="128">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Revolving Panic</name>
+			<text>You may search your library for a card named &quot;Revolving Dread&quot; and reveal it. If you do, put it into your hand, then shuffle.
+You may draw a card. If you do, discard a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/237.png" num="158">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ravencaller</name>
+			<text>Flying
+{1}{U}, {T}, Sacrifice this creature: Create a number of 1/1 black Bird creature tokens with flying and decayed equal to the greatest mana value among permanents you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/238.png" num="68">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Bird LEF</reverse-related>
+		</card>
+		<card>
+			<name>Spellatog</name>
+			<text>Put an instant or sorcery spell you control into your graveyard: This creature gets +1/+1 until end of turn.
+Exile an instant or sorcery card from your graveyard: This creature gets +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/239.png" num="76">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Atog</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idol of Benthic Secrets</name>
+			<text>When this creature dies, you may cast an instant or sorcery spell with mana value 3 or less from your hand without paying it&apos;s mana cost.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/240.png" num="59">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Snail Nymph</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hereditary Heron</name>
+			<text>Flying
+Whenever this creature dies, creatures you control gain flying until the end of your next turn.
+Whenever this creature is sacrificed, put a flying counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/241.png" num="58">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dragger of Depths</name>
+			<text>Until end of turn, whenever a creature you control deals combat damage, target player mills that many cards.
+Elicit sorcery {1}{U}{U} (You may cast this as a sorcery instead of as a sorcery creature for {1}{U}{U}, putting it into the graveyard as it resolves.)
+{3}{U}{U}: This creature can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/242.png" num="52">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Driftmuller</name>
+			<text>Draw two cards.
+Elicit sorcery {2}{U} (You may cast this as a sorcery instead of as a sorcery creature for {2}{U}, putting it into the graveyard as it resolves.)
+Flying</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/243.png" num="54">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Revoke Access</name>
+			<text>Counter target spell. Creatures your opponents control get -2/-0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/244.png" num="71">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Storm Shield</name>
+			<text>For each spell and ability your opponent controls, counter it unless they pay {2}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/245.png" num="80">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thirst for Acknowledgement</name>
+			<text>Draw three cards, then discard two cards unless you discard an instant or sorcery card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/246.png" num="83">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spritevix&apos;s Retrieveal</name>
+			<text>Return up to one target instant card and up to one target sorcery card from your graveyard to your hand, then exile this spell.
+Whenever you discard this card, you may pay {U}{U} and exile it. If you do, return target instant or sorcery card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/247.png" num="79">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hatching the Spritevix</name>
+			<text>Emerge {X}{U}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature&apos;s mana value.)
+Gain control of target creature if its power is 3 or less. If the emerge cost was paid, gain control of that creature if its power is X or less instead.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/248.png" num="57">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Revolving Insight</name>
+			<text>You may search your library for a card named &quot;Revolving Arts&quot; and reveal it. If you do, put it into your hand, then shuffle.
+Tap or untap target permanent.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/249.png" num="72">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Collective Ideals</name>
+			<text>Each player draws three cards, then puts two cards from their hand on top of their library.
+Create a 1/1 white Soldier creature token.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/250.png" num="17">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Soldier LEF</reverse-related>
+		</card>
+		<card>
+			<name>Voidliss Sky-Serpent</name>
+			<text>Protection from anomalies (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything with multiple card types.)
+This creature has flying as long as it&apos;s attacking.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/251.png" num="44">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Serpent</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspiring Bannerette</name>
+			<text>Untap up to one target creature and up to one target anomaly. (Anything with multiple card types is an anomaly.)
+Elicit creature {1}{W} (You may cast this as a creature instead of as an instant creature for {1}{W}, it resolves without the above effects.)
+First strike</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/252.png" num="8">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mild Mystic</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/253.png" num="28">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skviper Skimmer</name>
+			<text>You draw a card and gain 1 life.
+Elicit instant {W} (You may cast this as an instant instead of as an instant creature for {W}, putting it into the graveyard as it resolves.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/254.png" num="36">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tale Weaver</name>
+			<text>Whenever you cast your first instant or sorcery spell each turn, create two 1/1 white Soldier creature tokens.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/255.png" num="39">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related count="2">Soldier LEF</reverse-related>
+		</card>
+		<card>
+			<name>Lathinia, Metalwinged</name>
+			<text>Flying
+Whenever Lathinia or another nontoken anomaly you control enters, you may pay {RG}. If you do, create a 2/2 green Beast enchantment creature token. (Anything with multiple card types is an anomaly.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/256.png" num="27">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Idol of Decrees</name>
+			<text>Vigilance
+Whenever this creature dies, the next spell you cast this turn can be cast as though it had flash.
+Whenever this creature is sacrificed, your opponents can&apos;t cast more than one spell until your next turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/257.png" num="26">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wise Lichtmancer</name>
+			<text>Magecraft — Whenever you cast or copy an instant or sorcery spell, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/258.png" num="45">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Soltari Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defrock</name>
+			<text>This spell deals 3 damage to target attacking or blocking creature. Until end of turn that creature loses all abilities and assigns combat damage equal to its base power.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/259.png" num="19">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Giant&apos;s Axe</name>
+			<text>Equipped creature gets +4/+2 and has vigilance.
+Equip {8}, This costs {X} less to equip, where X is the greatest mana value among other permanents you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/260.png" num="24">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rematerialize</name>
+			<text>Cast any number of target creatures from your graveyard with total toughness 3 or less without paying their mana cost.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/261.png" num="34">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Astral Barrage</name>
+			<text>Tap target permanent.
+Draw a card.
+Until end of turn, instant and sorcery spells you cast have &quot;Tap target permanent&quot; in addition to their other effects.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/262.png" num="9">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Revolving Arts</name>
+			<text>You may search your library for a card named &quot;Revolving Meditation&quot; and reveal it. If you do, put it into your hand, then shuffle.
+Target creature gains hexproof until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/263.png" num="35">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodfell Caves</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/264.png" num="244">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Sands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/265.png" num="245">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dismal Backwater</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/266.png" num="247">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rugged Highlands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/267.png" num="251">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Cove</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/268.png" num="252">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kefus, the Scribe</name>
+			<text>Whenever you cast a spell with mana value 4 or greater, draw a card.
+{1}{GW}: Another target permanent with mana value 4 or greater gains hexproof until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/269.png" num="60">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elemental Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kleefoff, Essence Looter</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, the next instant or sorcery spell you cast this turn cost {R}(or {1}) less to cast.
+{1}{UB}: Mill two cards, then you may discard a card to put an instant or sorcery card milled this way into your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/270.png" num="152">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Minotaur Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Distilled Essence</name>
+			<text>Whiz — Whenever an instant or sorcery card is put into your graveyard, if it wasn&apos;t cast, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/271.png" num="239">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hunting Saakstalker</name>
+			<text>Up to one target creature gets +X/-X until end of turn, where X is the greatest mana value among permanents you control.
+Elicit sorcery {2}{B} (You may cast this as a sorcery instead of as a sorcery creature for {2}{B}, putting it into the graveyard as it resolves.)
+Menace</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/272.png" num="104">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augur of Soul</name>
+			<text>Whenever you cast a spell with mana value 3 or more, target player mills 3 cards.
+Whenever you cast a spell with mana value 5 or more, you gain 3 life.
+Whenever you cast a spell with mana value 7 or more, create a 3/3 green beast enchantment creature token.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/LEF-files/img/273.png" num="212">LEF</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

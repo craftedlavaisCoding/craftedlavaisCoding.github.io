@@ -4081,5 +4081,6 @@
             "rotated": false,
             "notes": "https://www.artstation.com/artwork/mq5y8E\n\n\nOG_1: Costed W\nExile target creature. That creature's controller creates a 1/1 white Soldier creature token with lifelink if you control no enchantments, and another 1/1 white Soldier creature token with lifelink if you control no artifacts."
         }
-    ]
+    ],
+    "version": 5
 }

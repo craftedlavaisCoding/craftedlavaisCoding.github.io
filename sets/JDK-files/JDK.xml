@@ -1,0 +1,5328 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>JDK</name>
+			<longname>Jardeka, Age of Rust</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-16</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/0.png" num="305">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/1.png" num="306">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/2.png" num="307">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/3.png" num="299">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/4.png" num="300">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/5.png" num="303">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/6.png" num="304">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/7.png" num="297">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/8.png" num="298">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/9.png" num="302">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/10.png" num="301">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Terramorphic Expanse</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/11.png" num="293">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Cove</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/12.png" num="295">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dismal Backwater</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {B}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/13.png" num="285">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bloodfell Caves</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/14.png" num="280">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rugged Highlands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {G}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/15.png" num="289">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Sands</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/16.png" num="281">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scoured Barrens</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {W} or {B}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/17.png" num="290">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swiftwater Cliffs</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/18.png" num="292">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jungle Hollow</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/19.png" num="287">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wind-Scarred Crag</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {R} or {W}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/20.png" num="296">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thornwood Falls</name>
+			<text>This land enters tapped.
+When this land enters, you gain 1 life.
+{T}: Add {G} or {U}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/21.png" num="294">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lupa, the Metallophage</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/22.png" num="252">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Fungus</type>
+				<maintype>Creature</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bolstering Scrapling</name>
+			<text>This creature enters with a +1/+1 counter.
+{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/23.png" num="232">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Implant Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rattling Sentry</name>
+			<text>{4}, {T}, Sacrifice this creature: It deals 4 damage to target attacking or blocking creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/24.png" num="259">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rabid Striker</name>
+			<text>Whenever this creature attacks while you control three or more artifact creatures, it gains double strike until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/25.png" num="258">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Parcelk</name>
+			<text>Trample
+{1}{R}, Exile this card from your graveyard: Discard a card, then draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/26.png" num="257">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elk</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Toolsmith Courier</name>
+			<text>When this creature enters, you may pay {X}. If you do, search your library for an Equipment card with mana value X or less and put it onto the battlefield, then shuffle.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/27.png" num="274">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trashore Freighter</name>
+			<text>When this creature dies, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
+{8}, Exile this card from your graveyard: Draw two cards, then discard a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/28.png" num="276">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Voltaic Construct</name>
+			<text>Proficiency — Whenever this creature becomes a target of an ability you control, untap it. Each ability source triggers this only once each turn.
+{T}: You gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/29.png" num="279">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abandoned Walker</name>
+			<text>Whenever you put a counter on this creature or cast a spell, this creature gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/30.png" num="229">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Old World Guardian</name>
+			<text>This spell costs {1} less to cast for each kind of counter among permanents you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/31.png" num="256">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Filtering Star</name>
+			<text>{1}, {T}: Add two mana in any combination of colors.
+ {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/32.png" num="244">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rusty Gauntlet</name>
+			<text>When this artifact enters, target opponent loses 3 life.
+Equipped creature gets +5/+5.
+Equip {5}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/33.png" num="262">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Universal Corrosive</name>
+			<text>{5}, {T}, Sacrifice this artifact: Exile target permanent with mana value 3 or greater.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/34.png" num="277">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flensing Jar</name>
+			<text>{T}, Sacrifice this artifact: Exile target player&apos;s graveyard.
+{1}, {T}, Sacrifice this artifact: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/35.png" num="245">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scavenged Supplies</name>
+			<text>When this artifact enters, draw a card.
+{3}, {T}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/36.png" num="263">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Coalpower Gauntlet</name>
+			<text>Equipped creature gets +1/+0 and has lurk {1}. (Defending player can&apos;t block that creature unless they pay {1})
+Equip {2}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/37.png" num="236">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Metalshroom</name>
+			<text>{2}, {T}, Sacrifice this artifact: You gain 3 life.
+{W}, Exile this artifact: Create a 1/1 colorless Saproling Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/38.png" num="253">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related>Saproling Construct JDK</reverse-related>
+		</card>
+		<card>
+			<name>Cyclic Vessel</name>
+			<text>This artifact enters with a +1/+1 counter.
+{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.
+When this artifact is put into a graveyard from the battlefield, you may pay {U}. If you do, return it to the battlefield with a finality counter.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/39.png" num="242">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Implant</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sedative Darts</name>
+			<text>When this artifact enters, draw a card, then discard a card.
+{1}, {T}, Sacrifice this artifact: Put a stun counter on target creature.
+{B}, {T}, Sacrifice this artifact: Target creature gets -1/-1 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/40.png" num="266">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dormant Tallmer</name>
+			<text>{X}: This artifact becomes a X/X Construct artifact creature until end of turn.
+{1}{G}: Put a +1/+1 counter on this artifact.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/41.png" num="243">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Consumerist Spirit Guide</name>
+			<text>Exile this from your hand: Add {C}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/42.png" num="240">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scuttling Bronzeplate</name>
+			<text>When this creature enters or dies, you mill two cards and gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/43.png" num="111">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mite</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junkshore Fisherman</name>
+			<text>As long as this creature is equipped, it has &quot;Lurk—Pay 3 life&quot;. (Defending player can&apos;t block this creature unless they pay 3 life.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/44.png" num="98">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vampiric Strider</name>
+			<text>When this creature enters, create an Implant token with a lifelink counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/45.png" num="118">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vampire Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Shearing Rager</name>
+			<text>When this creature enters, if you control three or more artifact creatures, you lose 1 life and draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/46.png" num="112">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deathblade</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, it gains your choice of deathtouch or menace until end of turn. Each ability source triggers this only once each turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/47.png" num="89">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pillabegg Scavengers</name>
+			<text>When this creature enters, if you have five or more different mana values among cards in your graveyard, each opponent loses 4 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/48.png" num="106">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Furnace-Coals Hunter</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, each opponent loses 1 life and you gain 1 life. Each ability source triggers this only once each turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/49.png" num="93">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Trashore Racketeer</name>
+			<text>When this creature dies, you may attach target Equipment you control to target creature you control.
+Exile this card from your graveyard: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/50.png" num="116">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junksniffter</name>
+			<text>Flying
+When this creature enters, mill three cards.
+This creature gets +1/+0 for each different mana value among cards in your graveyard.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/51.png" num="99">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Drake</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Blade</name>
+			<text>When this Equipment enters, destroy target creature an opponent controls.
+Equipped creature gets +4/+2 and has deathtouch.
+Equip {6}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/52.png" num="108">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Junkyard Hunt</name>
+			<text>Exile target creature if it has mana value 3 or less or if you have five or more different mana values among cards in your graveyard.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/53.png" num="101">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bleed Out</name>
+			<text>Target nonartifact creature gets -3/-3 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/54.png" num="83">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thousand Cuts</name>
+			<text>This spell deals X damage to target creature or planeswalker and you gain X life, where X is 1 plus the number of Equipment you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/55.png" num="115">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Junksea Reclaiming</name>
+			<text>Choose one or both —
+• Return target creature from your graveyard to your hand.
+• Return target artifact creature from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/56.png" num="97">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Divestion Blade</name>
+			<text>When this Equipment enters the battlefield, each opponent discards a card.
+Equipped creature gets +1/+0.
+Equip {2}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/57.png" num="90">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cleaver&apos;s Carpace</name>
+			<text>Equipped creature gets +3/+3 and has &quot;Lurk—Pay 3 life.&quot;(Defending player can&apos;t block that creature unless they pay 3 life.)
+Equip {2}
+{B}, Discard this card: Create a 1/1 green Insect creature token.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/58.png" num="86">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related>Insect JDK</reverse-related>
+		</card>
+		<card>
+			<name>Lethal Prowess</name>
+			<text>Target creature you control gets +1/+1 and gains lifelink and deathtouch until end of turn. If that creature is the target of an activated ability you control, instead put a +1/+1, a lifelink, and a deathtouch counter on it.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/59.png" num="102">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mulchpot</name>
+			<text>{2}{G}, Exile this card from your graveyard: Put a +1/+1 counter and a reach counter on target creature you control. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/60.png" num="178">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verdantho Lizard</name>
+			<text>When this creature enters or dies, mill a card, then return a land card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/61.png" num="200">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Toolsmith Apprentice</name>
+			<text>This creature gets +2/+0 as long as it&apos;s modified. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/62.png" num="195">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ruins Ranger</name>
+			<text>This creature can&apos;t be blocked by more than one creature.
+Whenever this creature attacks, it gets +1/+0 until end of turn for each kind of counter among permanents you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/63.png" num="186">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pillabegg Elder</name>
+			<text>This creature can block an additional creature each combat.
+Sacrifice a permanent: This creature gets +3/+3 until end of turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/64.png" num="181">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Piled-Up Junkshell</name>
+			<text>When this equipment enters, create a 5/5 green Crab creature token and attach this equipment to it.
+Equipped creature gets -2/-2.
+Equip {6}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/65.png" num="180">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Basilisker</name>
+			<text>When this creature enters, create an Implant token with a deathtouch counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/66.png" num="163">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rouge</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Kybertusk Mammoth</name>
+			<text>This creature enters with three +1/+1 counters and a reach counter on it.
+When this creature dies, create an Implant token and put this creature&apos;s counters on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/67.png" num="177">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Steelgrazing Goat</name>
+			<text>Vigilance
+Whenever this creature enters or attacks, you may sacrifice a permanent. If you do, draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/68.png" num="192">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junkbelly</name>
+			<text>This creature costs {1} less to cast for each different mana value among cards in your graveyard.
+When this creature enters, you gain 3 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/69.png" num="174">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Excavating the Factory</name>
+			<text>Enchant creature
+Whenever enchanted creature deals combat damage to a player, reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield tapped and the rest into your graveyard.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/70.png" num="169">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grow From Steel</name>
+			<text>Enchant permanent you control.
+Enchanted permanent has ward {1} and &quot;{T}: Add two mana in any combination of colors your lands can produce.&quot;</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/71.png" num="170">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Atomize</name>
+			<text>Destroy target artifact or enchantment.
+Create an Implant token with a trample counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/72.png" num="162">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Pillabegg Probiota</name>
+			<text>Enchant creature
+Whenever this aura enters or leaves the battlefield, search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+Enchanted creature gets +1/+0.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/73.png" num="182">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jawlock</name>
+			<text>As an additional cost to casting this spell, you may sacrifice an artifact. If you do, this spell costs {2} less to cast.
+Target creature you control deals damage equal to its power to target creature an opponent controls.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/74.png" num="173">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cybernetic Might</name>
+			<text>Flash
+Enchant creature
+This spell costs {1} less to cast for each permanent you&apos;ve sacrificed this turn.
+Enchanted creature gets +4/+4.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/75.png" num="166">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trashore Trawl</name>
+			<text>Mill three cards. Put a permanent card from among the milled cards into your hand.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/76.png" num="197">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blast Furnace Beetle</name>
+			<text>When this creature enters, add {R}{R}. You can&apos;t spend this mana on casting nonartifact spells.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/77.png" num="124">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junker Man</name>
+			<text>Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.
+{2}, {T}, Sacrifice a creature or artifact: This creature deals 2 damage to each opponent.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/78.png" num="139">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrappy Automaton</name>
+			<text>When this creature dies, return it to the battlefield with a finality counter.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/79.png" num="155">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crucible Juggernaut</name>
+			<text>Whenever this creature attacks while you control three or more artifact creatures, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/80.png" num="130">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Arc-Talon Lacerator</name>
+			<text>When this creature enters, create an Implant token with a first strike counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
+This creature can&apos;t block.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/81.png" num="122">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Junksea Artillerist</name>
+			<text>When this creature enters, it deals 1 damage to each opponent.
+Clang — Whenever an artifact enters under your control, it deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/82.png" num="141">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slag Cruciblair</name>
+			<text>When this creature enters, create an Implant token with a menace counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
+This creature can&apos;t attack unless you&apos;ve sacrificed a permanent this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/83.png" num="156">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Lizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Met-A110 Moth</name>
+			<text>This creature has flying as long as it&apos;s attacking.
+This creature has haste as long as you control three or more artifact creatures.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/84.png" num="143">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smokewagg</name>
+			<text>Ward—Pay 2 life (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 2 life.)
+Clang — Whenever an artifact enters under your control, target creature can&apos;t block until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/85.png" num="159">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Brushwagg</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Automaton Arc-Flamer</name>
+			<text>This spell deals X damage to target creature or planeswalker, where X is 2 plus the number of artifact creatures you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/86.png" num="123">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Transmute Thermite</name>
+			<text>Transmute Thermite deals 6 damage to target creature. Exile all Equipment attached to that creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/87.png" num="160">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Imminent Missile</name>
+			<text>As an additional cost to cast this spell, sacrifice a permanent.
+This spell deals 3 damage to any target.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/88.png" num="137">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Pugilist&apos;s Prize</name>
+			<text>When this artifact enters, creatures you control get +1/+0 until end of turn.
+{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/89.png" num="148">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Rushed Rerpurposing</name>
+			<text>Exile an artifact card from your graveyard and the top card of your library. Until the end of your next turn you may play those cards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/90.png" num="154">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slagful Slam</name>
+			<text>This spell costs {2} less to cast if it targets an artifact creature.
+Target creature gets +3/+0 until end of turn. Put a +1/+1 counter on that creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/91.png" num="157">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reforge</name>
+			<text>Destroy target artifact. If you controlled that artifact, draw two cards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/92.png" num="149">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Blinding Flare</name>
+			<text>Target creature can&apos;t block this turn.
+Exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/93.png" num="126">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Licensed Larcenist</name>
+			<text>Whenever this creature deals combat damage to a player, draw a card if there are three or more kinds of counters among permanents you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/94.png" num="63">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artserphlan Citizen</name>
+			<text>Clang — Whenever an artifact enters under your control, scry 1.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/95.png" num="43">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Draining Festerspark</name>
+			<text>When this creature enters, create an Implant token with a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/96.png" num="50">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Triage Tri-Arm</name>
+			<text>Flash
+When this creature enters, attach target Equipment you control to target creature you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/97.png" num="77">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prime Pugilist</name>
+			<text>This creature gets +1/+1 for each equipment attached to it.
+Clang — Whenever an artifact enters under your control, you may swap this creature&apos;s power and toughness until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/98.png" num="71">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Ape Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drakepost Parcel</name>
+			<text>When this Equipment enters, create a 2/2 blue Drake creature token with flying and attach this equipment to it.
+Equipped creature gets +1/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/99.png" num="51">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tort Artificer</name>
+			<text>When this creature enters, create an Implant token with a shield counter, then scry X, where X is the number of kinds of counters among permanents you control. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/100.png" num="76">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Spliceblade Rogue</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Lurk {3} (Defending player can&apos;t block this creature unless they pay {3}.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/101.png" num="75">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Quatril Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leopard Drone Hunter</name>
+			<text>When this creature enters, create an Implant token with a hexproof counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/102.png" num="62">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cat Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Portable Barricade</name>
+			<text>When this Equipment enters, create a colorless 0/1 Servo artifact creature token and attach this to it.
+Equipped creature gets +0/+4.
+Equip {3}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/103.png" num="70">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related>Servo JDK</reverse-related>
+		</card>
+		<card>
+			<name>Quick Revision</name>
+			<text>As an additional cost to casting this spell, return an artifact you control to its owner&apos;s hand or pay {U}.
+Counter target spell.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/104.png" num="72">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fuel Freeze</name>
+			<text>Counter target artifact or creature spell unless its controller pays {3}. If they do, tap target artifact or creature that player controls.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/105.png" num="54">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Artificer&apos;s Assertion</name>
+			<text>If an artifact entered the battlefield under your control this turn, scry 2.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/106.png" num="42">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wing Servos</name>
+			<text>Return target creature to its owner&apos;s hand.
+You may move a counter from a permanent you control onto target permanent you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/107.png" num="80">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hitreg</name>
+			<text>Until end of turn, target artifact or creature becomes a 4/5 artifact creature.
+Draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/108.png" num="56">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Drawn Blade</name>
+			<text>When this Equipment enters, draw a card.
+Equipped creature gets +1/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/109.png" num="52">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Holographm Umbra</name>
+			<text>Create a token that&apos;s a copy of target artifact or creature you control. Then that permanent phases out until that token leaves the battlefield. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/110.png" num="59">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Strikesmith</name>
+			<text>Clang — Whenever an artifact enters under your control, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/111.png" num="38">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dwarftificer</name>
+			<text>When this creature enters, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/112.png" num="8">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Dewmoth</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, put a +1/+1 counter on it. Each ability source triggers this only once each turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/113.png" num="7">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Farmword</name>
+			<text>Flying
+When this creature enters, search your library for a basic Plains card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/114.png" num="10">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Peasant</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sandpeaks Cleric</name>
+			<text>Lifelink
+This creature enters with a +1/+1 counter if you control a modified creature. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/115.png" num="35">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mutant Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heiromancer Hologram</name>
+			<text>When this creature enters, draw a card. Then if you don&apos;t control a modified creature, put a card from your hand on the bottom of your library.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/116.png" num="12">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cleric Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightstep Ascetic</name>
+			<text>This creature can&apos;t be blocked by creatures with power 3 or greater.
+{1}, {T}: Until end of turn, target creature you control can&apos;t be blocked by creatures with power 3 or greater.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/117.png" num="16">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sable Drone Recon</name>
+			<text>When this creature enters, create two Implant tokens with +1/+1 counters. (They&apos;re token artifacts with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/118.png" num="34">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Antelope Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related count="2">Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Rune-Etch Artificer</name>
+			<text>Clang — Whenever an artifact enters under your control, put a +1/+1 counter on this creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/119.png" num="33">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Moonmoth Steed</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, it gets your choice of flying, first strike, vigilance, or lifelink until end of turn. Each ability source triggers this only once each turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/120.png" num="21">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smite the Unlicensed</name>
+			<text>Destroy target creature with power or toughness 4 or greater.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/121.png" num="37">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Projectile Energy Shield</name>
+			<text>Target artifact or creature you control gains indestructible until end of turn.
+Scry 2.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/122.png" num="27">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Reforging Binding</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack or block.
+Tap three untapped artifacts you control: Exile enchanted creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/123.png" num="31">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>On Patrol</name>
+			<text>Enchant creature you control.
+When this Aura enters, untap target permanent.
+Enchanted creature has vigilance and &quot;{T}: Tap target creature.&quot;</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/124.png" num="25">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Moonlight Mothering</name>
+			<text>Enchant creature
+Enchanted creature gets +2/+2 and has flying.
+You may cast this card from your graveyard for {3}{W}{W}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/125.png" num="20">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Protective Holographm</name>
+			<text>Return target artifact or creature you control to its owner&apos;s hand.
+You gain 2 life.
+{1}{W}, Discard this card: Put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/126.png" num="28">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gone to History</name>
+			<text>Exile target artifact, enchantment, or card from a graveyard. You gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/127.png" num="11">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steelstorm Conduit</name>
+			<text>This artifact enters with X nanite counters.
+You may cast artifact spells with mana value less than or equal to the number of nanite counters on this artifact without paying their mana cost.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/128.png" num="271">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>XXX</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sword of One and Many</name>
+			<text>Equipped creature gets +2/+2 and has protection from legendary and from tokens.
+Whenever equipped creature deals combat damage to a player, create a copy of target token. The next legendary spell you cast this turn costs {3} less to cast.
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/129.png" num="272">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Astro, Wonder Wielder</name>
+			<text>[+1]: Until end of turn, Astro becomes a 2/2 Spirit creature with indestructible. Attach up to one target Equipment you control to it.
+[-6]: Search your library and graveyard for any number of Equipment cards, put them onto the battlefield, then shuffle.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/130.png" num="1">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Astro</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<loyalty>2</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assimilate</name>
+			<text>Enchant creature
+You control enchanted creature.
+Whenever enchanted creature dies, you control target opponent during their next turn.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/131.png" num="82">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grrr, Interplanar Armsdealer</name>
+			<text>Affinity for equipment. (This spell costs {1} less to cast for each equipment. you control.)
+[+1]: Mill four cards. You may put a card and up to one other Equipment card from among them into your hand.
+[-X]: Each creature gets -X/-X until end of turn.
+[-7]: You get an emblem with &quot;At the beginning of your precombat main phase, add {B} for each Swamp and Equipment you control.&quot;</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/132.png" num="94">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Grrr</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>5BB</manacost>
+				<cmc>7</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>5</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Konzah, Gastropod Proficcionado</name>
+			<text>[+2]: Create a 1/1 green Slug creature token. Then you may sacrifice an artifact. If you do, create another 1/1 green Slug creature token.
+[0]: You may sacrifice a Slug. If you do, return target permanent card from your graveyard to your hand. Otherwise, you gain 3 life.
+[-9]: Put any number of permanents with different mana values from your hand onto the battlefield.
+[1]:</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/133.png" num="176">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Konzah</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Semblance of Prosperity</name>
+			<text>Whenever a nontoken land enters under your control, create a token that&apos;s a copy of it, except it&apos;s an Implant artifact in addition to its other types with a +1/+1 counter on it and &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/134.png" num="188">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Witness the End</name>
+			<text>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner&apos;s control. Then if it&apos;s the only creature on the battlefield, you gain 3 life and draw three cards.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/135.png" num="228">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Behel, Unliving Weapon</name>
+			<text>As an additional cost to cast Behel, sacrifice an Equipment.
+Deathtouch
+Treat Behel as though it&apos;s equipped with each Equipment card in your graveyard.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/136.png" num="203">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Furnace-Coals Reaper</name>
+			<text>Lurk—Pay 5 life. (Defending player can&apos;t block this creature unless they pay 5 life in addition to any other costs.)
+Whenever an artifact creature you control dies, each opponent sacrifices a creature.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/137.png" num="212">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Specter</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBR</manacost>
+				<cmc>6</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Breach the Factory</name>
+			<text>Exile the top two cards of your library. You may play those cards until end of turn.
+You may play an additional land this turn.
+Whenever you sacrifice your third permanent each turn, return this card from your graveyard to your hand.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/138.png" num="204">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Illusion of Peace</name>
+			<text>Modified permanents you control have hexproof and indestructible as long as you haven&apos;t blocked or cast a spell this turn. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/139.png" num="214">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deep Strata Pressure</name>
+			<text>Destroy target nonland permanent with mana value less than or equal to twice the number of different mana values in your graveyard.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/140.png" num="208">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Symmetric Warfare</name>
+			<text>Whenever a nonland permanent you control is put into a graveyard from play, each opponent sacrifices a permanent that shares a type with it.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/141.png" num="225">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MMx2, The Factory</name>
+			<text>When MMx2, The Factory enters, create a Treasure token, a Clue token, and a Food token.
+At the beginning of your upkeep, for each other artifact you control, create a token that is a copy of that artifact. You lose 1 life for each token created this way.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/142.png" num="218">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UBRG</manacost>
+				<cmc>4</cmc>
+				<colors>UBRG</colors>
+				<coloridentity>UBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Apocalypse Then</name>
+			<text>Separate all nontoken permanents into one of two piles at random. Choose one of those piles. Destroy all permanents in the chosen pile.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/143.png" num="121">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5RR</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Retrofitter&apos;s Ritual</name>
+			<text>Add {R}{R}{R}{R}. You can&apos;t spend this mana to cast spells from your hand.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/144.png" num="152">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ayesha, Lost Embrace</name>
+			<text>Flying, vigilance, phasing
+You can cast Ayesha from anywhere that isn&apos;t your hand. (You can&apos;t cast her if you don&apos;t know where she is.)
+If Ayesha would die, return her to her owner&apos;s hand instead of putting her into the graveyard instead.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/145.png" num="46">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Behel&apos;s Escalating Machinations</name>
+			<text>Equipment spells you cast have cascade. (When you cast a spell with cascade, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/146.png" num="47">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reflective Hulk</name>
+			<text>As this creature enters, choose a card name other than &quot;Reflective Hulk&quot;.
+Whenever another source with the chosen name would deal damage, prevent that damage. When damage is prevented this way, this creature deals that much damage to any other target.</text>
+			<set rarity="mythic" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/147.png" num="30">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Goldigarch</name>
+			<text>Flying
+Whenever The Goldigarch attacks, put two +1/+1 counters on each artifact creature, Vehicle, and Implant you control.
+Crew 3</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/148.png" num="247">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Verdant Rebreather</name>
+			<text>Whenever equipped creature attacks, you may put a land card from your hand onto the battlefield tapped. If you don&apos;t, return a land you control to your hand, draw a card, then discard a card.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/149.png" num="278">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Furnace Firestarter</name>
+			<text>Equipped creature gets +1/+1 for each artifact put into a graveyard from the battlefield this turn.
+Equip—Sacrifice an artifact.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/150.png" num="246">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crystalline Giant</name>
+			<text>At the beginning of combat on your turn, choose a kind of counter at random that this creature doesn&apos;t have on it from among flying, first strike, deathtouch, hexproof, lifelink, menace, reach, trample, vigilance, and +1/+1. Put a counter of that kind on this creature.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/151.png" num="241">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tempered Powergem</name>
+			<text>When this artifact enters, add {U}{R}{W}.
+{2}, {T}, Sacrifice this artifact: Draw a card, you gain 3 life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/152.png" num="273">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sponsored Companion</name>
+			<text>Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it.)
+When this creature enters, draw a card.
+{W}, Sacrifice this creature: You gain 1 life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/153.png" num="270">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brainial Plating</name>
+			<text>Equipped creature gets +1/+0 for each Equipment you control and each equipment card in your graveyard.
+{U}{U}: Attach this Equipment to target creature you control.
+Equip {1}</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/154.png" num="233">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Murk Shade</name>
+			<text>Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+{B}{B}: This creature gets +2/+2 and gains deathtouch until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/155.png" num="255">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Colossurs</name>
+			<text>Each creature with total power and toughness 7 or less can&apos;t block this creature.
+{1}{R}{R}: This creature gets +2/+2 and gains trample until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/156.png" num="238">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<coloridentity>R</coloridentity>
+				<pt>7/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Specimen Container</name>
+			<text>When this creature enters the battlefield, search your library for a creature card, reveal it, then shuffle and put the card on top.
+{4}{G}{G}, Sacrifice this artifact: Put a creature card from your hand onto the battlefield.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/157.png" num="269">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Serpent of the Void</name>
+			<text>This creature enters with X +1/+1 counters.
+Whenever a player would cast a spell with mana value equal to the number of +1/+1 counters on this creature, counter that spell.
+{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/158.png" num="268">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Serpent Implant</type>
+				<maintype>Creature</maintype>
+				<manacost>XX</manacost>
+				<cmc>0</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perforating Carapace</name>
+			<text>When this Equipment enters, create a 5/5 green Crab creature token and attach this equipment to it.
+Whenever a creature blocks or becomes blocked by equipped creature, its toughness becomes 1 until end of turn.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/159.png" num="105">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Junkyard Expert</name>
+			<text>This creature&apos;s power is equal to the number of different mana values among cards in your graveyard, and its toughness is equal to that number plus one.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/160.png" num="100">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>*/*+1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Darklash Flaggelant</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, target creature an opponent controls gets -1/-1 until end of turn. Each ability source triggers this only once each turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/161.png" num="88">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wraith Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acidspit Incubator</name>
+			<text>Deathtouch
+Whenever an artifact creature you control attacks, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/162.png" num="81">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Factory Wurm</name>
+			<text>Deathtouch
+While you&apos;re searching your library, you may put this this card into your graveyard from your library. When you do, you lose 1 life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/163.png" num="92">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pollution Armaments</name>
+			<text>Equipped creatures you control have lifelink, deathtouch, and menace.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/164.png" num="107">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Industry Abomination</name>
+			<text>You may pay {B} and sacrifice three artifact creatures rather than pay this spell&apos;s mana cost.
+Exile three artifact creature cards from your graveyard: Return this creature from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/165.png" num="96">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Conflict of Interest</name>
+			<text>Destroy all unequipped creatures.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/166.png" num="87">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Trashore Ogre</name>
+			<text>Ward {2}
+When this creature enters, create a green 1/1 Insect creature token for each different mana value among cards in your graveyard.
+{2}{G}{G}, Sacrifice a permanent: This creature gets indestructible until end of turn. Tap it and put a +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/167.png" num="196">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fungus Ogre</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Insect JDK</reverse-related>
+		</card>
+		<card>
+			<name>Terrabombing</name>
+			<text>For each player, destroy three target noncreature permanents they control. Each player searches their library for three basic land cards, puts them onto the battlefield, then shuffles.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/168.png" num="194">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Jade Armorer</name>
+			<text>When this creature enters, create an Implant token with X +1/+1 counters on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/169.png" num="172">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Stampeding Oxobegg</name>
+			<text>Vigilance
+Whenever this creature deals damage, create a 1/1 green Insect creature token.
+When this creature dies, until end of turn, whenever you would create a token, create three times that many tokens instead.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/170.png" num="189">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Ox</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Insect JDK</reverse-related>
+		</card>
+		<card>
+			<name>Perfect Complexion</name>
+			<text>Put a hexproof counter on target creature. It gets +1/+1 until end of turn. Remove a counter from that creature at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/171.png" num="179">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cyborgmancer</name>
+			<text>This creature gets +1/+1 for each kind of counter among permanents you control.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/172.png" num="167">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dr. Fabre, the Junkseer</name>
+			<text>Whenever one or more artifact cards are put into your graveyard from anywhere, add two mana in any combination of colors. You can&apos;t spend this mana on casting spells from your hand.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/173.png" num="168">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steel Gardener</name>
+			<text>{T}, Sacrifice a permanent: Put a land from your hand onto the battlefield. You gain 1 life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/174.png" num="190">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Deflecting Pool</name>
+			<text>{T}: Add {C} or one mana of any type that your other lands can&apos;t produce.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/175.png" num="283">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Frosted Sandpeaks</name>
+			<text>This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Mountain card and put it onto the battlefield tapped, then shuffle and add {R}.
+{T}: Add {W} or {U}.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/176.png" num="286">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sunken Conservatory</name>
+			<text>This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Forest card and put it onto the battlefield tapped, then shuffle and add {G}.
+{T}: Add {U} or {B}.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/177.png" num="291">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Remediated Outpost</name>
+			<text>This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Plains card and put it onto the battlefield tapped, then shuffle and add {W}.
+{T}: Add {B} or {R}.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/178.png" num="288">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Coastal Crash-Site</name>
+			<text>This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for an Island card and put it onto the battlefield tapped, then shuffle and add {U}.
+{T}: Add {R} or {G}.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/179.png" num="282">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>URG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dessicated Drift</name>
+			<text>This land enters tapped.
+When this land enters, you may sacrifice it. If you do, search your library for a Swamp card and put it onto the battlefield tapped, then shuffle and add {B}.
+{T}: Add {G} or {W}.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/180.png" num="284">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scaled Armorer</name>
+			<text>When this creature enters, create an Implant token with a flying counter and an Implant token with a vigilance counter.
+Clang — Whenever an artifact enters under your control, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/181.png" num="222">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Lizard Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>War Djinn</name>
+			<text>Flying
+Whenever an opponent draws a card, they lose X life and you surveil X, where X is the number of Equipment attached to this creature.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/182.png" num="226">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Djinn</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Furnacemaster Orc</name>
+			<text>Other artifact creatures you control get +2/+0.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/183.png" num="213">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Orc Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dreck Contamination</name>
+			<text>As an additional cost to casting this spell you may sacrifice any number of permanents. This spell costs {2} less to cast for each card type among permanents sacrificed this way.
+This spell deals X plus 3 damage to target creature and X minus 3 damage to target player or planeswalker. You gain X life.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/184.png" num="209">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Easy-Fix Scrapheap</name>
+			<text>This creature enters with two +1/+1 counters.
+Whenever another creature enters under your control, you may move a modification from this creature onto that creature.
+When this creature dies, return it to the battlefield with a finality counter.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/185.png" num="211">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Daggers of Dance and Death</name>
+			<text>Equipped creature gets +1/+1
+Whenever this Equipment becomes equipped to a creature, that creature gains double strike and deathtouch until end of turn.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/186.png" num="206">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Old World Engineers</name>
+			<text>Clang — Whenever an artifact enters under your control, draw a card, then discard a card unless you pay {UR}.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/187.png" num="220">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dross Digestion</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, you gain X life, where X is the number of different mana values among cards in your graveyard.
+Pay 2 life: Surveil 2.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/188.png" num="210">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Collected Clangours</name>
+			<text>Look at the top six cards of your library. You may cast two artifact cards from among them with mana value 3 or less without paying their mana cost. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/189.png" num="205">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2RW</manacost>
+				<cmc>4</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mass Reproduction</name>
+			<text>Create an Implant token with a +1/+1 counter.
+The next time you activate an ability that isn&apos;t a mana ability this turn, copy it X times, where X is the number of kinds of counters among permanents you control.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/190.png" num="217">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Old World Rockstar</name>
+			<text>Whenever this creature attacks or blocks, sacrifice a permanent.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/191.png" num="146">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blitzwing Armorer</name>
+			<text>When this creature enters, create four Implant tokens with haste counters. (They&apos;re token artifacts with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)
+Whenever a creature you control attacks, if it entered the battlefield this turn, it gains flying until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/192.png" num="127">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related count="4">Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Remelt</name>
+			<text>Exile the top four cards of your library. Remelt deals X plus 1 damage to target creature or planeswalker, where X is the total number of artifact cards you own in exile and in your graveyard. You may play an artifact card exiled this way until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/193.png" num="150">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rhoogex, the Furnace Lord</name>
+			<text>Artifact creature and Vehicle spells you cast have blitz. The blitz cost is equal to its mana cost minus {3}. Vehicles cast this way have &quot;Crew 1&quot; (If you cast a spell for its blitz cost, it gains haste and &quot;When this creature dies, draw a card&quot;. Sacrifice it at the beginning of the next end step.)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/194.png" num="153">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Immolation Automaton</name>
+			<text>This spell costs {1} less to cast for each artifact creature in your graveyard.
+Haste
+Whenever this creature becomes blocked, it deals 1 damage to each creature blocking it.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/195.png" num="138">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clangorous Militia</name>
+			<text>Clang — Whenever an artifact enters under your control, create a 1/1 white Soldier creature token. It gains haste and must attack this combat if able.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/196.png" num="128">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Furnace Knight</name>
+			<text>Clang — Whenever an artifact enters under your control, creatures you control get +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/197.png" num="135">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Replicating Ripper</name>
+			<text>Haste
+Whenever you sacrifice a permanent, you may pay {R}. If you do, create a token that&apos;s a copy of this creature. Exile that token at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/198.png" num="151">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vedalken Tinkerer</name>
+			<text>Flash
+The first noncreature artifact spell you cast each turn costs {2} less to cast.
+{3}, {T}: You may cast your next artifact spell this turn as though it has flash.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/199.png" num="78">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Override Clamp</name>
+			<text>Whenever equipped creature deals combat damage to another creature, gain control of that creature.
+Equip {6}</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/200.png" num="69">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Veiled Armorer</name>
+			<text>When this creature enters, create an Implant token with a +1/+1 counter and a flying counter.
+Permanents you control with counters on them have ward {X}, where X is the number of kinds of counters on that permanent.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/201.png" num="79">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Archon of Artifice</name>
+			<text>Flying
+Other noncreature artifacts you control are 3/3 Construct artifact creatures in addition to their other types.
+Whenever you cast an artifact spell, draw a card.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/202.png" num="41">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Archon</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mind Numbing Screech</name>
+			<text>For each permanent type, target opponent puts a permanent they control of that type on top of their library.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/203.png" num="66">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mechanical Mimic</name>
+			<text>Clang — Whenever an artifact enters under your control, you may have this creature become a copy of another target creature, except it has this ability.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/204.png" num="64">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monitor&apos;s Autopugilistar</name>
+			<text>Affinity for equipment
+When this Equipment enters, draw two cards.
+Equipped creature gets +2/+2.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/205.png" num="67">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nerveweave Swap Station</name>
+			<text>{T}: Swap target nontoken creature&apos;s power or toughness with its mana value until end of turn.
+{3}{U}{U}, {T}, Sacrifice this artifact: Swap control of two target permanents.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/206.png" num="68">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Martial Tech</name>
+			<text>Enchant creature
+Enchanted creature has vigilance and &quot;Whenever this creature attacks, tap target creature an opponent controls.&quot;
+{1}{W}{W}, Discard this card: Untap any number of target creatures. They each get +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/207.png" num="18">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Old World Flutist</name>
+			<text>Modified creatures you control get +1/+1. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/208.png" num="23">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brightlash Eggfly</name>
+			<text>Flying
+Proficiency — Whenever this creature becomes the target of an ability you control, return up to one target nonland permanent card with mana value 2 or less from your graveyard to the battlefield. Each ability source triggers this only once each turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/209.png" num="4">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>License Suspender</name>
+			<text>Clang — Whenever an artifact enters under your control, exile up to one target artifact or creature an opponent controls until this creature leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/210.png" num="15">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perfected Armormod</name>
+			<text>This artifact enters tapped with a indestructible counter on it.
+{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/211.png" num="26">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Implant</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scholar of Runes</name>
+			<text>{T}: Another target creature you control gains protection from a card type of your choice until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/212.png" num="36">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bladeblessed Angel</name>
+			<text>Flying, first strike, vigilance
+Whenever this creature attacks, create an Implant token with your choice of a flying, first strike, vigilance, or +1/+1 counter on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/213.png" num="3">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel Samurai</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Universal Engineer</name>
+			<text>Clang — Whenever an artifact enters under your control, put a +1/+1 counter on this creature. It gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/214.png" num="40">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cardboard Crustacean</name>
+			<text>This creature enters with a +1/+1 counter.
+Whenever this creature dies, if it had any counters on it, move those counters onto another target artifact or creature you control.
+{4}: Exile target card from a graveyard, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/215.png" num="234">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Crab</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Half-Chi</name>
+			<text>When this creature dies, add {C}{C}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/216.png" num="248">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ambushing Scuttler</name>
+			<text>Flash
+You may have this creature enter the battlefield tapped and attacking if you control three or more attacking artifact creatures.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/217.png" num="230">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junksea Tril-0</name>
+			<text>Trample
+This creature gets +1/+0 for each different mana value among cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/218.png" num="251">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Trilobite</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Constructed Steward</name>
+			<text>Flash
+When this creature enters, target creature you control gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/219.png" num="239">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rusted Recouper</name>
+			<text>Protection from creatures with +1/+1 counters.
+When this creature enters, create an Implant token with a +1/+1 counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/220.png" num="261">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Cobbled Automaton</name>
+			<text>When this creature dies, you may cast a card with mana value X or less from your hand without paying it&apos;s mana cost, where X is the number of kinds of counters among permanents you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/221.png" num="237">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scintilla War Machine</name>
+			<text>{3}: This creature deals 2 damage to target creature blocking it.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/222.png" num="264">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Remnant Warden</name>
+			<text>Whenever this creature deals damage, each player mills that many cards, then you may return a Equipment card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/223.png" num="260">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>6</manacost>
+				<cmc>6</cmc>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astro&apos;s Spaceblade</name>
+			<text>Flash
+When this Equipment enters, attach it to target creature you control. That creature gets +0/+3 until end of turn.
+Equipped creature gets +3/+0.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/224.png" num="231">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infomschematic Well</name>
+			<text>This spell costs {1} less to cast for each spell you&apos;ve cast this turn.
+{4}, {T}, Sacrifice this artifact: Choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/225.png" num="250">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Trash Dowsing Staff</name>
+			<text>{T}: Surveil 1.
+{1}, {T}, Exile this artifact: Shuffle any number of cards from graveyards into their owner&apos;s libraries.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/226.png" num="275">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hardgraphm Armor</name>
+			<text>Equipped creature gets +1/+1 for each counter, aura, and equipment attached to it.
+Equip {3}
+Equip modified creature {W}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/227.png" num="249">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ciphered Blade</name>
+			<text>Equipped creature gets +1/+0.
+Equip {0}
+{X}{U}, Discard this card: Counter target spell with mana value X or less.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/228.png" num="235">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Scorpion Spineclamp</name>
+			<text>Equipped creature gets +2/+0.
+Whenever equipped creature dies, draw a card.
+Equip {3}
+Equip artifact creature {B}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/229.png" num="265">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Metalshroom Foofballs</name>
+			<text>When this artifact enters or leaves the battlefield, create a 1/1 colorless Saproling Construct artifact creature token.
+{1}{R}, Sacrifice this artifact, discard your hand: Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/230.png" num="254">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related>Saproling Construct JDK</reverse-related>
+		</card>
+		<card>
+			<name>Seeding Mine</name>
+			<text>{2}, {T}, Sacrifice this artifact: Each opponent loses 3 life and you gain 3 life.
+When this card is put into your graveyard from the battlefield, you may pay {G}. If you do, return it to the battlefield as a copy of a land you control. (It loses all other types and abilities.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/231.png" num="267">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blight Troop</name>
+			<text>Deathtouch
+Proficiency — Whenever this creature becomes the target of an ability you control, it gets +1/+1 until end of turn. Each ability source triggers this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/232.png" num="84">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Resentful Smith</name>
+			<text>Whenever an artifact creature or an equipped creature you control dies, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/233.png" num="109">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wredger</name>
+			<text>Whenever this creature blocks, discard a card.
+{3}{B}, Mill two cards: Return this card from your graveyard to the battlefield. Activate only as a sorcery. This ability costs {2} less to activate if you control three or more artifact creatures.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/234.png" num="119">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zjieg, Edgelord</name>
+			<text>Equipped creatures you control get +1/+0.
+When Zjieg enters, search your library for a card, then shuffle. If it&apos;s an Equipment, you may reveal it and put it into your hand. Otherwise, put it on top of your library.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/235.png" num="120">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Scorpion</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Extortionist Cutpurse</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, target opponent discards a card. If they have no cards in hand, you draw a card instead. Each ability source triggers this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/236.png" num="91">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Smokebrock Vulture</name>
+			<text>Lurk—Pay 2 life (Defending player can&apos;t block this creature unless they pay 2 life in addition to any other costs.)
+When this creature enters, return target artifact creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/237.png" num="113">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grrr&apos;s Warhound</name>
+			<text>Whenever an Equipment you control enters, you may pay {B}. If you do, return this creature card from your graveyard to the battlefield and attach that Equipment to it.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/238.png" num="95">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merciless Rend</name>
+			<text>Exile target creature. If that creature had any counters on it, choose one and create an Implant token with that counter on it. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/239.png" num="104">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Manufacturing Defect</name>
+			<text>Choose one —
+• Remove all counters from up to three target noncreature artifacts.
+• Remove all counters from target creature. That creature gets -3/-3 until end of turn.
+• Target player discards two cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/240.png" num="103">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Under the Junk-Sea</name>
+			<text>You draw two cards and lose 2 life.
+At the beginning of your end step, if you have five or more different mana values among cards in your graveyard and you control a Swamp, you may exile this card from your graveyard. If you do, you gain 2 life and each opponent loses 2 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/241.png" num="117">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Boneforged Staff</name>
+			<text>Equipped creature gets +1/+1.
+Whenever equipped creature dies, you gain 2 life and each opponent loses 2 life.
+Equip {B}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/242.png" num="85">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Return Rearmed</name>
+			<text>Return target creature card from your graveyard to the battlefield. You may attach an Equipment you control to it.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/243.png" num="110">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sulphuric Seas</name>
+			<text>Each opponent sacrifices a creature.
+Exile this card from your graveyard: Target creature you control gets +1/+0 until end of turn. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/244.png" num="114">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Steel Soul Farie</name>
+			<text>Protection from equipment and from equipped creatures.
+{3}{G}: This creature gets +1/+0 and gains indestructible until end of turn. Tap it. This ability costs {1} less to activate for each kind of counter among permanents you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/245.png" num="191">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Farie Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Prime Forest Loamer</name>
+			<text>Whenever you cast an artifact spell, surveil 2. Then if a land card was put into your graveyard this way, you may return it to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/246.png" num="184">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Scout Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verdant Hologram</name>
+			<text>Whenever one or more counters are put on a permanent you control, if it&apos;s the first time counters have been put on that permanent this turn, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/247.png" num="198">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Acrid Hound</name>
+			<text>Whenever this creature attacks, it gets +2/+0 and gains deathtouch and indestructible until end of turn if you control eight or more lands.
+{1}{G}, {T}, Sacrifice a permanent: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/248.png" num="161">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Crashing Rhinobegg</name>
+			<text>When this creature enters the battlefield, for each permanent type, you may sacrifice a permanent of that type. Draw a card and put a +1/+1 counter on this creature for each permanent sacrificed this way.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/249.png" num="165">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Ox</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scrap Animist</name>
+			<text>When this creature enters, put four +1/+1 counters on each of up to two target noncreature artifacts you control. They become 0/0 Construct artifact creatures in addition to their other types.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/250.png" num="187">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beldram, Adaptive Automator</name>
+			<text>Ward {2}
+When Beldram enters, create an Implant token with a trample counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
+Whenever you would put a keyword counter on a creature you control, put a keyword counter and a +1/+1 counter on that creature instead.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/251.png" num="164">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Ox Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Rhinodrone Piker</name>
+			<text>When this creature enters, create an Implant token with a +1/+1 counter and a haste counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)
+Modified creatures you control can&apos;t be blocked by creatures with power 2 or less.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/252.png" num="185">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Verdant Synthesizer</name>
+			<text>Whenever this artifact enters or leaves the battlefield, mill four cards. You may put a permanent card from among them into your hand.
+Whenever you sacrifice a permanent, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/253.png" num="199">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Pin to the Ground</name>
+			<text>Choose one or both —
+• Target creature you control deals damage equal to its power to target creature with flying.
+• Target creature you control fights target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/254.png" num="183">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Interlocking Insight</name>
+			<text>Draw a card for each kind of counter among permanents you control. Then you may put a land card from your hand onto the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/255.png" num="171">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Junksea&apos;s Stampede</name>
+			<text>Creatures you control get +X/+X until end of turn, where X is the number of different mana values among cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/256.png" num="175">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Stratify the Past</name>
+			<text>If there are five or more different mana values among cards in your graveyard, you gain 5 life.
+Return up to three target cards from your graveyard to your hand. Exile this card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/257.png" num="193">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Solaris Cleaner</name>
+			<text>Lurk {1} (Defending player can&apos;t block this creature unless they pay {1}.)
+Clang — Whenever an artifact enters under your control, tap target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/258.png" num="224">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Weapons Merchant</name>
+			<text>Lurk—Pay {1} and 1 life (Defending player can&apos;t block this creature unless they pay {1} and 1 life)
+When this creature enters, each opponent loses X life and you gain X life, where X is the number of Equipment you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/259.png" num="227">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Death Machinist</name>
+			<text>Menace
+Whenever this creature attacks, exile target artifact creature card with mana value 3 or less from your graveyard. Create a token that is a copy of it that&apos;s tapped and attacking. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/260.png" num="207">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Cyborg Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rust Refiner</name>
+			<text>Whenever a player sacrifices a nontoken permanent, create a tapped Treasure token.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/261.png" num="221">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Old World Decoration</name>
+			<text>This creature costs {1} less to cast for each modified creature you control. (Equipment, Auras you control, and counters are modifications.)
+Whenever this creature enters or attacks, untap each modified creature you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/262.png" num="219">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>4GW</manacost>
+				<cmc>6</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Angle Knight</name>
+			<text>Vigilance, menace
+Proficiency — Whenever this creature becomes the target of an ability you control, creatures you control get +1/+0 until end of turn. Each ability source triggers this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/263.png" num="201">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artifizzard</name>
+			<text>Flying
+Clang — Whenever an artifact enters under your control, this creature gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/264.png" num="202">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Djinn Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Junksea Hunter</name>
+			<text>Flash
+Trample
+When this creature enters, destroy target creature an opponent controls if it was dealt damage this turn or if there are five or more mana values among cards in your graveyard.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/265.png" num="216">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scorpone Aristocrat</name>
+			<text>When this creature enters, target creature an opponent controls can&apos;t attack or block until your next turn.
+Clang — Whenever an artifact enters under your control, it deals 1 damage to up to one target creature or planeswalker and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/266.png" num="223">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>4RW</manacost>
+				<cmc>6</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Implant Enthusiast</name>
+			<text>Whenever you put a counter on a permanent you control, if this creature doesn&apos;t have a counter of that kind, you may put one on this creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/267.png" num="215">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kyberdaemon</name>
+			<text>This spell can&apos;t be countered.
+Haste
+Artifact spells you control and abilities of artifacts you control can&apos;t be countered.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/268.png" num="142">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slaghorn Rhino</name>
+			<text>Haste
+When this creature enters, target artifact creature you control gains haste and double strike until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/269.png" num="158">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Opportunistic Saprotrophy</name>
+			<text>When this artifact enters, create two 1/1 colorless Saproling Construct artifact creature tokens.
+Artifact creatures you control have haste.
+At the beginning of your end step, sacrifice an artifact.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/270.png" num="147">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related count="2">Saproling Construct JDK</reverse-related>
+		</card>
+		<card>
+			<name>Furnace Artillerist</name>
+			<text>Whenever you sacrifice your second permanent each turn, exile the top card of your library. You may play that card until the end of your next turn.
+{1}{R}, Sacrifice a permanent: Put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/271.png" num="132">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blastman</name>
+			<text>Clang — Whenever an artifact enters under your control, this creature gets +2/+0 until end of turn.
+When this creature dies, it deals damage equal to its power to any target.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/272.png" num="125">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Furnace Crawler</name>
+			<text>When this creature enters, it deals X damage to any target, where X is the number of artifact creatures you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/273.png" num="133">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glimmering Find</name>
+			<text>As an additional cost to casting this spell, you may sacrifice a permanent. If you do, this spell costs {2} less to cast.
+Exile the top two cards of your library, until the end of your next turn you may play those cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/274.png" num="136">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Molten Wellspring</name>
+			<text>When this artifact enters or leaves the battlefield, it deals 2 damage to any target.
+{3}{R}, Sacrifice this artifact: Discard a card, then draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/275.png" num="144">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forged Ferocity</name>
+			<text>Creatures you control get +3/+0 until end of turn.
+Whenever one or more creatures block this turn, create that many Treasure tokens.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/276.png" num="131">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Crucible Cannon</name>
+			<text>{2}, {T}, Sacrifice an artifact or a creature: If an artifact was sacrificed this way, this artifact deals 2 damage to target player or planeswalker. If a creature was sacrificed, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/277.png" num="129">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Furnace Flare</name>
+			<text>Choose one:
+• Furnace Flare deals 1 damage to each creature.
+• Furnace Flare deals 2 damage to each artifact creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/278.png" num="134">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Junker&apos;s Furnace</name>
+			<text>{1}, {T}: Put two charge counters on this artifact.
+{T}, Remove any number of counters from among creatures and artifacts you control: Add {C} for each counter removed this way.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/279.png" num="140">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nexus Salvage</name>
+			<text>Return target artifact card from your graveyard to the battlefield. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/280.png" num="145">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Interplanter</name>
+			<text>Lurk {1} (Defending player can&apos;t block this creature unless they pay {1}.)
+When this creature enters, create an Implant token with your choice of two different counters among vigilance, +1/+1, flying, and shield. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/281.png" num="60">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Siren Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Holographm Stalker</name>
+			<text>Clang — Whenever an artifact enters under your control, this creature gets +1/+0 until end of turn and can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/282.png" num="58">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Illusion Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glirix, Toolsmith</name>
+			<text>Equipped creatures you control get +0/+1.
+{T}: The next activated ability this turn of target artifact you control costs {0}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/283.png" num="55">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Insect Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Augur of Implants</name>
+			<text>Whenever you put a counter on this creature, draw a card, then discard a card unless that counter is a different kind from the other counters on this creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/284.png" num="45">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drone Falconer</name>
+			<text>Flying
+Protection from creatures with flying.
+When this creature enters, create an Implant token with a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/285.png" num="53">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Bird Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Metalmancer</name>
+			<text>Vigilance
+{T}, Return an artifact you own to your hand: Put an artifact card with mana value equal to 1 plus the returned artifact&apos;s mana value from your hand onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/286.png" num="65">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jardekan Techmage</name>
+			<text>You may cast artifact spells as though they have flash, and you may activate equip abilities and abilities of Implants you control whenever you could cast an instant.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/287.png" num="61">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryogen Broadsword</name>
+			<text>Equipped creature gets +4/+0 and has ward {4}.
+Whenever equipped creature attacks, tap up to one target creature. Put a stun counter on it for each kind of counter among permanents you control.
+Equip {4}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/288.png" num="48">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Holographic Insight</name>
+			<text>Draw four cards, then discard a card.
+Create an Implant token with a vigilance counter and a flying counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/289.png" num="57">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Digitalize</name>
+			<text>Counter target spell. If a permanent spell is countered this way, put it onto the battlefield as an artifact under your control. (It loses all other types.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/290.png" num="49">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shackles of Artifice</name>
+			<text>When this Equipment enters, attach it to target creature an opponent controls.
+Equipped creature gets -X/-0, where X is twice the number of Equipment you control.
+{3}{U}: Attach this equipment to target creature. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/291.png" num="73">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skyclang Jetwings</name>
+			<text>When this Equipment enters, attach it to target creature you control.
+Equipped creature has flying.
+Whenever you cast an artifact spell, equipped creature gets +1/+1 until end of turn.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/292.png" num="74">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assimilation Blade</name>
+			<text>As an additional cost to casting this spell, you may exile an Equipment card from your graveyard. If you do, copy this spell.
+Equipped creature gets +2/+0 and has ward {1}.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/293.png" num="44">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assault Trooper</name>
+			<text>{T}: Target creature you control gets +1/+0 until end of turn. Activate only on your turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/294.png" num="2">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Liscenced Scout</name>
+			<text>When this creature dies, if this creature was modified, create three 1/1 white Soldier creature tokens. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/295.png" num="17">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Old World Noble</name>
+			<text>Flying
+Protection from colorless sources your opponents control. (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything colorless your opponents control.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/296.png" num="24">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Robotics Artisan</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, tap up to one target creature. Each ability source triggers this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/297.png" num="32">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Quatril Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Derelict Sentinel</name>
+			<text>Clang — Whenever an artifact enters under your control, you gain 1 life. If it&apos;s the second time this ability has resolved this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/298.png" num="6">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Skeleton Cyborg</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Old World Armada</name>
+			<text>Proficiency — Whenever this creature becomes the target of an ability you control, create a 1/1 white Soldier creature token. Each ability source triggers this only once each turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/299.png" num="22">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kudu-Drone Scout</name>
+			<text>When this creature enters, create an Implant token with a double strike counter. (It&apos;s a token artifact with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/300.png" num="14">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Antelope Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<reverse-related>Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Tinkering Maestro</name>
+			<text>Flash
+When this creature enters, modified creatures you control get +2/+0 until end of turn. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/301.png" num="39">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Modified Mauling</name>
+			<text>Modified Mauling deals 2 damage to target attacking or blocking creature. If you control a modified creature, Modified Mauling deals 5 damage to that creature instead. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/302.png" num="19">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Embellish Armaments</name>
+			<text>Create three Implant tokens with +1/+1 counters. (They&apos;re token artifacts with &quot;{1}, {T}, Sacrifice this artifact: Put its counters on target creature. Activate only as a sorcery&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/303.png" num="9">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+			<reverse-related count="3">Implant JDK</reverse-related>
+		</card>
+		<card>
+			<name>Clean Idea</name>
+			<text>Activated abilities you control cost {2} less to activate until end of turn. This effect can&apos;t reduce those costs to less than one mana unless they&apos;re tap abilities.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/304.png" num="5">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Juliet&apos;s Autodog</name>
+			<text>When this Equipment enters, create a colorless 0/1 Servo artifact creature token with defender, then attach this Equipment to it.
+Equipped creature gets +3/+1.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/305.png" num="13">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<reverse-related>Servo JDK</reverse-related>
+		</card>
+		<card>
+			<name>Reassemble</name>
+			<text>Return target artifact with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/306.png" num="29">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Implant JDK</name>
+			<text>{1}, {T}, Sacrifice this token: Put its counters on target creature. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/307.png" num="2">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Implant</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Saproling Construct JDK</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/308.png" num="3">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Saproling Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Servo JDK</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/309.png" num="4">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Insect JDK</name>
+			<text></text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/JDK-files/img/310.png" num="1">JDK</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

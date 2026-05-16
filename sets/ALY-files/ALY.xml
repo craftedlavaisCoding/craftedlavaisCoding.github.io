@@ -1,0 +1,3371 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>ALY</name>
+			<longname>Unnamed Ally Faction Set</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-05-16</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Fictilis First Year</name>
+			<text>As long as you control an Aura, this creature has vigilance and first strike.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/0.png" num="5">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Landscape Painter</name>
+			<text>During your turn, this creature is a Plains land in addition to its other types as long as an opponent controls more noncreature lands than you.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/1.png" num="13">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Freshreef Guardian</name>
+			<text>When this creature enters, create a Architect role token attached to another target creature you control. (If you control another role on it, put that one into the graveyard. Enchanted creature has flying.)
+Enchanted creatures you control have ward {1}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/2.png" num="7">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Golem Policy</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Limestone Prospector</name>
+			<text>Whenever you exile one or more cards, you gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/3.png" num="14">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sustenance for Guards</name>
+			<text>Create two 1/1 white Soldier creature tokens with lifelink. Then you may compost 2. If you do, creatures you control get +1/+0 until end of turn. (To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/4.png" num="26">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flagstone</name>
+			<text>Enchant Land you control.
+Enchanted land is a white 3/3 Elemental creature with vigilance in addition to its other types.
+When enchanted land dies, return it to the battlefield.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/5.png" num="6">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Old Ass Architect</name>
+			<text>Lifelink
+{5}{U}, {T}: Target player mills four cards. This ability costs {1} less to activate for each Aura you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/6.png" num="18">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overburdened Hampter</name>
+			<text>When this creature enters, you gain 1 life and draw a card, then put a card from your hand on the bottom of your library unless you compost 1. (To compost 1, discard, sacrifice, or exile a land card from your graveyard.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/7.png" num="19">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hamster Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savior of the Harvest</name>
+			<text>Flying
+When this creature enters, put target land that was put into your graveyard this turn onto the battlefield tapped.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/8.png" num="24">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Logging Crew</name>
+			<text>When this creature enters, each creature you control gets +1/+0 until end of turn. Each enchanted creature you control gets +2/+0 until end of turn instead.
+{G}, Exile this card from your graveyard: Create a Map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/9.png" num="15">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Restructuring Lithomancer</name>
+			<text>Vigilance
+Whenever this creature enters or attacks, return target permanent with mana value 1 or less from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/10.png" num="23">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Etherial Armament</name>
+			<text>Flash
+When this Policy enters, create a Officer Role token attached to target creature you control. Then each enchanted creature you control deals 2 damage to target attacking, blocking, or tapped creature an opponent controls. (If you control another role on it, put that one into the graveyard. Enchanted creature has vigilance.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/11.png" num="4">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Policy</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Masoned Out</name>
+			<text>When this enchantment enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/12.png" num="16">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Meadow Petals</name>
+			<text>Flash
+Enchant creature
+When this aura enters, search your library for a plains card, reveal it and put it into your hand, then shuffle.
+Enchanted creature gets +1/+0.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/13.png" num="17">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Relocate</name>
+			<text>Exile target permanent, then return it to the battlefield under its owner&apos;s control at the beginning of the next end step unless it was an artifact or enchantment you don&apos;t own.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/14.png" num="22">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Twofish</name>
+			<text>Defender
+When this creature enters, if it isn&apos;t a token, create a token that&apos;s a copy of it.
+Whenever you exile one or more cards, this creature can attack as though it didn&apos;t have defender this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/15.png" num="55">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waterworks Architect</name>
+			<text>As long as it&apos;s not your turn, this creature is a Island Land in addition to its other types.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/16.png" num="57">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Urban-Ex Student</name>
+			<text>Vigilance
+As long as you control two or more auras, this creature can&apos;t be blocked.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/17.png" num="56">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Encrypt Illusion</name>
+			<text>When this creature becomes the target of a spell or ability, encrypt it. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/18.png" num="44">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cipherparrot</name>
+			<text>Flying
+When this creature enters, draw a card if you exiled a card this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/19.png" num="34">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shringklozes</name>
+			<text>When this creature enters, target creature an opponent controls gets -1/-0 until your next turn for each card you own in exile.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/20.png" num="53">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Contained Torrent</name>
+			<text>Lurk {3} (Defending player can&apos;t block this creature unless they pay {3})
+This creature costs {1} less to cast for each enchantment you control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/21.png" num="39">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secretive Flyer</name>
+			<text>Ward {3} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)
+Flying
+Whenever you discard this card, you may pay {B}, if you do, each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/22.png" num="52">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Owl</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Construction Site Safety</name>
+			<text>Enchant Creature
+When enchanted creature deals or is dealt damage, its owner puts it on the top or bottom of their library.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/23.png" num="38">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chantsmepell</name>
+			<text>This spell costs {1} less to cast for each aura you control.
+Counter target spell.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/24.png" num="33">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Data Construct</name>
+			<text>When this artifact enters, encrypt the top card of your library. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)
+{2}{U}, Sacrifice this artifact: Draw two cards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/25.png" num="40">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Transcribe Layer Script</name>
+			<text>Draw three cards, then encrypt a card from your hand. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/26.png" num="54">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Construant Nest</name>
+			<text>Flash
+Enchant creature
+When this enchantment enters, enchanted creature phases out.
+Enchanted creature gets +1/+1.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/27.png" num="37">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Drown In Cement</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-0 and loses all abilities.
+{2}{W}: Exile enchanted creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/28.png" num="42">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Zip Bomb</name>
+			<text>Choose one —
+• Counter target noncreature spell.
+• Tap target creature an opponent controls and put a stun counter on it.
+• Put an encrypted card you own into your hand.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/29.png" num="58">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fleetfoot Fairy</name>
+			<text>Haste
+This creature can&apos;t block.
+If you would reveal this creature, you may reveal and exile it instead. When you do, put it onto the battlefield.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/30.png" num="101">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fairy Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Novice Trailblazer</name>
+			<text>When this creature enters, target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/31.png" num="105">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ball Runner</name>
+			<text>Whenever this creature becomes blocked, it deals 1 damage to any target other than a creature blocking it.
+{2}{G}, Exile this creature from your graveyard: Search your library for a land card that shares a basic land type with a land you control. Put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/32.png" num="88">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slugging Orch</name>
+			<text>When this creature enters or dies, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/33.png" num="111">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Burning Gladiator</name>
+			<text>Whenever this creature becomes bloodied, create a red 1/1 Elemental creature token. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/34.png" num="91">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irate Archivist</name>
+			<text>Reach
+Whenever you exile one or more cards, this creature deals 1 damage to each opponent</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/35.png" num="104">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Imp Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ball Slaggah</name>
+			<text>When this creature enters, it deals 2 damage to target creature you control. That creature gains haste until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/36.png" num="89">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salto Pamphleteer</name>
+			<text>At the beginning of each end step, create a map token if this creature is bloodied.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/37.png" num="109">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Advisor Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orc Bulldozaz</name>
+			<text>Menace, Reach
+This spell costs {1} less to cast for each bloodied creature you control. (A creature is bloodied if it has taken damage this turn.)
+{1}{B}: Return this card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/38.png" num="106">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>6R</manacost>
+				<cmc>7</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chart the Way</name>
+			<text>Chart the Way deals 2 damage to any target.
+Draw two cards, then put two cards from your hand on top of your library.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/39.png" num="93">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Swing for the Prize</name>
+			<text>Target creature gets +1/+0 and gains haste and first strike until end of turn. Create a tapped treasure token.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/40.png" num="112">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Clearing Boulders</name>
+			<text>Target creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+Exile the top card of your library, you may play that card until end of your next turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/41.png" num="94">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Crowd Goes Feral</name>
+			<text>Choose one —
+• Destroy target artifact or land.
+• The Crowd Goes Feral deals 2 damage to each creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/42.png" num="96">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hellish Kickoff</name>
+			<text>Target creature gets +X/-X until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/43.png" num="103">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Countdown</name>
+			<text>Countdown deals 3 damage to target creature.
+Countdown deals 2 damage to target creature.
+Countdown deals 1 damage to target creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/44.png" num="95">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cografya Scout</name>
+			<text>{T}: Add {R}.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/45.png" num="119">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squirrel Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Adventurer</name>
+			<text>Trample
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/46.png" num="138">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elf Explorer</name>
+			<text>When this creature enters, create a map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/47.png" num="123">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Compostrorr</name>
+			<text>Compost 1: Put a +1/+1 counter on this creature. Activate only once each turn. (To compost 1, discard, sacrifice, or exile a land card from your graveyard.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/48.png" num="121">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brazen Jungler</name>
+			<text>Trample
+Whenever this creature deals combat damage to a player, create a map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/49.png" num="117">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Troll Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exploratory Vines</name>
+			<text>Landfall — Whenever a land enters under your control. this creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/50.png" num="124">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cultivating Dryad</name>
+			<text>When this creature enters, you may compost 1. (To compost 1, discard, sacrifice, or exile a land card from your graveyard.)
+Whenever you compost, create a green 0/1 Plant creature token.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/51.png" num="122">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dryad Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gulch Antelopes</name>
+			<text>Vigilance
+As long as you&apos;ve exiled a card this turn, this creature can&apos;t be blocked by creatures with power 3 or less.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/52.png" num="134">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Antelope</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Splanctre</name>
+			<text>Whenever this creature becomes the target of a spell or ability an opponent controls, search your library for two land cards that share a basic land type with lands you control. Put them onto the battlefield, then shuffle.
+{3}{W}: This creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/53.png" num="144">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Specter</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Force of the Wilderness</name>
+			<text>This creature costs {1} less to cast for each land card you own in exile.
+Vigilance
+Whenever this creature deals damage, you gain 2 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/54.png" num="129">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jungling Transformation</name>
+			<text>Target creature you control explores, then it fights target creature an opponent controls. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/55.png" num="135">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Needle Sharp Seedlings</name>
+			<text>As an additional cost to casting this spell, pay {3} or compost 2. (To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)
+Target creature you control gets +2/+0 until end of turn. It deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/56.png" num="140">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gortsaran Might</name>
+			<text>Target creature you control gets +1/+1 until end of turn, then gets an additional +1/+1 for each land card you own in exile and in your graveyard.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/57.png" num="132">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Farmland Map</name>
+			<text>As long as its your turn, this artifact is also a land with &quot;{T}: Add one mana of any color a land you control could produce.&quot;
+{1}, {T}, Sacrifice this artifact: Target creature you control explores.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/58.png" num="126">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Map</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Caving Faming</name>
+			<text>Return target permanent card from your graveyard to your hand.
+Whenever Caving Faming is put into your graveyard from anywhere, you gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/59.png" num="118">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fictilis Initiate</name>
+			<text>First strike
+This creature enters with an Architect Role token. (If you control another role on it, put that one into the graveyard. Enchanted creature has flying.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/60.png" num="154">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Quatril Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bureaucratic Misadventure</name>
+			<text>Enchant nonland permanent.
+Enchanted permanent has phasing. (It phases in or out before you untap during each of its controller&apos;s untap steps. While it&apos;s phased out, it&apos;s treated as though it doesn&apos;t exist.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/61.png" num="167">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mantilla Initiate</name>
+			<text>Whenever this creature attacks, draw a card, then discard a card unless you&apos;ve discarded another card this turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/62.png" num="158">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cryptic Seals</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-0 and can&apos;t block.
+{3}, Exile this card from your graveyard: Draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/63.png" num="169">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U/B</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Salto Initiate</name>
+			<text>When this creature enters, it deals 2 damage to any target chosen at random.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/64.png" num="161">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>No Pain No Gain</name>
+			<text>Enchant creature
+When this enchantment enters, it deals 2 damage to enchanted creature.
+Enchanted creature gets +2/+0.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/65.png" num="174">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B/R</manacost>
+				<cmc>1</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cografya Initiate</name>
+			<text>You play with the top card of your library revealed.
+Spells you cast that share a card type with the top card of your library costs {1} less to cast.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/66.png" num="150">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Ranger</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jungle Forerunner</name>
+			<text>Whenever this creature enters or attacks, scry 1.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/67.png" num="172">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Explorer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/GR/G</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gortsaran Initiate</name>
+			<text>When this creature enters, put target permanent card with mana value 1 or less from your graveyard onto the battlefield.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/68.png" num="156">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Forage for Seeds</name>
+			<text>Search your library for a forest and a plains card. Reveal them and put them into your hand, then shuffle.
+You gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/69.png" num="171">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Goal Sprinter</name>
+			<text>Whenever this creature dies, if it wasn&apos;t blocking, you lose 1 life and draw a card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/70.png" num="70">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miasmic Minotaur</name>
+			<text>Deathtouch
+As long as this creature is bloodied, it gets +2/+0. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/71.png" num="76">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Minotaur Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blueprint Thief</name>
+			<text>Lifelink
+Whenever this creature deals damage to a player, encrypt the top card of your library. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/72.png" num="61">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Webcrawler</name>
+			<text>Menace, Reach
+As long as you own three or more cards in exile, this creature gets +3/+0.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/73.png" num="87">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Mite</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orcish Headbutter</name>
+			<text>Whenever this creature becomes bloodied, target creature an opponent controls gets -2/-2 until end of turn. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/74.png" num="78">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salto Medic</name>
+			<text>When this creature enters, target creature you control gets +1/+0 and gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/75.png" num="82">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rogueish Brogash</name>
+			<text>Menace
+When this creature enters, encrypt the top two cards of your library. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/76.png" num="81">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tough Brashliner</name>
+			<text>Whenever this creature becomes bloodied, it gains indestructible until end of turn. (It has to survive the damage to become indestructible) (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/77.png" num="85">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ratty Piper Guy</name>
+			<text>Flying
+{2}{R}, exile this card from your graveyard: Exile the top card of your library. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/78.png" num="80">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spectre</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Protective Nerve Weave</name>
+			<text>Target creature gets +1/+0 and gains indestructible until end of turn.
+Whenever you discard this card, you may pay {U}. If you do, tap target creature an opponent controls and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/79.png" num="79">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bytesize</name>
+			<text>Bytesize deals 1 damage to any target and you gain 1 life. 
+Encrypt target creature card from your graveyard. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/80.png" num="63">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hazing Ritual</name>
+			<text>As an additional cost to cast Hazing Ritual, it deals 3 damage divided between you and target creature you control.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/81.png" num="71">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Intimidating Pose</name>
+			<text>Target opponent reveals their hand. Choose a noncreature nonland card from it. That player discards that card.
+Target creature you control gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/82.png" num="73">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Get Even</name>
+			<text>This spell costs {2} less to cast as long as you control a bloodied creature. (A creature is bloodied if it has taken damage this turn.)
+Destroy target creature.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/83.png" num="67">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glorious End</name>
+			<text>Destroy target creature.
+Glorious End deals 1 damage to any target and you gain 1 life.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/84.png" num="69">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scared Crowley</name>
+			<text>When this enters, search your library for a basic land card and reveal it, shuffle, then put that card on top.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/85.png" num="189">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Explortobot</name>
+			<text>When this creature enters the battlefield, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/86.png" num="184">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exile Bro</name>
+			<text>Whenever you exile one or more cards, put a +1/+1 counter on this creature. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/87.png" num="183">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bulldozing Plans</name>
+			<text>{6}, {T}, Sacrifice this artifact: Destroy target permanent. It&apos;s controller creates a treasure token.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/88.png" num="181">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Crystal Fertilizer</name>
+			<text>{T}: Add one mana of any color.
+{T}, Compost 2, Sacrifice this artifact: Draw a card. (To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/89.png" num="182">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Evolving Wilds</name>
+			<text>{T}, Sacrifice Evolving wilds: Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/90.png" num="193">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Policy-makers Projection</name>
+			<text>Equipped creature gets +3/+3 and has ward {2}.
+Whenever you attack, you may pay {W}{U}. When you do, attach this equipment to target enchanted enchanted creature you control.
+Equip {4}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/91.png" num="188">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Guarded Vault</name>
+			<text>When this artifact enters, create a 1/1 white Soldier creature token with lifelink.
+{U}{B}, {T}: Return this artifact to your hand: Look at the top four cards of your library. Encrypt one of them, then put the rest at the bottom of your library in a random order. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/92.png" num="186">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Nefarious Weights</name>
+			<text>Equipped creature has &quot;{B}{R}, {T}: Each opponent loses 2 life.&quot;
+Whenever equipped creature becomes untapped, put a +1/+1 counter on it, this equipment deals 3 damage to it.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/93.png" num="187">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Willowburn Bloom</name>
+			<text>Whenever a creature explores this card, you may put it into your hand instead of your graveyard.
+{2}, {T}, sacrifice this artifact: You gain 3 life. If {R}{G} was spent to activate this, this artifact deals 3 damage to each opponent.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/94.png" num="192">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Farmhand</name>
+			<text>This creature costs {1} less to cast for each land you own in exile or in your graveyard that can produce {G} or {W}.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/95.png" num="185">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>7</manacost>
+				<cmc>7</cmc>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ungrateful Amalgam</name>
+			<text>{3}, Exile this creature: Exile target nonland permanent an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/96.png" num="190">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voltaic Coach</name>
+			<text>Whenever this creature becomes bloodied, untap target permanent you control. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/97.png" num="191">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct Preformer</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glass Bat</name>
+			<text>Flying, deathtouch
+Whenever you discard a card, this creature gets +1/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/98.png" num="68">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bat</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leonin Coach</name>
+			<text>Lifelink
+When this creature enters, it deals 1 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/99.png" num="75">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salto Training Hound</name>
+			<text>{1}{BR}: Salto Training Hound deals 3 damage divided between you and target creature you control and gains flying and haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/100.png" num="83">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Asar, Tireless Duelist</name>
+			<text>As long as Asar, Tireless Duelist is bloodied, he gets +1/+1 and has deathtouch and menace. (A creature is bloodied if it has taken damage this turn.)
+Whenever Asar becomes bloodied each opponent loses 3 life and you gain that much life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/101.png" num="59">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Vampire Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jadead Referee</name>
+			<text>Deathtouch
+Lethal damage dealt to creatures you control is only checked at the end step.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/102.png" num="74">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Infro De-fragment</name>
+			<text>When this creature enters, return target creature card from your graveyard to your hand.
+Whenever you discard this card, you may pay {1}{U}. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/103.png" num="72">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dataminers</name>
+			<text>Whenever you discard a card, you lose 1 life and create a treasure token.
+{B}, Sacrifice a treasure: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/104.png" num="64">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf</type>
+				<maintype>Creature</maintype>
+				<manacost>5B</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tutor Pair</name>
+			<text>This creature has flying as long as its bloodied. (A creature is bloodied if it has taken damage this turn.)
+{T}, Pay 1 life: Draw a card. Activate this ability only if this creature is bloodied. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/105.png" num="86">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon Performer Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bury in the Woods</name>
+			<text>Destroy target creature, its controller creates a map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/106.png" num="62">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oracular Attack</name>
+			<text>Exile target player&apos;s graveyard. For each card type exiled this way, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/107.png" num="77">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dodgy Refreshments</name>
+			<text>{B}, {T}: This artifact deals 5 damage to target creature you control, you gain 1 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/108.png" num="65">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Suddenly Whole Again</name>
+			<text>Return any number of target creature cards from your graveyard to your hand with total mana value twice X or less.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/109.png" num="84">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XB</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forbidden Knowledge</name>
+			<text>Look at each player&apos;s hand and choose a nonland card from one of them. Encrypt the chosen card. If you encrypted a card from your hand this way, draw a card. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/110.png" num="66">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Back From the Bench</name>
+			<text>Return target creature card from your graveyard to the battlefield. It gains indestructible until your next turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/111.png" num="60">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Explorererer</name>
+			<text>Whenever this creature would explore, it explores twice instead. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/112.png" num="125">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fungersnacker</name>
+			<text>Reach
+{T}, Add {G}.
+{T}, Compost 2: Add two mana in any combination of colors lands you control could produce. (To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/113.png" num="130">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fleafey Spidey</name>
+			<text>Reach
+This creature has all abilities of land cards you own in exile.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/114.png" num="127">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gortsaran Forester</name>
+			<text>Vigilance, trample
+Whenever a creature you control explores, you may compost 1. If you do, draw a card. (To compost 1, discard, sacrifice, or exile a land card from your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/115.png" num="131">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Panda Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grovekeep</name>
+			<text>When this creature enters, shuffle any number of cards from graveyards into their owner&apos;s library.
+{5}{G}{G}, exile this card from your graveyard: Each creature you control explores. Activate only as a sorcery. (To explore, reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/116.png" num="133">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Dryad</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Overgrown Farmbeast</name>
+			<text>Whenever a creature you control explores, you may exile another target card from a player&apos;s graveyard. If that card shares a type with the explored card, put a +1/+1 counter on this creature. Otherwise, you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/117.png" num="141">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loam Elemental</name>
+			<text>When this creature enters the battlefield, you may compost X, X can&apos;t be greater than the number of land cards in your graveyard or which you own in exile. If you do, put X +1/+1 counters on this creature and draw X cards. (To compost X, discard, sacrifice, or exile a land card from your graveyard X times.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/118.png" num="136">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tiger Farm</name>
+			<text>When this enchantment enters, create two 2/2 green Cat creature tokens and a 0/1 green Plant creature token.
+Whenever you discard or sacrifice a land, you may return this enchantment to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/119.png" num="145">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Compost Guard</name>
+			<text>Whenever a land enters or leaves your graveyard, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/120.png" num="120">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Cat Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Natural Overgrowth</name>
+			<text>Choose one. If you have a land card in your graveyard and in exile, choose any number instead. —
+• Destroy target artifact.
+• Destroy target enchantment.
+• Exile target card from a graveyard.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/121.png" num="139">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Recycle Roots</name>
+			<text>Mill three cards.
+You may play an additional land this turn.
+Until end of turn, you may play land cards from your graveyard.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/122.png" num="143">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Prospective Thrill</name>
+			<text>Enchant creature you control.
+Enchanted creature gets +1/+1.
+If you would reveal this card, you may reveal and exile it instead. When you do, put it onto the battlefield.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/123.png" num="142">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Flightly Seeding</name>
+			<text>Search your library for up to two lands that share a basic land type with lands you control, put them onto the battlefield tapped, then shuffle.
+If you discarded, sacrificed, or exiled a land this turn, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/124.png" num="128">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Logging Suit</name>
+			<text>Equipped creature gets +3/+3 and has &quot;You may play an additional land each turn&quot;.
+Equip {4}
+Equip—Compost 3 (To compost 3, discard, sacrifice, or exile a land card from your graveyard three times.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/125.png" num="137">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Road to Somewhere</name>
+			<text>When this land enters, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+{1}, {T}: Add one mana of any color another land you control can produce.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/126.png" num="194">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Fictilis Anthropologist</name>
+			<text>When this creature enters the battlefield, choose one or both. —
+• Return an Aura or Policy you control to your hand.
+• You may cast an Aura or a Policy from your hand without paying its mana cost.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/127.png" num="153">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Army of Lawyers</name>
+			<text>When this enchantment enters, create a 1/1 white Soldier creature token with lifelink, then create a Bureaucrat Role token attached to it.
+Enchanted creatures you control get +1/+1.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/128.png" num="146">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Policy</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Masonry Policy</name>
+			<text>When this Policy enters, create a Architect Role token attached to target creature you control. (If you control another role on it, put that one into the graveyard. Enchanted creature has flying.)
+Whenever you attack, target enchanted creature you control gains lifelink until end of turn. If its power is less than or equal to the number of cards you own in exile, it can&apos;t be blocked.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/129.png" num="159">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Policy</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Super Student</name>
+			<text>This creature gets +2/+0 for each aura you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/130.png" num="178">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aqueduct Flow</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1 and flying.
+Whenever you exile one or more cards, you may pay {WU}. If you do, return this card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/131.png" num="166">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W/U</manacost>
+				<cmc>1</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Encrypt Enabler</name>
+			<text>At the beginning of your end step, encrypt the top card of your library. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/132.png" num="152">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Infostealer</name>
+			<text>Ward {2}
+Whenever you discard a card, put a +1/+1 counter on this creature.
+When this creature dies, draw a card for each counter on it.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/133.png" num="157">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Secret Tendrils</name>
+			<text>When you cast this spell, copy it once for every three cards you own in exile. You may choose new targets for the copies.
+Tap target permanent. Secret Tendrils deals 2 damage to any target and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/134.png" num="163">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>UBB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Secure Soul Layers</name>
+			<text>Encrypt the top two cards of your library. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/135.png" num="177">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U/B</manacost>
+				<cmc>1</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morris Observer</name>
+			<text>You may cast this creature from exile.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/136.png" num="173">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1U/BU/B</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Salto Training Coach</name>
+			<text>{T}: Salto Training Coach deals 1 damage to another target creature you control. That creature gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/137.png" num="162">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Werewolf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stadium Game Bully</name>
+			<text>Ward—Pay 3 life. (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3 life.)
+Whenever another creature you control is dealt damage, put a +1/+1 counter on this creature.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/138.png" num="164">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stadium Lasher</name>
+			<text>Deathtouch
+When this creature enters, exile the top two cards of your library. You may play those cards until the end of your next turn or for as long as you control a bloodied creature. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/139.png" num="165">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Delivery Skeleton</name>
+			<text>Whenever this creature dies, if it was dealt exactly 3 damage this turn, return it to the battlefield tapped.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/140.png" num="170">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton</type>
+				<maintype>Creature</maintype>
+				<manacost>2B/RB/R</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rabid Fightodino</name>
+			<text>When this creature enters, you may have it fight target creature an opponent controls. When it does, it fights target creature you control.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/141.png" num="175">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Dinosaur</type>
+				<maintype>Creature</maintype>
+				<manacost>1B/RB/R</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cografya Farseer</name>
+			<text>Reach, menace
+When this creature enters, create a map token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Target creature you control explores. Activate only as a sorcery.&quot;)
+The first time a creature you control explores each turn, it explores three times instead.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/142.png" num="149">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flame-Axe Clearcutter</name>
+			<text>When this creature enters, target creature you control explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+Whenever a +1/+1 counter is put on a creature you control, that creature gets +1/+0 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/143.png" num="155">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wolf Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dawn Fowl</name>
+			<text>Whenever this card is exiled, exile the top card of your library. You may play that card until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/144.png" num="151">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Underbrush Explorer</name>
+			<text>Whenever this creature attacks, it explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/145.png" num="179">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R/G</manacost>
+				<cmc>1</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Woodland Pair</name>
+			<text>Whenever you exile one or more cards, this creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)
+The first time this creature explores each turn double its power until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/146.png" num="180">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2R/GR/G</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carrot Cruncher</name>
+			<text>Flying
+Whenever this creature deals combat damage to a player, search your library for a basic land card and put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/147.png" num="148">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bountiful Quarry</name>
+			<text>This creature can only be blocked by creatures with 2 or 3 power.
+The first time you either sacrifice a land, discard a land card, or exile a land card each turn. Draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/148.png" num="147">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Unicorn</type>
+				<maintype>Creature</maintype>
+				<manacost>2GW</manacost>
+				<cmc>4</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mulch Microbe</name>
+			<text>Lifelink
+Whenever you exile one or more lands, add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/149.png" num="160">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant Jellyfish</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Recollect</name>
+			<text>Return each permanent card with mana value 1 or less that was put into your graveyard from anywhere this turn to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/150.png" num="176">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G/W</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Canine of Fecundity</name>
+			<text>Whenever you exile one or more cards create a 2/2 green Wolf creature token. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/151.png" num="168">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Wolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G/WG/W</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flametail Monkey</name>
+			<text>Haste
+{T}, Sacrifice this creature: Choose one —
+• This creature deals 1 damage to any target.
+• Target creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/152.png" num="100">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Monkey Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Punchy Prize</name>
+			<text>Trample
+Whenever this creature becomes bloodied, create a treasure token. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/153.png" num="107">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gloating Cheerleader</name>
+			<text>When this creature enters, all creatures get +0/+1 until end of turn, then this creature deals 1 damage to all creatures.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/154.png" num="102">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falconer&apos;s Phoenix</name>
+			<text>Flying, haste
+At the beginning of combat on your turn, if you&apos;ve exiled three or more cards this turn, you may pay {R}. If you do, return this card from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/155.png" num="99">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Phoenix</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blazetrailing Cutclearer</name>
+			<text>Menace, ward—Pay 3 life.
+Whenever another creature you control dies, this creature explores. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/156.png" num="90">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Throwout Thrillman</name>
+			<text>Trample
+Whenever one or more cards are put into your graveyard, this creature gets +X/+0 until end of turn, where X is the greatest mana value among those cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/157.png" num="113">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Minotaur</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Short-Fused kreyton</name>
+			<text>Trample
+Whenever this creature is dealt damage, it deals that much damage to any target other than itself.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/158.png" num="110">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Performer</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Well Wrought Duelist</name>
+			<text>Whenever this creature attacks, up to one target creature must block this combat if able.
+Whenever this creature is dealt damage, it deals 1 damage to up to one target that hasn&apos;t been dealt damage this turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/159.png" num="115">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reckless Trailblazing</name>
+			<text>Exile cards from the top of your library until you exile two nonland cards. Until the end of your next turn, you may play those cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/160.png" num="108">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exploratory Geology</name>
+			<text>As an additional cost to casting this spell, compost 2. (To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)
+Draw two cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/161.png" num="98">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yoink!</name>
+			<text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/162.png" num="116">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unlucky Offshot</name>
+			<text>Destroy target artifact. Unlucky Offshot deals 2 damage to that artifact&apos;s controller.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/163.png" num="114">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chart it All</name>
+			<text>Until end of turn, whenever a creature enters under your control, it explores and gains haste until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/164.png" num="92">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exerted Swing</name>
+			<text>Exerted Swing deals 1 damage to target creature you control and 3 damage to target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/165.png" num="97">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Construant</name>
+			<text>When this creature enters, reveal cards from the top of your library until you reveal an Aura or a Policy card. Put it into your hand, then shuffle the rest into your library.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/166.png" num="36">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Knower of Power</name>
+			<text>Defender
+Whenever you encrypt one or more cards, put two +1/+1 counters on this creature.
+As long as this creature has five or more counters on it, it may attack as though it didn&apos;t have defender.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/167.png" num="48">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Flittering Mascot</name>
+			<text>This creature enters with a Student Role token. (If you control another role on it, put that one into the graveyard. When this aura leaves the battlefield, draw a card.)
+{T}, sacrifice an Aura: Return target card you discarded this turn from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/168.png" num="46">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ephemeral Crati</name>
+			<text>Flash
+Whenever this creature becomes bloodied, return up to one target creature to its owner&apos;s hand. (A creature is bloodied if it has taken damage this turn.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/169.png" num="45">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Crab Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bridge Booper</name>
+			<text>Whenever a creature blocks or becomes blocked by this creature it gets -1/-1 for each face-down card you own in exile. This effect can&apos;t reduce a creature&apos;s power or toughness to less than 1.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/170.png" num="32">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Beurodrage</name>
+			<text>As an additional cost to casting this spell, sacrifice an Aura or a Policy.
+Flying
+When this creature enters, return up to one target creature to its owners hand, when you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/171.png" num="31">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aqueduct Expansion</name>
+			<text>When this Policy enters, create a Architect Role token attached to target creature you control. (If you control another role on it, put that one into the graveyard. Enchanted creature has flying.)
+Whenever an enchanted creature you control deals damage or an aura enters under your control, target player mills a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/172.png" num="30">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Policy</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Eliptic Curve Sealing</name>
+			<text>Counter target spell.
+Encrypt the top card of your library. (To Encrypt, look at and exile a card face down. For as long as it&apos;s exiled you may discard a card during your turn to put it into your hand.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/173.png" num="43">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fragment the Moment</name>
+			<text>Return target spell an opponent controls to its owner&apos;s hand.
+Untap all permanents.
+End the turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/174.png" num="47">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Measure Twice</name>
+			<text>Enchant creature you control.
+Enchanted creature gets +1/+1 and has ward {1}.
+When this aura is put into a graveyard from anywhere. Return it to the battlefield with a finality counter.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/175.png" num="49">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Overdue Assignment</name>
+			<text>Flash
+When this enchantment enters, create a Student Role token attached to target creature you control. (If you control another role on it, put that one into the graveyard. When this aura leaves the battlefield, draw a card.)
+Whenever an aura enters under your control, the creature it enchants gains hexproof until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/176.png" num="50">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Policy</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Command the Laws</name>
+			<text>Choose one or more —
+• For each un-enchanted creature you control, create an Officer Role token attached to that creature. (If you control another role on it, put that one into the graveyard. Enchanted creature has vigilance.)
+• Put three stun counters on target creature.
+• Draw two cards.
+• Return target enchantment to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/177.png" num="35">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Data Security</name>
+			<text>When this Policy enters, create a Bureaucrat Role token attached to target creature.
+Creatures your opponents control get -2/-0 for each attacking enchanted creature you control.
+Whenever you discard this card, you may pay {B}. If you do, return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/178.png" num="41">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Policy</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reboot</name>
+			<text>This spell costs {1} less to cast for each card you&apos;ve discarded this turn.
+Draw four cards.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/179.png" num="51">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Don Quixote</name>
+			<text>{W}, Sacrifice this creature: Destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/180.png" num="2">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Haunted Blueprints</name>
+			<text>This creature gets +1/+1 if its enchanted.
+This creature gets +1/+1 if you control a Policy.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/181.png" num="11">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gortsaran Sprite</name>
+			<text>When this creature enters, if an opponent controls more lands than you, you may search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/182.png" num="9">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Harvest Hallowblade</name>
+			<text>Compost 2: Tap this creature. It gains indestructible until end of turn. (To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/183.png" num="10">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Land Pumper</name>
+			<text>Whenever you exile one or more land cards, this creature gets +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/184.png" num="12">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yellowprint Reclaimer</name>
+			<text>When this creature enters, draw a card, then put a card from your hand on the bottom of your library unless you return an enchantment you control to your hand.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/185.png" num="29">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yellowprint Eagle</name>
+			<text>Flying
+Enchantment spells you cast cost {1} less to cast.
+Enchantments you control have hexproof.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/186.png" num="28">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blossom Architect</name>
+			<text>When this creature enters, you may compost 2. When you do, put an artifact or enchantment card with mana value 4 or less from your hand onto the battlefield. (To compost 2, discard, sacrifice, or exile a land card from your graveyard twotimes.)
+Double strike</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/187.png" num="1">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gift Honse in Mouth</name>
+			<text>When this Policy enters, create a Officer Role token attached to target creature you control. (If you control another role on it, put that one into the graveyard. Enchanted creature has vigilance.)
+Whenever one or more enchanted creatures you control attack, draw a card.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/188.png" num="8">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Horse Policy</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wheatfield Reaper</name>
+			<text>Flying
+When this creature enters, choose one or more. —
+• You gain 1 life for each land card you own in exile and in your graveyard.
+• Destroy target artifact.
+• Destroy target enchantment.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/189.png" num="27">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spectre</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Public Works Project</name>
+			<text>You may look at the top card of your library at any time.
+As long as an opponent controls more permanents of a certain type than you, you may play permanent cards of that type from the top of your library.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/190.png" num="20">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Reconstruct</name>
+			<text>Choose one or both —
+• Return target permanent from your graveyard to the battlefield.
+• Return target enchantment from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/191.png" num="21">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seed Bank</name>
+			<text>Whenever you exile one or more lands you own, they become encrypted. (They&apos;re exiled face down. For as long as they&apos;re exiled you may discard two cards during your turn to put one into your hand.)</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/192.png" num="25">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Escort off the Premises</name>
+			<text>Exile target creature. That creature&apos;s controller creates a 1/1 white Soldier creature token with lifelink if you control no enchantments.</text>
+			<set rarity="uncommon" picurl="https://craftedlavaisCoding.github.io/sets/ALY-files/img/193.png" num="3">ALY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
